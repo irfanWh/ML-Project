@@ -1,0 +1,846 @@
+ID_adherent,month,immatriculationNumber,full_name,nombre_jours,salaire
+860,décembre 2023,100197245,El Fatimi Brahim,26,3426.9
+860,janvier 2024,100197245,El Fatimi Brahim,26,3379.53
+860,février 2024,100197245,El Fatimi Brahim,26,3282.65
+860,mars 2024,100197245,El Fatimi Brahim,26,3350.7
+860,avril 2024,100197245,El Fatimi Brahim,26,3265.84
+860,mai 2024,100197245,El Fatimi Brahim,26,3394.52
+860,juin 2024,100197245,El Fatimi Brahim,26,3299.62
+860,juillet 2024,100197245,El Fatimi Brahim,26,3433.86
+860,août 2024,100197245,El Fatimi Brahim,26,3405.55
+860,septembre 2024,100197245,El Fatimi Brahim,26,3338.04
+860,octobre 2024,100197245,El Fatimi Brahim,26,3281.51
+860,novembre 2024,100197245,El Fatimi Brahim,26,3305.14
+860,décembre 2024,100197245,El Fatimi Brahim,26,3426.14
+860,décembre 2023,103652147,Abrzi Lahcen,26,4110.28
+860,janvier 2024,103652147,Abrzi Lahcen,26,4191.62
+860,février 2024,103652147,Abrzi Lahcen,26,4287.28
+860,mars 2024,103652147,Abrzi Lahcen,26,4426.41
+860,avril 2024,103652147,Abrzi Lahcen,26,4625.44
+860,mai 2024,103652147,Abrzi Lahcen,26,4555.86
+860,juin 2024,103652147,Abrzi Lahcen,26,4594.81
+860,juillet 2024,103652147,Abrzi Lahcen,26,4516.95
+860,août 2024,103652147,Abrzi Lahcen,26,4702.14
+860,septembre 2024,103652147,Abrzi Lahcen,26,4562.02
+860,octobre 2024,103652147,Abrzi Lahcen,26,4557.04
+860,novembre 2024,103652147,Abrzi Lahcen,26,4447.03
+860,décembre 2024,103652147,Abrzi Lahcen,26,4605.21
+860,décembre 2023,104320058,Benssy Noureddine,26,4155.95
+860,janvier 2024,104320058,Benssy Noureddine,26,4097.43
+860,février 2024,104320058,Benssy Noureddine,26,4116.48
+860,mars 2024,104320058,Benssy Noureddine,26,4009.83
+860,avril 2024,104320058,Benssy Noureddine,26,3998.19
+860,mai 2024,104320058,Benssy Noureddine,26,4184.25
+860,juin 2024,104320058,Benssy Noureddine,26,4100.84
+860,juillet 2024,104320058,Benssy Noureddine,26,4073.32
+860,août 2024,104320058,Benssy Noureddine,26,4122.12
+860,septembre 2024,104320058,Benssy Noureddine,26,4141.55
+860,octobre 2024,104320058,Benssy Noureddine,26,4202.44
+860,novembre 2024,104320058,Benssy Noureddine,26,4408.28
+860,décembre 2024,104320058,Benssy Noureddine,26,4333.95
+860,décembre 2023,104530955,Assali Kamal,26,4056.0
+860,janvier 2024,104530955,Assali Kamal,26,4117.98
+860,février 2024,104530955,Assali Kamal,26,4121.21
+860,mars 2024,104530955,Assali Kamal,26,4096.61
+860,avril 2024,104530955,Assali Kamal,26,4079.9
+860,mai 2024,104530955,Assali Kamal,26,4140.12
+860,juin 2024,104530955,Assali Kamal,26,4105.66
+860,juillet 2024,104530955,Assali Kamal,26,4301.42
+860,août 2024,104530955,Assali Kamal,26,4333.95
+860,septembre 2024,104530955,Assali Kamal,26,4351.79
+860,octobre 2024,104530955,Assali Kamal,26,4565.02
+860,novembre 2024,104530955,Assali Kamal,26,4462.64
+860,décembre 2024,104530955,Assali Kamal,26,4571.11
+860,décembre 2023,105435955,El Kacemi Mohamed,26,4237.82
+860,janvier 2024,105435955,El Kacemi Mohamed,26,4386.9
+860,février 2024,105435955,El Kacemi Mohamed,26,4514.63
+860,mars 2024,105435955,El Kacemi Mohamed,26,4476.22
+860,avril 2024,105435955,El Kacemi Mohamed,26,4513.71
+860,mai 2024,105435955,El Kacemi Mohamed,26,4380.07
+860,juin 2024,105435955,El Kacemi Mohamed,26,4581.85
+860,juillet 2024,105435955,El Kacemi Mohamed,26,4475.55
+860,août 2024,105435955,El Kacemi Mohamed,26,4540.38
+860,septembre 2024,105435955,El Kacemi Mohamed,26,4546.73
+860,octobre 2024,105435955,El Kacemi Mohamed,26,4426.47
+860,novembre 2024,105435955,El Kacemi Mohamed,26,4500.11
+860,décembre 2024,105435955,El Kacemi Mohamed,26,4389.3
+860,décembre 2023,105651048,Ben Laqlib Si Mohammed,26,4124.92
+860,janvier 2024,105651048,Ben Laqlib Si Mohammed,26,4234.21
+860,février 2024,105651048,Ben Laqlib Si Mohammed,26,4257.62
+860,mars 2024,105651048,Ben Laqlib Si Mohammed,26,4276.76
+860,avril 2024,105651048,Ben Laqlib Si Mohammed,26,4230.7
+860,mai 2024,105651048,Ben Laqlib Si Mohammed,26,4329.84
+860,juin 2024,105651048,Ben Laqlib Si Mohammed,26,4268.02
+860,juillet 2024,105651048,Ben Laqlib Si Mohammed,26,4238.71
+860,août 2024,105651048,Ben Laqlib Si Mohammed,26,4323.35
+860,septembre 2024,105651048,Ben Laqlib Si Mohammed,26,4313.22
+860,octobre 2024,105651048,Ben Laqlib Si Mohammed,26,4255.02
+860,novembre 2024,105651048,Ben Laqlib Si Mohammed,26,4251.84
+860,décembre 2024,105651048,Ben Laqlib Si Mohammed,26,4315.82
+860,décembre 2023,105938933,El Barouda Abdelaaziz,26,4191.25
+860,janvier 2024,105938933,El Barouda Abdelaaziz,26,4350.32
+860,février 2024,105938933,El Barouda Abdelaaziz,26,4278.08
+860,mars 2024,105938933,El Barouda Abdelaaziz,26,4251.52
+860,avril 2024,105938933,El Barouda Abdelaaziz,26,4312.66
+860,mai 2024,105938933,El Barouda Abdelaaziz,26,4199.07
+860,juin 2024,105938933,El Barouda Abdelaaziz,26,4229.69
+860,juillet 2024,105938933,El Barouda Abdelaaziz,26,4141.67
+860,août 2024,105938933,El Barouda Abdelaaziz,26,4303.18
+860,septembre 2024,105938933,El Barouda Abdelaaziz,26,4510.04
+860,octobre 2024,105938933,El Barouda Abdelaaziz,26,4724.03
+860,novembre 2024,105938933,El Barouda Abdelaaziz,26,4594.74
+860,décembre 2024,105938933,El Barouda Abdelaaziz,26,4782.9
+860,décembre 2023,110570241,Ainab Brahim,26,5026.63
+860,janvier 2024,110570241,Ainab Brahim,26,4954.07
+860,février 2024,110570241,Ainab Brahim,26,5117.23
+860,mars 2024,110570241,Ainab Brahim,26,4982.37
+860,avril 2024,110570241,Ainab Brahim,26,5109.5
+860,mai 2024,110570241,Ainab Brahim,26,4972.16
+860,juin 2024,110570241,Ainab Brahim,26,4936.81
+860,juillet 2024,110570241,Ainab Brahim,26,5077.69
+860,août 2024,110570241,Ainab Brahim,26,5062.61
+860,septembre 2024,110570241,Ainab Brahim,26,5129.48
+860,octobre 2024,110570241,Ainab Brahim,26,5368.42
+860,novembre 2024,110570241,Ainab Brahim,26,5633.49
+860,décembre 2024,110570241,Ainab Brahim,26,5467.63
+860,décembre 2023,110577049,Bennar Charafedine,26,3839.84
+860,janvier 2024,110577049,Bennar Charafedine,26,3888.75
+860,février 2024,110577049,Bennar Charafedine,26,4028.03
+860,mars 2024,110577049,Bennar Charafedine,26,4132.24
+860,avril 2024,110577049,Bennar Charafedine,26,4174.55
+860,mai 2024,110577049,Bennar Charafedine,26,4163.38
+860,juin 2024,110577049,Bennar Charafedine,26,4188.61
+860,juillet 2024,110577049,Bennar Charafedine,26,4179.8
+860,août 2024,110577049,Bennar Charafedine,26,4274.97
+860,septembre 2024,110577049,Bennar Charafedine,26,4310.29
+860,octobre 2024,110577049,Bennar Charafedine,26,4330.03
+860,novembre 2024,110577049,Bennar Charafedine,26,4292.43
+860,décembre 2024,110577049,Bennar Charafedine,26,4274.01
+860,décembre 2023,110952077,Ait El Bid Abdellatif,26,4147.93
+860,janvier 2024,110952077,Ait El Bid Abdellatif,26,4043.9
+860,février 2024,110952077,Ait El Bid Abdellatif,26,3964.89
+860,mars 2024,110952077,Ait El Bid Abdellatif,26,4058.88
+860,avril 2024,110952077,Ait El Bid Abdellatif,26,4150.92
+860,mai 2024,110952077,Ait El Bid Abdellatif,26,4169.73
+860,juin 2024,110952077,Ait El Bid Abdellatif,26,4252.63
+860,juillet 2024,110952077,Ait El Bid Abdellatif,26,4309.96
+860,août 2024,110952077,Ait El Bid Abdellatif,26,4503.85
+860,septembre 2024,110952077,Ait El Bid Abdellatif,26,4654.02
+860,octobre 2024,110952077,Ait El Bid Abdellatif,26,4730.61
+860,novembre 2024,110952077,Ait El Bid Abdellatif,26,4607.42
+860,décembre 2024,110952077,Ait El Bid Abdellatif,26,4648.58
+860,décembre 2023,112532132,Ouhammou Ali,26,4576.63
+860,janvier 2024,112532132,Ouhammou Ali,26,4801.91
+860,février 2024,112532132,Ouhammou Ali,26,4809.24
+860,mars 2024,112532132,Ouhammou Ali,26,4960.66
+860,avril 2024,112532132,Ouhammou Ali,26,5032.39
+860,mai 2024,112532132,Ouhammou Ali,26,5056.56
+860,juin 2024,112532132,Ouhammou Ali,26,5046.13
+860,juillet 2024,112532132,Ouhammou Ali,26,4920.54
+860,août 2024,112532132,Ouhammou Ali,26,4843.25
+860,septembre 2024,112532132,Ouhammou Ali,26,5031.36
+860,octobre 2024,112532132,Ouhammou Ali,26,4983.51
+860,novembre 2024,112532132,Ouhammou Ali,26,5022.29
+860,décembre 2024,112532132,Ouhammou Ali,26,4875.03
+860,décembre 2023,115401748,Ifiss Abdellah,26,8375.25
+860,janvier 2024,115401748,Ifiss Abdellah,26,8526.05
+860,février 2024,115401748,Ifiss Abdellah,26,8457.08
+860,mars 2024,115401748,Ifiss Abdellah,26,8356.78
+860,avril 2024,115401748,Ifiss Abdellah,26,8581.98
+860,mai 2024,115401748,Ifiss Abdellah,26,8420.02
+860,juin 2024,115401748,Ifiss Abdellah,26,8328.68
+860,juillet 2024,115401748,Ifiss Abdellah,26,8279.33
+860,août 2024,115401748,Ifiss Abdellah,26,8327.02
+860,septembre 2024,115401748,Ifiss Abdellah,26,8274.5
+860,octobre 2024,115401748,Ifiss Abdellah,26,8628.71
+860,novembre 2024,115401748,Ifiss Abdellah,26,8661.86
+860,décembre 2024,115401748,Ifiss Abdellah,26,8749.67
+860,décembre 2023,115577599,Ait Hsayen Marouane,26,3426.9
+860,janvier 2024,115577599,Ait Hsayen Marouane,26,3475.46
+860,février 2024,115577599,Ait Hsayen Marouane,26,3634.37
+860,mars 2024,115577599,Ait Hsayen Marouane,26,3591.52
+860,avril 2024,115577599,Ait Hsayen Marouane,26,3672.78
+860,mai 2024,115577599,Ait Hsayen Marouane,26,3764.58
+860,juin 2024,115577599,Ait Hsayen Marouane,26,3873.28
+860,juillet 2024,115577599,Ait Hsayen Marouane,26,4064.88
+860,août 2024,115577599,Ait Hsayen Marouane,26,4171.33
+860,septembre 2024,115577599,Ait Hsayen Marouane,26,4231.46
+860,octobre 2024,115577599,Ait Hsayen Marouane,26,4247.95
+860,novembre 2024,115577599,Ait Hsayen Marouane,26,4421.6
+860,décembre 2024,115577599,Ait Hsayen Marouane,26,4517.58
+860,décembre 2023,116436843,Lamtaai Hassan,26,3899.86
+860,janvier 2024,116436843,Lamtaai Hassan,26,3831.52
+860,février 2024,116436843,Lamtaai Hassan,26,3844.03
+860,mars 2024,116436843,Lamtaai Hassan,26,3809.36
+860,avril 2024,116436843,Lamtaai Hassan,26,3745.02
+860,mai 2024,116436843,Lamtaai Hassan,26,3879.05
+860,juin 2024,116436843,Lamtaai Hassan,26,3863.76
+860,juillet 2024,116436843,Lamtaai Hassan,26,3761.54
+860,août 2024,116436843,Lamtaai Hassan,26,3786.65
+860,septembre 2024,116436843,Lamtaai Hassan,26,3904.14
+860,octobre 2024,116436843,Lamtaai Hassan,26,3920.61
+860,novembre 2024,116436843,Lamtaai Hassan,26,4043.15
+860,décembre 2024,116436843,Lamtaai Hassan,26,4035.74
+860,décembre 2023,117517098,Bella Ouanisf Amine,26,6892.56
+860,janvier 2024,117517098,Bella Ouanisf Amine,26,6926.64
+860,février 2024,117517098,Bella Ouanisf Amine,26,7205.17
+860,mars 2024,117517098,Bella Ouanisf Amine,26,7069.04
+860,avril 2024,117517098,Bella Ouanisf Amine,26,7106.57
+860,mai 2024,117517098,Bella Ouanisf Amine,26,6984.54
+860,juin 2024,117517098,Bella Ouanisf Amine,26,6907.3
+860,juillet 2024,117517098,Bella Ouanisf Amine,26,6812.86
+860,août 2024,117517098,Bella Ouanisf Amine,26,6847.8
+860,septembre 2024,117517098,Bella Ouanisf Amine,26,7059.71
+860,octobre 2024,117517098,Bella Ouanisf Amine,26,6996.92
+860,novembre 2024,117517098,Bella Ouanisf Amine,26,6938.59
+860,décembre 2024,117517098,Bella Ouanisf Amine,26,7110.31
+860,décembre 2023,119158733,Ait Ihia Mohamed,26,4807.25
+860,janvier 2024,119158733,Ait Ihia Mohamed,26,4952.82
+860,février 2024,119158733,Ait Ihia Mohamed,26,4805.61
+860,mars 2024,119158733,Ait Ihia Mohamed,26,4995.98
+860,avril 2024,119158733,Ait Ihia Mohamed,26,5182.38
+860,mai 2024,119158733,Ait Ihia Mohamed,26,5068.33
+860,juin 2024,119158733,Ait Ihia Mohamed,26,5107.35
+860,juillet 2024,119158733,Ait Ihia Mohamed,26,5287.09
+860,août 2024,119158733,Ait Ihia Mohamed,26,5192.7
+860,septembre 2024,119158733,Ait Ihia Mohamed,26,5160.76
+860,octobre 2024,119158733,Ait Ihia Mohamed,26,5221.38
+860,novembre 2024,119158733,Ait Ihia Mohamed,26,5415.57
+860,décembre 2024,119158733,Ait Ihia Mohamed,26,5490.54
+860,décembre 2023,119158832,Choukri El Mahjoub,26,8565.05
+860,janvier 2024,119158832,Choukri El Mahjoub,26,8961.34
+860,février 2024,119158832,Choukri El Mahjoub,26,9221.37
+860,mars 2024,119158832,Choukri El Mahjoub,26,9119.71
+860,avril 2024,119158832,Choukri El Mahjoub,26,8985.99
+860,mai 2024,119158832,Choukri El Mahjoub,26,8960.45
+860,juin 2024,119158832,Choukri El Mahjoub,26,8929.35
+860,juillet 2024,119158832,Choukri El Mahjoub,26,8847.63
+860,août 2024,119158832,Choukri El Mahjoub,26,8867.5
+860,septembre 2024,119158832,Choukri El Mahjoub,26,8945.32
+860,octobre 2024,119158832,Choukri El Mahjoub,26,8820.67
+860,novembre 2024,119158832,Choukri El Mahjoub,26,8628.08
+860,décembre 2024,119158832,Choukri El Mahjoub,26,9049.94
+860,décembre 2023,119158931,Tasmihte Mohamed,26,4807.25
+860,janvier 2024,119158931,Tasmihte Mohamed,26,5002.61
+860,février 2024,119158931,Tasmihte Mohamed,26,5112.68
+860,mars 2024,119158931,Tasmihte Mohamed,26,5356.48
+860,avril 2024,119158931,Tasmihte Mohamed,26,5398.13
+860,mai 2024,119158931,Tasmihte Mohamed,26,5379.41
+860,juin 2024,119158931,Tasmihte Mohamed,26,5535.12
+860,juillet 2024,119158931,Tasmihte Mohamed,26,5779.05
+860,août 2024,119158931,Tasmihte Mohamed,26,5751.7
+860,septembre 2024,119158931,Tasmihte Mohamed,26,5728.12
+860,octobre 2024,119158931,Tasmihte Mohamed,26,5629.37
+860,novembre 2024,119158931,Tasmihte Mohamed,26,5610.69
+860,décembre 2024,119158931,Tasmihte Mohamed,26,5657.24
+860,décembre 2023,119190933,Aferzghoul Hassane,26,3765.45
+860,janvier 2024,119190933,Aferzghoul Hassane,26,3765.83
+860,février 2024,119190933,Aferzghoul Hassane,26,3715.1
+860,mars 2024,119190933,Aferzghoul Hassane,26,3689.38
+860,avril 2024,119190933,Aferzghoul Hassane,26,3629.0
+860,mai 2024,119190933,Aferzghoul Hassane,26,3568.88
+860,juin 2024,119190933,Aferzghoul Hassane,26,3654.26
+860,juillet 2024,119190933,Aferzghoul Hassane,26,3763.66
+860,août 2024,119190933,Aferzghoul Hassane,26,3916.98
+860,septembre 2024,119190933,Aferzghoul Hassane,26,3868.82
+860,octobre 2024,119190933,Aferzghoul Hassane,26,3831.83
+860,novembre 2024,119190933,Aferzghoul Hassane,26,3929.14
+860,décembre 2024,119190933,Aferzghoul Hassane,26,4121.13
+860,décembre 2023,120307452,Ait Lgharabi Belaid,26,3894.38
+860,janvier 2024,120307452,Ait Lgharabi Belaid,26,4007.83
+860,février 2024,120307452,Ait Lgharabi Belaid,26,3967.76
+860,mars 2024,120307452,Ait Lgharabi Belaid,26,3885.22
+860,avril 2024,120307452,Ait Lgharabi Belaid,26,3827.15
+860,mai 2024,120307452,Ait Lgharabi Belaid,26,3878.9
+860,juin 2024,120307452,Ait Lgharabi Belaid,26,3959.47
+860,juillet 2024,120307452,Ait Lgharabi Belaid,26,3898.26
+860,août 2024,120307452,Ait Lgharabi Belaid,26,4046.7
+860,septembre 2024,120307452,Ait Lgharabi Belaid,26,4156.09
+860,octobre 2024,120307452,Ait Lgharabi Belaid,26,4322.89
+860,novembre 2024,120307452,Ait Lgharabi Belaid,26,4368.75
+860,décembre 2024,120307452,Ait Lgharabi Belaid,26,4546.91
+860,décembre 2023,123772131,Idhmed Lahoucine,26,4438.72
+860,janvier 2024,123772131,Idhmed Lahoucine,26,4623.42
+860,février 2024,123772131,Idhmed Lahoucine,26,4699.7
+860,mars 2024,123772131,Idhmed Lahoucine,26,4756.1
+860,avril 2024,123772131,Idhmed Lahoucine,26,4963.39
+860,mai 2024,123772131,Idhmed Lahoucine,26,5084.75
+860,juin 2024,123772131,Idhmed Lahoucine,26,5168.87
+860,juillet 2024,123772131,Idhmed Lahoucine,26,5064.36
+860,août 2024,123772131,Idhmed Lahoucine,26,4938.16
+860,septembre 2024,123772131,Idhmed Lahoucine,26,4920.91
+860,octobre 2024,123772131,Idhmed Lahoucine,26,5065.63
+860,novembre 2024,123772131,Idhmed Lahoucine,26,5309.35
+860,décembre 2024,123772131,Idhmed Lahoucine,26,5342.16
+860,décembre 2023,128811877,Alakhouch Rachid,26,3377.21
+860,janvier 2024,128811877,Alakhouch Rachid,26,3399.85
+860,février 2024,128811877,Alakhouch Rachid,26,3432.65
+860,mars 2024,128811877,Alakhouch Rachid,26,3432.93
+860,avril 2024,128811877,Alakhouch Rachid,26,3371.42
+860,mai 2024,128811877,Alakhouch Rachid,26,3281.08
+860,juin 2024,128811877,Alakhouch Rachid,26,3319.21
+860,juillet 2024,128811877,Alakhouch Rachid,26,3420.62
+860,août 2024,128811877,Alakhouch Rachid,26,3390.14
+860,septembre 2024,128811877,Alakhouch Rachid,26,3494.82
+860,octobre 2024,128811877,Alakhouch Rachid,26,3626.76
+860,novembre 2024,128811877,Alakhouch Rachid,26,3728.1
+860,décembre 2024,128811877,Alakhouch Rachid,26,3779.45
+860,décembre 2023,132902787,El Achqar Salah Eddine,26,3719.9
+860,janvier 2024,132902787,El Achqar Salah Eddine,26,3640.97
+860,février 2024,132902787,El Achqar Salah Eddine,26,3555.82
+860,mars 2024,132902787,El Achqar Salah Eddine,26,3724.1
+860,avril 2024,132902787,El Achqar Salah Eddine,26,3827.3
+860,mai 2024,132902787,El Achqar Salah Eddine,26,3718.46
+860,juin 2024,132902787,El Achqar Salah Eddine,26,3902.38
+860,juillet 2024,132902787,El Achqar Salah Eddine,26,3831.15
+860,août 2024,132902787,El Achqar Salah Eddine,26,3805.81
+860,septembre 2024,132902787,El Achqar Salah Eddine,26,3923.9
+860,octobre 2024,132902787,El Achqar Salah Eddine,26,3810.6
+860,novembre 2024,132902787,El Achqar Salah Eddine,26,4000.43
+860,décembre 2024,132902787,El Achqar Salah Eddine,26,4197.66
+860,décembre 2023,133381732,Alakhouch Abdallah,26,4615.88
+860,janvier 2024,133381732,Alakhouch Abdallah,26,4577.14
+860,février 2024,133381732,Alakhouch Abdallah,26,4548.23
+860,mars 2024,133381732,Alakhouch Abdallah,26,4606.9
+860,avril 2024,133381732,Alakhouch Abdallah,26,4524.24
+860,mai 2024,133381732,Alakhouch Abdallah,26,4687.88
+860,juin 2024,133381732,Alakhouch Abdallah,26,4758.0
+860,juillet 2024,133381732,Alakhouch Abdallah,26,4824.27
+860,août 2024,133381732,Alakhouch Abdallah,26,4818.82
+860,septembre 2024,133381732,Alakhouch Abdallah,26,4885.15
+860,octobre 2024,133381732,Alakhouch Abdallah,26,4933.9
+860,novembre 2024,133381732,Alakhouch Abdallah,26,4828.96
+860,décembre 2024,133381732,Alakhouch Abdallah,26,4774.07
+860,décembre 2023,135355462,Assali Abderrahim,26,5270.98
+860,janvier 2024,135355462,Assali Abderrahim,26,5185.88
+860,février 2024,135355462,Assali Abderrahim,26,5123.92
+860,mars 2024,135355462,Assali Abderrahim,26,4984.12
+860,avril 2024,135355462,Assali Abderrahim,26,5032.88
+860,mai 2024,135355462,Assali Abderrahim,26,5094.39
+860,juin 2024,135355462,Assali Abderrahim,26,5041.32
+860,juillet 2024,135355462,Assali Abderrahim,26,5123.64
+860,août 2024,135355462,Assali Abderrahim,26,5148.7
+860,septembre 2024,135355462,Assali Abderrahim,26,5020.63
+860,octobre 2024,135355462,Assali Abderrahim,26,5018.52
+860,novembre 2024,135355462,Assali Abderrahim,26,5165.4
+860,décembre 2024,135355462,Assali Abderrahim,26,5106.52
+860,décembre 2023,137100930,Kadmi Alla,26,4452.4
+860,janvier 2024,137100930,Kadmi Alla,26,4505.16
+860,février 2024,137100930,Kadmi Alla,26,4494.29
+860,mars 2024,137100930,Kadmi Alla,26,4714.01
+860,avril 2024,137100930,Kadmi Alla,26,4721.2
+860,mai 2024,137100930,Kadmi Alla,26,4805.99
+860,juin 2024,137100930,Kadmi Alla,26,4911.53
+860,juillet 2024,137100930,Kadmi Alla,26,5150.71
+860,août 2024,137100930,Kadmi Alla,26,5377.3
+860,septembre 2024,137100930,Kadmi Alla,26,5433.65
+860,octobre 2024,137100930,Kadmi Alla,26,5360.0
+860,novembre 2024,137100930,Kadmi Alla,26,5507.88
+860,décembre 2024,137100930,Kadmi Alla,26,5503.43
+860,décembre 2023,137123833,Hamri Benaceur,16,5085.09
+860,janvier 2024,137123833,Hamri Benaceur,16,5258.13
+860,février 2024,137123833,Hamri Benaceur,16,5174.39
+860,mars 2024,137123833,Hamri Benaceur,16,5134.38
+860,avril 2024,137123833,Hamri Benaceur,16,4997.41
+860,mai 2024,137123833,Hamri Benaceur,16,4976.63
+860,juin 2024,137123833,Hamri Benaceur,16,5186.27
+860,juillet 2024,137123833,Hamri Benaceur,16,5309.7
+860,août 2024,137123833,Hamri Benaceur,16,5300.92
+860,septembre 2024,137123833,Hamri Benaceur,16,5366.47
+860,octobre 2024,137123833,Hamri Benaceur,16,5227.72
+860,novembre 2024,137123833,Hamri Benaceur,16,5163.59
+860,décembre 2024,137123833,Hamri Benaceur,16,5325.57
+860,décembre 2023,138064854,El Khater Abderrahim,26,4745.1
+860,janvier 2024,138064854,El Khater Abderrahim,26,4872.21
+860,février 2024,138064854,El Khater Abderrahim,26,4848.49
+860,mars 2024,138064854,El Khater Abderrahim,26,4891.96
+860,avril 2024,138064854,El Khater Abderrahim,26,4945.04
+860,mai 2024,138064854,El Khater Abderrahim,26,4881.95
+860,juin 2024,138064854,El Khater Abderrahim,26,4804.82
+860,juillet 2024,138064854,El Khater Abderrahim,26,4703.7
+860,août 2024,138064854,El Khater Abderrahim,26,4685.05
+860,septembre 2024,138064854,El Khater Abderrahim,26,4592.01
+860,octobre 2024,138064854,El Khater Abderrahim,26,4776.55
+860,novembre 2024,138064854,El Khater Abderrahim,26,4778.17
+860,décembre 2024,138064854,El Khater Abderrahim,26,4819.29
+860,décembre 2023,138480654,Lakhdar Abderrahim,26,4447.37
+860,janvier 2024,138480654,Lakhdar Abderrahim,26,4419.5
+860,février 2024,138480654,Lakhdar Abderrahim,26,4386.41
+860,mars 2024,138480654,Lakhdar Abderrahim,26,4422.07
+860,avril 2024,138480654,Lakhdar Abderrahim,26,4404.68
+860,mai 2024,138480654,Lakhdar Abderrahim,26,4424.0
+860,juin 2024,138480654,Lakhdar Abderrahim,26,4611.31
+860,juillet 2024,138480654,Lakhdar Abderrahim,26,4813.54
+860,août 2024,138480654,Lakhdar Abderrahim,26,5035.93
+860,septembre 2024,138480654,Lakhdar Abderrahim,26,5195.95
+860,octobre 2024,138480654,Lakhdar Abderrahim,26,5287.56
+860,novembre 2024,138480654,Lakhdar Abderrahim,26,5239.68
+860,décembre 2024,138480654,Lakhdar Abderrahim,26,5329.59
+860,décembre 2023,138655356,Anflousse Mustapha,26,4856.35
+860,janvier 2024,138655356,Anflousse Mustapha,26,5042.61
+860,février 2024,138655356,Anflousse Mustapha,26,4961.27
+860,mars 2024,138655356,Anflousse Mustapha,26,5064.55
+860,avril 2024,138655356,Anflousse Mustapha,26,5057.49
+860,mai 2024,138655356,Anflousse Mustapha,26,5058.41
+860,juin 2024,138655356,Anflousse Mustapha,26,4923.07
+860,juillet 2024,138655356,Anflousse Mustapha,26,5026.33
+860,août 2024,138655356,Anflousse Mustapha,26,5058.83
+860,septembre 2024,138655356,Anflousse Mustapha,26,5187.09
+860,octobre 2024,138655356,Anflousse Mustapha,26,5303.37
+860,novembre 2024,138655356,Anflousse Mustapha,26,5432.87
+860,décembre 2024,138655356,Anflousse Mustapha,26,5307.77
+860,décembre 2023,138982634,Keblani Rachida,26,8518.22
+860,janvier 2024,138982634,Keblani Rachida,26,8319.39
+860,février 2024,138982634,Keblani Rachida,26,8258.13
+860,mars 2024,138982634,Keblani Rachida,26,8287.97
+860,avril 2024,138982634,Keblani Rachida,26,8240.66
+860,mai 2024,138982634,Keblani Rachida,26,8003.29
+860,juin 2024,138982634,Keblani Rachida,26,8283.9
+860,juillet 2024,138982634,Keblani Rachida,26,8378.04
+860,août 2024,138982634,Keblani Rachida,26,8142.14
+860,septembre 2024,138982634,Keblani Rachida,26,8173.37
+860,octobre 2024,138982634,Keblani Rachida,26,8197.49
+860,novembre 2024,138982634,Keblani Rachida,26,8400.57
+860,décembre 2024,138982634,Keblani Rachida,26,8367.1
+860,décembre 2023,141562150,Nouader Abdelghani,26,3426.9
+860,janvier 2024,141562150,Nouader Abdelghani,26,3449.75
+860,février 2024,141562150,Nouader Abdelghani,26,3494.98
+860,mars 2024,141562150,Nouader Abdelghani,26,3511.62
+860,avril 2024,141562150,Nouader Abdelghani,26,3582.99
+860,mai 2024,141562150,Nouader Abdelghani,26,3727.15
+860,juin 2024,141562150,Nouader Abdelghani,26,3797.49
+860,juillet 2024,141562150,Nouader Abdelghani,26,3790.24
+860,août 2024,141562150,Nouader Abdelghani,26,3750.03
+860,septembre 2024,141562150,Nouader Abdelghani,26,3740.13
+860,octobre 2024,141562150,Nouader Abdelghani,26,3714.75
+860,novembre 2024,141562150,Nouader Abdelghani,26,3732.57
+860,décembre 2024,141562150,Nouader Abdelghani,26,3702.09
+860,décembre 2023,141878250,Laffiquir Mustapha,26,4313.57
+860,janvier 2024,141878250,Laffiquir Mustapha,26,4377.57
+860,février 2024,141878250,Laffiquir Mustapha,26,4310.98
+860,mars 2024,141878250,Laffiquir Mustapha,26,4285.34
+860,avril 2024,141878250,Laffiquir Mustapha,26,4199.4
+860,mai 2024,141878250,Laffiquir Mustapha,26,4128.35
+860,juin 2024,141878250,Laffiquir Mustapha,26,4006.44
+860,juillet 2024,141878250,Laffiquir Mustapha,26,4170.43
+860,août 2024,141878250,Laffiquir Mustapha,26,4293.76
+860,septembre 2024,141878250,Laffiquir Mustapha,26,4234.03
+860,octobre 2024,141878250,Laffiquir Mustapha,26,4336.92
+860,novembre 2024,141878250,Laffiquir Mustapha,26,4228.02
+860,décembre 2024,141878250,Laffiquir Mustapha,26,4352.08
+860,décembre 2023,144299833,Belcaid Mohamed,26,4800.54
+860,janvier 2024,144299833,Belcaid Mohamed,26,5007.58
+860,février 2024,144299833,Belcaid Mohamed,26,4872.17
+860,mars 2024,144299833,Belcaid Mohamed,26,5001.19
+860,avril 2024,144299833,Belcaid Mohamed,26,4962.94
+860,mai 2024,144299833,Belcaid Mohamed,26,5072.26
+860,juin 2024,144299833,Belcaid Mohamed,26,4935.02
+860,juillet 2024,144299833,Belcaid Mohamed,26,5090.73
+860,août 2024,144299833,Belcaid Mohamed,26,5013.93
+860,septembre 2024,144299833,Belcaid Mohamed,26,5182.03
+860,octobre 2024,144299833,Belcaid Mohamed,26,5155.28
+860,novembre 2024,144299833,Belcaid Mohamed,26,5090.37
+860,décembre 2024,144299833,Belcaid Mohamed,26,5282.78
+860,décembre 2023,146676336,El Mandoub Mohamed,26,4186.0
+860,janvier 2024,146676336,El Mandoub Mohamed,26,4222.14
+860,février 2024,146676336,El Mandoub Mohamed,26,4384.7
+860,mars 2024,146676336,El Mandoub Mohamed,26,4539.4
+860,avril 2024,146676336,El Mandoub Mohamed,26,4569.36
+860,mai 2024,146676336,El Mandoub Mohamed,26,4733.89
+860,juin 2024,146676336,El Mandoub Mohamed,26,4836.44
+860,juillet 2024,146676336,El Mandoub Mohamed,26,4767.8
+860,août 2024,146676336,El Mandoub Mohamed,26,4965.69
+860,septembre 2024,146676336,El Mandoub Mohamed,26,5051.88
+860,octobre 2024,146676336,El Mandoub Mohamed,26,5200.67
+860,novembre 2024,146676336,El Mandoub Mohamed,26,5402.61
+860,décembre 2024,146676336,El Mandoub Mohamed,26,5313.5
+860,décembre 2023,147696672,Laaouani Rachid,26,3426.9
+860,janvier 2024,147696672,Laaouani Rachid,26,3577.02
+860,février 2024,147696672,Laaouani Rachid,26,3538.17
+860,mars 2024,147696672,Laaouani Rachid,26,3674.22
+860,avril 2024,147696672,Laaouani Rachid,26,3601.58
+860,mai 2024,147696672,Laaouani Rachid,26,3634.24
+860,juin 2024,147696672,Laaouani Rachid,26,3608.68
+860,juillet 2024,147696672,Laaouani Rachid,26,3738.14
+860,août 2024,147696672,Laaouani Rachid,26,3824.21
+860,septembre 2024,147696672,Laaouani Rachid,26,3874.77
+860,octobre 2024,147696672,Laaouani Rachid,26,3799.18
+860,novembre 2024,147696672,Laaouani Rachid,26,3711.27
+860,décembre 2024,147696672,Laaouani Rachid,26,3793.58
+860,décembre 2023,150449638,Ait Bihi Hassan,26,4433.84
+860,janvier 2024,150449638,Ait Bihi Hassan,26,4634.55
+860,février 2024,150449638,Ait Bihi Hassan,26,4730.1
+860,mars 2024,150449638,Ait Bihi Hassan,26,4708.49
+860,avril 2024,150449638,Ait Bihi Hassan,26,4780.59
+860,mai 2024,150449638,Ait Bihi Hassan,26,4988.66
+860,juin 2024,150449638,Ait Bihi Hassan,26,4870.69
+860,juillet 2024,150449638,Ait Bihi Hassan,26,4963.09
+860,août 2024,150449638,Ait Bihi Hassan,26,4940.03
+860,septembre 2024,150449638,Ait Bihi Hassan,26,5130.5
+860,octobre 2024,150449638,Ait Bihi Hassan,26,5060.42
+860,novembre 2024,150449638,Ait Bihi Hassan,26,4927.88
+860,décembre 2024,150449638,Ait Bihi Hassan,26,4840.47
+860,décembre 2023,152050186,Asrar Hassan,26,5678.53
+860,janvier 2024,152050186,Asrar Hassan,26,5565.69
+860,février 2024,152050186,Asrar Hassan,26,5602.7
+860,mars 2024,152050186,Asrar Hassan,26,5535.8
+860,avril 2024,152050186,Asrar Hassan,26,5453.42
+860,mai 2024,152050186,Asrar Hassan,26,5670.45
+860,juin 2024,152050186,Asrar Hassan,26,5692.07
+860,juillet 2024,152050186,Asrar Hassan,26,5678.55
+860,août 2024,152050186,Asrar Hassan,26,5924.01
+860,septembre 2024,152050186,Asrar Hassan,26,6089.38
+860,octobre 2024,152050186,Asrar Hassan,26,5944.24
+860,novembre 2024,152050186,Asrar Hassan,26,6052.78
+860,décembre 2024,152050186,Asrar Hassan,26,6264.99
+860,décembre 2023,152851667,Haoud El Addy Bouaza,26,3426.9
+860,janvier 2024,152851667,Haoud El Addy Bouaza,26,3486.36
+860,février 2024,152851667,Haoud El Addy Bouaza,26,3598.84
+860,mars 2024,152851667,Haoud El Addy Bouaza,26,3717.79
+860,avril 2024,152851667,Haoud El Addy Bouaza,26,3729.99
+860,mai 2024,152851667,Haoud El Addy Bouaza,26,3638.81
+860,juin 2024,152851667,Haoud El Addy Bouaza,26,3726.86
+860,juillet 2024,152851667,Haoud El Addy Bouaza,26,3632.32
+860,août 2024,152851667,Haoud El Addy Bouaza,26,3646.48
+860,septembre 2024,152851667,Haoud El Addy Bouaza,26,3575.8
+860,octobre 2024,152851667,Haoud El Addy Bouaza,26,3537.92
+860,novembre 2024,152851667,Haoud El Addy Bouaza,26,3528.2
+860,décembre 2024,152851667,Haoud El Addy Bouaza,26,3480.11
+860,décembre 2023,154652352,Kaine Abderrahman,26,3802.03
+860,janvier 2024,154652352,Kaine Abderrahman,26,3785.96
+860,février 2024,154652352,Kaine Abderrahman,26,3732.32
+860,mars 2024,154652352,Kaine Abderrahman,26,3805.76
+860,avril 2024,154652352,Kaine Abderrahman,26,3859.66
+860,mai 2024,154652352,Kaine Abderrahman,26,3997.24
+860,juin 2024,154652352,Kaine Abderrahman,26,4082.74
+860,juillet 2024,154652352,Kaine Abderrahman,26,3997.19
+860,août 2024,154652352,Kaine Abderrahman,26,4044.18
+860,septembre 2024,154652352,Kaine Abderrahman,26,4176.17
+860,octobre 2024,154652352,Kaine Abderrahman,26,4140.92
+860,novembre 2024,154652352,Kaine Abderrahman,26,4227.4
+860,décembre 2024,154652352,Kaine Abderrahman,26,4159.31
+860,décembre 2023,159792640,Yahyani Mohamed Toufik,26,4280.86
+860,janvier 2024,159792640,Yahyani Mohamed Toufik,26,4460.42
+860,février 2024,159792640,Yahyani Mohamed Toufik,26,4512.81
+860,mars 2024,159792640,Yahyani Mohamed Toufik,26,4676.04
+860,avril 2024,159792640,Yahyani Mohamed Toufik,26,4852.28
+860,mai 2024,159792640,Yahyani Mohamed Toufik,26,4979.27
+860,juin 2024,159792640,Yahyani Mohamed Toufik,26,4956.15
+860,juillet 2024,159792640,Yahyani Mohamed Toufik,26,4929.35
+860,août 2024,159792640,Yahyani Mohamed Toufik,26,5144.44
+860,septembre 2024,159792640,Yahyani Mohamed Toufik,26,5143.15
+860,octobre 2024,159792640,Yahyani Mohamed Toufik,26,5291.71
+860,novembre 2024,159792640,Yahyani Mohamed Toufik,26,5402.82
+860,décembre 2024,159792640,Yahyani Mohamed Toufik,26,5287.69
+860,décembre 2023,164328836,Laaroussi Brahim,26,4233.94
+860,janvier 2024,164328836,Laaroussi Brahim,26,4281.65
+860,février 2024,164328836,Laaroussi Brahim,26,4454.11
+860,mars 2024,164328836,Laaroussi Brahim,26,4623.39
+860,avril 2024,164328836,Laaroussi Brahim,26,4567.63
+860,mai 2024,164328836,Laaroussi Brahim,26,4695.55
+860,juin 2024,164328836,Laaroussi Brahim,26,4686.1
+860,juillet 2024,164328836,Laaroussi Brahim,26,4746.79
+860,août 2024,164328836,Laaroussi Brahim,26,4862.83
+860,septembre 2024,164328836,Laaroussi Brahim,26,4831.79
+860,octobre 2024,164328836,Laaroussi Brahim,26,4876.02
+860,novembre 2024,164328836,Laaroussi Brahim,26,5107.31
+860,décembre 2024,164328836,Laaroussi Brahim,26,5180.25
+860,décembre 2023,165766806,Labid Omar,26,3515.2
+860,janvier 2024,165766806,Labid Omar,26,3617.99
+860,février 2024,165766806,Labid Omar,26,3585.52
+860,mars 2024,165766806,Labid Omar,26,3492.66
+860,avril 2024,165766806,Labid Omar,26,3618.27
+860,mai 2024,165766806,Labid Omar,26,3592.79
+860,juin 2024,165766806,Labid Omar,26,3496.89
+860,juillet 2024,165766806,Labid Omar,26,3482.07
+860,août 2024,165766806,Labid Omar,26,3620.64
+860,septembre 2024,165766806,Labid Omar,26,3771.06
+860,octobre 2024,165766806,Labid Omar,26,3696.38
+860,novembre 2024,165766806,Labid Omar,26,3731.73
+860,décembre 2024,165766806,Labid Omar,26,3881.72
+860,décembre 2023,166321854,El Boukary Mohamed,26,3719.9
+860,janvier 2024,166321854,El Boukary Mohamed,26,3628.11
+860,février 2024,166321854,El Boukary Mohamed,26,3794.18
+860,mars 2024,166321854,El Boukary Mohamed,26,3834.87
+860,avril 2024,166321854,El Boukary Mohamed,26,3825.91
+860,mai 2024,166321854,El Boukary Mohamed,26,3949.32
+860,juin 2024,166321854,El Boukary Mohamed,26,3843.86
+860,juillet 2024,166321854,El Boukary Mohamed,26,3909.4
+860,août 2024,166321854,El Boukary Mohamed,26,4027.86
+860,septembre 2024,166321854,El Boukary Mohamed,26,4134.43
+860,octobre 2024,166321854,El Boukary Mohamed,26,4127.51
+860,novembre 2024,166321854,El Boukary Mohamed,26,4099.9
+860,décembre 2024,166321854,El Boukary Mohamed,26,4004.14
+860,décembre 2023,168921537,Biramane Hassan,26,5279.3
+860,janvier 2024,168921537,Biramane Hassan,26,5417.47
+860,février 2024,168921537,Biramane Hassan,26,5650.78
+860,mars 2024,168921537,Biramane Hassan,26,5852.54
+860,avril 2024,168921537,Biramane Hassan,26,6049.03
+860,mai 2024,168921537,Biramane Hassan,26,6143.42
+860,juin 2024,168921537,Biramane Hassan,26,5983.72
+860,juillet 2024,168921537,Biramane Hassan,26,6240.82
+860,août 2024,168921537,Biramane Hassan,26,6249.7
+860,septembre 2024,168921537,Biramane Hassan,26,6416.35
+860,octobre 2024,168921537,Biramane Hassan,26,6532.37
+860,novembre 2024,168921537,Biramane Hassan,26,6652.36
+860,décembre 2024,168921537,Biramane Hassan,26,6721.89
+860,décembre 2023,171053335,Benoumar Said,26,27445.28
+860,janvier 2024,171053335,Benoumar Said,26,26843.59
+860,février 2024,171053335,Benoumar Said,26,26847.02
+860,mars 2024,171053335,Benoumar Said,26,26337.04
+860,avril 2024,171053335,Benoumar Said,26,27069.31
+860,mai 2024,171053335,Benoumar Said,26,27715.66
+860,juin 2024,171053335,Benoumar Said,26,28142.34
+860,juillet 2024,171053335,Benoumar Said,26,28639.57
+860,août 2024,171053335,Benoumar Said,26,29805.27
+860,septembre 2024,171053335,Benoumar Said,26,31153.03
+860,octobre 2024,171053335,Benoumar Said,26,31076.13
+860,novembre 2024,171053335,Benoumar Said,26,31772.24
+860,décembre 2024,171053335,Benoumar Said,26,33229.45
+860,décembre 2023,177115155,Janah Abdelouhab,26,4698.68
+860,janvier 2024,177115155,Janah Abdelouhab,26,4822.97
+860,février 2024,177115155,Janah Abdelouhab,26,4962.78
+860,mars 2024,177115155,Janah Abdelouhab,26,5146.1
+860,avril 2024,177115155,Janah Abdelouhab,26,5386.97
+860,mai 2024,177115155,Janah Abdelouhab,26,5348.29
+860,juin 2024,177115155,Janah Abdelouhab,26,5221.86
+860,juillet 2024,177115155,Janah Abdelouhab,26,5442.23
+860,août 2024,177115155,Janah Abdelouhab,26,5540.65
+860,septembre 2024,177115155,Janah Abdelouhab,26,5406.72
+860,octobre 2024,177115155,Janah Abdelouhab,26,5294.24
+860,novembre 2024,177115155,Janah Abdelouhab,26,5441.83
+860,décembre 2024,177115155,Janah Abdelouhab,26,5408.13
+860,décembre 2023,180103030,Ballihi Mohamed,26,6410.6
+860,janvier 2024,180103030,Ballihi Mohamed,26,6224.97
+860,février 2024,180103030,Ballihi Mohamed,26,6178.33
+860,mars 2024,180103030,Ballihi Mohamed,26,6131.03
+860,avril 2024,180103030,Ballihi Mohamed,26,6358.71
+860,mai 2024,180103030,Ballihi Mohamed,26,6313.8
+860,juin 2024,180103030,Ballihi Mohamed,26,6484.96
+860,juillet 2024,180103030,Ballihi Mohamed,26,6419.45
+860,août 2024,180103030,Ballihi Mohamed,26,6239.19
+860,septembre 2024,180103030,Ballihi Mohamed,26,6094.89
+860,octobre 2024,180103030,Ballihi Mohamed,26,6267.19
+860,novembre 2024,180103030,Ballihi Mohamed,26,6454.64
+860,décembre 2024,180103030,Ballihi Mohamed,26,6531.01
+860,décembre 2023,180469333,Zirar Ahmed,26,6184.1
+860,janvier 2024,180469333,Zirar Ahmed,26,6081.77
+860,février 2024,180469333,Zirar Ahmed,26,6382.75
+860,mars 2024,180469333,Zirar Ahmed,26,6197.37
+860,avril 2024,180469333,Zirar Ahmed,26,6316.17
+860,mai 2024,180469333,Zirar Ahmed,26,6274.99
+860,juin 2024,180469333,Zirar Ahmed,26,6526.62
+860,juillet 2024,180469333,Zirar Ahmed,26,6339.69
+860,août 2024,180469333,Zirar Ahmed,26,6297.08
+860,septembre 2024,180469333,Zirar Ahmed,26,6195.55
+860,octobre 2024,180469333,Zirar Ahmed,26,6457.33
+860,novembre 2024,180469333,Zirar Ahmed,26,6332.79
+860,décembre 2024,180469333,Zirar Ahmed,26,6201.5
+860,décembre 2023,181608154,Ballihi Abdelouahed,26,3719.9
+860,janvier 2024,181608154,Ballihi Abdelouahed,26,3711.64
+860,février 2024,181608154,Ballihi Abdelouahed,26,3625.02
+860,mars 2024,181608154,Ballihi Abdelouahed,26,3745.39
+860,avril 2024,181608154,Ballihi Abdelouahed,26,3879.33
+860,mai 2024,181608154,Ballihi Abdelouahed,26,3835.14
+860,juin 2024,181608154,Ballihi Abdelouahed,26,3818.32
+860,juillet 2024,181608154,Ballihi Abdelouahed,26,3713.93
+860,août 2024,181608154,Ballihi Abdelouahed,26,3890.96
+860,septembre 2024,181608154,Ballihi Abdelouahed,26,3799.26
+860,octobre 2024,181608154,Ballihi Abdelouahed,26,3922.5
+860,novembre 2024,181608154,Ballihi Abdelouahed,26,3875.85
+860,décembre 2024,181608154,Ballihi Abdelouahed,26,3975.44
+860,décembre 2023,182024937,Ait Ouali Abdallah,26,4566.58
+860,janvier 2024,182024937,Ait Ouali Abdallah,26,4465.35
+860,février 2024,182024937,Ait Ouali Abdallah,26,4593.27
+860,mars 2024,182024937,Ait Ouali Abdallah,26,4684.93
+860,avril 2024,182024937,Ait Ouali Abdallah,26,4660.2
+860,mai 2024,182024937,Ait Ouali Abdallah,26,4706.26
+860,juin 2024,182024937,Ait Ouali Abdallah,26,4609.28
+860,juillet 2024,182024937,Ait Ouali Abdallah,26,4644.81
+860,août 2024,182024937,Ait Ouali Abdallah,26,4564.8
+860,septembre 2024,182024937,Ait Ouali Abdallah,26,4754.19
+860,octobre 2024,182024937,Ait Ouali Abdallah,26,4635.25
+860,novembre 2024,182024937,Ait Ouali Abdallah,26,4842.34
+860,décembre 2024,182024937,Ait Ouali Abdallah,26,5049.49
+860,décembre 2023,183103425,Bougrine Jilali,26,4152.16
+860,janvier 2024,183103425,Bougrine Jilali,26,4233.49
+860,février 2024,183103425,Bougrine Jilali,26,4289.59
+860,mars 2024,183103425,Bougrine Jilali,26,4299.4
+860,avril 2024,183103425,Bougrine Jilali,26,4174.2
+860,mai 2024,183103425,Bougrine Jilali,26,4162.03
+860,juin 2024,183103425,Bougrine Jilali,26,4217.8
+860,juillet 2024,183103425,Bougrine Jilali,26,4101.56
+860,août 2024,183103425,Bougrine Jilali,26,4206.74
+860,septembre 2024,183103425,Bougrine Jilali,26,4216.23
+860,octobre 2024,183103425,Bougrine Jilali,26,4418.95
+860,novembre 2024,183103425,Bougrine Jilali,26,4477.81
+860,décembre 2024,183103425,Bougrine Jilali,26,4350.02
+860,décembre 2023,183885239,Saidi Essaid,26,4147.93
+860,janvier 2024,183885239,Saidi Essaid,26,4035.81
+860,février 2024,183885239,Saidi Essaid,26,3951.39
+860,mars 2024,183885239,Saidi Essaid,26,3963.74
+860,avril 2024,183885239,Saidi Essaid,26,3999.07
+860,mai 2024,183885239,Saidi Essaid,26,4141.22
+860,juin 2024,183885239,Saidi Essaid,26,4142.4
+860,juillet 2024,183885239,Saidi Essaid,26,4263.24
+860,août 2024,183885239,Saidi Essaid,26,4151.75
+860,septembre 2024,183885239,Saidi Essaid,26,4225.9
+860,octobre 2024,183885239,Saidi Essaid,26,4111.26
+860,novembre 2024,183885239,Saidi Essaid,26,4243.96
+860,décembre 2024,183885239,Saidi Essaid,26,4409.46
+860,décembre 2023,185213074,Alloub Aissam,13,2056.14
+860,janvier 2024,185213074,Alloub Aissam,13,2124.59
+860,février 2024,185213074,Alloub Aissam,13,2184.06
+860,mars 2024,185213074,Alloub Aissam,13,2275.55
+860,avril 2024,185213074,Alloub Aissam,13,2351.98
+860,mai 2024,185213074,Alloub Aissam,13,2364.23
+860,juin 2024,185213074,Alloub Aissam,13,2445.83
+860,juillet 2024,185213074,Alloub Aissam,13,2382.58
+860,août 2024,185213074,Alloub Aissam,13,2329.69
+860,septembre 2024,185213074,Alloub Aissam,13,2383.07
+860,octobre 2024,185213074,Alloub Aissam,13,2448.3
+860,novembre 2024,185213074,Alloub Aissam,13,2418.82
+860,décembre 2024,185213074,Alloub Aissam,13,2394.93
+860,décembre 2023,185277723,Aferzghoul Lahoucine,16,9327.5
+860,janvier 2024,185277723,Aferzghoul Lahoucine,16,9224.79
+860,février 2024,185277723,Aferzghoul Lahoucine,16,9021.97
+860,mars 2024,185277723,Aferzghoul Lahoucine,16,9050.66
+860,avril 2024,185277723,Aferzghoul Lahoucine,16,8846.39
+860,mai 2024,185277723,Aferzghoul Lahoucine,16,8628.91
+860,juin 2024,185277723,Aferzghoul Lahoucine,16,8527.75
+860,juillet 2024,185277723,Aferzghoul Lahoucine,16,8740.31
+860,août 2024,185277723,Aferzghoul Lahoucine,16,9007.71
+860,septembre 2024,185277723,Aferzghoul Lahoucine,16,9107.96
+860,octobre 2024,185277723,Aferzghoul Lahoucine,16,8976.43
+860,novembre 2024,185277723,Aferzghoul Lahoucine,16,9129.76
+860,décembre 2024,185277723,Aferzghoul Lahoucine,16,9239.09
+860,décembre 2023,186899021,El Akri Aziz,26,4257.05
+860,janvier 2024,186899021,El Akri Aziz,26,4269.33
+860,février 2024,186899021,El Akri Aziz,26,4180.05
+860,mars 2024,186899021,El Akri Aziz,26,4323.24
+860,avril 2024,186899021,El Akri Aziz,26,4342.07
+860,mai 2024,186899021,El Akri Aziz,26,4468.31
+860,juin 2024,186899021,El Akri Aziz,26,4357.99
+860,juillet 2024,186899021,El Akri Aziz,26,4381.08
+860,août 2024,186899021,El Akri Aziz,26,4467.78
+860,septembre 2024,186899021,El Akri Aziz,26,4525.07
+860,octobre 2024,186899021,El Akri Aziz,26,4556.09
+860,novembre 2024,186899021,El Akri Aziz,26,4483.46
+860,décembre 2024,186899021,El Akri Aziz,26,4385.89
+860,décembre 2023,186917360,Touil Jamal,26,3719.9
+860,janvier 2024,186917360,Touil Jamal,26,3838.45
+860,février 2024,186917360,Touil Jamal,26,3807.69
+860,mars 2024,186917360,Touil Jamal,26,3987.78
+860,avril 2024,186917360,Touil Jamal,26,3942.56
+860,mai 2024,186917360,Touil Jamal,26,3913.77
+860,juin 2024,186917360,Touil Jamal,26,3981.29
+860,juillet 2024,186917360,Touil Jamal,26,3957.65
+860,août 2024,186917360,Touil Jamal,26,4122.85
+860,septembre 2024,186917360,Touil Jamal,26,4096.65
+860,octobre 2024,186917360,Touil Jamal,26,3985.01
+860,novembre 2024,186917360,Touil Jamal,26,3922.27
+860,décembre 2024,186917360,Touil Jamal,26,3890.54
+860,décembre 2023,188368506,Kabrane Azz Eddine,26,2969.98
+860,janvier 2024,188368506,Kabrane Azz Eddine,26,2965.98
+860,février 2024,188368506,Kabrane Azz Eddine,26,3070.76
+860,mars 2024,188368506,Kabrane Azz Eddine,26,3157.84
+860,avril 2024,188368506,Kabrane Azz Eddine,26,3186.0
+860,mai 2024,188368506,Kabrane Azz Eddine,26,3217.84
+860,juin 2024,188368506,Kabrane Azz Eddine,26,3292.45
+860,juillet 2024,188368506,Kabrane Azz Eddine,26,3379.84
+860,août 2024,188368506,Kabrane Azz Eddine,26,3373.01
+860,septembre 2024,188368506,Kabrane Azz Eddine,26,3520.47
+860,octobre 2024,188368506,Kabrane Azz Eddine,26,3606.45
+860,novembre 2024,188368506,Kabrane Azz Eddine,26,3773.03
+860,décembre 2024,188368506,Kabrane Azz Eddine,26,3708.67
+860,décembre 2023,190551617,Ait Aha Ider,26,4572.68
+860,janvier 2024,190551617,Ait Aha Ider,26,4650.36
+860,février 2024,190551617,Ait Aha Ider,26,4739.18
+860,mars 2024,190551617,Ait Aha Ider,26,4787.93
+860,avril 2024,190551617,Ait Aha Ider,26,4875.86
+860,mai 2024,190551617,Ait Aha Ider,26,4819.61
+860,juin 2024,190551617,Ait Aha Ider,26,5057.89
+860,juillet 2024,190551617,Ait Aha Ider,26,5229.02
+860,août 2024,190551617,Ait Aha Ider,26,5245.7
+860,septembre 2024,190551617,Ait Aha Ider,26,5507.08
+860,octobre 2024,190551617,Ait Aha Ider,26,5464.88
+860,novembre 2024,190551617,Ait Aha Ider,26,5393.11
+860,décembre 2024,190551617,Ait Aha Ider,26,5632.76
+860,décembre 2023,190760317,Ayoub Lahcen,26,3765.45
+860,janvier 2024,190760317,Ayoub Lahcen,26,3702.09
+860,février 2024,190760317,Ayoub Lahcen,26,3630.89
+860,mars 2024,190760317,Ayoub Lahcen,26,3753.2
+860,avril 2024,190760317,Ayoub Lahcen,26,3803.25
+860,mai 2024,190760317,Ayoub Lahcen,26,3988.34
+860,juin 2024,190760317,Ayoub Lahcen,26,4027.84
+860,juillet 2024,190760317,Ayoub Lahcen,26,4153.85
+860,août 2024,190760317,Ayoub Lahcen,26,4295.8
+860,septembre 2024,190760317,Ayoub Lahcen,26,4267.22
+860,octobre 2024,190760317,Ayoub Lahcen,26,4469.1
+860,novembre 2024,190760317,Ayoub Lahcen,26,4661.67
+860,décembre 2024,190760317,Ayoub Lahcen,26,4603.04
+860,décembre 2023,192138330,Ayoub Abdellah,22,3719.9
+860,janvier 2024,192138330,Ayoub Abdellah,22,3849.22
+860,février 2024,192138330,Ayoub Abdellah,22,3878.29
+860,mars 2024,192138330,Ayoub Abdellah,22,3882.8
+860,avril 2024,192138330,Ayoub Abdellah,22,3844.96
+860,mai 2024,192138330,Ayoub Abdellah,22,3903.74
+860,juin 2024,192138330,Ayoub Abdellah,22,4072.21
+860,juillet 2024,192138330,Ayoub Abdellah,22,4126.16
+860,août 2024,192138330,Ayoub Abdellah,22,4010.72
+860,septembre 2024,192138330,Ayoub Abdellah,22,3894.71
+860,octobre 2024,192138330,Ayoub Abdellah,22,4062.76
+860,novembre 2024,192138330,Ayoub Abdellah,22,3985.38
+860,décembre 2024,192138330,Ayoub Abdellah,22,4072.29
+860,décembre 2023,192138538,Rabih Abdellah,26,4576.63
+860,janvier 2024,192138538,Rabih Abdellah,26,4575.04
+860,février 2024,192138538,Rabih Abdellah,26,4437.91
+860,mars 2024,192138538,Rabih Abdellah,26,4427.86
+860,avril 2024,192138538,Rabih Abdellah,26,4460.7
+860,mai 2024,192138538,Rabih Abdellah,26,4559.23
+860,juin 2024,192138538,Rabih Abdellah,26,4602.12
+860,juillet 2024,192138538,Rabih Abdellah,26,4688.26
+860,août 2024,192138538,Rabih Abdellah,26,4832.18
+860,septembre 2024,192138538,Rabih Abdellah,26,4769.21
+860,octobre 2024,192138538,Rabih Abdellah,26,4977.61
+860,novembre 2024,192138538,Rabih Abdellah,26,4928.69
+860,décembre 2024,192138538,Rabih Abdellah,26,4786.53
+860,décembre 2023,194376350,Zafi Lahoucine,26,3771.3
+860,janvier 2024,194376350,Zafi Lahoucine,26,3889.01
+860,février 2024,194376350,Zafi Lahoucine,26,4071.88
+860,mars 2024,194376350,Zafi Lahoucine,26,4136.43
+860,avril 2024,194376350,Zafi Lahoucine,26,4251.12
+860,mai 2024,194376350,Zafi Lahoucine,26,4181.39
+860,juin 2024,194376350,Zafi Lahoucine,26,4365.89
+860,juillet 2024,194376350,Zafi Lahoucine,26,4443.91
+860,août 2024,194376350,Zafi Lahoucine,26,4590.06
+860,septembre 2024,194376350,Zafi Lahoucine,26,4647.47
+860,octobre 2024,194376350,Zafi Lahoucine,26,4746.89
+860,novembre 2024,194376350,Zafi Lahoucine,26,4921.03
+860,décembre 2024,194376350,Zafi Lahoucine,26,4958.51
+860,décembre 2023,195510618,Afaker M Barek,26,4805.75
+860,janvier 2024,195510618,Afaker M Barek,26,4667.83
+860,février 2024,195510618,Afaker M Barek,26,4775.07
+860,mars 2024,195510618,Afaker M Barek,26,4828.11
+860,avril 2024,195510618,Afaker M Barek,26,4833.37
+860,mai 2024,195510618,Afaker M Barek,26,4941.49
+860,juin 2024,195510618,Afaker M Barek,26,4990.04
+860,juillet 2024,195510618,Afaker M Barek,26,4929.05
+860,août 2024,195510618,Afaker M Barek,26,5105.4
+860,septembre 2024,195510618,Afaker M Barek,26,5111.5
+860,octobre 2024,195510618,Afaker M Barek,26,5158.61
+860,novembre 2024,195510618,Afaker M Barek,26,5229.8
+860,décembre 2024,195510618,Afaker M Barek,26,5431.57
+860,décembre 2023,196013231,Kezibri Kalid,26,4302.5
+860,janvier 2024,196013231,Kezibri Kalid,26,4176.42
+860,février 2024,196013231,Kezibri Kalid,26,4079.1
+860,mars 2024,196013231,Kezibri Kalid,26,4019.29
+860,avril 2024,196013231,Kezibri Kalid,26,3977.63
+860,mai 2024,196013231,Kezibri Kalid,26,4068.07
+860,juin 2024,196013231,Kezibri Kalid,26,4048.05
+860,juillet 2024,196013231,Kezibri Kalid,26,4072.61
+860,août 2024,196013231,Kezibri Kalid,26,4225.34
+860,septembre 2024,196013231,Kezibri Kalid,26,4269.74
+860,octobre 2024,196013231,Kezibri Kalid,26,4148.59
+860,novembre 2024,196013231,Kezibri Kalid,26,4089.4
+860,décembre 2024,196013231,Kezibri Kalid,26,4172.55

@@ -1,0 +1,2328 @@
+ID_adherent,month,immatriculationNumber,full_name,nombre_jours,salaire
+3589,décembre 2023,100323171,Laktaoui Miloud,24,5802.05
+3589,janvier 2024,100323171,Laktaoui Miloud,24,5819.84
+3589,février 2024,100323171,Laktaoui Miloud,24,6067.45
+3589,mars 2024,100323171,Laktaoui Miloud,24,6176.27
+3589,avril 2024,100323171,Laktaoui Miloud,24,6236.45
+3589,mai 2024,100323171,Laktaoui Miloud,24,6195.02
+3589,juin 2024,100323171,Laktaoui Miloud,24,6142.12
+3589,juillet 2024,100323171,Laktaoui Miloud,24,5969.86
+3589,août 2024,100323171,Laktaoui Miloud,24,6070.63
+3589,septembre 2024,100323171,Laktaoui Miloud,24,6171.71
+3589,octobre 2024,100323171,Laktaoui Miloud,24,6295.2
+3589,novembre 2024,100323171,Laktaoui Miloud,24,6536.96
+3589,décembre 2024,100323171,Laktaoui Miloud,24,6818.33
+3589,décembre 2023,101517880,Ragtane Mohamed,24,4472.94
+3589,janvier 2024,101517880,Ragtane Mohamed,24,4399.86
+3589,février 2024,101517880,Ragtane Mohamed,24,4504.09
+3589,mars 2024,101517880,Ragtane Mohamed,24,4628.74
+3589,avril 2024,101517880,Ragtane Mohamed,24,4638.66
+3589,mai 2024,101517880,Ragtane Mohamed,24,4711.45
+3589,juin 2024,101517880,Ragtane Mohamed,24,4796.99
+3589,juillet 2024,101517880,Ragtane Mohamed,24,4739.08
+3589,août 2024,101517880,Ragtane Mohamed,24,4833.02
+3589,septembre 2024,101517880,Ragtane Mohamed,24,4756.11
+3589,octobre 2024,101517880,Ragtane Mohamed,24,4991.31
+3589,novembre 2024,101517880,Ragtane Mohamed,24,4841.96
+3589,décembre 2024,101517880,Ragtane Mohamed,24,4697.02
+3589,décembre 2023,101987620,Astir Naima,26,4139.49
+3589,janvier 2024,101987620,Astir Naima,26,4027.06
+3589,février 2024,101987620,Astir Naima,26,4156.75
+3589,mars 2024,101987620,Astir Naima,26,4147.49
+3589,avril 2024,101987620,Astir Naima,26,4065.21
+3589,mai 2024,101987620,Astir Naima,26,4104.32
+3589,juin 2024,101987620,Astir Naima,26,4004.33
+3589,juillet 2024,101987620,Astir Naima,26,3989.16
+3589,août 2024,101987620,Astir Naima,26,3917.7
+3589,septembre 2024,101987620,Astir Naima,26,3917.85
+3589,octobre 2024,101987620,Astir Naima,26,3968.6
+3589,novembre 2024,101987620,Astir Naima,26,3969.02
+3589,décembre 2024,101987620,Astir Naima,26,3879.75
+3589,décembre 2023,102625559,Rennam Abdelfattah,24,5708.65
+3589,janvier 2024,102625559,Rennam Abdelfattah,24,5779.36
+3589,février 2024,102625559,Rennam Abdelfattah,24,5931.29
+3589,mars 2024,102625559,Rennam Abdelfattah,24,5787.21
+3589,avril 2024,102625559,Rennam Abdelfattah,24,6020.26
+3589,mai 2024,102625559,Rennam Abdelfattah,24,6006.54
+3589,juin 2024,102625559,Rennam Abdelfattah,24,6132.61
+3589,juillet 2024,102625559,Rennam Abdelfattah,24,6211.89
+3589,août 2024,102625559,Rennam Abdelfattah,24,6428.08
+3589,septembre 2024,102625559,Rennam Abdelfattah,24,6419.41
+3589,octobre 2024,102625559,Rennam Abdelfattah,24,6471.83
+3589,novembre 2024,102625559,Rennam Abdelfattah,24,6513.02
+3589,décembre 2024,102625559,Rennam Abdelfattah,24,6649.86
+3589,décembre 2023,102626250,Ezziyati Youssef,25,6261.93
+3589,janvier 2024,102626250,Ezziyati Youssef,25,6416.64
+3589,février 2024,102626250,Ezziyati Youssef,25,6383.34
+3589,mars 2024,102626250,Ezziyati Youssef,25,6201.0
+3589,avril 2024,102626250,Ezziyati Youssef,25,6164.63
+3589,mai 2024,102626250,Ezziyati Youssef,25,6261.18
+3589,juin 2024,102626250,Ezziyati Youssef,25,6176.75
+3589,juillet 2024,102626250,Ezziyati Youssef,25,6103.62
+3589,août 2024,102626250,Ezziyati Youssef,25,6058.22
+3589,septembre 2024,102626250,Ezziyati Youssef,25,6159.45
+3589,octobre 2024,102626250,Ezziyati Youssef,25,6118.59
+3589,novembre 2024,102626250,Ezziyati Youssef,25,6379.01
+3589,décembre 2024,102626250,Ezziyati Youssef,25,6564.24
+3589,décembre 2023,103728956,Hajjaj Youssef,24,5273.66
+3589,janvier 2024,103728956,Hajjaj Youssef,24,5448.64
+3589,février 2024,103728956,Hajjaj Youssef,24,5568.18
+3589,mars 2024,103728956,Hajjaj Youssef,24,5508.88
+3589,avril 2024,103728956,Hajjaj Youssef,24,5470.53
+3589,mai 2024,103728956,Hajjaj Youssef,24,5652.41
+3589,juin 2024,103728956,Hajjaj Youssef,24,5524.37
+3589,juillet 2024,103728956,Hajjaj Youssef,24,5595.57
+3589,août 2024,103728956,Hajjaj Youssef,24,5588.56
+3589,septembre 2024,103728956,Hajjaj Youssef,24,5472.44
+3589,octobre 2024,103728956,Hajjaj Youssef,24,5316.97
+3589,novembre 2024,103728956,Hajjaj Youssef,24,5199.74
+3589,décembre 2024,103728956,Hajjaj Youssef,24,5050.67
+3589,décembre 2023,104906508,Bali Asma,26,15237.29
+3589,janvier 2024,104906508,Bali Asma,26,15591.5
+3589,février 2024,104906508,Bali Asma,26,16194.02
+3589,mars 2024,104906508,Bali Asma,26,16466.99
+3589,avril 2024,104906508,Bali Asma,26,16131.24
+3589,mai 2024,104906508,Bali Asma,26,15795.36
+3589,juin 2024,104906508,Bali Asma,26,16533.79
+3589,juillet 2024,104906508,Bali Asma,26,16789.28
+3589,août 2024,104906508,Bali Asma,26,16719.76
+3589,septembre 2024,104906508,Bali Asma,26,16595.17
+3589,octobre 2024,104906508,Bali Asma,26,16821.23
+3589,novembre 2024,104906508,Bali Asma,26,17499.59
+3589,décembre 2024,104906508,Bali Asma,26,17676.4
+3589,décembre 2023,105029188,Kassab Abdelghani,24,5060.13
+3589,janvier 2024,105029188,Kassab Abdelghani,24,4935.18
+3589,février 2024,105029188,Kassab Abdelghani,24,4882.13
+3589,mars 2024,105029188,Kassab Abdelghani,24,5070.72
+3589,avril 2024,105029188,Kassab Abdelghani,24,4962.19
+3589,mai 2024,105029188,Kassab Abdelghani,24,5194.15
+3589,juin 2024,105029188,Kassab Abdelghani,24,5424.64
+3589,juillet 2024,105029188,Kassab Abdelghani,24,5649.02
+3589,août 2024,105029188,Kassab Abdelghani,24,5788.94
+3589,septembre 2024,105029188,Kassab Abdelghani,24,5817.84
+3589,octobre 2024,105029188,Kassab Abdelghani,24,5875.7
+3589,novembre 2024,105029188,Kassab Abdelghani,24,5844.06
+3589,décembre 2024,105029188,Kassab Abdelghani,24,5895.29
+3589,décembre 2023,106829074,Bchiri Salah Eddine,25,5912.16
+3589,janvier 2024,106829074,Bchiri Salah Eddine,25,5756.8
+3589,février 2024,106829074,Bchiri Salah Eddine,25,5700.35
+3589,mars 2024,106829074,Bchiri Salah Eddine,25,5593.88
+3589,avril 2024,106829074,Bchiri Salah Eddine,25,5834.46
+3589,mai 2024,106829074,Bchiri Salah Eddine,25,5996.46
+3589,juin 2024,106829074,Bchiri Salah Eddine,25,5850.51
+3589,juillet 2024,106829074,Bchiri Salah Eddine,25,5982.3
+3589,août 2024,106829074,Bchiri Salah Eddine,25,5852.68
+3589,septembre 2024,106829074,Bchiri Salah Eddine,25,6140.44
+3589,octobre 2024,106829074,Bchiri Salah Eddine,25,6304.2
+3589,novembre 2024,106829074,Bchiri Salah Eddine,25,6500.88
+3589,décembre 2024,106829074,Bchiri Salah Eddine,25,6798.55
+3589,décembre 2023,107488548,Chafiki Omar,24,5273.66
+3589,janvier 2024,107488548,Chafiki Omar,24,5513.71
+3589,février 2024,107488548,Chafiki Omar,24,5647.23
+3589,mars 2024,107488548,Chafiki Omar,24,5795.05
+3589,avril 2024,107488548,Chafiki Omar,24,5785.8
+3589,mai 2024,107488548,Chafiki Omar,24,6061.68
+3589,juin 2024,107488548,Chafiki Omar,24,6291.66
+3589,juillet 2024,107488548,Chafiki Omar,24,6591.44
+3589,août 2024,107488548,Chafiki Omar,24,6539.45
+3589,septembre 2024,107488548,Chafiki Omar,24,6799.84
+3589,octobre 2024,107488548,Chafiki Omar,24,6871.58
+3589,novembre 2024,107488548,Chafiki Omar,24,7167.36
+3589,décembre 2024,107488548,Chafiki Omar,24,7248.23
+3589,décembre 2023,107732888,Belouadane El Mehdi,21,4179.19
+3589,janvier 2024,107732888,Belouadane El Mehdi,21,4137.5
+3589,février 2024,107732888,Belouadane El Mehdi,21,4202.89
+3589,mars 2024,107732888,Belouadane El Mehdi,21,4134.91
+3589,avril 2024,107732888,Belouadane El Mehdi,21,4123.78
+3589,mai 2024,107732888,Belouadane El Mehdi,21,4225.01
+3589,juin 2024,107732888,Belouadane El Mehdi,21,4210.83
+3589,juillet 2024,107732888,Belouadane El Mehdi,21,4201.97
+3589,août 2024,107732888,Belouadane El Mehdi,21,4106.57
+3589,septembre 2024,107732888,Belouadane El Mehdi,21,4172.55
+3589,octobre 2024,107732888,Belouadane El Mehdi,21,4093.75
+3589,novembre 2024,107732888,Belouadane El Mehdi,21,4232.55
+3589,décembre 2024,107732888,Belouadane El Mehdi,21,4229.42
+3589,décembre 2023,109452442,Chiguer Abdelaaziz,26,145968.58
+3589,janvier 2024,109452442,Chiguer Abdelaaziz,26,148740.46
+3589,février 2024,109452442,Chiguer Abdelaaziz,26,149648.95
+3589,mars 2024,109452442,Chiguer Abdelaaziz,26,155891.57
+3589,avril 2024,109452442,Chiguer Abdelaaziz,26,157804.76
+3589,mai 2024,109452442,Chiguer Abdelaaziz,26,156747.77
+3589,juin 2024,109452442,Chiguer Abdelaaziz,26,152818.69
+3589,juillet 2024,109452442,Chiguer Abdelaaziz,26,152897.32
+3589,août 2024,109452442,Chiguer Abdelaaziz,26,159246.06
+3589,septembre 2024,109452442,Chiguer Abdelaaziz,26,164451.83
+3589,octobre 2024,109452442,Chiguer Abdelaaziz,26,168736.49
+3589,novembre 2024,109452442,Chiguer Abdelaaziz,26,167047.1
+3589,décembre 2024,109452442,Chiguer Abdelaaziz,26,166256.69
+3589,décembre 2023,111488261,Elboubkri Elmehdi,24,5273.66
+3589,janvier 2024,111488261,Elboubkri Elmehdi,24,5229.63
+3589,février 2024,111488261,Elboubkri Elmehdi,24,5400.13
+3589,mars 2024,111488261,Elboubkri Elmehdi,24,5629.61
+3589,avril 2024,111488261,Elboubkri Elmehdi,24,5536.33
+3589,mai 2024,111488261,Elboubkri Elmehdi,24,5554.69
+3589,juin 2024,111488261,Elboubkri Elmehdi,24,5429.56
+3589,juillet 2024,111488261,Elboubkri Elmehdi,24,5696.5
+3589,août 2024,111488261,Elboubkri Elmehdi,24,5909.09
+3589,septembre 2024,111488261,Elboubkri Elmehdi,24,6074.34
+3589,octobre 2024,111488261,Elboubkri Elmehdi,24,6035.13
+3589,novembre 2024,111488261,Elboubkri Elmehdi,24,6248.7
+3589,décembre 2024,111488261,Elboubkri Elmehdi,24,6405.11
+3589,décembre 2023,112035277,Chahboune Said,25,5314.02
+3589,janvier 2024,112035277,Chahboune Said,25,5482.3
+3589,février 2024,112035277,Chahboune Said,25,5422.87
+3589,mars 2024,112035277,Chahboune Said,25,5516.14
+3589,avril 2024,112035277,Chahboune Said,25,5734.61
+3589,mai 2024,112035277,Chahboune Said,25,5682.35
+3589,juin 2024,112035277,Chahboune Said,25,5561.98
+3589,juillet 2024,112035277,Chahboune Said,25,5698.92
+3589,août 2024,112035277,Chahboune Said,25,5768.33
+3589,septembre 2024,112035277,Chahboune Said,25,5945.13
+3589,octobre 2024,112035277,Chahboune Said,25,6227.26
+3589,novembre 2024,112035277,Chahboune Said,25,6488.63
+3589,décembre 2024,112035277,Chahboune Said,25,6336.14
+3589,décembre 2023,112766046,Barik Mohamed,24,7852.08
+3589,janvier 2024,112766046,Barik Mohamed,24,7977.6
+3589,février 2024,112766046,Barik Mohamed,24,7786.07
+3589,mars 2024,112766046,Barik Mohamed,24,8103.06
+3589,avril 2024,112766046,Barik Mohamed,24,8011.92
+3589,mai 2024,112766046,Barik Mohamed,24,8069.65
+3589,juin 2024,112766046,Barik Mohamed,24,8152.37
+3589,juillet 2024,112766046,Barik Mohamed,24,8425.55
+3589,août 2024,112766046,Barik Mohamed,24,8708.3
+3589,septembre 2024,112766046,Barik Mohamed,24,8485.17
+3589,octobre 2024,112766046,Barik Mohamed,24,8661.57
+3589,novembre 2024,112766046,Barik Mohamed,24,8497.22
+3589,décembre 2024,112766046,Barik Mohamed,24,8727.76
+3589,décembre 2023,114222054,Aboutaj Abdelaziz,26,9105.79
+3589,janvier 2024,114222054,Aboutaj Abdelaziz,26,9322.09
+3589,février 2024,114222054,Aboutaj Abdelaziz,26,9287.23
+3589,mars 2024,114222054,Aboutaj Abdelaziz,26,9082.5
+3589,avril 2024,114222054,Aboutaj Abdelaziz,26,9172.77
+3589,mai 2024,114222054,Aboutaj Abdelaziz,26,9520.47
+3589,juin 2024,114222054,Aboutaj Abdelaziz,26,9283.91
+3589,juillet 2024,114222054,Aboutaj Abdelaziz,26,9334.32
+3589,août 2024,114222054,Aboutaj Abdelaziz,26,9793.76
+3589,septembre 2024,114222054,Aboutaj Abdelaziz,26,9736.56
+3589,octobre 2024,114222054,Aboutaj Abdelaziz,26,9514.41
+3589,novembre 2024,114222054,Aboutaj Abdelaziz,26,9317.9
+3589,décembre 2024,114222054,Aboutaj Abdelaziz,26,9772.11
+3589,décembre 2023,114793758,Chelhaoui Khadija,25,5912.16
+3589,janvier 2024,114793758,Chelhaoui Khadija,25,6121.91
+3589,février 2024,114793758,Chelhaoui Khadija,25,6155.62
+3589,mars 2024,114793758,Chelhaoui Khadija,25,6115.32
+3589,avril 2024,114793758,Chelhaoui Khadija,25,6289.58
+3589,mai 2024,114793758,Chelhaoui Khadija,25,6183.38
+3589,juin 2024,114793758,Chelhaoui Khadija,25,6174.34
+3589,juillet 2024,114793758,Chelhaoui Khadija,25,6218.07
+3589,août 2024,114793758,Chelhaoui Khadija,25,6167.12
+3589,septembre 2024,114793758,Chelhaoui Khadija,25,6312.66
+3589,octobre 2024,114793758,Chelhaoui Khadija,25,6302.67
+3589,novembre 2024,114793758,Chelhaoui Khadija,25,6275.06
+3589,décembre 2024,114793758,Chelhaoui Khadija,25,6219.7
+3589,décembre 2023,116224587,Sabir Ali,22,4326.06
+3589,janvier 2024,116224587,Sabir Ali,22,4348.48
+3589,février 2024,116224587,Sabir Ali,22,4263.92
+3589,mars 2024,116224587,Sabir Ali,22,4263.55
+3589,avril 2024,116224587,Sabir Ali,22,4170.9
+3589,mai 2024,116224587,Sabir Ali,22,4135.18
+3589,juin 2024,116224587,Sabir Ali,22,4311.63
+3589,juillet 2024,116224587,Sabir Ali,22,4338.69
+3589,août 2024,116224587,Sabir Ali,22,4217.68
+3589,septembre 2024,116224587,Sabir Ali,22,4384.31
+3589,octobre 2024,116224587,Sabir Ali,22,4495.98
+3589,novembre 2024,116224587,Sabir Ali,22,4402.52
+3589,décembre 2024,116224587,Sabir Ali,22,4552.24
+3589,décembre 2023,116819164,Ben Hassi Adil,24,5273.66
+3589,janvier 2024,116819164,Ben Hassi Adil,24,5307.82
+3589,février 2024,116819164,Ben Hassi Adil,24,5340.96
+3589,mars 2024,116819164,Ben Hassi Adil,24,5331.06
+3589,avril 2024,116819164,Ben Hassi Adil,24,5520.26
+3589,mai 2024,116819164,Ben Hassi Adil,24,5599.1
+3589,juin 2024,116819164,Ben Hassi Adil,24,5860.57
+3589,juillet 2024,116819164,Ben Hassi Adil,24,5954.86
+3589,août 2024,116819164,Ben Hassi Adil,24,6155.32
+3589,septembre 2024,116819164,Ben Hassi Adil,24,6076.49
+3589,octobre 2024,116819164,Ben Hassi Adil,24,6156.8
+3589,novembre 2024,116819164,Ben Hassi Adil,24,6298.23
+3589,décembre 2024,116819164,Ben Hassi Adil,24,6158.83
+3589,décembre 2023,117672066,Baddre El Mostafa,24,5308.16
+3589,janvier 2024,117672066,Baddre El Mostafa,24,5253.71
+3589,février 2024,117672066,Baddre El Mostafa,24,5512.38
+3589,mars 2024,117672066,Baddre El Mostafa,24,5520.41
+3589,avril 2024,117672066,Baddre El Mostafa,24,5724.23
+3589,mai 2024,117672066,Baddre El Mostafa,24,5672.8
+3589,juin 2024,117672066,Baddre El Mostafa,24,5682.82
+3589,juillet 2024,117672066,Baddre El Mostafa,24,5516.64
+3589,août 2024,117672066,Baddre El Mostafa,24,5643.22
+3589,septembre 2024,117672066,Baddre El Mostafa,24,5558.44
+3589,octobre 2024,117672066,Baddre El Mostafa,24,5525.25
+3589,novembre 2024,117672066,Baddre El Mostafa,24,5426.69
+3589,décembre 2024,117672066,Baddre El Mostafa,24,5378.84
+3589,décembre 2023,118047862,Belkebir Ahmed,22,4997.52
+3589,janvier 2024,118047862,Belkebir Ahmed,22,5233.15
+3589,février 2024,118047862,Belkebir Ahmed,22,5367.12
+3589,mars 2024,118047862,Belkebir Ahmed,22,5577.33
+3589,avril 2024,118047862,Belkebir Ahmed,22,5487.13
+3589,mai 2024,118047862,Belkebir Ahmed,22,5523.73
+3589,juin 2024,118047862,Belkebir Ahmed,22,5483.82
+3589,juillet 2024,118047862,Belkebir Ahmed,22,5499.22
+3589,août 2024,118047862,Belkebir Ahmed,22,5411.99
+3589,septembre 2024,118047862,Belkebir Ahmed,22,5610.14
+3589,octobre 2024,118047862,Belkebir Ahmed,22,5532.56
+3589,novembre 2024,118047862,Belkebir Ahmed,22,5499.99
+3589,décembre 2024,118047862,Belkebir Ahmed,22,5592.04
+3589,décembre 2023,118616352,Id Ahmed Mohamed,24,6858.65
+3589,janvier 2024,118616352,Id Ahmed Mohamed,24,7186.43
+3589,février 2024,118616352,Id Ahmed Mohamed,24,7484.35
+3589,mars 2024,118616352,Id Ahmed Mohamed,24,7484.91
+3589,avril 2024,118616352,Id Ahmed Mohamed,24,7375.93
+3589,mai 2024,118616352,Id Ahmed Mohamed,24,7737.16
+3589,juin 2024,118616352,Id Ahmed Mohamed,24,7793.43
+3589,juillet 2024,118616352,Id Ahmed Mohamed,24,8017.54
+3589,août 2024,118616352,Id Ahmed Mohamed,24,8138.39
+3589,septembre 2024,118616352,Id Ahmed Mohamed,24,8062.77
+3589,octobre 2024,118616352,Id Ahmed Mohamed,24,8075.77
+3589,novembre 2024,118616352,Id Ahmed Mohamed,24,8469.49
+3589,décembre 2024,118616352,Id Ahmed Mohamed,24,8745.26
+3589,décembre 2023,118842759,Taybi Abdelhadi,25,5912.17
+3589,janvier 2024,118842759,Taybi Abdelhadi,25,6199.5
+3589,février 2024,118842759,Taybi Abdelhadi,25,6318.28
+3589,mars 2024,118842759,Taybi Abdelhadi,25,6173.65
+3589,avril 2024,118842759,Taybi Abdelhadi,25,6299.57
+3589,mai 2024,118842759,Taybi Abdelhadi,25,6574.05
+3589,juin 2024,118842759,Taybi Abdelhadi,25,6621.52
+3589,juillet 2024,118842759,Taybi Abdelhadi,25,6574.73
+3589,août 2024,118842759,Taybi Abdelhadi,25,6600.41
+3589,septembre 2024,118842759,Taybi Abdelhadi,25,6888.32
+3589,octobre 2024,118842759,Taybi Abdelhadi,25,6957.43
+3589,novembre 2024,118842759,Taybi Abdelhadi,25,7257.24
+3589,décembre 2024,118842759,Taybi Abdelhadi,25,7487.04
+3589,décembre 2023,118842858,Kamal Mohamed,23,5505.14
+3589,janvier 2024,118842858,Kamal Mohamed,23,5708.03
+3589,février 2024,118842858,Kamal Mohamed,23,5827.44
+3589,mars 2024,118842858,Kamal Mohamed,23,5866.61
+3589,avril 2024,118842858,Kamal Mohamed,23,5920.1
+3589,mai 2024,118842858,Kamal Mohamed,23,5935.54
+3589,juin 2024,118842858,Kamal Mohamed,23,6165.24
+3589,juillet 2024,118842858,Kamal Mohamed,23,6380.33
+3589,août 2024,118842858,Kamal Mohamed,23,6358.1
+3589,septembre 2024,118842858,Kamal Mohamed,23,6337.9
+3589,octobre 2024,118842858,Kamal Mohamed,23,6358.82
+3589,novembre 2024,118842858,Kamal Mohamed,23,6540.53
+3589,décembre 2024,118842858,Kamal Mohamed,23,6496.56
+3589,décembre 2023,119500265,Saber Mohamed,25,4619.81
+3589,janvier 2024,119500265,Saber Mohamed,25,4579.58
+3589,février 2024,119500265,Saber Mohamed,25,4581.32
+3589,mars 2024,119500265,Saber Mohamed,25,4467.69
+3589,avril 2024,119500265,Saber Mohamed,25,4613.75
+3589,mai 2024,119500265,Saber Mohamed,25,4550.48
+3589,juin 2024,119500265,Saber Mohamed,25,4603.76
+3589,juillet 2024,119500265,Saber Mohamed,25,4548.92
+3589,août 2024,119500265,Saber Mohamed,25,4674.89
+3589,septembre 2024,119500265,Saber Mohamed,25,4706.9
+3589,octobre 2024,119500265,Saber Mohamed,25,4809.19
+3589,novembre 2024,119500265,Saber Mohamed,25,5001.67
+3589,décembre 2024,119500265,Saber Mohamed,25,5219.86
+3589,décembre 2023,119883447,Lamaizi Hassan,25,7364.48
+3589,janvier 2024,119883447,Lamaizi Hassan,25,7316.94
+3589,février 2024,119883447,Lamaizi Hassan,25,7571.99
+3589,mars 2024,119883447,Lamaizi Hassan,25,7734.49
+3589,avril 2024,119883447,Lamaizi Hassan,25,8027.01
+3589,mai 2024,119883447,Lamaizi Hassan,25,8145.17
+3589,juin 2024,119883447,Lamaizi Hassan,25,8314.5
+3589,juillet 2024,119883447,Lamaizi Hassan,25,8720.24
+3589,août 2024,119883447,Lamaizi Hassan,25,9097.97
+3589,septembre 2024,119883447,Lamaizi Hassan,25,9247.89
+3589,octobre 2024,119883447,Lamaizi Hassan,25,9594.47
+3589,novembre 2024,119883447,Lamaizi Hassan,25,9611.26
+3589,décembre 2024,119883447,Lamaizi Hassan,25,9612.94
+3589,décembre 2023,120089951,Kaliy Mounssif,24,4033.33
+3589,janvier 2024,120089951,Kaliy Mounssif,24,4006.42
+3589,février 2024,120089951,Kaliy Mounssif,24,4125.91
+3589,mars 2024,120089951,Kaliy Mounssif,24,4167.78
+3589,avril 2024,120089951,Kaliy Mounssif,24,4102.25
+3589,mai 2024,120089951,Kaliy Mounssif,24,4242.86
+3589,juin 2024,120089951,Kaliy Mounssif,24,4164.91
+3589,juillet 2024,120089951,Kaliy Mounssif,24,4217.65
+3589,août 2024,120089951,Kaliy Mounssif,24,4427.92
+3589,septembre 2024,120089951,Kaliy Mounssif,24,4487.47
+3589,octobre 2024,120089951,Kaliy Mounssif,24,4450.55
+3589,novembre 2024,120089951,Kaliy Mounssif,24,4515.55
+3589,décembre 2024,120089951,Kaliy Mounssif,24,4526.48
+3589,décembre 2023,120272051,Khadoumi Radouane,24,5273.66
+3589,janvier 2024,120272051,Khadoumi Radouane,24,5461.43
+3589,février 2024,120272051,Khadoumi Radouane,24,5434.66
+3589,mars 2024,120272051,Khadoumi Radouane,24,5617.17
+3589,avril 2024,120272051,Khadoumi Radouane,24,5713.51
+3589,mai 2024,120272051,Khadoumi Radouane,24,5785.58
+3589,juin 2024,120272051,Khadoumi Radouane,24,5615.74
+3589,juillet 2024,120272051,Khadoumi Radouane,24,5778.25
+3589,août 2024,120272051,Khadoumi Radouane,24,5763.6
+3589,septembre 2024,120272051,Khadoumi Radouane,24,5732.32
+3589,octobre 2024,120272051,Khadoumi Radouane,24,5663.48
+3589,novembre 2024,120272051,Khadoumi Radouane,24,5698.32
+3589,décembre 2024,120272051,Khadoumi Radouane,24,5663.72
+3589,décembre 2023,120630109,Khobane Ismail,24,2949.84
+3589,janvier 2024,120630109,Khobane Ismail,24,2999.04
+3589,février 2024,120630109,Khobane Ismail,24,3080.08
+3589,mars 2024,120630109,Khobane Ismail,24,3038.06
+3589,avril 2024,120630109,Khobane Ismail,24,3123.73
+3589,mai 2024,120630109,Khobane Ismail,24,3084.26
+3589,juin 2024,120630109,Khobane Ismail,24,3187.71
+3589,juillet 2024,120630109,Khobane Ismail,24,3297.32
+3589,août 2024,120630109,Khobane Ismail,24,3408.6
+3589,septembre 2024,120630109,Khobane Ismail,24,3358.46
+3589,octobre 2024,120630109,Khobane Ismail,24,3321.47
+3589,novembre 2024,120630109,Khobane Ismail,24,3442.16
+3589,décembre 2024,120630109,Khobane Ismail,24,3601.8
+3589,décembre 2023,121567055,Amiri Abdelkrim,21,5301.68
+3589,janvier 2024,121567055,Amiri Abdelkrim,21,5454.43
+3589,février 2024,121567055,Amiri Abdelkrim,21,5454.87
+3589,mars 2024,121567055,Amiri Abdelkrim,21,5660.92
+3589,avril 2024,121567055,Amiri Abdelkrim,21,5813.91
+3589,mai 2024,121567055,Amiri Abdelkrim,21,5771.45
+3589,juin 2024,121567055,Amiri Abdelkrim,21,5786.68
+3589,juillet 2024,121567055,Amiri Abdelkrim,21,5775.59
+3589,août 2024,121567055,Amiri Abdelkrim,21,6063.73
+3589,septembre 2024,121567055,Amiri Abdelkrim,21,6344.17
+3589,octobre 2024,121567055,Amiri Abdelkrim,21,6254.49
+3589,novembre 2024,121567055,Amiri Abdelkrim,21,6421.57
+3589,décembre 2024,121567055,Amiri Abdelkrim,21,6464.22
+3589,décembre 2023,121954179,Rabih Ahmed,23,4570.42
+3589,janvier 2024,121954179,Rabih Ahmed,23,4656.79
+3589,février 2024,121954179,Rabih Ahmed,23,4837.19
+3589,mars 2024,121954179,Rabih Ahmed,23,5055.04
+3589,avril 2024,121954179,Rabih Ahmed,23,5263.14
+3589,mai 2024,121954179,Rabih Ahmed,23,5276.14
+3589,juin 2024,121954179,Rabih Ahmed,23,5400.96
+3589,juillet 2024,121954179,Rabih Ahmed,23,5415.0
+3589,août 2024,121954179,Rabih Ahmed,23,5390.82
+3589,septembre 2024,121954179,Rabih Ahmed,23,5241.76
+3589,octobre 2024,121954179,Rabih Ahmed,23,5329.11
+3589,novembre 2024,121954179,Rabih Ahmed,23,5295.22
+3589,décembre 2024,121954179,Rabih Ahmed,23,5439.43
+3589,décembre 2023,122149969,Ou Mansour El Habib,25,5457.75
+3589,janvier 2024,122149969,Ou Mansour El Habib,25,5596.02
+3589,février 2024,122149969,Ou Mansour El Habib,25,5735.5
+3589,mars 2024,122149969,Ou Mansour El Habib,25,5614.89
+3589,avril 2024,122149969,Ou Mansour El Habib,25,5569.35
+3589,mai 2024,122149969,Ou Mansour El Habib,25,5808.36
+3589,juin 2024,122149969,Ou Mansour El Habib,25,6064.47
+3589,juillet 2024,122149969,Ou Mansour El Habib,25,6144.1
+3589,août 2024,122149969,Ou Mansour El Habib,25,5984.23
+3589,septembre 2024,122149969,Ou Mansour El Habib,25,6122.3
+3589,octobre 2024,122149969,Ou Mansour El Habib,25,6356.67
+3589,novembre 2024,122149969,Ou Mansour El Habib,25,6510.12
+3589,décembre 2024,122149969,Ou Mansour El Habib,25,6413.6
+3589,décembre 2023,122179057,Abounouss Hicham,24,5273.66
+3589,janvier 2024,122179057,Abounouss Hicham,24,5376.08
+3589,février 2024,122179057,Abounouss Hicham,24,5391.59
+3589,mars 2024,122179057,Abounouss Hicham,24,5577.77
+3589,avril 2024,122179057,Abounouss Hicham,24,5698.66
+3589,mai 2024,122179057,Abounouss Hicham,24,5631.61
+3589,juin 2024,122179057,Abounouss Hicham,24,5688.4
+3589,juillet 2024,122179057,Abounouss Hicham,24,5637.85
+3589,août 2024,122179057,Abounouss Hicham,24,5617.6
+3589,septembre 2024,122179057,Abounouss Hicham,24,5484.99
+3589,octobre 2024,122179057,Abounouss Hicham,24,5719.98
+3589,novembre 2024,122179057,Abounouss Hicham,24,5656.27
+3589,décembre 2024,122179057,Abounouss Hicham,24,5934.53
+3589,décembre 2023,122645587,El Abid Amrani Youssef,24,4439.94
+3589,janvier 2024,122645587,El Abid Amrani Youssef,24,4384.69
+3589,février 2024,122645587,El Abid Amrani Youssef,24,4509.77
+3589,mars 2024,122645587,El Abid Amrani Youssef,24,4621.05
+3589,avril 2024,122645587,El Abid Amrani Youssef,24,4544.04
+3589,mai 2024,122645587,El Abid Amrani Youssef,24,4609.74
+3589,juin 2024,122645587,El Abid Amrani Youssef,24,4826.78
+3589,juillet 2024,122645587,El Abid Amrani Youssef,24,4952.93
+3589,août 2024,122645587,El Abid Amrani Youssef,24,5037.74
+3589,septembre 2024,122645587,El Abid Amrani Youssef,24,5249.44
+3589,octobre 2024,122645587,El Abid Amrani Youssef,24,5424.27
+3589,novembre 2024,122645587,El Abid Amrani Youssef,24,5677.21
+3589,décembre 2024,122645587,El Abid Amrani Youssef,24,5917.42
+3589,décembre 2023,123488697,Benabderrahmane Khadija,26,16561.21
+3589,janvier 2024,123488697,Benabderrahmane Khadija,26,17308.78
+3589,février 2024,123488697,Benabderrahmane Khadija,26,18158.91
+3589,mars 2024,123488697,Benabderrahmane Khadija,26,18142.72
+3589,avril 2024,123488697,Benabderrahmane Khadija,26,17863.84
+3589,mai 2024,123488697,Benabderrahmane Khadija,26,17391.09
+3589,juin 2024,123488697,Benabderrahmane Khadija,26,17065.38
+3589,juillet 2024,123488697,Benabderrahmane Khadija,26,16807.2
+3589,août 2024,123488697,Benabderrahmane Khadija,26,17147.45
+3589,septembre 2024,123488697,Benabderrahmane Khadija,26,17701.61
+3589,octobre 2024,123488697,Benabderrahmane Khadija,26,17289.64
+3589,novembre 2024,123488697,Benabderrahmane Khadija,26,17010.89
+3589,décembre 2024,123488697,Benabderrahmane Khadija,26,16783.43
+3589,décembre 2023,123685350,Abounous Asmaa,17,9908.16
+3589,janvier 2024,123685350,Abounous Asmaa,17,9926.49
+3589,février 2024,123685350,Abounous Asmaa,17,9661.58
+3589,mars 2024,123685350,Abounous Asmaa,17,10030.65
+3589,avril 2024,123685350,Abounous Asmaa,17,10100.39
+3589,mai 2024,123685350,Abounous Asmaa,17,10269.47
+3589,juin 2024,123685350,Abounous Asmaa,17,10376.01
+3589,juillet 2024,123685350,Abounous Asmaa,17,10499.2
+3589,août 2024,123685350,Abounous Asmaa,17,10459.29
+3589,septembre 2024,123685350,Abounous Asmaa,17,10748.28
+3589,octobre 2024,123685350,Abounous Asmaa,17,10529.92
+3589,novembre 2024,123685350,Abounous Asmaa,17,10241.73
+3589,décembre 2024,123685350,Abounous Asmaa,17,10294.35
+3589,décembre 2023,123702055,Bakadir Issam,24,5708.65
+3589,janvier 2024,123702055,Bakadir Issam,24,5947.66
+3589,février 2024,123702055,Bakadir Issam,24,5985.51
+3589,mars 2024,123702055,Bakadir Issam,24,5892.02
+3589,avril 2024,123702055,Bakadir Issam,24,6061.66
+3589,mai 2024,123702055,Bakadir Issam,24,6071.77
+3589,juin 2024,123702055,Bakadir Issam,24,6255.72
+3589,juillet 2024,123702055,Bakadir Issam,24,6548.76
+3589,août 2024,123702055,Bakadir Issam,24,6721.5
+3589,septembre 2024,123702055,Bakadir Issam,24,6914.78
+3589,octobre 2024,123702055,Bakadir Issam,24,6792.97
+3589,novembre 2024,123702055,Bakadir Issam,24,7025.91
+3589,décembre 2024,123702055,Bakadir Issam,24,6849.11
+3589,décembre 2023,124199079,El Aissassi Jamal,24,4439.94
+3589,janvier 2024,124199079,El Aissassi Jamal,24,4652.7
+3589,février 2024,124199079,El Aissassi Jamal,24,4869.39
+3589,mars 2024,124199079,El Aissassi Jamal,24,4832.16
+3589,avril 2024,124199079,El Aissassi Jamal,24,4820.56
+3589,mai 2024,124199079,El Aissassi Jamal,24,4721.36
+3589,juin 2024,124199079,El Aissassi Jamal,24,4719.72
+3589,juillet 2024,124199079,El Aissassi Jamal,24,4723.28
+3589,août 2024,124199079,El Aissassi Jamal,24,4716.55
+3589,septembre 2024,124199079,El Aissassi Jamal,24,4882.5
+3589,octobre 2024,124199079,El Aissassi Jamal,24,5037.43
+3589,novembre 2024,124199079,El Aissassi Jamal,24,5194.89
+3589,décembre 2024,124199079,El Aissassi Jamal,24,5086.61
+3589,décembre 2023,124514186,Asebriy Abderrahim,24,5308.16
+3589,janvier 2024,124514186,Asebriy Abderrahim,24,5450.44
+3589,février 2024,124514186,Asebriy Abderrahim,24,5652.76
+3589,mars 2024,124514186,Asebriy Abderrahim,24,5698.94
+3589,avril 2024,124514186,Asebriy Abderrahim,24,5663.48
+3589,mai 2024,124514186,Asebriy Abderrahim,24,5793.02
+3589,juin 2024,124514186,Asebriy Abderrahim,24,5671.16
+3589,juillet 2024,124514186,Asebriy Abderrahim,24,5891.35
+3589,août 2024,124514186,Asebriy Abderrahim,24,6068.09
+3589,septembre 2024,124514186,Asebriy Abderrahim,24,6329.2
+3589,octobre 2024,124514186,Asebriy Abderrahim,24,6322.3
+3589,novembre 2024,124514186,Asebriy Abderrahim,24,6539.63
+3589,décembre 2024,124514186,Asebriy Abderrahim,24,6556.75
+3589,décembre 2023,124880173,Chenougui Abdelali,24,4742.08
+3589,janvier 2024,124880173,Chenougui Abdelali,24,4815.17
+3589,février 2024,124880173,Chenougui Abdelali,24,4762.71
+3589,mars 2024,124880173,Chenougui Abdelali,24,4664.92
+3589,avril 2024,124880173,Chenougui Abdelali,24,4725.3
+3589,mai 2024,124880173,Chenougui Abdelali,24,4865.82
+3589,juin 2024,124880173,Chenougui Abdelali,24,4843.36
+3589,juillet 2024,124880173,Chenougui Abdelali,24,4962.46
+3589,août 2024,124880173,Chenougui Abdelali,24,5185.24
+3589,septembre 2024,124880173,Chenougui Abdelali,24,5122.11
+3589,octobre 2024,124880173,Chenougui Abdelali,24,4992.76
+3589,novembre 2024,124880173,Chenougui Abdelali,24,4895.67
+3589,décembre 2024,124880173,Chenougui Abdelali,24,4770.89
+3589,décembre 2023,124906987,Rouway Ayoub,24,4439.94
+3589,janvier 2024,124906987,Rouway Ayoub,24,4344.18
+3589,février 2024,124906987,Rouway Ayoub,24,4243.23
+3589,mars 2024,124906987,Rouway Ayoub,24,4220.05
+3589,avril 2024,124906987,Rouway Ayoub,24,4277.87
+3589,mai 2024,124906987,Rouway Ayoub,24,4405.66
+3589,juin 2024,124906987,Rouway Ayoub,24,4481.95
+3589,juillet 2024,124906987,Rouway Ayoub,24,4645.37
+3589,août 2024,124906987,Rouway Ayoub,24,4677.35
+3589,septembre 2024,124906987,Rouway Ayoub,24,4606.41
+3589,octobre 2024,124906987,Rouway Ayoub,24,4805.86
+3589,novembre 2024,124906987,Rouway Ayoub,24,4799.19
+3589,décembre 2024,124906987,Rouway Ayoub,24,4872.85
+3589,décembre 2023,124958764,Elmoumeny Abdellah,25,4609.75
+3589,janvier 2024,124958764,Elmoumeny Abdellah,25,4486.79
+3589,février 2024,124958764,Elmoumeny Abdellah,25,4555.93
+3589,mars 2024,124958764,Elmoumeny Abdellah,25,4761.58
+3589,avril 2024,124958764,Elmoumeny Abdellah,25,4665.07
+3589,mai 2024,124958764,Elmoumeny Abdellah,25,4604.4
+3589,juin 2024,124958764,Elmoumeny Abdellah,25,4626.15
+3589,juillet 2024,124958764,Elmoumeny Abdellah,25,4536.12
+3589,août 2024,124958764,Elmoumeny Abdellah,25,4507.05
+3589,septembre 2024,124958764,Elmoumeny Abdellah,25,4713.3
+3589,octobre 2024,124958764,Elmoumeny Abdellah,25,4837.17
+3589,novembre 2024,124958764,Elmoumeny Abdellah,25,5049.01
+3589,décembre 2024,124958764,Elmoumeny Abdellah,25,5111.75
+3589,décembre 2023,125765697,Bourich El Mehdi,25,4192.22
+3589,janvier 2024,125765697,Bourich El Mehdi,25,4177.08
+3589,février 2024,125765697,Bourich El Mehdi,25,4241.54
+3589,mars 2024,125765697,Bourich El Mehdi,25,4121.33
+3589,avril 2024,125765697,Bourich El Mehdi,25,4026.54
+3589,mai 2024,125765697,Bourich El Mehdi,25,3990.04
+3589,juin 2024,125765697,Bourich El Mehdi,25,3995.77
+3589,juillet 2024,125765697,Bourich El Mehdi,25,4086.81
+3589,août 2024,125765697,Bourich El Mehdi,25,4016.14
+3589,septembre 2024,125765697,Bourich El Mehdi,25,3953.06
+3589,octobre 2024,125765697,Bourich El Mehdi,25,4084.6
+3589,novembre 2024,125765697,Bourich El Mehdi,25,4146.47
+3589,décembre 2024,125765697,Bourich El Mehdi,25,4038.25
+3589,décembre 2023,125846315,Bellihy Salaheddine,26,16782.28
+3589,janvier 2024,125846315,Bellihy Salaheddine,26,16419.22
+3589,février 2024,125846315,Bellihy Salaheddine,26,16362.64
+3589,mars 2024,125846315,Bellihy Salaheddine,26,15906.95
+3589,avril 2024,125846315,Bellihy Salaheddine,26,15536.46
+3589,mai 2024,125846315,Bellihy Salaheddine,26,15630.83
+3589,juin 2024,125846315,Bellihy Salaheddine,26,15684.49
+3589,juillet 2024,125846315,Bellihy Salaheddine,26,15245.91
+3589,août 2024,125846315,Bellihy Salaheddine,26,15019.63
+3589,septembre 2024,125846315,Bellihy Salaheddine,26,15433.16
+3589,octobre 2024,125846315,Bellihy Salaheddine,26,15279.83
+3589,novembre 2024,125846315,Bellihy Salaheddine,26,16039.7
+3589,décembre 2024,125846315,Bellihy Salaheddine,26,16811.21
+3589,décembre 2023,126496671,Kaddouri Tariq,23,5124.07
+3589,janvier 2024,126496671,Kaddouri Tariq,23,5028.28
+3589,février 2024,126496671,Kaddouri Tariq,23,5083.79
+3589,mars 2024,126496671,Kaddouri Tariq,23,5255.11
+3589,avril 2024,126496671,Kaddouri Tariq,23,5208.75
+3589,mai 2024,126496671,Kaddouri Tariq,23,5132.33
+3589,juin 2024,126496671,Kaddouri Tariq,23,5314.51
+3589,juillet 2024,126496671,Kaddouri Tariq,23,5268.25
+3589,août 2024,126496671,Kaddouri Tariq,23,5126.65
+3589,septembre 2024,126496671,Kaddouri Tariq,23,5310.11
+3589,octobre 2024,126496671,Kaddouri Tariq,23,5384.98
+3589,novembre 2024,126496671,Kaddouri Tariq,23,5340.76
+3589,décembre 2024,126496671,Kaddouri Tariq,23,5570.86
+3589,décembre 2023,126830762,Madmoune Abdelhakim,23,4514.97
+3589,janvier 2024,126830762,Madmoune Abdelhakim,23,4649.06
+3589,février 2024,126830762,Madmoune Abdelhakim,23,4712.88
+3589,mars 2024,126830762,Madmoune Abdelhakim,23,4886.29
+3589,avril 2024,126830762,Madmoune Abdelhakim,23,4840.09
+3589,mai 2024,126830762,Madmoune Abdelhakim,23,4960.39
+3589,juin 2024,126830762,Madmoune Abdelhakim,23,4997.05
+3589,juillet 2024,126830762,Madmoune Abdelhakim,23,4933.37
+3589,août 2024,126830762,Madmoune Abdelhakim,23,4883.11
+3589,septembre 2024,126830762,Madmoune Abdelhakim,23,5049.36
+3589,octobre 2024,126830762,Madmoune Abdelhakim,23,5219.19
+3589,novembre 2024,126830762,Madmoune Abdelhakim,23,5158.23
+3589,décembre 2024,126830762,Madmoune Abdelhakim,23,5263.38
+3589,décembre 2023,127867863,El Maliki Mohammed,24,4695.73
+3589,janvier 2024,127867863,El Maliki Mohammed,24,4916.06
+3589,février 2024,127867863,El Maliki Mohammed,24,4855.26
+3589,mars 2024,127867863,El Maliki Mohammed,24,5014.85
+3589,avril 2024,127867863,El Maliki Mohammed,24,5233.52
+3589,mai 2024,127867863,El Maliki Mohammed,24,5374.06
+3589,juin 2024,127867863,El Maliki Mohammed,24,5271.04
+3589,juillet 2024,127867863,El Maliki Mohammed,24,5278.0
+3589,août 2024,127867863,El Maliki Mohammed,24,5192.55
+3589,septembre 2024,127867863,El Maliki Mohammed,24,5309.99
+3589,octobre 2024,127867863,El Maliki Mohammed,24,5187.11
+3589,novembre 2024,127867863,El Maliki Mohammed,24,5356.43
+3589,décembre 2024,127867863,El Maliki Mohammed,24,5576.31
+3589,décembre 2023,128126540,Azzam Zakaria,26,4025.99
+3589,janvier 2024,128126540,Azzam Zakaria,26,4055.12
+3589,février 2024,128126540,Azzam Zakaria,26,4172.61
+3589,mars 2024,128126540,Azzam Zakaria,26,4263.52
+3589,avril 2024,128126540,Azzam Zakaria,26,4261.5
+3589,mai 2024,128126540,Azzam Zakaria,26,4471.94
+3589,juin 2024,128126540,Azzam Zakaria,26,4444.59
+3589,juillet 2024,128126540,Azzam Zakaria,26,4405.15
+3589,août 2024,128126540,Azzam Zakaria,26,4434.11
+3589,septembre 2024,128126540,Azzam Zakaria,26,4315.16
+3589,octobre 2024,128126540,Azzam Zakaria,26,4270.16
+3589,novembre 2024,128126540,Azzam Zakaria,26,4436.18
+3589,décembre 2024,128126540,Azzam Zakaria,26,4647.28
+3589,décembre 2023,128129345,Ait El Fakir Ahmed Youssef,25,5492.25
+3589,janvier 2024,128129345,Ait El Fakir Ahmed Youssef,25,5638.98
+3589,février 2024,128129345,Ait El Fakir Ahmed Youssef,25,5909.75
+3589,mars 2024,128129345,Ait El Fakir Ahmed Youssef,25,5753.45
+3589,avril 2024,128129345,Ait El Fakir Ahmed Youssef,25,5618.82
+3589,mai 2024,128129345,Ait El Fakir Ahmed Youssef,25,5537.08
+3589,juin 2024,128129345,Ait El Fakir Ahmed Youssef,25,5632.5
+3589,juillet 2024,128129345,Ait El Fakir Ahmed Youssef,25,5588.09
+3589,août 2024,128129345,Ait El Fakir Ahmed Youssef,25,5508.44
+3589,septembre 2024,128129345,Ait El Fakir Ahmed Youssef,25,5363.3
+3589,octobre 2024,128129345,Ait El Fakir Ahmed Youssef,25,5598.33
+3589,novembre 2024,128129345,Ait El Fakir Ahmed Youssef,25,5542.68
+3589,décembre 2024,128129345,Ait El Fakir Ahmed Youssef,25,5414.86
+3589,décembre 2023,128795071,Laouina Younes,25,5912.16
+3589,janvier 2024,128795071,Laouina Younes,25,5986.29
+3589,février 2024,128795071,Laouina Younes,25,5887.69
+3589,mars 2024,128795071,Laouina Younes,25,6089.99
+3589,avril 2024,128795071,Laouina Younes,25,6317.17
+3589,mai 2024,128795071,Laouina Younes,25,6513.62
+3589,juin 2024,128795071,Laouina Younes,25,6738.53
+3589,juillet 2024,128795071,Laouina Younes,25,6820.45
+3589,août 2024,128795071,Laouina Younes,25,6947.22
+3589,septembre 2024,128795071,Laouina Younes,25,7249.33
+3589,octobre 2024,128795071,Laouina Younes,25,7313.51
+3589,novembre 2024,128795071,Laouina Younes,25,7628.09
+3589,décembre 2024,128795071,Laouina Younes,25,7477.62
+3589,décembre 2023,128795576,Benamara Aboubakr,24,5724.55
+3589,janvier 2024,128795576,Benamara Aboubakr,24,5863.76
+3589,février 2024,128795576,Benamara Aboubakr,24,5947.87
+3589,mars 2024,128795576,Benamara Aboubakr,24,6121.3
+3589,avril 2024,128795576,Benamara Aboubakr,24,6113.0
+3589,mai 2024,128795576,Benamara Aboubakr,24,6406.51
+3589,juin 2024,128795576,Benamara Aboubakr,24,6685.67
+3589,juillet 2024,128795576,Benamara Aboubakr,24,6979.62
+3589,août 2024,128795576,Benamara Aboubakr,24,7291.47
+3589,septembre 2024,128795576,Benamara Aboubakr,24,7542.53
+3589,octobre 2024,128795576,Benamara Aboubakr,24,7599.02
+3589,novembre 2024,128795576,Benamara Aboubakr,24,7799.96
+3589,décembre 2024,128795576,Benamara Aboubakr,24,7885.69
+3589,décembre 2023,129288174,Er Rady Abdelwahed,24,4137.91
+3589,janvier 2024,129288174,Er Rady Abdelwahed,24,4036.71
+3589,février 2024,129288174,Er Rady Abdelwahed,24,4168.05
+3589,mars 2024,129288174,Er Rady Abdelwahed,24,4134.79
+3589,avril 2024,129288174,Er Rady Abdelwahed,24,4297.93
+3589,mai 2024,129288174,Er Rady Abdelwahed,24,4418.34
+3589,juin 2024,129288174,Er Rady Abdelwahed,24,4369.53
+3589,juillet 2024,129288174,Er Rady Abdelwahed,24,4363.17
+3589,août 2024,129288174,Er Rady Abdelwahed,24,4262.26
+3589,septembre 2024,129288174,Er Rady Abdelwahed,24,4210.03
+3589,octobre 2024,129288174,Er Rady Abdelwahed,24,4381.03
+3589,novembre 2024,129288174,Er Rady Abdelwahed,24,4380.6
+3589,décembre 2024,129288174,Er Rady Abdelwahed,24,4410.05
+3589,décembre 2023,129664085,Taouss Mounir,26,7674.98
+3589,janvier 2024,129664085,Taouss Mounir,26,7536.19
+3589,février 2024,129664085,Taouss Mounir,26,7447.57
+3589,mars 2024,129664085,Taouss Mounir,26,7604.47
+3589,avril 2024,129664085,Taouss Mounir,26,7694.17
+3589,mai 2024,129664085,Taouss Mounir,26,7860.41
+3589,juin 2024,129664085,Taouss Mounir,26,8136.76
+3589,juillet 2024,129664085,Taouss Mounir,26,8281.98
+3589,août 2024,129664085,Taouss Mounir,26,8342.08
+3589,septembre 2024,129664085,Taouss Mounir,26,8553.44
+3589,octobre 2024,129664085,Taouss Mounir,26,8487.56
+3589,novembre 2024,129664085,Taouss Mounir,26,8286.29
+3589,décembre 2024,129664085,Taouss Mounir,26,8272.56
+3589,décembre 2023,129901560,El Battah Tarik,23,5708.68
+3589,janvier 2024,129901560,El Battah Tarik,23,5708.18
+3589,février 2024,129901560,El Battah Tarik,23,5962.71
+3589,mars 2024,129901560,El Battah Tarik,23,6188.39
+3589,avril 2024,129901560,El Battah Tarik,23,6226.12
+3589,mai 2024,129901560,El Battah Tarik,23,6280.42
+3589,juin 2024,129901560,El Battah Tarik,23,6185.57
+3589,juillet 2024,129901560,El Battah Tarik,23,6381.61
+3589,août 2024,129901560,El Battah Tarik,23,6458.09
+3589,septembre 2024,129901560,El Battah Tarik,23,6621.02
+3589,octobre 2024,129901560,El Battah Tarik,23,6562.79
+3589,novembre 2024,129901560,El Battah Tarik,23,6728.87
+3589,décembre 2024,129901560,El Battah Tarik,23,6797.25
+3589,décembre 2023,130570180,Atchane Hicham,24,4568.56
+3589,janvier 2024,130570180,Atchane Hicham,24,4772.9
+3589,février 2024,130570180,Atchane Hicham,24,4944.49
+3589,mars 2024,130570180,Atchane Hicham,24,5119.32
+3589,avril 2024,130570180,Atchane Hicham,24,5215.66
+3589,mai 2024,130570180,Atchane Hicham,24,5232.78
+3589,juin 2024,130570180,Atchane Hicham,24,5276.82
+3589,juillet 2024,130570180,Atchane Hicham,24,5124.92
+3589,août 2024,130570180,Atchane Hicham,24,5192.77
+3589,septembre 2024,130570180,Atchane Hicham,24,5260.05
+3589,octobre 2024,130570180,Atchane Hicham,24,5409.14
+3589,novembre 2024,130570180,Atchane Hicham,24,5304.46
+3589,décembre 2024,130570180,Atchane Hicham,24,5446.37
+3589,décembre 2023,130570883,Amale Said,23,4606.67
+3589,janvier 2024,130570883,Amale Said,23,4699.96
+3589,février 2024,130570883,Amale Said,23,4792.95
+3589,mars 2024,130570883,Amale Said,23,5018.65
+3589,avril 2024,130570883,Amale Said,23,5148.78
+3589,mai 2024,130570883,Amale Said,23,5370.95
+3589,juin 2024,130570883,Amale Said,23,5415.12
+3589,juillet 2024,130570883,Amale Said,23,5491.47
+3589,août 2024,130570883,Amale Said,23,5715.19
+3589,septembre 2024,130570883,Amale Said,23,5895.56
+3589,octobre 2024,130570883,Amale Said,23,5909.6
+3589,novembre 2024,130570883,Amale Said,23,5829.26
+3589,décembre 2024,130570883,Amale Said,23,5906.98
+3589,décembre 2023,130637542,Mourtafii Saadia,26,49605.62
+3589,janvier 2024,130637542,Mourtafii Saadia,26,49881.65
+3589,février 2024,130637542,Mourtafii Saadia,26,51622.85
+3589,mars 2024,130637542,Mourtafii Saadia,26,51067.63
+3589,avril 2024,130637542,Mourtafii Saadia,26,51424.69
+3589,mai 2024,130637542,Mourtafii Saadia,26,53366.44
+3589,juin 2024,130637542,Mourtafii Saadia,26,52681.68
+3589,juillet 2024,130637542,Mourtafii Saadia,26,53774.77
+3589,août 2024,130637542,Mourtafii Saadia,26,54035.66
+3589,septembre 2024,130637542,Mourtafii Saadia,26,54887.02
+3589,octobre 2024,130637542,Mourtafii Saadia,26,54138.29
+3589,novembre 2024,130637542,Mourtafii Saadia,26,54558.26
+3589,décembre 2024,130637542,Mourtafii Saadia,26,53523.43
+3589,décembre 2023,131073302,Cherrad Kamal,24,2806.0
+3589,janvier 2024,131073302,Cherrad Kamal,24,2737.04
+3589,février 2024,131073302,Cherrad Kamal,24,2726.68
+3589,mars 2024,131073302,Cherrad Kamal,24,2707.93
+3589,avril 2024,131073302,Cherrad Kamal,24,2822.7
+3589,mai 2024,131073302,Cherrad Kamal,24,2786.54
+3589,juin 2024,131073302,Cherrad Kamal,24,2778.52
+3589,juillet 2024,131073302,Cherrad Kamal,24,2744.93
+3589,août 2024,131073302,Cherrad Kamal,24,2792.37
+3589,septembre 2024,131073302,Cherrad Kamal,24,2784.62
+3589,octobre 2024,131073302,Cherrad Kamal,24,2848.71
+3589,novembre 2024,131073302,Cherrad Kamal,24,2814.38
+3589,décembre 2024,131073302,Cherrad Kamal,24,2914.56
+3589,décembre 2023,131416466,El Khoukhi Abdenbi,24,4672.22
+3589,janvier 2024,131416466,El Khoukhi Abdenbi,24,4672.73
+3589,février 2024,131416466,El Khoukhi Abdenbi,24,4566.3
+3589,mars 2024,131416466,El Khoukhi Abdenbi,24,4612.45
+3589,avril 2024,131416466,El Khoukhi Abdenbi,24,4672.7
+3589,mai 2024,131416466,El Khoukhi Abdenbi,24,4795.98
+3589,juin 2024,131416466,El Khoukhi Abdenbi,24,4976.34
+3589,juillet 2024,131416466,El Khoukhi Abdenbi,24,5218.79
+3589,août 2024,131416466,El Khoukhi Abdenbi,24,5300.26
+3589,septembre 2024,131416466,El Khoukhi Abdenbi,24,5412.14
+3589,octobre 2024,131416466,El Khoukhi Abdenbi,24,5622.16
+3589,novembre 2024,131416466,El Khoukhi Abdenbi,24,5578.04
+3589,décembre 2024,131416466,El Khoukhi Abdenbi,24,5674.42
+3589,décembre 2023,132818968,Id Said Aziz,25,5457.75
+3589,janvier 2024,132818968,Id Said Aziz,25,5564.2
+3589,février 2024,132818968,Id Said Aziz,25,5414.24
+3589,mars 2024,132818968,Id Said Aziz,25,5495.48
+3589,avril 2024,132818968,Id Said Aziz,25,5692.06
+3589,mai 2024,132818968,Id Said Aziz,25,5663.46
+3589,juin 2024,132818968,Id Said Aziz,25,5682.34
+3589,juillet 2024,132818968,Id Said Aziz,25,5818.07
+3589,août 2024,132818968,Id Said Aziz,25,5774.53
+3589,septembre 2024,132818968,Id Said Aziz,25,5800.84
+3589,octobre 2024,132818968,Id Said Aziz,25,6055.33
+3589,novembre 2024,132818968,Id Said Aziz,25,6068.61
+3589,décembre 2024,132818968,Id Said Aziz,25,6307.56
+3589,décembre 2023,133703457,Haddad Abdelkarim,24,5273.66
+3589,janvier 2024,133703457,Haddad Abdelkarim,24,5429.97
+3589,février 2024,133703457,Haddad Abdelkarim,24,5644.37
+3589,mars 2024,133703457,Haddad Abdelkarim,24,5770.95
+3589,avril 2024,133703457,Haddad Abdelkarim,24,5954.61
+3589,mai 2024,133703457,Haddad Abdelkarim,24,5980.57
+3589,juin 2024,133703457,Haddad Abdelkarim,24,6185.38
+3589,juillet 2024,133703457,Haddad Abdelkarim,24,6237.96
+3589,août 2024,133703457,Haddad Abdelkarim,24,6381.34
+3589,septembre 2024,133703457,Haddad Abdelkarim,24,6562.52
+3589,octobre 2024,133703457,Haddad Abdelkarim,24,6425.23
+3589,novembre 2024,133703457,Haddad Abdelkarim,24,6490.23
+3589,décembre 2024,133703457,Haddad Abdelkarim,24,6749.93
+3589,décembre 2023,133925663,Lablali Hicham,24,5810.41
+3589,janvier 2024,133925663,Lablali Hicham,24,5848.52
+3589,février 2024,133925663,Lablali Hicham,24,5955.31
+3589,mars 2024,133925663,Lablali Hicham,24,5992.38
+3589,avril 2024,133925663,Lablali Hicham,24,5880.32
+3589,mai 2024,133925663,Lablali Hicham,24,5962.18
+3589,juin 2024,133925663,Lablali Hicham,24,5837.03
+3589,juillet 2024,133925663,Lablali Hicham,24,5859.71
+3589,août 2024,133925663,Lablali Hicham,24,6068.72
+3589,septembre 2024,133925663,Lablali Hicham,24,6352.81
+3589,octobre 2024,133925663,Lablali Hicham,24,6572.16
+3589,novembre 2024,133925663,Lablali Hicham,24,6515.55
+3589,décembre 2024,133925663,Lablali Hicham,24,6677.27
+3589,décembre 2023,134411538,Kechchachte Ahmed,24,5708.66
+3589,janvier 2024,134411538,Kechchachte Ahmed,24,5977.12
+3589,février 2024,134411538,Kechchachte Ahmed,24,6181.25
+3589,mars 2024,134411538,Kechchachte Ahmed,24,6125.65
+3589,avril 2024,134411538,Kechchachte Ahmed,24,6169.28
+3589,mai 2024,134411538,Kechchachte Ahmed,24,6309.27
+3589,juin 2024,134411538,Kechchachte Ahmed,24,6425.97
+3589,juillet 2024,134411538,Kechchachte Ahmed,24,6436.08
+3589,août 2024,134411538,Kechchachte Ahmed,24,6638.84
+3589,septembre 2024,134411538,Kechchachte Ahmed,24,6607.75
+3589,octobre 2024,134411538,Kechchachte Ahmed,24,6921.63
+3589,novembre 2024,134411538,Kechchachte Ahmed,24,6881.38
+3589,décembre 2024,134411538,Kechchachte Ahmed,24,7213.57
+3589,décembre 2023,134853376,En Naimi Youssef,24,5708.65
+3589,janvier 2024,134853376,En Naimi Youssef,24,5802.59
+3589,février 2024,134853376,En Naimi Youssef,24,5920.84
+3589,mars 2024,134853376,En Naimi Youssef,24,6159.83
+3589,avril 2024,134853376,En Naimi Youssef,24,6112.43
+3589,mai 2024,134853376,En Naimi Youssef,24,6220.87
+3589,juin 2024,134853376,En Naimi Youssef,24,6197.92
+3589,juillet 2024,134853376,En Naimi Youssef,24,6451.55
+3589,août 2024,134853376,En Naimi Youssef,24,6504.41
+3589,septembre 2024,134853376,En Naimi Youssef,24,6825.67
+3589,octobre 2024,134853376,En Naimi Youssef,24,6757.49
+3589,novembre 2024,134853376,En Naimi Youssef,24,6666.96
+3589,décembre 2024,134853376,En Naimi Youssef,24,6941.13
+3589,décembre 2023,134853574,El Anouar Youssef,23,5632.33
+3589,janvier 2024,134853574,El Anouar Youssef,23,5595.67
+3589,février 2024,134853574,El Anouar Youssef,23,5660.18
+3589,mars 2024,134853574,El Anouar Youssef,23,5862.26
+3589,avril 2024,134853574,El Anouar Youssef,23,5921.83
+3589,mai 2024,134853574,El Anouar Youssef,23,5954.02
+3589,juin 2024,134853574,El Anouar Youssef,23,5869.89
+3589,juillet 2024,134853574,El Anouar Youssef,23,6129.23
+3589,août 2024,134853574,El Anouar Youssef,23,6092.94
+3589,septembre 2024,134853574,El Anouar Youssef,23,6268.23
+3589,octobre 2024,134853574,El Anouar Youssef,23,6577.73
+3589,novembre 2024,134853574,El Anouar Youssef,23,6460.9
+3589,décembre 2024,134853574,El Anouar Youssef,23,6613.25
+3589,décembre 2023,134853871,Atami Mohamed,25,5912.16
+3589,janvier 2024,134853871,Atami Mohamed,25,6095.32
+3589,février 2024,134853871,Atami Mohamed,25,6022.29
+3589,mars 2024,134853871,Atami Mohamed,25,5894.09
+3589,avril 2024,134853871,Atami Mohamed,25,5864.53
+3589,mai 2024,134853871,Atami Mohamed,25,5952.39
+3589,juin 2024,134853871,Atami Mohamed,25,6004.39
+3589,juillet 2024,134853871,Atami Mohamed,25,5915.52
+3589,août 2024,134853871,Atami Mohamed,25,6051.25
+3589,septembre 2024,134853871,Atami Mohamed,25,5932.83
+3589,octobre 2024,134853871,Atami Mohamed,25,5884.78
+3589,novembre 2024,134853871,Atami Mohamed,25,5737.24
+3589,décembre 2024,134853871,Atami Mohamed,25,5985.9
+3589,décembre 2023,134855174,Kaddari Aziz,25,5912.17
+3589,janvier 2024,134855174,Kaddari Aziz,25,6141.45
+3589,février 2024,134855174,Kaddari Aziz,25,6263.96
+3589,mars 2024,134855174,Kaddari Aziz,25,6116.79
+3589,avril 2024,134855174,Kaddari Aziz,25,6125.65
+3589,mai 2024,134855174,Kaddari Aziz,25,6183.81
+3589,juin 2024,134855174,Kaddari Aziz,25,6121.01
+3589,juillet 2024,134855174,Kaddari Aziz,25,5989.95
+3589,août 2024,134855174,Kaddari Aziz,25,6072.63
+3589,septembre 2024,134855174,Kaddari Aziz,25,5931.98
+3589,octobre 2024,134855174,Kaddari Aziz,25,5837.39
+3589,novembre 2024,134855174,Kaddari Aziz,25,5837.43
+3589,décembre 2024,134855174,Kaddari Aziz,25,5785.74
+3589,décembre 2023,134855273,Choukkairi Noureddine,25,5912.16
+3589,janvier 2024,134855273,Choukkairi Noureddine,25,5887.43
+3589,février 2024,134855273,Choukkairi Noureddine,25,5849.6
+3589,mars 2024,134855273,Choukkairi Noureddine,25,5814.3
+3589,avril 2024,134855273,Choukkairi Noureddine,25,5893.57
+3589,mai 2024,134855273,Choukkairi Noureddine,25,5906.97
+3589,juin 2024,134855273,Choukkairi Noureddine,25,6042.23
+3589,juillet 2024,134855273,Choukkairi Noureddine,25,6226.27
+3589,août 2024,134855273,Choukkairi Noureddine,25,6117.56
+3589,septembre 2024,134855273,Choukkairi Noureddine,25,6183.06
+3589,octobre 2024,134855273,Choukkairi Noureddine,25,6422.99
+3589,novembre 2024,134855273,Choukkairi Noureddine,25,6332.95
+3589,décembre 2024,134855273,Choukkairi Noureddine,25,6411.45
+3589,décembre 2023,135805376,Kala Larbi,24,4716.04
+3589,janvier 2024,135805376,Kala Larbi,24,4881.03
+3589,février 2024,135805376,Kala Larbi,24,4805.25
+3589,mars 2024,135805376,Kala Larbi,24,4896.66
+3589,avril 2024,135805376,Kala Larbi,24,5035.72
+3589,mai 2024,135805376,Kala Larbi,24,4964.33
+3589,juin 2024,135805376,Kala Larbi,24,5094.2
+3589,juillet 2024,135805376,Kala Larbi,24,5229.37
+3589,août 2024,135805376,Kala Larbi,24,5353.74
+3589,septembre 2024,135805376,Kala Larbi,24,5226.41
+3589,octobre 2024,135805376,Kala Larbi,24,5276.09
+3589,novembre 2024,135805376,Kala Larbi,24,5258.58
+3589,décembre 2024,135805376,Kala Larbi,24,5141.11
+3589,décembre 2023,135910373,Harti Mustapha,23,4412.39
+3589,janvier 2024,135910373,Harti Mustapha,23,4397.57
+3589,février 2024,135910373,Harti Mustapha,23,4408.63
+3589,mars 2024,135910373,Harti Mustapha,23,4588.02
+3589,avril 2024,135910373,Harti Mustapha,23,4747.2
+3589,mai 2024,135910373,Harti Mustapha,23,4928.33
+3589,juin 2024,135910373,Harti Mustapha,23,5120.34
+3589,juillet 2024,135910373,Harti Mustapha,23,5031.52
+3589,août 2024,135910373,Harti Mustapha,23,5113.45
+3589,septembre 2024,135910373,Harti Mustapha,23,5251.97
+3589,octobre 2024,135910373,Harti Mustapha,23,5146.01
+3589,novembre 2024,135910373,Harti Mustapha,23,5295.52
+3589,décembre 2024,135910373,Harti Mustapha,23,5313.92
+3589,décembre 2023,136253699,Choukri Omar,25,4162.05
+3589,janvier 2024,136253699,Choukri Omar,25,4220.78
+3589,février 2024,136253699,Choukri Omar,25,4097.08
+3589,mars 2024,136253699,Choukri Omar,25,4263.67
+3589,avril 2024,136253699,Choukri Omar,25,4455.07
+3589,mai 2024,136253699,Choukri Omar,25,4660.43
+3589,juin 2024,136253699,Choukri Omar,25,4866.26
+3589,juillet 2024,136253699,Choukri Omar,25,4884.92
+3589,août 2024,136253699,Choukri Omar,25,5068.86
+3589,septembre 2024,136253699,Choukri Omar,25,5070.19
+3589,octobre 2024,136253699,Choukri Omar,25,5060.24
+3589,novembre 2024,136253699,Choukri Omar,25,5155.67
+3589,décembre 2024,136253699,Choukri Omar,25,5078.93
+3589,décembre 2023,137071470,Benaicha Yassine,24,4672.22
+3589,janvier 2024,137071470,Benaicha Yassine,24,4808.82
+3589,février 2024,137071470,Benaicha Yassine,24,4835.61
+3589,mars 2024,137071470,Benaicha Yassine,24,4807.15
+3589,avril 2024,137071470,Benaicha Yassine,24,4857.88
+3589,mai 2024,137071470,Benaicha Yassine,24,4925.07
+3589,juin 2024,137071470,Benaicha Yassine,24,5133.64
+3589,juillet 2024,137071470,Benaicha Yassine,24,5021.52
+3589,août 2024,137071470,Benaicha Yassine,24,5149.84
+3589,septembre 2024,137071470,Benaicha Yassine,24,5379.63
+3589,octobre 2024,137071470,Benaicha Yassine,24,5626.43
+3589,novembre 2024,137071470,Benaicha Yassine,24,5742.97
+3589,décembre 2024,137071470,Benaicha Yassine,24,5855.15
+3589,décembre 2023,138779723,Belkhattaf Mohammed,26,12236.85
+3589,janvier 2024,138779723,Belkhattaf Mohammed,26,12433.56
+3589,février 2024,138779723,Belkhattaf Mohammed,26,12360.09
+3589,mars 2024,138779723,Belkhattaf Mohammed,26,12449.37
+3589,avril 2024,138779723,Belkhattaf Mohammed,26,12267.06
+3589,mai 2024,138779723,Belkhattaf Mohammed,26,11966.06
+3589,juin 2024,138779723,Belkhattaf Mohammed,26,12402.53
+3589,juillet 2024,138779723,Belkhattaf Mohammed,26,12630.69
+3589,août 2024,138779723,Belkhattaf Mohammed,26,13078.17
+3589,septembre 2024,138779723,Belkhattaf Mohammed,26,13349.69
+3589,octobre 2024,138779723,Belkhattaf Mohammed,26,13456.14
+3589,novembre 2024,138779723,Belkhattaf Mohammed,26,13850.31
+3589,décembre 2024,138779723,Belkhattaf Mohammed,26,14358.76
+3589,décembre 2023,138812295,Farhan Rachid,24,4595.82
+3589,janvier 2024,138812295,Farhan Rachid,24,4761.28
+3589,février 2024,138812295,Farhan Rachid,24,4652.04
+3589,mars 2024,138812295,Farhan Rachid,24,4576.33
+3589,avril 2024,138812295,Farhan Rachid,24,4667.12
+3589,mai 2024,138812295,Farhan Rachid,24,4833.27
+3589,juin 2024,138812295,Farhan Rachid,24,4814.73
+3589,juillet 2024,138812295,Farhan Rachid,24,4938.72
+3589,août 2024,138812295,Farhan Rachid,24,4870.7
+3589,septembre 2024,138812295,Farhan Rachid,24,5071.73
+3589,octobre 2024,138812295,Farhan Rachid,24,5318.17
+3589,novembre 2024,138812295,Farhan Rachid,24,5304.02
+3589,décembre 2024,138812295,Farhan Rachid,24,5383.7
+3589,décembre 2023,139312434,El Mazni Mostafa,25,8354.49
+3589,janvier 2024,139312434,El Mazni Mostafa,25,8392.48
+3589,février 2024,139312434,El Mazni Mostafa,25,8156.15
+3589,mars 2024,139312434,El Mazni Mostafa,25,8305.12
+3589,avril 2024,139312434,El Mazni Mostafa,25,8663.72
+3589,mai 2024,139312434,El Mazni Mostafa,25,8868.49
+3589,juin 2024,139312434,El Mazni Mostafa,25,9291.39
+3589,juillet 2024,139312434,El Mazni Mostafa,25,9227.14
+3589,août 2024,139312434,El Mazni Mostafa,25,8986.56
+3589,septembre 2024,139312434,El Mazni Mostafa,25,9311.53
+3589,octobre 2024,139312434,El Mazni Mostafa,25,9710.79
+3589,novembre 2024,139312434,El Mazni Mostafa,25,10128.89
+3589,décembre 2024,139312434,El Mazni Mostafa,25,10074.49
+3589,décembre 2023,139504338,Jardi Taib,25,8883.69
+3589,janvier 2024,139504338,Jardi Taib,25,9229.03
+3589,février 2024,139504338,Jardi Taib,25,9040.14
+3589,mars 2024,139504338,Jardi Taib,25,9123.42
+3589,avril 2024,139504338,Jardi Taib,25,9560.35
+3589,mai 2024,139504338,Jardi Taib,25,9293.21
+3589,juin 2024,139504338,Jardi Taib,25,9466.25
+3589,juillet 2024,139504338,Jardi Taib,25,9550.32
+3589,août 2024,139504338,Jardi Taib,25,9737.46
+3589,septembre 2024,139504338,Jardi Taib,25,10118.86
+3589,octobre 2024,139504338,Jardi Taib,25,10093.69
+3589,novembre 2024,139504338,Jardi Taib,25,9874.77
+3589,décembre 2024,139504338,Jardi Taib,25,9836.06
+3589,décembre 2023,139709334,Rahmani Driss,24,5835.85
+3589,janvier 2024,139709334,Rahmani Driss,24,5898.97
+3589,février 2024,139709334,Rahmani Driss,24,5734.32
+3589,mars 2024,139709334,Rahmani Driss,24,5594.21
+3589,avril 2024,139709334,Rahmani Driss,24,5804.92
+3589,mai 2024,139709334,Rahmani Driss,24,5689.14
+3589,juin 2024,139709334,Rahmani Driss,24,5732.78
+3589,juillet 2024,139709334,Rahmani Driss,24,5862.76
+3589,août 2024,139709334,Rahmani Driss,24,5835.8
+3589,septembre 2024,139709334,Rahmani Driss,24,6096.3
+3589,octobre 2024,139709334,Rahmani Driss,24,5983.05
+3589,novembre 2024,139709334,Rahmani Driss,24,6214.0
+3589,décembre 2024,139709334,Rahmani Driss,24,6416.71
+3589,décembre 2023,139918498,Ouechen Hakim,25,4060.96
+3589,janvier 2024,139918498,Ouechen Hakim,25,4103.31
+3589,février 2024,139918498,Ouechen Hakim,25,4145.8
+3589,mars 2024,139918498,Ouechen Hakim,25,4208.6
+3589,avril 2024,139918498,Ouechen Hakim,25,4243.12
+3589,mai 2024,139918498,Ouechen Hakim,25,4117.43
+3589,juin 2024,139918498,Ouechen Hakim,25,4101.56
+3589,juillet 2024,139918498,Ouechen Hakim,25,4258.09
+3589,août 2024,139918498,Ouechen Hakim,25,4162.12
+3589,septembre 2024,139918498,Ouechen Hakim,25,4335.55
+3589,octobre 2024,139918498,Ouechen Hakim,25,4268.01
+3589,novembre 2024,139918498,Ouechen Hakim,25,4316.47
+3589,décembre 2024,139918498,Ouechen Hakim,25,4392.52
+3589,décembre 2023,140443989,Lamtakhkham Mohammed,25,4162.05
+3589,janvier 2024,140443989,Lamtakhkham Mohammed,25,4105.04
+3589,février 2024,140443989,Lamtakhkham Mohammed,25,4054.64
+3589,mars 2024,140443989,Lamtakhkham Mohammed,25,4071.26
+3589,avril 2024,140443989,Lamtakhkham Mohammed,25,3969.76
+3589,mai 2024,140443989,Lamtakhkham Mohammed,25,4114.61
+3589,juin 2024,140443989,Lamtakhkham Mohammed,25,4157.98
+3589,juillet 2024,140443989,Lamtakhkham Mohammed,25,4244.75
+3589,août 2024,140443989,Lamtakhkham Mohammed,25,4424.38
+3589,septembre 2024,140443989,Lamtakhkham Mohammed,25,4500.36
+3589,octobre 2024,140443989,Lamtakhkham Mohammed,25,4622.72
+3589,novembre 2024,140443989,Lamtakhkham Mohammed,25,4570.7
+3589,décembre 2024,140443989,Lamtakhkham Mohammed,25,4633.53
+3589,décembre 2023,141158339,Fanidi Bouazza,25,8151.28
+3589,janvier 2024,141158339,Fanidi Bouazza,25,8321.06
+3589,février 2024,141158339,Fanidi Bouazza,25,8701.84
+3589,mars 2024,141158339,Fanidi Bouazza,25,8888.43
+3589,avril 2024,141158339,Fanidi Bouazza,25,8729.43
+3589,mai 2024,141158339,Fanidi Bouazza,25,9107.81
+3589,juin 2024,141158339,Fanidi Bouazza,25,8867.44
+3589,juillet 2024,141158339,Fanidi Bouazza,25,9029.32
+3589,août 2024,141158339,Fanidi Bouazza,25,9187.95
+3589,septembre 2024,141158339,Fanidi Bouazza,25,9192.98
+3589,octobre 2024,141158339,Fanidi Bouazza,25,9246.27
+3589,novembre 2024,141158339,Fanidi Bouazza,25,9507.0
+3589,décembre 2024,141158339,Fanidi Bouazza,25,9728.35
+3589,décembre 2023,141186166,Skati Abdelouahed,26,22008.89
+3589,janvier 2024,141186166,Skati Abdelouahed,26,22561.77
+3589,février 2024,141186166,Skati Abdelouahed,26,23242.66
+3589,mars 2024,141186166,Skati Abdelouahed,26,23803.17
+3589,avril 2024,141186166,Skati Abdelouahed,26,24649.5
+3589,mai 2024,141186166,Skati Abdelouahed,26,25476.54
+3589,juin 2024,141186166,Skati Abdelouahed,26,25702.68
+3589,juillet 2024,141186166,Skati Abdelouahed,26,26088.46
+3589,août 2024,141186166,Skati Abdelouahed,26,26315.2
+3589,septembre 2024,141186166,Skati Abdelouahed,26,26116.34
+3589,octobre 2024,141186166,Skati Abdelouahed,26,27051.16
+3589,novembre 2024,141186166,Skati Abdelouahed,26,26566.63
+3589,décembre 2024,141186166,Skati Abdelouahed,26,27151.95
+3589,décembre 2023,141617674,Aamir Mehdi,25,5912.16
+3589,janvier 2024,141617674,Aamir Mehdi,25,5927.31
+3589,février 2024,141617674,Aamir Mehdi,25,6162.6
+3589,mars 2024,141617674,Aamir Mehdi,25,6184.34
+3589,avril 2024,141617674,Aamir Mehdi,25,6351.38
+3589,mai 2024,141617674,Aamir Mehdi,25,6630.58
+3589,juin 2024,141617674,Aamir Mehdi,25,6463.46
+3589,juillet 2024,141617674,Aamir Mehdi,25,6567.12
+3589,août 2024,141617674,Aamir Mehdi,25,6594.91
+3589,septembre 2024,141617674,Aamir Mehdi,25,6647.19
+3589,octobre 2024,141617674,Aamir Mehdi,25,6879.27
+3589,novembre 2024,141617674,Aamir Mehdi,25,7060.82
+3589,décembre 2024,141617674,Aamir Mehdi,25,6933.73
+3589,décembre 2023,141764839,El Fadili Mohamed,25,12963.79
+3589,janvier 2024,141764839,El Fadili Mohamed,25,13478.02
+3589,février 2024,141764839,El Fadili Mohamed,25,14047.02
+3589,mars 2024,141764839,El Fadili Mohamed,25,14019.25
+3589,avril 2024,141764839,El Fadili Mohamed,25,14335.68
+3589,mai 2024,141764839,El Fadili Mohamed,25,14133.11
+3589,juin 2024,141764839,El Fadili Mohamed,25,14601.71
+3589,juillet 2024,141764839,El Fadili Mohamed,25,14950.05
+3589,août 2024,141764839,El Fadili Mohamed,25,15480.02
+3589,septembre 2024,141764839,El Fadili Mohamed,25,16003.98
+3589,octobre 2024,141764839,El Fadili Mohamed,25,15701.55
+3589,novembre 2024,141764839,El Fadili Mohamed,25,15549.58
+3589,décembre 2024,141764839,El Fadili Mohamed,25,15229.28
+3589,décembre 2023,142014548,Zehiar Mina,26,18389.12
+3589,janvier 2024,142014548,Zehiar Mina,26,18816.14
+3589,février 2024,142014548,Zehiar Mina,26,18759.74
+3589,mars 2024,142014548,Zehiar Mina,26,18268.49
+3589,avril 2024,142014548,Zehiar Mina,26,17795.55
+3589,mai 2024,142014548,Zehiar Mina,26,18109.37
+3589,juin 2024,142014548,Zehiar Mina,26,19003.04
+3589,juillet 2024,142014548,Zehiar Mina,26,19292.35
+3589,août 2024,142014548,Zehiar Mina,26,19450.25
+3589,septembre 2024,142014548,Zehiar Mina,26,19382.51
+3589,octobre 2024,142014548,Zehiar Mina,26,19206.73
+3589,novembre 2024,142014548,Zehiar Mina,26,20053.98
+3589,décembre 2024,142014548,Zehiar Mina,26,20212.75
+3589,décembre 2023,142066979,Tarbi Abdelouahid,24,2786.56
+3589,janvier 2024,142066979,Tarbi Abdelouahid,24,2765.98
+3589,février 2024,142066979,Tarbi Abdelouahid,24,2698.21
+3589,mars 2024,142066979,Tarbi Abdelouahid,24,2814.1
+3589,avril 2024,142066979,Tarbi Abdelouahid,24,2791.99
+3589,mai 2024,142066979,Tarbi Abdelouahid,24,2905.75
+3589,juin 2024,142066979,Tarbi Abdelouahid,24,3042.81
+3589,juillet 2024,142066979,Tarbi Abdelouahid,24,3002.59
+3589,août 2024,142066979,Tarbi Abdelouahid,24,2950.15
+3589,septembre 2024,142066979,Tarbi Abdelouahid,24,2973.53
+3589,octobre 2024,142066979,Tarbi Abdelouahid,24,2889.58
+3589,novembre 2024,142066979,Tarbi Abdelouahid,24,2921.05
+3589,décembre 2024,142066979,Tarbi Abdelouahid,24,2971.09
+3589,décembre 2023,142340050,Benkhaoury Hamid,24,5273.66
+3589,janvier 2024,142340050,Benkhaoury Hamid,24,5412.68
+3589,février 2024,142340050,Benkhaoury Hamid,24,5464.86
+3589,mars 2024,142340050,Benkhaoury Hamid,24,5684.66
+3589,avril 2024,142340050,Benkhaoury Hamid,24,5579.98
+3589,mai 2024,142340050,Benkhaoury Hamid,24,5616.7
+3589,juin 2024,142340050,Benkhaoury Hamid,24,5879.24
+3589,juillet 2024,142340050,Benkhaoury Hamid,24,6101.16
+3589,août 2024,142340050,Benkhaoury Hamid,24,6206.19
+3589,septembre 2024,142340050,Benkhaoury Hamid,24,6214.04
+3589,octobre 2024,142340050,Benkhaoury Hamid,24,6409.39
+3589,novembre 2024,142340050,Benkhaoury Hamid,24,6221.5
+3589,décembre 2024,142340050,Benkhaoury Hamid,24,6292.02
+3589,décembre 2023,143794173,Chaib Jilali,24,5273.66
+3589,janvier 2024,143794173,Chaib Jilali,24,5508.72
+3589,février 2024,143794173,Chaib Jilali,24,5434.94
+3589,mars 2024,143794173,Chaib Jilali,24,5548.34
+3589,avril 2024,143794173,Chaib Jilali,24,5727.19
+3589,mai 2024,143794173,Chaib Jilali,24,5901.52
+3589,juin 2024,143794173,Chaib Jilali,24,6085.74
+3589,juillet 2024,143794173,Chaib Jilali,24,6041.9
+3589,août 2024,143794173,Chaib Jilali,24,5974.32
+3589,septembre 2024,143794173,Chaib Jilali,24,6250.11
+3589,octobre 2024,143794173,Chaib Jilali,24,6401.28
+3589,novembre 2024,143794173,Chaib Jilali,24,6260.59
+3589,décembre 2024,143794173,Chaib Jilali,24,6438.49
+3589,décembre 2023,144896788,Ouakrim Abdessamad,26,7101.44
+3589,janvier 2024,144896788,Ouakrim Abdessamad,26,6973.12
+3589,février 2024,144896788,Ouakrim Abdessamad,26,6791.65
+3589,mars 2024,144896788,Ouakrim Abdessamad,26,7108.47
+3589,avril 2024,144896788,Ouakrim Abdessamad,26,7014.63
+3589,mai 2024,144896788,Ouakrim Abdessamad,26,7224.08
+3589,juin 2024,144896788,Ouakrim Abdessamad,26,7572.28
+3589,juillet 2024,144896788,Ouakrim Abdessamad,26,7900.24
+3589,août 2024,144896788,Ouakrim Abdessamad,26,7880.48
+3589,septembre 2024,144896788,Ouakrim Abdessamad,26,8001.43
+3589,octobre 2024,144896788,Ouakrim Abdessamad,26,7793.86
+3589,novembre 2024,144896788,Ouakrim Abdessamad,26,8127.77
+3589,décembre 2024,144896788,Ouakrim Abdessamad,26,8286.55
+3589,décembre 2023,144898507,Daoudi Aadil,26,7468.58
+3589,janvier 2024,144898507,Daoudi Aadil,26,7590.58
+3589,février 2024,144898507,Daoudi Aadil,26,7681.45
+3589,mars 2024,144898507,Daoudi Aadil,26,7989.12
+3589,avril 2024,144898507,Daoudi Aadil,26,8120.43
+3589,mai 2024,144898507,Daoudi Aadil,26,8378.85
+3589,juin 2024,144898507,Daoudi Aadil,26,8484.89
+3589,juillet 2024,144898507,Daoudi Aadil,26,8691.96
+3589,août 2024,144898507,Daoudi Aadil,26,8728.06
+3589,septembre 2024,144898507,Daoudi Aadil,26,8967.88
+3589,octobre 2024,144898507,Daoudi Aadil,26,9135.91
+3589,novembre 2024,144898507,Daoudi Aadil,26,9523.89
+3589,décembre 2024,144898507,Daoudi Aadil,26,9483.75
+3589,décembre 2023,147796878,Dahmani Yassine,25,5457.75
+3589,janvier 2024,147796878,Dahmani Yassine,25,5408.31
+3589,février 2024,147796878,Dahmani Yassine,25,5310.27
+3589,mars 2024,147796878,Dahmani Yassine,25,5216.21
+3589,avril 2024,147796878,Dahmani Yassine,25,5451.04
+3589,mai 2024,147796878,Dahmani Yassine,25,5371.46
+3589,juin 2024,147796878,Dahmani Yassine,25,5409.67
+3589,juillet 2024,147796878,Dahmani Yassine,25,5560.3
+3589,août 2024,147796878,Dahmani Yassine,25,5447.01
+3589,septembre 2024,147796878,Dahmani Yassine,25,5285.3
+3589,octobre 2024,147796878,Dahmani Yassine,25,5524.07
+3589,novembre 2024,147796878,Dahmani Yassine,25,5520.85
+3589,décembre 2024,147796878,Dahmani Yassine,25,5521.3
+3589,décembre 2023,148761078,El Hasnaoui Abdessamad,21,4905.47
+3589,janvier 2024,148761078,El Hasnaoui Abdessamad,21,5018.15
+3589,février 2024,148761078,El Hasnaoui Abdessamad,21,4963.84
+3589,mars 2024,148761078,El Hasnaoui Abdessamad,21,4868.68
+3589,avril 2024,148761078,El Hasnaoui Abdessamad,21,5053.64
+3589,mai 2024,148761078,El Hasnaoui Abdessamad,21,5017.43
+3589,juin 2024,148761078,El Hasnaoui Abdessamad,21,5225.2
+3589,juillet 2024,148761078,El Hasnaoui Abdessamad,21,5268.66
+3589,août 2024,148761078,El Hasnaoui Abdessamad,21,5281.47
+3589,septembre 2024,148761078,El Hasnaoui Abdessamad,21,5383.14
+3589,octobre 2024,148761078,El Hasnaoui Abdessamad,21,5480.24
+3589,novembre 2024,148761078,El Hasnaoui Abdessamad,21,5410.93
+3589,décembre 2024,148761078,El Hasnaoui Abdessamad,21,5576.21
+3589,décembre 2023,149600332,Erraji M Hamed,25,8354.49
+3589,janvier 2024,149600332,Erraji M Hamed,25,8239.86
+3589,février 2024,149600332,Erraji M Hamed,25,8305.94
+3589,mars 2024,149600332,Erraji M Hamed,25,8402.39
+3589,avril 2024,149600332,Erraji M Hamed,25,8278.71
+3589,mai 2024,149600332,Erraji M Hamed,25,8274.18
+3589,juin 2024,149600332,Erraji M Hamed,25,8112.55
+3589,juillet 2024,149600332,Erraji M Hamed,25,8114.26
+3589,août 2024,149600332,Erraji M Hamed,25,8501.0
+3589,septembre 2024,149600332,Erraji M Hamed,25,8410.04
+3589,octobre 2024,149600332,Erraji M Hamed,25,8510.75
+3589,novembre 2024,149600332,Erraji M Hamed,25,8858.0
+3589,décembre 2024,149600332,Erraji M Hamed,25,9188.7
+3589,décembre 2023,149697537,El Harmaoui Radouan,23,5606.89
+3589,janvier 2024,149697537,El Harmaoui Radouan,23,5832.89
+3589,février 2024,149697537,El Harmaoui Radouan,23,5974.72
+3589,mars 2024,149697537,El Harmaoui Radouan,23,6159.84
+3589,avril 2024,149697537,El Harmaoui Radouan,23,6329.13
+3589,mai 2024,149697537,El Harmaoui Radouan,23,6308.53
+3589,juin 2024,149697537,El Harmaoui Radouan,23,6539.26
+3589,juillet 2024,149697537,El Harmaoui Radouan,23,6608.63
+3589,août 2024,149697537,El Harmaoui Radouan,23,6638.04
+3589,septembre 2024,149697537,El Harmaoui Radouan,23,6894.33
+3589,octobre 2024,149697537,El Harmaoui Radouan,23,7009.56
+3589,novembre 2024,149697537,El Harmaoui Radouan,23,7205.42
+3589,décembre 2024,149697537,El Harmaoui Radouan,23,7324.4
+3589,décembre 2023,149919163,Ouarab Hassan,25,5912.16
+3589,janvier 2024,149919163,Ouarab Hassan,25,5821.56
+3589,février 2024,149919163,Ouarab Hassan,25,6015.87
+3589,mars 2024,149919163,Ouarab Hassan,25,6264.67
+3589,avril 2024,149919163,Ouarab Hassan,25,6210.62
+3589,mai 2024,149919163,Ouarab Hassan,25,6466.96
+3589,juin 2024,149919163,Ouarab Hassan,25,6629.06
+3589,juillet 2024,149919163,Ouarab Hassan,25,6623.08
+3589,août 2024,149919163,Ouarab Hassan,25,6781.04
+3589,septembre 2024,149919163,Ouarab Hassan,25,6705.85
+3589,octobre 2024,149919163,Ouarab Hassan,25,6735.09
+3589,novembre 2024,149919163,Ouarab Hassan,25,6613.84
+3589,décembre 2024,149919163,Ouarab Hassan,25,6882.92
+3589,décembre 2023,149978135,Chrouqi El Mahjoub,25,8151.28
+3589,janvier 2024,149978135,Chrouqi El Mahjoub,25,8060.02
+3589,février 2024,149978135,Chrouqi El Mahjoub,25,8120.25
+3589,mars 2024,149978135,Chrouqi El Mahjoub,25,8182.49
+3589,avril 2024,149978135,Chrouqi El Mahjoub,25,8495.12
+3589,mai 2024,149978135,Chrouqi El Mahjoub,25,8807.88
+3589,juin 2024,149978135,Chrouqi El Mahjoub,25,9193.82
+3589,juillet 2024,149978135,Chrouqi El Mahjoub,25,9549.14
+3589,août 2024,149978135,Chrouqi El Mahjoub,25,9688.46
+3589,septembre 2024,149978135,Chrouqi El Mahjoub,25,9484.89
+3589,octobre 2024,149978135,Chrouqi El Mahjoub,25,9281.7
+3589,novembre 2024,149978135,Chrouqi El Mahjoub,25,9584.97
+3589,décembre 2024,149978135,Chrouqi El Mahjoub,25,9597.19
+3589,décembre 2023,150791071,El Mettichi Mohamed,25,4862.46
+3589,janvier 2024,150791071,El Mettichi Mohamed,25,4918.35
+3589,février 2024,150791071,El Mettichi Mohamed,25,4932.32
+3589,mars 2024,150791071,El Mettichi Mohamed,25,5040.55
+3589,avril 2024,150791071,El Mettichi Mohamed,25,5257.21
+3589,mai 2024,150791071,El Mettichi Mohamed,25,5239.82
+3589,juin 2024,150791071,El Mettichi Mohamed,25,5491.05
+3589,juillet 2024,150791071,El Mettichi Mohamed,25,5417.81
+3589,août 2024,150791071,El Mettichi Mohamed,25,5271.64
+3589,septembre 2024,150791071,El Mettichi Mohamed,25,5261.25
+3589,octobre 2024,150791071,El Mettichi Mohamed,25,5261.29
+3589,novembre 2024,150791071,El Mettichi Mohamed,25,5290.77
+3589,décembre 2024,150791071,El Mettichi Mohamed,25,5151.04
+3589,décembre 2023,150823072,Elghandouri Lahcen,23,4547.97
+3589,janvier 2024,150823072,Elghandouri Lahcen,23,4722.77
+3589,février 2024,150823072,Elghandouri Lahcen,23,4615.58
+3589,mars 2024,150823072,Elghandouri Lahcen,23,4837.8
+3589,avril 2024,150823072,Elghandouri Lahcen,23,4787.71
+3589,mai 2024,150823072,Elghandouri Lahcen,23,4841.67
+3589,juin 2024,150823072,Elghandouri Lahcen,23,4911.95
+3589,juillet 2024,150823072,Elghandouri Lahcen,23,5060.9
+3589,août 2024,150823072,Elghandouri Lahcen,23,5210.65
+3589,septembre 2024,150823072,Elghandouri Lahcen,23,5271.68
+3589,octobre 2024,150823072,Elghandouri Lahcen,23,5189.16
+3589,novembre 2024,150823072,Elghandouri Lahcen,23,5216.57
+3589,décembre 2024,150823072,Elghandouri Lahcen,23,5466.7
+3589,décembre 2023,151136177,Darif Khalid,24,6423.66
+3589,janvier 2024,151136177,Darif Khalid,24,6370.74
+3589,février 2024,151136177,Darif Khalid,24,6198.77
+3589,mars 2024,151136177,Darif Khalid,24,6065.19
+3589,avril 2024,151136177,Darif Khalid,24,6336.48
+3589,mai 2024,151136177,Darif Khalid,24,6395.06
+3589,juin 2024,151136177,Darif Khalid,24,6366.05
+3589,juillet 2024,151136177,Darif Khalid,24,6488.75
+3589,août 2024,151136177,Darif Khalid,24,6736.7
+3589,septembre 2024,151136177,Darif Khalid,24,7070.52
+3589,octobre 2024,151136177,Darif Khalid,24,7297.25
+3589,novembre 2024,151136177,Darif Khalid,24,7632.41
+3589,décembre 2024,151136177,Darif Khalid,24,7972.11
+3589,décembre 2023,151736745,El Annabi El Mostafa,24,5708.66
+3589,janvier 2024,151736745,El Annabi El Mostafa,24,5773.22
+3589,février 2024,151736745,El Annabi El Mostafa,24,5722.18
+3589,mars 2024,151736745,El Annabi El Mostafa,24,5614.58
+3589,avril 2024,151736745,El Annabi El Mostafa,24,5715.48
+3589,mai 2024,151736745,El Annabi El Mostafa,24,5671.52
+3589,juin 2024,151736745,El Annabi El Mostafa,24,5579.54
+3589,juillet 2024,151736745,El Annabi El Mostafa,24,5621.84
+3589,août 2024,151736745,El Annabi El Mostafa,24,5652.26
+3589,septembre 2024,151736745,El Annabi El Mostafa,24,5524.26
+3589,octobre 2024,151736745,El Annabi El Mostafa,24,5370.48
+3589,novembre 2024,151736745,El Annabi El Mostafa,24,5330.36
+3589,décembre 2024,151736745,El Annabi El Mostafa,24,5421.73
+3589,décembre 2023,151772947,Bahiaoui Mustapha,25,8151.28
+3589,janvier 2024,151772947,Bahiaoui Mustapha,25,8522.34
+3589,février 2024,151772947,Bahiaoui Mustapha,25,8619.96
+3589,mars 2024,151772947,Bahiaoui Mustapha,25,8445.81
+3589,avril 2024,151772947,Bahiaoui Mustapha,25,8317.23
+3589,mai 2024,151772947,Bahiaoui Mustapha,25,8366.82
+3589,juin 2024,151772947,Bahiaoui Mustapha,25,8373.72
+3589,juillet 2024,151772947,Bahiaoui Mustapha,25,8666.09
+3589,août 2024,151772947,Bahiaoui Mustapha,25,8858.58
+3589,septembre 2024,151772947,Bahiaoui Mustapha,25,9232.6
+3589,octobre 2024,151772947,Bahiaoui Mustapha,25,9193.65
+3589,novembre 2024,151772947,Bahiaoui Mustapha,25,9032.64
+3589,décembre 2024,151772947,Bahiaoui Mustapha,25,9101.12
+3589,décembre 2023,151773242,Ramzi Khalifa,25,8883.66
+3589,janvier 2024,151773242,Ramzi Khalifa,25,8839.29
+3589,février 2024,151773242,Ramzi Khalifa,25,9259.22
+3589,mars 2024,151773242,Ramzi Khalifa,25,9174.98
+3589,avril 2024,151773242,Ramzi Khalifa,25,9225.22
+3589,mai 2024,151773242,Ramzi Khalifa,25,9606.15
+3589,juin 2024,151773242,Ramzi Khalifa,25,9677.33
+3589,juillet 2024,151773242,Ramzi Khalifa,25,9943.24
+3589,août 2024,151773242,Ramzi Khalifa,25,9970.42
+3589,septembre 2024,151773242,Ramzi Khalifa,25,10339.16
+3589,octobre 2024,151773242,Ramzi Khalifa,25,10834.5
+3589,novembre 2024,151773242,Ramzi Khalifa,25,11069.82
+3589,décembre 2024,151773242,Ramzi Khalifa,25,11054.7
+3589,décembre 2023,151773341,Jeddi Abdelkader,24,9697.4
+3589,janvier 2024,151773341,Jeddi Abdelkader,24,10027.29
+3589,février 2024,151773341,Jeddi Abdelkader,24,9861.35
+3589,mars 2024,151773341,Jeddi Abdelkader,24,9689.82
+3589,avril 2024,151773341,Jeddi Abdelkader,24,9431.21
+3589,mai 2024,151773341,Jeddi Abdelkader,24,9479.52
+3589,juin 2024,151773341,Jeddi Abdelkader,24,9751.27
+3589,juillet 2024,151773341,Jeddi Abdelkader,24,9467.34
+3589,août 2024,151773341,Jeddi Abdelkader,24,9672.8
+3589,septembre 2024,151773341,Jeddi Abdelkader,24,9844.08
+3589,octobre 2024,151773341,Jeddi Abdelkader,24,10322.83
+3589,novembre 2024,151773341,Jeddi Abdelkader,24,10035.2
+3589,décembre 2024,151773341,Jeddi Abdelkader,24,10404.48
+3589,décembre 2023,151789041,Samr Hicham,25,8354.49
+3589,janvier 2024,151789041,Samr Hicham,25,8496.56
+3589,février 2024,151789041,Samr Hicham,25,8665.63
+3589,mars 2024,151789041,Samr Hicham,25,8774.35
+3589,avril 2024,151789041,Samr Hicham,25,9135.01
+3589,mai 2024,151789041,Samr Hicham,25,9450.63
+3589,juin 2024,151789041,Samr Hicham,25,9583.08
+3589,juillet 2024,151789041,Samr Hicham,25,9639.16
+3589,août 2024,151789041,Samr Hicham,25,9433.68
+3589,septembre 2024,151789041,Samr Hicham,25,9406.42
+3589,octobre 2024,151789041,Samr Hicham,25,9697.55
+3589,novembre 2024,151789041,Samr Hicham,25,10057.94
+3589,décembre 2024,151789041,Samr Hicham,25,10062.8
+3589,décembre 2023,153614189,Rachidi Itto,25,5912.16
+3589,janvier 2024,153614189,Rachidi Itto,25,6091.52
+3589,février 2024,153614189,Rachidi Itto,25,6333.39
+3589,mars 2024,153614189,Rachidi Itto,25,6367.75
+3589,avril 2024,153614189,Rachidi Itto,25,6287.4
+3589,mai 2024,153614189,Rachidi Itto,25,6421.98
+3589,juin 2024,153614189,Rachidi Itto,25,6393.04
+3589,juillet 2024,153614189,Rachidi Itto,25,6624.89
+3589,août 2024,153614189,Rachidi Itto,25,6783.12
+3589,septembre 2024,153614189,Rachidi Itto,25,6754.75
+3589,octobre 2024,153614189,Rachidi Itto,25,6744.24
+3589,novembre 2024,153614189,Rachidi Itto,25,7075.85
+3589,décembre 2024,153614189,Rachidi Itto,25,7203.25
+3589,décembre 2023,153799098,Id Taleb Youness,24,4444.03
+3589,janvier 2024,153799098,Id Taleb Youness,24,4553.3
+3589,février 2024,153799098,Id Taleb Youness,24,4677.27
+3589,mars 2024,153799098,Id Taleb Youness,24,4541.62
+3589,avril 2024,153799098,Id Taleb Youness,24,4484.86
+3589,mai 2024,153799098,Id Taleb Youness,24,4484.21
+3589,juin 2024,153799098,Id Taleb Youness,24,4519.77
+3589,juillet 2024,153799098,Id Taleb Youness,24,4421.56
+3589,août 2024,153799098,Id Taleb Youness,24,4471.78
+3589,septembre 2024,153799098,Id Taleb Youness,24,4682.2
+3589,octobre 2024,153799098,Id Taleb Youness,24,4566.57
+3589,novembre 2024,153799098,Id Taleb Youness,24,4484.37
+3589,décembre 2024,153799098,Id Taleb Youness,24,4466.46
+3589,décembre 2023,154967446,Darif Bouchaib,26,12011.23
+3589,janvier 2024,154967446,Darif Bouchaib,26,12221.58
+3589,février 2024,154967446,Darif Bouchaib,26,12462.95
+3589,mars 2024,154967446,Darif Bouchaib,26,13020.93
+3589,avril 2024,154967446,Darif Bouchaib,26,13235.06
+3589,mai 2024,154967446,Darif Bouchaib,26,13593.83
+3589,juin 2024,154967446,Darif Bouchaib,26,13459.5
+3589,juillet 2024,154967446,Darif Bouchaib,26,13789.03
+3589,août 2024,154967446,Darif Bouchaib,26,14290.13
+3589,septembre 2024,154967446,Darif Bouchaib,26,13994.91
+3589,octobre 2024,154967446,Darif Bouchaib,26,14531.68
+3589,novembre 2024,154967446,Darif Bouchaib,26,15125.78
+3589,décembre 2024,154967446,Darif Bouchaib,26,15556.03
+3589,décembre 2023,155500873,Benelkadi Jaouad,24,5273.66
+3589,janvier 2024,155500873,Benelkadi Jaouad,24,5278.46
+3589,février 2024,155500873,Benelkadi Jaouad,24,5320.06
+3589,mars 2024,155500873,Benelkadi Jaouad,24,5296.63
+3589,avril 2024,155500873,Benelkadi Jaouad,24,5462.66
+3589,mai 2024,155500873,Benelkadi Jaouad,24,5444.02
+3589,juin 2024,155500873,Benelkadi Jaouad,24,5678.58
+3589,juillet 2024,155500873,Benelkadi Jaouad,24,5809.96
+3589,août 2024,155500873,Benelkadi Jaouad,24,5752.03
+3589,septembre 2024,155500873,Benelkadi Jaouad,24,5715.65
+3589,octobre 2024,155500873,Benelkadi Jaouad,24,5620.85
+3589,novembre 2024,155500873,Benelkadi Jaouad,24,5517.69
+3589,décembre 2024,155500873,Benelkadi Jaouad,24,5696.69
+3589,décembre 2023,155500972,Brik Aziz,25,5457.75
+3589,janvier 2024,155500972,Brik Aziz,25,5558.16
+3589,février 2024,155500972,Brik Aziz,25,5635.28
+3589,mars 2024,155500972,Brik Aziz,25,5696.93
+3589,avril 2024,155500972,Brik Aziz,25,5647.77
+3589,mai 2024,155500972,Brik Aziz,25,5492.27
+3589,juin 2024,155500972,Brik Aziz,25,5527.1
+3589,juillet 2024,155500972,Brik Aziz,25,5776.25
+3589,août 2024,155500972,Brik Aziz,25,6005.01
+3589,septembre 2024,155500972,Brik Aziz,25,6200.65
+3589,octobre 2024,155500972,Brik Aziz,25,6081.64
+3589,novembre 2024,155500972,Brik Aziz,25,6084.84
+3589,décembre 2024,155500972,Brik Aziz,25,6126.9
+3589,décembre 2023,155798379,Sahraoui Mohamed,24,4439.94
+3589,janvier 2024,155798379,Sahraoui Mohamed,24,4341.43
+3589,février 2024,155798379,Sahraoui Mohamed,24,4498.18
+3589,mars 2024,155798379,Sahraoui Mohamed,24,4566.12
+3589,avril 2024,155798379,Sahraoui Mohamed,24,4546.35
+3589,mai 2024,155798379,Sahraoui Mohamed,24,4614.99
+3589,juin 2024,155798379,Sahraoui Mohamed,24,4617.62
+3589,juillet 2024,155798379,Sahraoui Mohamed,24,4797.58
+3589,août 2024,155798379,Sahraoui Mohamed,24,4731.88
+3589,septembre 2024,155798379,Sahraoui Mohamed,24,4620.93
+3589,octobre 2024,155798379,Sahraoui Mohamed,24,4559.03
+3589,novembre 2024,155798379,Sahraoui Mohamed,24,4482.86
+3589,décembre 2024,155798379,Sahraoui Mohamed,24,4469.54
+3589,décembre 2023,156450035,Rassam Mohammed,26,18281.07
+3589,janvier 2024,156450035,Rassam Mohammed,26,18974.95
+3589,février 2024,156450035,Rassam Mohammed,26,19131.03
+3589,mars 2024,156450035,Rassam Mohammed,26,19400.37
+3589,avril 2024,156450035,Rassam Mohammed,26,20235.61
+3589,mai 2024,156450035,Rassam Mohammed,26,20188.75
+3589,juin 2024,156450035,Rassam Mohammed,26,19600.25
+3589,juillet 2024,156450035,Rassam Mohammed,26,19891.05
+3589,août 2024,156450035,Rassam Mohammed,26,19595.17
+3589,septembre 2024,156450035,Rassam Mohammed,26,19181.1
+3589,octobre 2024,156450035,Rassam Mohammed,26,18729.76
+3589,novembre 2024,156450035,Rassam Mohammed,26,19070.71
+3589,décembre 2024,156450035,Rassam Mohammed,26,19698.65
+3589,décembre 2023,156541678,Mataoui Ali,21,4149.93
+3589,janvier 2024,156541678,Mataoui Ali,21,4299.54
+3589,février 2024,156541678,Mataoui Ali,21,4263.52
+3589,mars 2024,156541678,Mataoui Ali,21,4383.54
+3589,avril 2024,156541678,Mataoui Ali,21,4527.84
+3589,mai 2024,156541678,Mataoui Ali,21,4735.25
+3589,juin 2024,156541678,Mataoui Ali,21,4818.07
+3589,juillet 2024,156541678,Mataoui Ali,21,4951.54
+3589,août 2024,156541678,Mataoui Ali,21,5069.68
+3589,septembre 2024,156541678,Mataoui Ali,21,5057.89
+3589,octobre 2024,156541678,Mataoui Ali,21,5293.5
+3589,novembre 2024,156541678,Mataoui Ali,21,5264.41
+3589,décembre 2024,156541678,Mataoui Ali,21,5431.52
+3589,décembre 2023,156691837,Boumediane Radouane,23,7247.56
+3589,janvier 2024,156691837,Boumediane Radouane,23,7057.38
+3589,février 2024,156691837,Boumediane Radouane,23,7016.47
+3589,mars 2024,156691837,Boumediane Radouane,23,7200.84
+3589,avril 2024,156691837,Boumediane Radouane,23,7440.34
+3589,mai 2024,156691837,Boumediane Radouane,23,7583.99
+3589,juin 2024,156691837,Boumediane Radouane,23,7599.13
+3589,juillet 2024,156691837,Boumediane Radouane,23,7618.68
+3589,août 2024,156691837,Boumediane Radouane,23,7732.22
+3589,septembre 2024,156691837,Boumediane Radouane,23,8011.09
+3589,octobre 2024,156691837,Boumediane Radouane,23,8068.37
+3589,novembre 2024,156691837,Boumediane Radouane,23,8194.42
+3589,décembre 2024,156691837,Boumediane Radouane,23,8052.66
+3589,décembre 2023,156907573,Tarhani Abdeltif,25,5545.2
+3589,janvier 2024,156907573,Tarhani Abdeltif,25,5429.63
+3589,février 2024,156907573,Tarhani Abdeltif,25,5444.66
+3589,mars 2024,156907573,Tarhani Abdeltif,25,5606.2
+3589,avril 2024,156907573,Tarhani Abdeltif,25,5597.37
+3589,mai 2024,156907573,Tarhani Abdeltif,25,5525.4
+3589,juin 2024,156907573,Tarhani Abdeltif,25,5663.36
+3589,juillet 2024,156907573,Tarhani Abdeltif,25,5646.77
+3589,août 2024,156907573,Tarhani Abdeltif,25,5621.29
+3589,septembre 2024,156907573,Tarhani Abdeltif,25,5524.42
+3589,octobre 2024,156907573,Tarhani Abdeltif,25,5575.68
+3589,novembre 2024,156907573,Tarhani Abdeltif,25,5803.08
+3589,décembre 2024,156907573,Tarhani Abdeltif,25,5875.24
+3589,décembre 2023,156907672,Yania Ahmed,25,5457.75
+3589,janvier 2024,156907672,Yania Ahmed,25,5371.13
+3589,février 2024,156907672,Yania Ahmed,25,5512.18
+3589,mars 2024,156907672,Yania Ahmed,25,5558.8
+3589,avril 2024,156907672,Yania Ahmed,25,5664.57
+3589,mai 2024,156907672,Yania Ahmed,25,5723.67
+3589,juin 2024,156907672,Yania Ahmed,25,5988.45
+3589,juillet 2024,156907672,Yania Ahmed,25,6046.53
+3589,août 2024,156907672,Yania Ahmed,25,6248.16
+3589,septembre 2024,156907672,Yania Ahmed,25,6370.57
+3589,octobre 2024,156907672,Yania Ahmed,25,6188.33
+3589,novembre 2024,156907672,Yania Ahmed,25,6145.05
+3589,décembre 2024,156907672,Yania Ahmed,25,6399.43
+3589,décembre 2023,156908175,Laoki Hicham,23,5308.16
+3589,janvier 2024,156908175,Laoki Hicham,23,5445.71
+3589,février 2024,156908175,Laoki Hicham,23,5694.11
+3589,mars 2024,156908175,Laoki Hicham,23,5977.68
+3589,avril 2024,156908175,Laoki Hicham,23,6009.8
+3589,mai 2024,156908175,Laoki Hicham,23,5991.01
+3589,juin 2024,156908175,Laoki Hicham,23,6175.7
+3589,juillet 2024,156908175,Laoki Hicham,23,6393.53
+3589,août 2024,156908175,Laoki Hicham,23,6705.66
+3589,septembre 2024,156908175,Laoki Hicham,23,6895.06
+3589,octobre 2024,156908175,Laoki Hicham,23,7099.19
+3589,novembre 2024,156908175,Laoki Hicham,23,7161.12
+3589,décembre 2024,156908175,Laoki Hicham,23,7465.67
+3589,décembre 2023,156909470,Boumediane Moussa,24,5273.66
+3589,janvier 2024,156909470,Boumediane Moussa,24,5446.07
+3589,février 2024,156909470,Boumediane Moussa,24,5678.0
+3589,mars 2024,156909470,Boumediane Moussa,24,5844.49
+3589,avril 2024,156909470,Boumediane Moussa,24,6066.84
+3589,mai 2024,156909470,Boumediane Moussa,24,6210.41
+3589,juin 2024,156909470,Boumediane Moussa,24,6039.29
+3589,juillet 2024,156909470,Boumediane Moussa,24,6023.56
+3589,août 2024,156909470,Boumediane Moussa,24,6097.55
+3589,septembre 2024,156909470,Boumediane Moussa,24,6276.73
+3589,octobre 2024,156909470,Boumediane Moussa,24,6241.21
+3589,novembre 2024,156909470,Boumediane Moussa,24,6396.65
+3589,décembre 2024,156909470,Boumediane Moussa,24,6630.31
+3589,décembre 2023,156909579,Srirti Driss,24,5273.66
+3589,janvier 2024,156909579,Srirti Driss,24,5341.55
+3589,février 2024,156909579,Srirti Driss,24,5497.88
+3589,mars 2024,156909579,Srirti Driss,24,5732.48
+3589,avril 2024,156909579,Srirti Driss,24,5792.67
+3589,mai 2024,156909579,Srirti Driss,24,5870.45
+3589,juin 2024,156909579,Srirti Driss,24,5983.23
+3589,juillet 2024,156909579,Srirti Driss,24,5866.97
+3589,août 2024,156909579,Srirti Driss,24,6108.29
+3589,septembre 2024,156909579,Srirti Driss,24,6096.74
+3589,octobre 2024,156909579,Srirti Driss,24,5976.55
+3589,novembre 2024,156909579,Srirti Driss,24,6109.9
+3589,décembre 2024,156909579,Srirti Driss,24,5976.98
+3589,décembre 2023,156914073,Lamaime El Mehdi,23,5089.57
+3589,janvier 2024,156914073,Lamaime El Mehdi,23,5225.65
+3589,février 2024,156914073,Lamaime El Mehdi,23,5161.24
+3589,mars 2024,156914073,Lamaime El Mehdi,23,5148.98
+3589,avril 2024,156914073,Lamaime El Mehdi,23,5233.72
+3589,mai 2024,156914073,Lamaime El Mehdi,23,5347.92
+3589,juin 2024,156914073,Lamaime El Mehdi,23,5343.25
+3589,juillet 2024,156914073,Lamaime El Mehdi,23,5427.44
+3589,août 2024,156914073,Lamaime El Mehdi,23,5379.21
+3589,septembre 2024,156914073,Lamaime El Mehdi,23,5498.63
+3589,octobre 2024,156914073,Lamaime El Mehdi,23,5531.08
+3589,novembre 2024,156914073,Lamaime El Mehdi,23,5506.91
+3589,décembre 2024,156914073,Lamaime El Mehdi,23,5394.58
+3589,décembre 2023,156914370,Roudane Mouhsine,24,5388.66
+3589,janvier 2024,156914370,Roudane Mouhsine,24,5593.85
+3589,février 2024,156914370,Roudane Mouhsine,24,5579.03
+3589,mars 2024,156914370,Roudane Mouhsine,24,5726.88
+3589,avril 2024,156914370,Roudane Mouhsine,24,5919.9
+3589,mai 2024,156914370,Roudane Mouhsine,24,6186.9
+3589,juin 2024,156914370,Roudane Mouhsine,24,6017.41
+3589,juillet 2024,156914370,Roudane Mouhsine,24,5854.14
+3589,août 2024,156914370,Roudane Mouhsine,24,5715.27
+3589,septembre 2024,156914370,Roudane Mouhsine,24,5548.62
+3589,octobre 2024,156914370,Roudane Mouhsine,24,5550.64
+3589,novembre 2024,156914370,Roudane Mouhsine,24,5583.07
+3589,décembre 2024,156914370,Roudane Mouhsine,24,5418.04
+3589,décembre 2023,156914875,Jeddi Abdellah,22,5089.57
+3589,janvier 2024,156914875,Jeddi Abdellah,22,5231.73
+3589,février 2024,156914875,Jeddi Abdellah,22,5376.4
+3589,mars 2024,156914875,Jeddi Abdellah,22,5550.98
+3589,avril 2024,156914875,Jeddi Abdellah,22,5577.22
+3589,mai 2024,156914875,Jeddi Abdellah,22,5444.99
+3589,juin 2024,156914875,Jeddi Abdellah,22,5418.93
+3589,juillet 2024,156914875,Jeddi Abdellah,22,5457.64
+3589,août 2024,156914875,Jeddi Abdellah,22,5389.66
+3589,septembre 2024,156914875,Jeddi Abdellah,22,5642.07
+3589,octobre 2024,156914875,Jeddi Abdellah,22,5683.88
+3589,novembre 2024,156914875,Jeddi Abdellah,22,5927.31
+3589,décembre 2024,156914875,Jeddi Abdellah,22,6217.2
+3589,décembre 2023,156915071,Boumediene Rachid,25,5457.75
+3589,janvier 2024,156915071,Boumediene Rachid,25,5683.17
+3589,février 2024,156915071,Boumediene Rachid,25,5851.89
+3589,mars 2024,156915071,Boumediene Rachid,25,6141.99
+3589,avril 2024,156915071,Boumediene Rachid,25,6392.13
+3589,mai 2024,156915071,Boumediene Rachid,25,6273.17
+3589,juin 2024,156915071,Boumediene Rachid,25,6101.29
+3589,juillet 2024,156915071,Boumediene Rachid,25,5939.39
+3589,août 2024,156915071,Boumediene Rachid,25,6008.52
+3589,septembre 2024,156915071,Boumediene Rachid,25,6142.56
+3589,octobre 2024,156915071,Boumediene Rachid,25,6438.98
+3589,novembre 2024,156915071,Boumediene Rachid,25,6447.07
+3589,décembre 2024,156915071,Boumediene Rachid,25,6452.41
+3589,décembre 2023,158549894,El Gour Mounir,26,33016.82
+3589,janvier 2024,158549894,El Gour Mounir,26,32797.5
+3589,février 2024,158549894,El Gour Mounir,26,31861.3
+3589,mars 2024,158549894,El Gour Mounir,26,31165.01
+3589,avril 2024,158549894,El Gour Mounir,26,30516.07
+3589,mai 2024,158549894,El Gour Mounir,26,31845.18
+3589,juin 2024,158549894,El Gour Mounir,26,31600.71
+3589,juillet 2024,158549894,El Gour Mounir,26,31863.85
+3589,août 2024,158549894,El Gour Mounir,26,32135.73
+3589,septembre 2024,158549894,El Gour Mounir,26,33140.34
+3589,octobre 2024,158549894,El Gour Mounir,26,32393.18
+3589,novembre 2024,158549894,El Gour Mounir,26,31715.52
+3589,décembre 2024,158549894,El Gour Mounir,26,31024.27
+3589,décembre 2023,159493561,Hansali Abdenabi,25,5535.4
+3589,janvier 2024,159493561,Hansali Abdenabi,25,5759.74
+3589,février 2024,159493561,Hansali Abdenabi,25,6032.43
+3589,mars 2024,159493561,Hansali Abdenabi,25,6010.8
+3589,avril 2024,159493561,Hansali Abdenabi,25,6124.88
+3589,mai 2024,159493561,Hansali Abdenabi,25,6139.8
+3589,juin 2024,159493561,Hansali Abdenabi,25,6273.36
+3589,juillet 2024,159493561,Hansali Abdenabi,25,6388.89
+3589,août 2024,159493561,Hansali Abdenabi,25,6442.95
+3589,septembre 2024,159493561,Hansali Abdenabi,25,6673.65
+3589,octobre 2024,159493561,Hansali Abdenabi,25,6914.6
+3589,novembre 2024,159493561,Hansali Abdenabi,25,7132.73
+3589,décembre 2024,159493561,Hansali Abdenabi,25,7067.65
+3589,décembre 2023,159570773,El Oualfi Zohair,21,4390.71
+3589,janvier 2024,159570773,El Oualfi Zohair,21,4555.75
+3589,février 2024,159570773,El Oualfi Zohair,21,4485.85
+3589,mars 2024,159570773,El Oualfi Zohair,21,4669.23
+3589,avril 2024,159570773,El Oualfi Zohair,21,4842.97
+3589,mai 2024,159570773,El Oualfi Zohair,21,4985.56
+3589,juin 2024,159570773,El Oualfi Zohair,21,5097.04
+3589,juillet 2024,159570773,El Oualfi Zohair,21,5066.11
+3589,août 2024,159570773,El Oualfi Zohair,21,4925.07
+3589,septembre 2024,159570773,El Oualfi Zohair,21,5143.36
+3589,octobre 2024,159570773,El Oualfi Zohair,21,5161.28
+3589,novembre 2024,159570773,El Oualfi Zohair,21,5030.31
+3589,décembre 2024,159570773,El Oualfi Zohair,21,5192.81
+3589,décembre 2023,160425967,Hamdoun Hasan,23,5089.57
+3589,janvier 2024,160425967,Hamdoun Hasan,23,5036.02
+3589,février 2024,160425967,Hamdoun Hasan,23,4948.86
+3589,mars 2024,160425967,Hamdoun Hasan,23,5083.08
+3589,avril 2024,160425967,Hamdoun Hasan,23,4934.07
+3589,mai 2024,160425967,Hamdoun Hasan,23,4803.93
+3589,juin 2024,160425967,Hamdoun Hasan,23,4990.83
+3589,juillet 2024,160425967,Hamdoun Hasan,23,5009.45
+3589,août 2024,160425967,Hamdoun Hasan,23,4962.95
+3589,septembre 2024,160425967,Hamdoun Hasan,23,5153.33
+3589,octobre 2024,160425967,Hamdoun Hasan,23,5169.62
+3589,novembre 2024,160425967,Hamdoun Hasan,23,5068.45
+3589,décembre 2024,160425967,Hamdoun Hasan,23,5281.57
+3589,décembre 2023,160858762,Badid Brahim,24,5708.65
+3589,janvier 2024,160858762,Badid Brahim,24,5643.66
+3589,février 2024,160858762,Badid Brahim,24,5760.68
+3589,mars 2024,160858762,Badid Brahim,24,5920.16
+3589,avril 2024,160858762,Badid Brahim,24,5851.03
+3589,mai 2024,160858762,Badid Brahim,24,5901.98
+3589,juin 2024,160858762,Badid Brahim,24,5819.23
+3589,juillet 2024,160858762,Badid Brahim,24,6032.74
+3589,août 2024,160858762,Badid Brahim,24,6041.72
+3589,septembre 2024,160858762,Badid Brahim,24,6060.55
+3589,octobre 2024,160858762,Badid Brahim,24,5972.76
+3589,novembre 2024,160858762,Badid Brahim,24,6081.77
+3589,décembre 2024,160858762,Badid Brahim,24,6165.21
+3589,décembre 2023,161232436,Mezza Boujemaa,26,13195.85
+3589,janvier 2024,161232436,Mezza Boujemaa,26,13106.75
+3589,février 2024,161232436,Mezza Boujemaa,26,13369.49
+3589,mars 2024,161232436,Mezza Boujemaa,26,13955.53
+3589,avril 2024,161232436,Mezza Boujemaa,26,14402.38
+3589,mai 2024,161232436,Mezza Boujemaa,26,14286.77
+3589,juin 2024,161232436,Mezza Boujemaa,26,14525.81
+3589,juillet 2024,161232436,Mezza Boujemaa,26,14174.6
+3589,août 2024,161232436,Mezza Boujemaa,26,13844.38
+3589,septembre 2024,161232436,Mezza Boujemaa,26,13555.95
+3589,octobre 2024,161232436,Mezza Boujemaa,26,13753.16
+3589,novembre 2024,161232436,Mezza Boujemaa,26,13813.56
+3589,décembre 2024,161232436,Mezza Boujemaa,26,14227.01
+3589,décembre 2023,161334597,Ait Bouyoussef Mohammed,24,5153.67
+3589,janvier 2024,161334597,Ait Bouyoussef Mohammed,24,5325.54
+3589,février 2024,161334597,Ait Bouyoussef Mohammed,24,5514.31
+3589,mars 2024,161334597,Ait Bouyoussef Mohammed,24,5484.87
+3589,avril 2024,161334597,Ait Bouyoussef Mohammed,24,5721.9
+3589,mai 2024,161334597,Ait Bouyoussef Mohammed,24,5823.92
+3589,juin 2024,161334597,Ait Bouyoussef Mohammed,24,5998.78
+3589,juillet 2024,161334597,Ait Bouyoussef Mohammed,24,6037.97
+3589,août 2024,161334597,Ait Bouyoussef Mohammed,24,5918.51
+3589,septembre 2024,161334597,Ait Bouyoussef Mohammed,24,5900.07
+3589,octobre 2024,161334597,Ait Bouyoussef Mohammed,24,5796.82
+3589,novembre 2024,161334597,Ait Bouyoussef Mohammed,24,5659.99
+3589,décembre 2024,161334597,Ait Bouyoussef Mohammed,24,5835.55
+3589,décembre 2023,161649847,Outaleb Abderrahmane,21,4072.76
+3589,janvier 2024,161649847,Outaleb Abderrahmane,21,4087.36
+3589,février 2024,161649847,Outaleb Abderrahmane,21,4097.56
+3589,mars 2024,161649847,Outaleb Abderrahmane,21,4010.83
+3589,avril 2024,161649847,Outaleb Abderrahmane,21,3922.48
+3589,mai 2024,161649847,Outaleb Abderrahmane,21,4110.46
+3589,juin 2024,161649847,Outaleb Abderrahmane,21,4209.38
+3589,juillet 2024,161649847,Outaleb Abderrahmane,21,4130.01
+3589,août 2024,161649847,Outaleb Abderrahmane,21,4119.09
+3589,septembre 2024,161649847,Outaleb Abderrahmane,21,4132.86
+3589,octobre 2024,161649847,Outaleb Abderrahmane,21,4230.43
+3589,novembre 2024,161649847,Outaleb Abderrahmane,21,4198.25
+3589,décembre 2024,161649847,Outaleb Abderrahmane,21,4131.9
+3589,décembre 2023,161707372,Bilali Mohamemd,24,6565.86
+3589,janvier 2024,161707372,Bilali Mohamemd,24,6419.13
+3589,février 2024,161707372,Bilali Mohamemd,24,6543.68
+3589,mars 2024,161707372,Bilali Mohamemd,24,6638.62
+3589,avril 2024,161707372,Bilali Mohamemd,24,6926.3
+3589,mai 2024,161707372,Bilali Mohamemd,24,7258.86
+3589,juin 2024,161707372,Bilali Mohamemd,24,7187.32
+3589,juillet 2024,161707372,Bilali Mohamemd,24,7218.62
+3589,août 2024,161707372,Bilali Mohamemd,24,7531.27
+3589,septembre 2024,161707372,Bilali Mohamemd,24,7759.62
+3589,octobre 2024,161707372,Bilali Mohamemd,24,7728.88
+3589,novembre 2024,161707372,Bilali Mohamemd,24,7556.29
+3589,décembre 2024,161707372,Bilali Mohamemd,24,7894.22
+3589,décembre 2023,161710078,Zaiat El Mostafa,23,5089.57
+3589,janvier 2024,161710078,Zaiat El Mostafa,23,5299.85
+3589,février 2024,161710078,Zaiat El Mostafa,23,5475.82
+3589,mars 2024,161710078,Zaiat El Mostafa,23,5516.19
+3589,avril 2024,161710078,Zaiat El Mostafa,23,5700.64
+3589,mai 2024,161710078,Zaiat El Mostafa,23,5713.88
+3589,juin 2024,161710078,Zaiat El Mostafa,23,5733.17
+3589,juillet 2024,161710078,Zaiat El Mostafa,23,5776.69
+3589,août 2024,161710078,Zaiat El Mostafa,23,5784.92
+3589,septembre 2024,161710078,Zaiat El Mostafa,23,5710.31
+3589,octobre 2024,161710078,Zaiat El Mostafa,23,5884.09
+3589,novembre 2024,161710078,Zaiat El Mostafa,23,5830.94
+3589,décembre 2024,161710078,Zaiat El Mostafa,23,5896.18
+3589,décembre 2023,161710573,Eddiri Ali,25,5457.75
+3589,janvier 2024,161710573,Eddiri Ali,25,5301.8
+3589,février 2024,161710573,Eddiri Ali,25,5469.93
+3589,mars 2024,161710573,Eddiri Ali,25,5564.96
+3589,avril 2024,161710573,Eddiri Ali,25,5759.82
+3589,mai 2024,161710573,Eddiri Ali,25,5948.02
+3589,juin 2024,161710573,Eddiri Ali,25,5874.66
+3589,juillet 2024,161710573,Eddiri Ali,25,5792.07
+3589,août 2024,161710573,Eddiri Ali,25,5887.3
+3589,septembre 2024,161710573,Eddiri Ali,25,5797.94
+3589,octobre 2024,161710573,Eddiri Ali,25,5700.65
+3589,novembre 2024,161710573,Eddiri Ali,25,5875.85
+3589,décembre 2024,161710573,Eddiri Ali,25,5732.29
+3589,décembre 2023,161960293,Hanine Faicel,24,4648.42
+3589,janvier 2024,161960293,Hanine Faicel,24,4786.91
+3589,février 2024,161960293,Hanine Faicel,24,4856.67
+3589,mars 2024,161960293,Hanine Faicel,24,5083.14
+3589,avril 2024,161960293,Hanine Faicel,24,4995.56
+3589,mai 2024,161960293,Hanine Faicel,24,4887.87
+3589,juin 2024,161960293,Hanine Faicel,24,5114.81
+3589,juillet 2024,161960293,Hanine Faicel,24,5087.87
+3589,août 2024,161960293,Hanine Faicel,24,5191.04
+3589,septembre 2024,161960293,Hanine Faicel,24,5393.68
+3589,octobre 2024,161960293,Hanine Faicel,24,5283.51
+3589,novembre 2024,161960293,Hanine Faicel,24,5225.5
+3589,décembre 2024,161960293,Hanine Faicel,24,5462.84
+3589,décembre 2023,162961670,Ezzarraa Mohamed,25,4854.01
+3589,janvier 2024,162961670,Ezzarraa Mohamed,25,4785.68
+3589,février 2024,162961670,Ezzarraa Mohamed,25,4737.47
+3589,mars 2024,162961670,Ezzarraa Mohamed,25,4722.88
+3589,avril 2024,162961670,Ezzarraa Mohamed,25,4636.91
+3589,mai 2024,162961670,Ezzarraa Mohamed,25,4721.26
+3589,juin 2024,162961670,Ezzarraa Mohamed,25,4868.53
+3589,juillet 2024,162961670,Ezzarraa Mohamed,25,5011.02
+3589,août 2024,162961670,Ezzarraa Mohamed,25,5107.83
+3589,septembre 2024,162961670,Ezzarraa Mohamed,25,5254.62
+3589,octobre 2024,162961670,Ezzarraa Mohamed,25,5157.96
+3589,novembre 2024,162961670,Ezzarraa Mohamed,25,5263.68
+3589,décembre 2024,162961670,Ezzarraa Mohamed,25,5379.09
+3589,décembre 2023,163466463,Jamal Eddine Mohamed,24,5273.66
+3589,janvier 2024,163466463,Jamal Eddine Mohamed,24,5305.01
+3589,février 2024,163466463,Jamal Eddine Mohamed,24,5259.52
+3589,mars 2024,163466463,Jamal Eddine Mohamed,24,5281.74
+3589,avril 2024,163466463,Jamal Eddine Mohamed,24,5170.18
+3589,mai 2024,163466463,Jamal Eddine Mohamed,24,5368.56
+3589,juin 2024,163466463,Jamal Eddine Mohamed,24,5417.93
+3589,juillet 2024,163466463,Jamal Eddine Mohamed,24,5602.69
+3589,août 2024,163466463,Jamal Eddine Mohamed,24,5697.23
+3589,septembre 2024,163466463,Jamal Eddine Mohamed,24,5789.44
+3589,octobre 2024,163466463,Jamal Eddine Mohamed,24,5682.71
+3589,novembre 2024,163466463,Jamal Eddine Mohamed,24,5742.25
+3589,décembre 2024,163466463,Jamal Eddine Mohamed,24,5600.03
+3589,décembre 2023,164716586,Ziani Monsif,26,17787.65
+3589,janvier 2024,164716586,Ziani Monsif,26,18297.9
+3589,février 2024,164716586,Ziani Monsif,26,19179.46
+3589,mars 2024,164716586,Ziani Monsif,26,18686.71
+3589,avril 2024,164716586,Ziani Monsif,26,19261.24
+3589,mai 2024,164716586,Ziani Monsif,26,18870.81
+3589,juin 2024,164716586,Ziani Monsif,26,19459.52
+3589,juillet 2024,164716586,Ziani Monsif,26,19763.89
+3589,août 2024,164716586,Ziani Monsif,26,20239.11
+3589,septembre 2024,164716586,Ziani Monsif,26,20645.75
+3589,octobre 2024,164716586,Ziani Monsif,26,21474.72
+3589,novembre 2024,164716586,Ziani Monsif,26,21917.8
+3589,décembre 2024,164716586,Ziani Monsif,26,21379.43
+3589,décembre 2023,166586250,El Kobi Abdelhadi,21,4905.47
+3589,janvier 2024,166586250,El Kobi Abdelhadi,21,4842.58
+3589,février 2024,166586250,El Kobi Abdelhadi,21,4907.19
+3589,mars 2024,166586250,El Kobi Abdelhadi,21,4794.1
+3589,avril 2024,166586250,El Kobi Abdelhadi,21,4732.21
+3589,mai 2024,166586250,El Kobi Abdelhadi,21,4807.56
+3589,juin 2024,166586250,El Kobi Abdelhadi,21,4851.7
+3589,juillet 2024,166586250,El Kobi Abdelhadi,21,5069.23
+3589,août 2024,166586250,El Kobi Abdelhadi,21,5132.58
+3589,septembre 2024,166586250,El Kobi Abdelhadi,21,5152.96
+3589,octobre 2024,166586250,El Kobi Abdelhadi,21,5295.38
+3589,novembre 2024,166586250,El Kobi Abdelhadi,21,5340.78
+3589,décembre 2024,166586250,El Kobi Abdelhadi,21,5264.58
+3589,décembre 2023,167112757,Saffou Hamid,26,18618.5
+3589,janvier 2024,167112757,Saffou Hamid,26,18140.22
+3589,février 2024,167112757,Saffou Hamid,26,17661.52
+3589,mars 2024,167112757,Saffou Hamid,26,18423.27
+3589,avril 2024,167112757,Saffou Hamid,26,18306.53
+3589,mai 2024,167112757,Saffou Hamid,26,18441.66
+3589,juin 2024,167112757,Saffou Hamid,26,18267.28
+3589,juillet 2024,167112757,Saffou Hamid,26,18422.88
+3589,août 2024,167112757,Saffou Hamid,26,18092.64
+3589,septembre 2024,167112757,Saffou Hamid,26,17765.44
+3589,octobre 2024,167112757,Saffou Hamid,26,17670.56
+3589,novembre 2024,167112757,Saffou Hamid,26,17635.29
+3589,décembre 2024,167112757,Saffou Hamid,26,17713.01
+3589,décembre 2023,167866958,El Aidani Naima,25,10759.17
+3589,janvier 2024,167866958,El Aidani Naima,25,10827.9
+3589,février 2024,167866958,El Aidani Naima,25,10595.35
+3589,mars 2024,167866958,El Aidani Naima,25,10941.93
+3589,avril 2024,167866958,El Aidani Naima,25,10966.34
+3589,mai 2024,167866958,El Aidani Naima,25,11329.42
+3589,juin 2024,167866958,El Aidani Naima,25,11500.91
+3589,juillet 2024,167866958,El Aidani Naima,25,11731.59
+3589,août 2024,167866958,El Aidani Naima,25,12279.81
+3589,septembre 2024,167866958,El Aidani Naima,25,12157.09
+3589,octobre 2024,167866958,El Aidani Naima,25,11801.35
+3589,novembre 2024,167866958,El Aidani Naima,25,12259.18
+3589,décembre 2024,167866958,El Aidani Naima,25,12561.03
+3589,décembre 2023,168252958,El Handaoui Nadia,26,10303.6
+3589,janvier 2024,168252958,El Handaoui Nadia,26,10689.35
+3589,février 2024,168252958,El Handaoui Nadia,26,10632.9
+3589,mars 2024,168252958,El Handaoui Nadia,26,10718.39
+3589,avril 2024,168252958,El Handaoui Nadia,26,10796.32
+3589,mai 2024,168252958,El Handaoui Nadia,26,10537.69
+3589,juin 2024,168252958,El Handaoui Nadia,26,10958.45
+3589,juillet 2024,168252958,El Handaoui Nadia,26,11026.5
+3589,août 2024,168252958,El Handaoui Nadia,26,11202.39
+3589,septembre 2024,168252958,El Handaoui Nadia,26,11297.11
+3589,octobre 2024,168252958,El Handaoui Nadia,26,11429.73
+3589,novembre 2024,168252958,El Handaoui Nadia,26,11438.23
+3589,décembre 2024,168252958,El Handaoui Nadia,26,11256.82
+3589,décembre 2023,168273764,Boumlik Brahim,25,4591.09
+3589,janvier 2024,168273764,Boumlik Brahim,25,4615.54
+3589,février 2024,168273764,Boumlik Brahim,25,4737.72
+3589,mars 2024,168273764,Boumlik Brahim,25,4971.63
+3589,avril 2024,168273764,Boumlik Brahim,25,5040.57
+3589,mai 2024,168273764,Boumlik Brahim,25,5070.54
+3589,juin 2024,168273764,Boumlik Brahim,25,5029.57
+3589,juillet 2024,168273764,Boumlik Brahim,25,4976.28
+3589,août 2024,168273764,Boumlik Brahim,25,5167.42
+3589,septembre 2024,168273764,Boumlik Brahim,25,5133.92
+3589,octobre 2024,168273764,Boumlik Brahim,25,5026.62
+3589,novembre 2024,168273764,Boumlik Brahim,25,5009.07
+3589,décembre 2024,168273764,Boumlik Brahim,25,5052.95
+3589,décembre 2023,170205177,Chaki Abdelwahab,26,8163.7
+3589,janvier 2024,170205177,Chaki Abdelwahab,26,8022.82
+3589,février 2024,170205177,Chaki Abdelwahab,26,8210.36
+3589,mars 2024,170205177,Chaki Abdelwahab,26,8341.4
+3589,avril 2024,170205177,Chaki Abdelwahab,26,8291.94
+3589,mai 2024,170205177,Chaki Abdelwahab,26,8551.09
+3589,juin 2024,170205177,Chaki Abdelwahab,26,8862.12
+3589,juillet 2024,170205177,Chaki Abdelwahab,26,9084.38
+3589,août 2024,170205177,Chaki Abdelwahab,26,9380.47
+3589,septembre 2024,170205177,Chaki Abdelwahab,26,9696.37
+3589,octobre 2024,170205177,Chaki Abdelwahab,26,9956.93
+3589,novembre 2024,170205177,Chaki Abdelwahab,26,10337.86
+3589,décembre 2024,170205177,Chaki Abdelwahab,26,10794.5
+3589,décembre 2023,171263606,Sabbar Salma,26,5817.73
+3589,janvier 2024,171263606,Sabbar Salma,26,5873.98
+3589,février 2024,171263606,Sabbar Salma,26,6099.48
+3589,mars 2024,171263606,Sabbar Salma,26,6311.8
+3589,avril 2024,171263606,Sabbar Salma,26,6200.17
+3589,mai 2024,171263606,Sabbar Salma,26,6410.49
+3589,juin 2024,171263606,Sabbar Salma,26,6229.63
+3589,juillet 2024,171263606,Sabbar Salma,26,6500.82
+3589,août 2024,171263606,Sabbar Salma,26,6767.28
+3589,septembre 2024,171263606,Sabbar Salma,26,6853.2
+3589,octobre 2024,171263606,Sabbar Salma,26,6649.55
+3589,novembre 2024,171263606,Sabbar Salma,26,6818.56
+3589,décembre 2024,171263606,Sabbar Salma,26,7011.22
+3589,décembre 2023,173587952,Chifahi Taha,23,5580.14
+3589,janvier 2024,173587952,Chifahi Taha,23,5826.31
+3589,février 2024,173587952,Chifahi Taha,23,5662.99
+3589,mars 2024,173587952,Chifahi Taha,23,5508.13
+3589,avril 2024,173587952,Chifahi Taha,23,5417.53
+3589,mai 2024,173587952,Chifahi Taha,23,5428.29
+3589,juin 2024,173587952,Chifahi Taha,23,5612.8
+3589,juillet 2024,173587952,Chifahi Taha,23,5541.49
+3589,août 2024,173587952,Chifahi Taha,23,5808.38
+3589,septembre 2024,173587952,Chifahi Taha,23,5742.96
+3589,octobre 2024,173587952,Chifahi Taha,23,6029.64
+3589,novembre 2024,173587952,Chifahi Taha,23,6047.44
+3589,décembre 2024,173587952,Chifahi Taha,23,5982.98
+3589,décembre 2023,175050902,Oumarghad Fatima,26,20454.97
+3589,janvier 2024,175050902,Oumarghad Fatima,26,21083.02
+3589,février 2024,175050902,Oumarghad Fatima,26,21824.37
+3589,mars 2024,175050902,Oumarghad Fatima,26,21816.49
+3589,avril 2024,175050902,Oumarghad Fatima,26,22393.47
+3589,mai 2024,175050902,Oumarghad Fatima,26,21997.39
+3589,juin 2024,175050902,Oumarghad Fatima,26,21944.64
+3589,juillet 2024,175050902,Oumarghad Fatima,26,21288.47
+3589,août 2024,175050902,Oumarghad Fatima,26,22244.66
+3589,septembre 2024,175050902,Oumarghad Fatima,26,23349.55
+3589,octobre 2024,175050902,Oumarghad Fatima,26,23544.55
+3589,novembre 2024,175050902,Oumarghad Fatima,26,24235.27
+3589,décembre 2024,175050902,Oumarghad Fatima,26,25220.02
+3589,décembre 2023,175853179,Lamkirta Youness,25,5457.75
+3589,janvier 2024,175853179,Lamkirta Youness,25,5356.59
+3589,février 2024,175853179,Lamkirta Youness,25,5497.08
+3589,mars 2024,175853179,Lamkirta Youness,25,5646.93
+3589,avril 2024,175853179,Lamkirta Youness,25,5693.47
+3589,mai 2024,175853179,Lamkirta Youness,25,5902.25
+3589,juin 2024,175853179,Lamkirta Youness,25,5988.21
+3589,juillet 2024,175853179,Lamkirta Youness,25,6174.89
+3589,août 2024,175853179,Lamkirta Youness,25,6329.97
+3589,septembre 2024,175853179,Lamkirta Youness,25,6393.23
+3589,octobre 2024,175853179,Lamkirta Youness,25,6383.97
+3589,novembre 2024,175853179,Lamkirta Youness,25,6484.79
+3589,décembre 2024,175853179,Lamkirta Youness,25,6675.15
+3589,décembre 2023,178234842,Ennajari Noura,26,4000.03
+3589,janvier 2024,178234842,Ennajari Noura,26,4119.16
+3589,février 2024,178234842,Ennajari Noura,26,4099.88
+3589,mars 2024,178234842,Ennajari Noura,26,4197.47
+3589,avril 2024,178234842,Ennajari Noura,26,4204.01
+3589,mai 2024,178234842,Ennajari Noura,26,4332.59
+3589,juin 2024,178234842,Ennajari Noura,26,4432.43
+3589,juillet 2024,178234842,Ennajari Noura,26,4582.76
+3589,août 2024,178234842,Ennajari Noura,26,4446.44
+3589,septembre 2024,178234842,Ennajari Noura,26,4635.44
+3589,octobre 2024,178234842,Ennajari Noura,26,4512.69
+3589,novembre 2024,178234842,Ennajari Noura,26,4554.66
+3589,décembre 2024,178234842,Ennajari Noura,26,4534.26
+3589,décembre 2023,178710772,Ouzrine Mourad,25,4891.11
+3589,janvier 2024,178710772,Ouzrine Mourad,25,4931.98
+3589,février 2024,178710772,Ouzrine Mourad,25,4789.88
+3589,mars 2024,178710772,Ouzrine Mourad,25,4877.79
+3589,avril 2024,178710772,Ouzrine Mourad,25,4965.36
+3589,mai 2024,178710772,Ouzrine Mourad,25,5021.81
+3589,juin 2024,178710772,Ouzrine Mourad,25,5094.88
+3589,juillet 2024,178710772,Ouzrine Mourad,25,5160.12
+3589,août 2024,178710772,Ouzrine Mourad,25,5224.73
+3589,septembre 2024,178710772,Ouzrine Mourad,25,5356.38
+3589,octobre 2024,178710772,Ouzrine Mourad,25,5257.36
+3589,novembre 2024,178710772,Ouzrine Mourad,25,5154.79
+3589,décembre 2024,178710772,Ouzrine Mourad,25,5071.38
+3589,décembre 2023,178720135,Rammane El Miloudi,24,5273.66
+3589,janvier 2024,178720135,Rammane El Miloudi,24,5506.18
+3589,février 2024,178720135,Rammane El Miloudi,24,5581.88
+3589,mars 2024,178720135,Rammane El Miloudi,24,5691.94
+3589,avril 2024,178720135,Rammane El Miloudi,24,5903.29
+3589,mai 2024,178720135,Rammane El Miloudi,24,5863.01
+3589,juin 2024,178720135,Rammane El Miloudi,24,5788.14
+3589,juillet 2024,178720135,Rammane El Miloudi,24,5707.84
+3589,août 2024,178720135,Rammane El Miloudi,24,5544.9
+3589,septembre 2024,178720135,Rammane El Miloudi,24,5462.85
+3589,octobre 2024,178720135,Rammane El Miloudi,24,5720.86
+3589,novembre 2024,178720135,Rammane El Miloudi,24,5604.25
+3589,décembre 2024,178720135,Rammane El Miloudi,24,5490.68
+3589,décembre 2023,179134252,Jaaouani Azedine,24,4672.2
+3589,janvier 2024,179134252,Jaaouani Azedine,24,4634.85
+3589,février 2024,179134252,Jaaouani Azedine,24,4726.16
+3589,mars 2024,179134252,Jaaouani Azedine,24,4694.0
+3589,avril 2024,179134252,Jaaouani Azedine,24,4597.2
+3589,mai 2024,179134252,Jaaouani Azedine,24,4751.69
+3589,juin 2024,179134252,Jaaouani Azedine,24,4681.85
+3589,juillet 2024,179134252,Jaaouani Azedine,24,4585.22
+3589,août 2024,179134252,Jaaouani Azedine,24,4793.22
+3589,septembre 2024,179134252,Jaaouani Azedine,24,4809.45
+3589,octobre 2024,179134252,Jaaouani Azedine,24,4878.74
+3589,novembre 2024,179134252,Jaaouani Azedine,24,4736.49
+3589,décembre 2024,179134252,Jaaouani Azedine,24,4837.98
+3589,décembre 2023,181668273,Labiad Yassine,25,4586.81
+3589,janvier 2024,181668273,Labiad Yassine,25,4539.03
+3589,février 2024,181668273,Labiad Yassine,25,4437.22
+3589,mars 2024,181668273,Labiad Yassine,25,4626.81
+3589,avril 2024,181668273,Labiad Yassine,25,4580.06
+3589,mai 2024,181668273,Labiad Yassine,25,4475.79
+3589,juin 2024,181668273,Labiad Yassine,25,4473.43
+3589,juillet 2024,181668273,Labiad Yassine,25,4624.92
+3589,août 2024,181668273,Labiad Yassine,25,4531.77
+3589,septembre 2024,181668273,Labiad Yassine,25,4490.69
+3589,octobre 2024,181668273,Labiad Yassine,25,4711.27
+3589,novembre 2024,181668273,Labiad Yassine,25,4840.04
+3589,décembre 2024,181668273,Labiad Yassine,25,4785.42
+3589,décembre 2023,181756763,Nasser Abdessadek,25,5457.75
+3589,janvier 2024,181756763,Nasser Abdessadek,25,5585.26
+3589,février 2024,181756763,Nasser Abdessadek,25,5852.84
+3589,mars 2024,181756763,Nasser Abdessadek,25,6120.76
+3589,avril 2024,181756763,Nasser Abdessadek,25,6114.01
+3589,mai 2024,181756763,Nasser Abdessadek,25,6061.57
+3589,juin 2024,181756763,Nasser Abdessadek,25,5937.84
+3589,juillet 2024,181756763,Nasser Abdessadek,25,6069.75
+3589,août 2024,181756763,Nasser Abdessadek,25,5972.26
+3589,septembre 2024,181756763,Nasser Abdessadek,25,5826.85
+3589,octobre 2024,181756763,Nasser Abdessadek,25,6014.31
+3589,novembre 2024,181756763,Nasser Abdessadek,25,5996.27
+3589,décembre 2024,181756763,Nasser Abdessadek,25,6016.9
+3589,décembre 2023,183862523,Ecsabery Mohammedyassine,24,2940.12
+3589,janvier 2024,183862523,Ecsabery Mohammedyassine,24,3016.3
+3589,février 2024,183862523,Ecsabery Mohammedyassine,24,3117.12
+3589,mars 2024,183862523,Ecsabery Mohammedyassine,24,3064.89
+3589,avril 2024,183862523,Ecsabery Mohammedyassine,24,2995.2
+3589,mai 2024,183862523,Ecsabery Mohammedyassine,24,2987.37
+3589,juin 2024,183862523,Ecsabery Mohammedyassine,24,3115.84
+3589,juillet 2024,183862523,Ecsabery Mohammedyassine,24,3139.94
+3589,août 2024,183862523,Ecsabery Mohammedyassine,24,3241.54
+3589,septembre 2024,183862523,Ecsabery Mohammedyassine,24,3232.91
+3589,octobre 2024,183862523,Ecsabery Mohammedyassine,24,3169.81
+3589,novembre 2024,183862523,Ecsabery Mohammedyassine,24,3200.25
+3589,décembre 2024,183862523,Ecsabery Mohammedyassine,24,3156.15
+3589,décembre 2023,184880353,El Assri Rachid,25,4060.96
+3589,janvier 2024,184880353,El Assri Rachid,25,4164.21
+3589,février 2024,184880353,El Assri Rachid,25,4282.6
+3589,mars 2024,184880353,El Assri Rachid,25,4430.86
+3589,avril 2024,184880353,El Assri Rachid,25,4386.56
+3589,mai 2024,184880353,El Assri Rachid,25,4384.82
+3589,juin 2024,184880353,El Assri Rachid,25,4462.0
+3589,juillet 2024,184880353,El Assri Rachid,25,4680.34
+3589,août 2024,184880353,El Assri Rachid,25,4687.55
+3589,septembre 2024,184880353,El Assri Rachid,25,4665.58
+3589,octobre 2024,184880353,El Assri Rachid,25,4883.45
+3589,novembre 2024,184880353,El Assri Rachid,25,5027.15
+3589,décembre 2024,184880353,El Assri Rachid,25,5105.05
+3589,décembre 2023,186451037,Maachari Youssef,25,6101.27
+3589,janvier 2024,186451037,Maachari Youssef,25,6159.46
+3589,février 2024,186451037,Maachari Youssef,25,6362.85
+3589,mars 2024,186451037,Maachari Youssef,25,6466.64
+3589,avril 2024,186451037,Maachari Youssef,25,6309.77
+3589,mai 2024,186451037,Maachari Youssef,25,6206.51
+3589,juin 2024,186451037,Maachari Youssef,25,6209.64
+3589,juillet 2024,186451037,Maachari Youssef,25,6199.82
+3589,août 2024,186451037,Maachari Youssef,25,6142.5
+3589,septembre 2024,186451037,Maachari Youssef,25,6215.4
+3589,octobre 2024,186451037,Maachari Youssef,25,6307.89
+3589,novembre 2024,186451037,Maachari Youssef,25,6543.57
+3589,décembre 2024,186451037,Maachari Youssef,25,6795.2
+3589,décembre 2023,187956763,Guizal Hicham,25,5457.75
+3589,janvier 2024,187956763,Guizal Hicham,25,5698.18
+3589,février 2024,187956763,Guizal Hicham,25,5879.73
+3589,mars 2024,187956763,Guizal Hicham,25,5801.09
+3589,avril 2024,187956763,Guizal Hicham,25,5672.13
+3589,mai 2024,187956763,Guizal Hicham,25,5811.08
+3589,juin 2024,187956763,Guizal Hicham,25,5841.78
+3589,juillet 2024,187956763,Guizal Hicham,25,6091.1
+3589,août 2024,187956763,Guizal Hicham,25,5947.02
+3589,septembre 2024,187956763,Guizal Hicham,25,6123.01
+3589,octobre 2024,187956763,Guizal Hicham,25,6107.66
+3589,novembre 2024,187956763,Guizal Hicham,25,6174.59
+3589,décembre 2024,187956763,Guizal Hicham,25,6008.37
+3589,décembre 2023,187977967,Samou Yassine,25,5457.75
+3589,janvier 2024,187977967,Samou Yassine,25,5381.68
+3589,février 2024,187977967,Samou Yassine,25,5416.5
+3589,mars 2024,187977967,Samou Yassine,25,5495.86
+3589,avril 2024,187977967,Samou Yassine,25,5540.97
+3589,mai 2024,187977967,Samou Yassine,25,5710.32
+3589,juin 2024,187977967,Samou Yassine,25,5639.87
+3589,juillet 2024,187977967,Samou Yassine,25,5547.24
+3589,août 2024,187977967,Samou Yassine,25,5676.46
+3589,septembre 2024,187977967,Samou Yassine,25,5556.73
+3589,octobre 2024,187977967,Samou Yassine,25,5503.24
+3589,novembre 2024,187977967,Samou Yassine,25,5604.9
+3589,décembre 2024,187977967,Samou Yassine,25,5554.54
+3589,décembre 2023,188082468,El Miri Hicham,25,5457.75
+3589,janvier 2024,188082468,El Miri Hicham,25,5455.07
+3589,février 2024,188082468,El Miri Hicham,25,5693.24
+3589,mars 2024,188082468,El Miri Hicham,25,5650.93
+3589,avril 2024,188082468,El Miri Hicham,25,5504.9
+3589,mai 2024,188082468,El Miri Hicham,25,5684.77
+3589,juin 2024,188082468,El Miri Hicham,25,5756.82
+3589,juillet 2024,188082468,El Miri Hicham,25,5589.34
+3589,août 2024,188082468,El Miri Hicham,25,5576.81
+3589,septembre 2024,188082468,El Miri Hicham,25,5512.12
+3589,octobre 2024,188082468,El Miri Hicham,25,5599.55
+3589,novembre 2024,188082468,El Miri Hicham,25,5618.35
+3589,décembre 2024,188082468,El Miri Hicham,25,5453.22
+3589,décembre 2023,188152550,Kouri Abderazzak,24,5273.66
+3589,janvier 2024,188152550,Kouri Abderazzak,24,5535.75
+3589,février 2024,188152550,Kouri Abderazzak,24,5494.65
+3589,mars 2024,188152550,Kouri Abderazzak,24,5467.89
+3589,avril 2024,188152550,Kouri Abderazzak,24,5631.55
+3589,mai 2024,188152550,Kouri Abderazzak,24,5910.6
+3589,juin 2024,188152550,Kouri Abderazzak,24,5817.91
+3589,juillet 2024,188152550,Kouri Abderazzak,24,5947.55
+3589,août 2024,188152550,Kouri Abderazzak,24,5862.97
+3589,septembre 2024,188152550,Kouri Abderazzak,24,5774.71
+3589,octobre 2024,188152550,Kouri Abderazzak,24,5869.19
+3589,novembre 2024,188152550,Kouri Abderazzak,24,5701.48
+3589,décembre 2024,188152550,Kouri Abderazzak,24,5841.95
+3589,décembre 2023,188528181,Moufid Khadija,26,18951.37
+3589,janvier 2024,188528181,Moufid Khadija,26,19839.53
+3589,février 2024,188528181,Moufid Khadija,26,19648.94
+3589,mars 2024,188528181,Moufid Khadija,26,20200.0
+3589,avril 2024,188528181,Moufid Khadija,26,20097.39
+3589,mai 2024,188528181,Moufid Khadija,26,20809.91
+3589,juin 2024,188528181,Moufid Khadija,26,21695.5
+3589,juillet 2024,188528181,Moufid Khadija,26,21696.04
+3589,août 2024,188528181,Moufid Khadija,26,21610.43
+3589,septembre 2024,188528181,Moufid Khadija,26,21506.4
+3589,octobre 2024,188528181,Moufid Khadija,26,21877.12
+3589,novembre 2024,188528181,Moufid Khadija,26,21424.06
+3589,décembre 2024,188528181,Moufid Khadija,26,21785.32
+3589,décembre 2023,188913168,Khalil Jalal,25,5457.75
+3589,janvier 2024,188913168,Khalil Jalal,25,5523.83
+3589,février 2024,188913168,Khalil Jalal,25,5428.07
+3589,mars 2024,188913168,Khalil Jalal,25,5298.68
+3589,avril 2024,188913168,Khalil Jalal,25,5225.29
+3589,mai 2024,188913168,Khalil Jalal,25,5428.65
+3589,juin 2024,188913168,Khalil Jalal,25,5313.4
+3589,juillet 2024,188913168,Khalil Jalal,25,5335.4
+3589,août 2024,188913168,Khalil Jalal,25,5429.43
+3589,septembre 2024,188913168,Khalil Jalal,25,5311.41
+3589,octobre 2024,188913168,Khalil Jalal,25,5179.26
+3589,novembre 2024,188913168,Khalil Jalal,25,5089.18
+3589,décembre 2024,188913168,Khalil Jalal,25,5126.2
+3589,décembre 2023,189502374,Sabri Rachid,25,4721.18
+3589,janvier 2024,189502374,Sabri Rachid,25,4866.31
+3589,février 2024,189502374,Sabri Rachid,25,4992.65
+3589,mars 2024,189502374,Sabri Rachid,25,4879.72
+3589,avril 2024,189502374,Sabri Rachid,25,4902.26
+3589,mai 2024,189502374,Sabri Rachid,25,5044.24
+3589,juin 2024,189502374,Sabri Rachid,25,4976.6
+3589,juillet 2024,189502374,Sabri Rachid,25,5047.02
+3589,août 2024,189502374,Sabri Rachid,25,4927.91
+3589,septembre 2024,189502374,Sabri Rachid,25,4944.62
+3589,octobre 2024,189502374,Sabri Rachid,25,5117.1
+3589,novembre 2024,189502374,Sabri Rachid,25,5204.44
+3589,décembre 2024,189502374,Sabri Rachid,25,5130.01
+3589,décembre 2023,191203109,Hamid Rania,26,20203.65
+3589,janvier 2024,191203109,Hamid Rania,26,20800.87
+3589,février 2024,191203109,Hamid Rania,26,21731.28
+3589,mars 2024,191203109,Hamid Rania,26,21467.05
+3589,avril 2024,191203109,Hamid Rania,26,20991.4
+3589,mai 2024,191203109,Hamid Rania,26,20376.11
+3589,juin 2024,191203109,Hamid Rania,26,20870.36
+3589,juillet 2024,191203109,Hamid Rania,26,21232.83
+3589,août 2024,191203109,Hamid Rania,26,21399.99
+3589,septembre 2024,191203109,Hamid Rania,26,22093.69
+3589,octobre 2024,191203109,Hamid Rania,26,22862.57
+3589,novembre 2024,191203109,Hamid Rania,26,22928.93
+3589,décembre 2024,191203109,Hamid Rania,26,23408.28
+3589,décembre 2023,192776437,Hanine Hassan,24,5708.65
+3589,janvier 2024,192776437,Hanine Hassan,24,5823.29
+3589,février 2024,192776437,Hanine Hassan,24,5816.52
+3589,mars 2024,192776437,Hanine Hassan,24,5655.45
+3589,avril 2024,192776437,Hanine Hassan,24,5520.96
+3589,mai 2024,192776437,Hanine Hassan,24,5611.48
+3589,juin 2024,192776437,Hanine Hassan,24,5444.76
+3589,juillet 2024,192776437,Hanine Hassan,24,5553.14
+3589,août 2024,192776437,Hanine Hassan,24,5475.96
+3589,septembre 2024,192776437,Hanine Hassan,24,5555.58
+3589,octobre 2024,192776437,Hanine Hassan,24,5571.9
+3589,novembre 2024,192776437,Hanine Hassan,24,5450.11
+3589,décembre 2024,192776437,Hanine Hassan,24,5612.54
+3589,décembre 2023,193990906,El Hajji Mounir Ayoub,26,17944.18
+3589,janvier 2024,193990906,El Hajji Mounir Ayoub,26,17723.63
+3589,février 2024,193990906,El Hajji Mounir Ayoub,26,17497.38
+3589,mars 2024,193990906,El Hajji Mounir Ayoub,26,17339.76
+3589,avril 2024,193990906,El Hajji Mounir Ayoub,26,16836.79
+3589,mai 2024,193990906,El Hajji Mounir Ayoub,26,17134.23
+3589,juin 2024,193990906,El Hajji Mounir Ayoub,26,17126.7
+3589,juillet 2024,193990906,El Hajji Mounir Ayoub,26,17970.35
+3589,août 2024,193990906,El Hajji Mounir Ayoub,26,17631.17
+3589,septembre 2024,193990906,El Hajji Mounir Ayoub,26,17658.42
+3589,octobre 2024,193990906,El Hajji Mounir Ayoub,26,17414.75
+3589,novembre 2024,193990906,El Hajji Mounir Ayoub,26,17754.98
+3589,décembre 2024,193990906,El Hajji Mounir Ayoub,26,18121.25
+3589,décembre 2023,195384089,Jebrane Nabil,26,9611.89
+3589,janvier 2024,195384089,Jebrane Nabil,26,9792.59
+3589,février 2024,195384089,Jebrane Nabil,26,9857.34
+3589,mars 2024,195384089,Jebrane Nabil,26,9607.23
+3589,avril 2024,195384089,Jebrane Nabil,26,9449.14
+3589,mai 2024,195384089,Jebrane Nabil,26,9524.44
+3589,juin 2024,195384089,Jebrane Nabil,26,9250.28
+3589,juillet 2024,195384089,Jebrane Nabil,26,9268.43
+3589,août 2024,195384089,Jebrane Nabil,26,9651.73
+3589,septembre 2024,195384089,Jebrane Nabil,26,9504.45
+3589,octobre 2024,195384089,Jebrane Nabil,26,9489.75
+3589,novembre 2024,195384089,Jebrane Nabil,26,9619.55
+3589,décembre 2024,195384089,Jebrane Nabil,26,9470.86
+3589,décembre 2023,195431377,Errehymy Abderrahim,24,4472.94
+3589,janvier 2024,195431377,Errehymy Abderrahim,24,4579.89
+3589,février 2024,195431377,Errehymy Abderrahim,24,4744.25
+3589,mars 2024,195431377,Errehymy Abderrahim,24,4764.86
+3589,avril 2024,195431377,Errehymy Abderrahim,24,4794.08
+3589,mai 2024,195431377,Errehymy Abderrahim,24,5027.61
+3589,juin 2024,195431377,Errehymy Abderrahim,24,5197.01
+3589,juillet 2024,195431377,Errehymy Abderrahim,24,5196.63
+3589,août 2024,195431377,Errehymy Abderrahim,24,5098.12
+3589,septembre 2024,195431377,Errehymy Abderrahim,24,5264.17
+3589,octobre 2024,195431377,Errehymy Abderrahim,24,5185.3
+3589,novembre 2024,195431377,Errehymy Abderrahim,24,5370.57
+3589,décembre 2024,195431377,Errehymy Abderrahim,24,5530.6
+3589,décembre 2023,195546431,Zair Aziz,25,6515.58
+3589,janvier 2024,195546431,Zair Aziz,25,6659.58
+3589,février 2024,195546431,Zair Aziz,25,6889.83
+3589,mars 2024,195546431,Zair Aziz,25,7090.18
+3589,avril 2024,195546431,Zair Aziz,25,7319.91
+3589,mai 2024,195546431,Zair Aziz,25,7445.79
+3589,juin 2024,195546431,Zair Aziz,25,7646.41
+3589,juillet 2024,195546431,Zair Aziz,25,7900.76
+3589,août 2024,195546431,Zair Aziz,25,7900.18
+3589,septembre 2024,195546431,Zair Aziz,25,8270.6
+3589,octobre 2024,195546431,Zair Aziz,25,8632.04
+3589,novembre 2024,195546431,Zair Aziz,25,8384.09
+3589,décembre 2024,195546431,Zair Aziz,25,8578.59
+3589,décembre 2023,196012564,Sammoud Mohamed,24,6814.04
+3589,janvier 2024,196012564,Sammoud Mohamed,24,7055.31
+3589,février 2024,196012564,Sammoud Mohamed,24,7369.54
+3589,mars 2024,196012564,Sammoud Mohamed,24,7348.18
+3589,avril 2024,196012564,Sammoud Mohamed,24,7281.58
+3589,mai 2024,196012564,Sammoud Mohamed,24,7322.98
+3589,juin 2024,196012564,Sammoud Mohamed,24,7252.0
+3589,juillet 2024,196012564,Sammoud Mohamed,24,7272.97
+3589,août 2024,196012564,Sammoud Mohamed,24,7629.77
+3589,septembre 2024,196012564,Sammoud Mohamed,24,7827.61
+3589,octobre 2024,196012564,Sammoud Mohamed,24,7647.86
+3589,novembre 2024,196012564,Sammoud Mohamed,24,7925.65
+3589,décembre 2024,196012564,Sammoud Mohamed,24,7720.33
+3589,décembre 2023,196249430,Salouani Khalid,24,7852.08
+3589,janvier 2024,196249430,Salouani Khalid,24,7894.35
+3589,février 2024,196249430,Salouani Khalid,24,8182.73
+3589,mars 2024,196249430,Salouani Khalid,24,8403.17
+3589,avril 2024,196249430,Salouani Khalid,24,8503.87
+3589,mai 2024,196249430,Salouani Khalid,24,8818.02
+3589,juin 2024,196249430,Salouani Khalid,24,8742.75
+3589,juillet 2024,196249430,Salouani Khalid,24,8701.01
+3589,août 2024,196249430,Salouani Khalid,24,8600.63
+3589,septembre 2024,196249430,Salouani Khalid,24,8504.52
+3589,octobre 2024,196249430,Salouani Khalid,24,8894.44
+3589,novembre 2024,196249430,Salouani Khalid,24,9152.63
+3589,décembre 2024,196249430,Salouani Khalid,24,9423.75
+3589,décembre 2023,197042057,Belfatmi Hamid,26,28868.12
+3589,janvier 2024,197042057,Belfatmi Hamid,26,29719.77
+3589,février 2024,197042057,Belfatmi Hamid,26,29766.72
+3589,mars 2024,197042057,Belfatmi Hamid,26,29471.64
+3589,avril 2024,197042057,Belfatmi Hamid,26,30100.03
+3589,mai 2024,197042057,Belfatmi Hamid,26,29211.91
+3589,juin 2024,197042057,Belfatmi Hamid,26,28523.38
+3589,juillet 2024,197042057,Belfatmi Hamid,26,28907.61
+3589,août 2024,197042057,Belfatmi Hamid,26,28651.12
+3589,septembre 2024,197042057,Belfatmi Hamid,26,28304.95
+3589,octobre 2024,197042057,Belfatmi Hamid,26,28026.07
+3589,novembre 2024,197042057,Belfatmi Hamid,26,28920.13
+3589,décembre 2024,197042057,Belfatmi Hamid,26,28268.98
+3589,décembre 2023,197369427,Belouh El Mostapha,26,12052.64
+3589,janvier 2024,197369427,Belouh El Mostapha,26,12022.41
+3589,février 2024,197369427,Belouh El Mostapha,26,11884.36
+3589,mars 2024,197369427,Belouh El Mostapha,26,11944.91
+3589,avril 2024,197369427,Belouh El Mostapha,26,11626.52
+3589,mai 2024,197369427,Belouh El Mostapha,26,11610.54
+3589,juin 2024,197369427,Belouh El Mostapha,26,11931.05
+3589,juillet 2024,197369427,Belouh El Mostapha,26,11949.18
+3589,août 2024,197369427,Belouh El Mostapha,26,12520.92
+3589,septembre 2024,197369427,Belouh El Mostapha,26,12238.56
+3589,octobre 2024,197369427,Belouh El Mostapha,26,11894.19
+3589,novembre 2024,197369427,Belouh El Mostapha,26,12134.31
+3589,décembre 2024,197369427,Belouh El Mostapha,26,11994.32
+3589,décembre 2023,197814670,Erriti Rachid,23,4296.98
+3589,janvier 2024,197814670,Erriti Rachid,23,4390.56
+3589,février 2024,197814670,Erriti Rachid,23,4609.88
+3589,mars 2024,197814670,Erriti Rachid,23,4675.65
+3589,avril 2024,197814670,Erriti Rachid,23,4735.09
+3589,mai 2024,197814670,Erriti Rachid,23,4694.82
+3589,juin 2024,197814670,Erriti Rachid,23,4683.97
+3589,juillet 2024,197814670,Erriti Rachid,23,4548.43
+3589,août 2024,197814670,Erriti Rachid,23,4547.18
+3589,septembre 2024,197814670,Erriti Rachid,23,4569.58
+3589,octobre 2024,197814670,Erriti Rachid,23,4717.79
+3589,novembre 2024,197814670,Erriti Rachid,23,4862.83
+3589,décembre 2024,197814670,Erriti Rachid,23,4885.87
+3589,décembre 2023,198112122,El Bani Said,24,11294.95
+3589,janvier 2024,198112122,El Bani Said,24,10963.9
+3589,février 2024,198112122,El Bani Said,24,11334.11
+3589,mars 2024,198112122,El Bani Said,24,11408.89
+3589,avril 2024,198112122,El Bani Said,24,11146.49
+3589,mai 2024,198112122,El Bani Said,24,11700.81
+3589,juin 2024,198112122,El Bani Said,24,11450.42
+3589,juillet 2024,198112122,El Bani Said,24,11380.79
+3589,août 2024,198112122,El Bani Said,24,11102.35
+3589,septembre 2024,198112122,El Bani Said,24,10802.92
+3589,octobre 2024,198112122,El Bani Said,24,10809.05
+3589,novembre 2024,198112122,El Bani Said,24,11149.35
+3589,décembre 2024,198112122,El Bani Said,24,11185.17
+3589,décembre 2023,199227285,Harmouchi Mohamed,24,4685.84
+3589,janvier 2024,199227285,Harmouchi Mohamed,24,4569.99
+3589,février 2024,199227285,Harmouchi Mohamed,24,4520.01
+3589,mars 2024,199227285,Harmouchi Mohamed,24,4510.1
+3589,avril 2024,199227285,Harmouchi Mohamed,24,4568.76
+3589,mai 2024,199227285,Harmouchi Mohamed,24,4528.78
+3589,juin 2024,199227285,Harmouchi Mohamed,24,4531.98
+3589,juillet 2024,199227285,Harmouchi Mohamed,24,4722.81
+3589,août 2024,199227285,Harmouchi Mohamed,24,4840.32
+3589,septembre 2024,199227285,Harmouchi Mohamed,24,4702.61
+3589,octobre 2024,199227285,Harmouchi Mohamed,24,4609.44
+3589,novembre 2024,199227285,Harmouchi Mohamed,24,4663.18
+3589,décembre 2024,199227285,Harmouchi Mohamed,24,4810.05
+3589,décembre 2023,199290023,Amnai Ahmed,26,9796.25
+3589,janvier 2024,199290023,Amnai Ahmed,26,9977.07
+3589,février 2024,199290023,Amnai Ahmed,26,9872.22
+3589,mars 2024,199290023,Amnai Ahmed,26,9606.58
+3589,avril 2024,199290023,Amnai Ahmed,26,9454.38
+3589,mai 2024,199290023,Amnai Ahmed,26,9790.98
+3589,juin 2024,199290023,Amnai Ahmed,26,9571.8
+3589,juillet 2024,199290023,Amnai Ahmed,26,9460.86
+3589,août 2024,199290023,Amnai Ahmed,26,9684.64
+3589,septembre 2024,199290023,Amnai Ahmed,26,9617.57
+3589,octobre 2024,199290023,Amnai Ahmed,26,9367.29
+3589,novembre 2024,199290023,Amnai Ahmed,26,9711.51
+3589,décembre 2024,199290023,Amnai Ahmed,26,9924.45
+3589,décembre 2023,199335723,Samkaoui Abdellah,25,5912.16
+3589,janvier 2024,199335723,Samkaoui Abdellah,25,6204.59
+3589,février 2024,199335723,Samkaoui Abdellah,25,6123.05
+3589,mars 2024,199335723,Samkaoui Abdellah,25,5949.1
+3589,avril 2024,199335723,Samkaoui Abdellah,25,6147.2
+3589,mai 2024,199335723,Samkaoui Abdellah,25,6140.98
+3589,juin 2024,199335723,Samkaoui Abdellah,25,6291.71
+3589,juillet 2024,199335723,Samkaoui Abdellah,25,6248.59
+3589,août 2024,199335723,Samkaoui Abdellah,25,6073.96
+3589,septembre 2024,199335723,Samkaoui Abdellah,25,5909.1
+3589,octobre 2024,199335723,Samkaoui Abdellah,25,5893.08
+3589,novembre 2024,199335723,Samkaoui Abdellah,25,5855.03
+3589,décembre 2024,199335723,Samkaoui Abdellah,25,5840.97
+3589,décembre 2023,199472658,Chkikar Jawad,25,5457.75
+3589,janvier 2024,199472658,Chkikar Jawad,25,5559.72
+3589,février 2024,199472658,Chkikar Jawad,25,5475.49
+3589,mars 2024,199472658,Chkikar Jawad,25,5739.85
+3589,avril 2024,199472658,Chkikar Jawad,25,5575.27
+3589,mai 2024,199472658,Chkikar Jawad,25,5541.3
+3589,juin 2024,199472658,Chkikar Jawad,25,5570.79
+3589,juillet 2024,199472658,Chkikar Jawad,25,5771.46
+3589,août 2024,199472658,Chkikar Jawad,25,5943.1
+3589,septembre 2024,199472658,Chkikar Jawad,25,6054.03
+3589,octobre 2024,199472658,Chkikar Jawad,25,6247.09
+3589,novembre 2024,199472658,Chkikar Jawad,25,6187.38
+3589,décembre 2024,199472658,Chkikar Jawad,25,6189.96
+3589,décembre 2023,199735238,El Yahyaoui Abdel Mounaim,24,5273.66
+3589,janvier 2024,199735238,El Yahyaoui Abdel Mounaim,24,5212.34
+3589,février 2024,199735238,El Yahyaoui Abdel Mounaim,24,5265.85
+3589,mars 2024,199735238,El Yahyaoui Abdel Mounaim,24,5293.04
+3589,avril 2024,199735238,El Yahyaoui Abdel Mounaim,24,5174.61
+3589,mai 2024,199735238,El Yahyaoui Abdel Mounaim,24,5159.65
+3589,juin 2024,199735238,El Yahyaoui Abdel Mounaim,24,5311.65
+3589,juillet 2024,199735238,El Yahyaoui Abdel Mounaim,24,5429.0
+3589,août 2024,199735238,El Yahyaoui Abdel Mounaim,24,5280.14
+3589,septembre 2024,199735238,El Yahyaoui Abdel Mounaim,24,5475.76
+3589,octobre 2024,199735238,El Yahyaoui Abdel Mounaim,24,5376.94
+3589,novembre 2024,199735238,El Yahyaoui Abdel Mounaim,24,5216.06
+3589,décembre 2024,199735238,El Yahyaoui Abdel Mounaim,24,5406.55

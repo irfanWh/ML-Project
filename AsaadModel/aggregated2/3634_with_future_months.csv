@@ -1,0 +1,846 @@
+ID_adherent,month,immatriculationNumber,full_name,nombre_jours,salaire
+3634,décembre 2023,100480070,Chouaghli Hind,26,3415.67
+3634,janvier 2024,100480070,Chouaghli Hind,26,3555.55
+3634,février 2024,100480070,Chouaghli Hind,26,3463.99
+3634,mars 2024,100480070,Chouaghli Hind,26,3545.06
+3634,avril 2024,100480070,Chouaghli Hind,26,3710.25
+3634,mai 2024,100480070,Chouaghli Hind,26,3622.18
+3634,juin 2024,100480070,Chouaghli Hind,26,3698.18
+3634,juillet 2024,100480070,Chouaghli Hind,26,3768.22
+3634,août 2024,100480070,Chouaghli Hind,26,3916.81
+3634,septembre 2024,100480070,Chouaghli Hind,26,3997.27
+3634,octobre 2024,100480070,Chouaghli Hind,26,3945.25
+3634,novembre 2024,100480070,Chouaghli Hind,26,3938.54
+3634,décembre 2024,100480070,Chouaghli Hind,26,4022.24
+3634,décembre 2023,100912951,Bousraoui Ibtissam,26,2970.15
+3634,janvier 2024,100912951,Bousraoui Ibtissam,26,2982.51
+3634,février 2024,100912951,Bousraoui Ibtissam,26,3093.22
+3634,mars 2024,100912951,Bousraoui Ibtissam,26,3122.53
+3634,avril 2024,100912951,Bousraoui Ibtissam,26,3149.46
+3634,mai 2024,100912951,Bousraoui Ibtissam,26,3132.35
+3634,juin 2024,100912951,Bousraoui Ibtissam,26,3161.52
+3634,juillet 2024,100912951,Bousraoui Ibtissam,26,3183.58
+3634,août 2024,100912951,Bousraoui Ibtissam,26,3161.37
+3634,septembre 2024,100912951,Bousraoui Ibtissam,26,3085.65
+3634,octobre 2024,100912951,Bousraoui Ibtissam,26,3215.83
+3634,novembre 2024,100912951,Bousraoui Ibtissam,26,3313.01
+3634,décembre 2024,100912951,Bousraoui Ibtissam,26,3310.72
+3634,décembre 2023,101735341,Korsane Fouzia,26,3712.69
+3634,janvier 2024,101735341,Korsane Fouzia,26,3816.55
+3634,février 2024,101735341,Korsane Fouzia,26,3718.6
+3634,mars 2024,101735341,Korsane Fouzia,26,3873.18
+3634,avril 2024,101735341,Korsane Fouzia,26,3843.99
+3634,mai 2024,101735341,Korsane Fouzia,26,3856.47
+3634,juin 2024,101735341,Korsane Fouzia,26,3744.3
+3634,juillet 2024,101735341,Korsane Fouzia,26,3877.11
+3634,août 2024,101735341,Korsane Fouzia,26,3880.33
+3634,septembre 2024,101735341,Korsane Fouzia,26,3798.05
+3634,octobre 2024,101735341,Korsane Fouzia,26,3948.32
+3634,novembre 2024,101735341,Korsane Fouzia,26,4058.04
+3634,décembre 2024,101735341,Korsane Fouzia,26,4177.14
+3634,décembre 2023,104112942,Nmira Lotfallah,26,6425.66
+3634,janvier 2024,104112942,Nmira Lotfallah,26,6727.23
+3634,février 2024,104112942,Nmira Lotfallah,26,6556.33
+3634,mars 2024,104112942,Nmira Lotfallah,26,6781.5
+3634,avril 2024,104112942,Nmira Lotfallah,26,6638.48
+3634,mai 2024,104112942,Nmira Lotfallah,26,6642.88
+3634,juin 2024,104112942,Nmira Lotfallah,26,6792.75
+3634,juillet 2024,104112942,Nmira Lotfallah,26,7081.66
+3634,août 2024,104112942,Nmira Lotfallah,26,6980.7
+3634,septembre 2024,104112942,Nmira Lotfallah,26,7116.23
+3634,octobre 2024,104112942,Nmira Lotfallah,26,7020.08
+3634,novembre 2024,104112942,Nmira Lotfallah,26,7296.91
+3634,décembre 2024,104112942,Nmira Lotfallah,26,7323.32
+3634,décembre 2023,104425585,Akdane Sana,26,3415.67
+3634,janvier 2024,104425585,Akdane Sana,26,3549.57
+3634,février 2024,104425585,Akdane Sana,26,3539.55
+3634,mars 2024,104425585,Akdane Sana,26,3561.55
+3634,avril 2024,104425585,Akdane Sana,26,3474.49
+3634,mai 2024,104425585,Akdane Sana,26,3558.0
+3634,juin 2024,104425585,Akdane Sana,26,3608.69
+3634,juillet 2024,104425585,Akdane Sana,26,3569.59
+3634,août 2024,104425585,Akdane Sana,26,3689.73
+3634,septembre 2024,104425585,Akdane Sana,26,3616.93
+3634,octobre 2024,104425585,Akdane Sana,26,3516.84
+3634,novembre 2024,104425585,Akdane Sana,26,3519.58
+3634,décembre 2024,104425585,Akdane Sana,26,3632.6
+3634,décembre 2023,106658109,El Jouhari Zineb,26,3267.16
+3634,janvier 2024,106658109,El Jouhari Zineb,26,3402.21
+3634,février 2024,106658109,El Jouhari Zineb,26,3398.29
+3634,mars 2024,106658109,El Jouhari Zineb,26,3354.84
+3634,avril 2024,106658109,El Jouhari Zineb,26,3487.96
+3634,mai 2024,106658109,El Jouhari Zineb,26,3501.31
+3634,juin 2024,106658109,El Jouhari Zineb,26,3429.11
+3634,juillet 2024,106658109,El Jouhari Zineb,26,3505.27
+3634,août 2024,106658109,El Jouhari Zineb,26,3451.93
+3634,septembre 2024,106658109,El Jouhari Zineb,26,3548.63
+3634,octobre 2024,106658109,El Jouhari Zineb,26,3678.62
+3634,novembre 2024,106658109,El Jouhari Zineb,26,3757.38
+3634,décembre 2024,106658109,El Jouhari Zineb,26,3876.28
+3634,décembre 2023,109453664,El Mouatassim Abdeljalil,26,3564.18
+3634,janvier 2024,109453664,El Mouatassim Abdeljalil,26,3584.62
+3634,février 2024,109453664,El Mouatassim Abdeljalil,26,3707.94
+3634,mars 2024,109453664,El Mouatassim Abdeljalil,26,3795.53
+3634,avril 2024,109453664,El Mouatassim Abdeljalil,26,3810.01
+3634,mai 2024,109453664,El Mouatassim Abdeljalil,26,3997.48
+3634,juin 2024,109453664,El Mouatassim Abdeljalil,26,3995.19
+3634,juillet 2024,109453664,El Mouatassim Abdeljalil,26,4026.1
+3634,août 2024,109453664,El Mouatassim Abdeljalil,26,4118.3
+3634,septembre 2024,109453664,El Mouatassim Abdeljalil,26,4306.88
+3634,octobre 2024,109453664,El Mouatassim Abdeljalil,26,4228.86
+3634,novembre 2024,109453664,El Mouatassim Abdeljalil,26,4197.0
+3634,décembre 2024,109453664,El Mouatassim Abdeljalil,26,4245.15
+3634,décembre 2023,109753981,Haraka Amina,0,0.0
+3634,janvier 2024,109753981,Haraka Amina,0,0.0
+3634,février 2024,109753981,Haraka Amina,0,0.0
+3634,mars 2024,109753981,Haraka Amina,0,0.0
+3634,avril 2024,109753981,Haraka Amina,0,0.0
+3634,mai 2024,109753981,Haraka Amina,0,0.0
+3634,juin 2024,109753981,Haraka Amina,0,0.0
+3634,juillet 2024,109753981,Haraka Amina,0,0.0
+3634,août 2024,109753981,Haraka Amina,0,0.0
+3634,septembre 2024,109753981,Haraka Amina,0,0.0
+3634,octobre 2024,109753981,Haraka Amina,0,0.0
+3634,novembre 2024,109753981,Haraka Amina,0,0.0
+3634,décembre 2024,109753981,Haraka Amina,0,0.0
+3634,décembre 2023,111095272,Bartai Nadia,26,3415.67
+3634,janvier 2024,111095272,Bartai Nadia,26,3560.36
+3634,février 2024,111095272,Bartai Nadia,26,3668.84
+3634,mars 2024,111095272,Bartai Nadia,26,3817.13
+3634,avril 2024,111095272,Bartai Nadia,26,4002.75
+3634,mai 2024,111095272,Bartai Nadia,26,3888.46
+3634,juin 2024,111095272,Bartai Nadia,26,3973.87
+3634,juillet 2024,111095272,Bartai Nadia,26,3887.39
+3634,août 2024,111095272,Bartai Nadia,26,3840.03
+3634,septembre 2024,111095272,Bartai Nadia,26,3801.24
+3634,octobre 2024,111095272,Bartai Nadia,26,3889.33
+3634,novembre 2024,111095272,Bartai Nadia,26,3879.32
+3634,décembre 2024,111095272,Bartai Nadia,26,3892.17
+3634,décembre 2023,111177803,Belemsaggam Ilham,26,3267.16
+3634,janvier 2024,111177803,Belemsaggam Ilham,26,3357.87
+3634,février 2024,111177803,Belemsaggam Ilham,26,3436.84
+3634,mars 2024,111177803,Belemsaggam Ilham,26,3595.18
+3634,avril 2024,111177803,Belemsaggam Ilham,26,3711.26
+3634,mai 2024,111177803,Belemsaggam Ilham,26,3759.12
+3634,juin 2024,111177803,Belemsaggam Ilham,26,3776.26
+3634,juillet 2024,111177803,Belemsaggam Ilham,26,3752.53
+3634,août 2024,111177803,Belemsaggam Ilham,26,3863.44
+3634,septembre 2024,111177803,Belemsaggam Ilham,26,3799.91
+3634,octobre 2024,111177803,Belemsaggam Ilham,26,3714.26
+3634,novembre 2024,111177803,Belemsaggam Ilham,26,3693.48
+3634,décembre 2024,111177803,Belemsaggam Ilham,26,3870.89
+3634,décembre 2023,112199768,Cherkaoui Ikbal Khadija,26,3267.16
+3634,janvier 2024,112199768,Cherkaoui Ikbal Khadija,26,3425.28
+3634,février 2024,112199768,Cherkaoui Ikbal Khadija,26,3345.1
+3634,mars 2024,112199768,Cherkaoui Ikbal Khadija,26,3402.55
+3634,avril 2024,112199768,Cherkaoui Ikbal Khadija,26,3526.92
+3634,mai 2024,112199768,Cherkaoui Ikbal Khadija,26,3531.49
+3634,juin 2024,112199768,Cherkaoui Ikbal Khadija,26,3464.71
+3634,juillet 2024,112199768,Cherkaoui Ikbal Khadija,26,3395.73
+3634,août 2024,112199768,Cherkaoui Ikbal Khadija,26,3521.11
+3634,septembre 2024,112199768,Cherkaoui Ikbal Khadija,26,3601.74
+3634,octobre 2024,112199768,Cherkaoui Ikbal Khadija,26,3640.65
+3634,novembre 2024,112199768,Cherkaoui Ikbal Khadija,26,3716.83
+3634,décembre 2024,112199768,Cherkaoui Ikbal Khadija,26,3655.44
+3634,décembre 2023,112217742,Alaoui Hkim Saida,26,3712.69
+3634,janvier 2024,112217742,Alaoui Hkim Saida,26,3722.43
+3634,février 2024,112217742,Alaoui Hkim Saida,26,3676.15
+3634,mars 2024,112217742,Alaoui Hkim Saida,26,3624.86
+3634,avril 2024,112217742,Alaoui Hkim Saida,26,3610.89
+3634,mai 2024,112217742,Alaoui Hkim Saida,26,3557.82
+3634,juin 2024,112217742,Alaoui Hkim Saida,26,3568.97
+3634,juillet 2024,112217742,Alaoui Hkim Saida,26,3525.82
+3634,août 2024,112217742,Alaoui Hkim Saida,26,3650.04
+3634,septembre 2024,112217742,Alaoui Hkim Saida,26,3775.27
+3634,octobre 2024,112217742,Alaoui Hkim Saida,26,3863.79
+3634,novembre 2024,112217742,Alaoui Hkim Saida,26,3786.55
+3634,décembre 2024,112217742,Alaoui Hkim Saida,26,3727.67
+3634,décembre 2023,112335354,Chkiri Zakia,26,3564.18
+3634,janvier 2024,112335354,Chkiri Zakia,26,3563.03
+3634,février 2024,112335354,Chkiri Zakia,26,3499.06
+3634,mars 2024,112335354,Chkiri Zakia,26,3598.78
+3634,avril 2024,112335354,Chkiri Zakia,26,3493.72
+3634,mai 2024,112335354,Chkiri Zakia,26,3571.19
+3634,juin 2024,112335354,Chkiri Zakia,26,3684.77
+3634,juillet 2024,112335354,Chkiri Zakia,26,3686.51
+3634,août 2024,112335354,Chkiri Zakia,26,3736.88
+3634,septembre 2024,112335354,Chkiri Zakia,26,3768.74
+3634,octobre 2024,112335354,Chkiri Zakia,26,3681.53
+3634,novembre 2024,112335354,Chkiri Zakia,26,3836.76
+3634,décembre 2024,112335354,Chkiri Zakia,26,3787.95
+3634,décembre 2023,112684735,Lakhchane Aziz,26,13104.06
+3634,janvier 2024,112684735,Lakhchane Aziz,26,12968.67
+3634,février 2024,112684735,Lakhchane Aziz,26,13570.1
+3634,mars 2024,112684735,Lakhchane Aziz,26,14239.07
+3634,avril 2024,112684735,Lakhchane Aziz,26,14465.3
+3634,mai 2024,112684735,Lakhchane Aziz,26,15185.02
+3634,juin 2024,112684735,Lakhchane Aziz,26,15747.48
+3634,juillet 2024,112684735,Lakhchane Aziz,26,16055.5
+3634,août 2024,112684735,Lakhchane Aziz,26,15679.76
+3634,septembre 2024,112684735,Lakhchane Aziz,26,15618.99
+3634,octobre 2024,112684735,Lakhchane Aziz,26,16385.9
+3634,novembre 2024,112684735,Lakhchane Aziz,26,16989.83
+3634,décembre 2024,112684735,Lakhchane Aziz,26,17361.22
+3634,décembre 2023,118484767,Moundou Halima,26,4948.16
+3634,janvier 2024,118484767,Moundou Halima,26,5036.08
+3634,février 2024,118484767,Moundou Halima,26,4958.76
+3634,mars 2024,118484767,Moundou Halima,26,4943.98
+3634,avril 2024,118484767,Moundou Halima,26,5098.16
+3634,mai 2024,118484767,Moundou Halima,26,5311.22
+3634,juin 2024,118484767,Moundou Halima,26,5504.92
+3634,juillet 2024,118484767,Moundou Halima,26,5349.89
+3634,août 2024,118484767,Moundou Halima,26,5242.84
+3634,septembre 2024,118484767,Moundou Halima,26,5323.79
+3634,octobre 2024,118484767,Moundou Halima,26,5589.92
+3634,novembre 2024,118484767,Moundou Halima,26,5445.25
+3634,décembre 2024,118484767,Moundou Halima,26,5494.52
+3634,décembre 2023,119121970,El Azizi Assma,26,5428.0
+3634,janvier 2024,119121970,El Azizi Assma,26,5646.37
+3634,février 2024,119121970,El Azizi Assma,26,5758.83
+3634,mars 2024,119121970,El Azizi Assma,26,5887.42
+3634,avril 2024,119121970,El Azizi Assma,26,5787.06
+3634,mai 2024,119121970,El Azizi Assma,26,6025.16
+3634,juin 2024,119121970,El Azizi Assma,26,6041.59
+3634,juillet 2024,119121970,El Azizi Assma,26,6189.31
+3634,août 2024,119121970,El Azizi Assma,26,6163.93
+3634,septembre 2024,119121970,El Azizi Assma,26,6330.72
+3634,octobre 2024,119121970,El Azizi Assma,26,6177.3
+3634,novembre 2024,119121970,El Azizi Assma,26,6353.57
+3634,décembre 2024,119121970,El Azizi Assma,26,6298.28
+3634,décembre 2023,126722240,Abbar Awatif,26,6665.04
+3634,janvier 2024,126722240,Abbar Awatif,26,6744.65
+3634,février 2024,126722240,Abbar Awatif,26,6740.39
+3634,mars 2024,126722240,Abbar Awatif,26,6840.84
+3634,avril 2024,126722240,Abbar Awatif,26,6756.57
+3634,mai 2024,126722240,Abbar Awatif,26,6726.12
+3634,juin 2024,126722240,Abbar Awatif,26,6834.17
+3634,juillet 2024,126722240,Abbar Awatif,26,7087.37
+3634,août 2024,126722240,Abbar Awatif,26,7000.51
+3634,septembre 2024,126722240,Abbar Awatif,26,7017.24
+3634,octobre 2024,126722240,Abbar Awatif,26,7142.67
+3634,novembre 2024,126722240,Abbar Awatif,26,7472.13
+3634,décembre 2024,126722240,Abbar Awatif,26,7675.51
+3634,décembre 2023,127234236,Ben Azzouz Drissia,26,3565.0
+3634,janvier 2024,127234236,Ben Azzouz Drissia,26,3702.36
+3634,février 2024,127234236,Ben Azzouz Drissia,26,3862.23
+3634,mars 2024,127234236,Ben Azzouz Drissia,26,3829.84
+3634,avril 2024,127234236,Ben Azzouz Drissia,26,4002.55
+3634,mai 2024,127234236,Ben Azzouz Drissia,26,4082.09
+3634,juin 2024,127234236,Ben Azzouz Drissia,26,3981.16
+3634,juillet 2024,127234236,Ben Azzouz Drissia,26,4032.36
+3634,août 2024,127234236,Ben Azzouz Drissia,26,4097.56
+3634,septembre 2024,127234236,Ben Azzouz Drissia,26,4243.48
+3634,octobre 2024,127234236,Ben Azzouz Drissia,26,4418.96
+3634,novembre 2024,127234236,Ben Azzouz Drissia,26,4518.24
+3634,décembre 2024,127234236,Ben Azzouz Drissia,26,4436.55
+3634,décembre 2023,128194166,Ouguemmou Mina,26,3415.67
+3634,janvier 2024,128194166,Ouguemmou Mina,26,3467.55
+3634,février 2024,128194166,Ouguemmou Mina,26,3565.5
+3634,mars 2024,128194166,Ouguemmou Mina,26,3676.3
+3634,avril 2024,128194166,Ouguemmou Mina,26,3617.45
+3634,mai 2024,128194166,Ouguemmou Mina,26,3684.64
+3634,juin 2024,128194166,Ouguemmou Mina,26,3579.86
+3634,juillet 2024,128194166,Ouguemmou Mina,26,3651.12
+3634,août 2024,128194166,Ouguemmou Mina,26,3726.04
+3634,septembre 2024,128194166,Ouguemmou Mina,26,3900.13
+3634,octobre 2024,128194166,Ouguemmou Mina,26,3967.27
+3634,novembre 2024,128194166,Ouguemmou Mina,26,3927.31
+3634,décembre 2024,128194166,Ouguemmou Mina,26,4035.08
+3634,décembre 2023,133932647,Skouri Meriem,26,3370.15
+3634,janvier 2024,133932647,Skouri Meriem,26,3477.07
+3634,février 2024,133932647,Skouri Meriem,26,3585.67
+3634,mars 2024,133932647,Skouri Meriem,26,3674.37
+3634,avril 2024,133932647,Skouri Meriem,26,3751.71
+3634,mai 2024,133932647,Skouri Meriem,26,3663.37
+3634,juin 2024,133932647,Skouri Meriem,26,3594.83
+3634,juillet 2024,133932647,Skouri Meriem,26,3610.76
+3634,août 2024,133932647,Skouri Meriem,26,3537.2
+3634,septembre 2024,133932647,Skouri Meriem,26,3602.92
+3634,octobre 2024,133932647,Skouri Meriem,26,3763.05
+3634,novembre 2024,133932647,Skouri Meriem,26,3667.57
+3634,décembre 2024,133932647,Skouri Meriem,26,3722.23
+3634,décembre 2023,134425191,Ait Hamou Khamissa,26,4027.33
+3634,janvier 2024,134425191,Ait Hamou Khamissa,26,3973.1
+3634,février 2024,134425191,Ait Hamou Khamissa,26,4075.35
+3634,mars 2024,134425191,Ait Hamou Khamissa,26,4210.28
+3634,avril 2024,134425191,Ait Hamou Khamissa,26,4100.8
+3634,mai 2024,134425191,Ait Hamou Khamissa,26,4063.26
+3634,juin 2024,134425191,Ait Hamou Khamissa,26,3980.76
+3634,juillet 2024,134425191,Ait Hamou Khamissa,26,3920.45
+3634,août 2024,134425191,Ait Hamou Khamissa,26,3970.32
+3634,septembre 2024,134425191,Ait Hamou Khamissa,26,4049.69
+3634,octobre 2024,134425191,Ait Hamou Khamissa,26,4202.92
+3634,novembre 2024,134425191,Ait Hamou Khamissa,26,4282.97
+3634,décembre 2024,134425191,Ait Hamou Khamissa,26,4464.95
+3634,décembre 2023,134425290,Lagram Najat,26,4202.0
+3634,janvier 2024,134425290,Lagram Najat,26,4287.57
+3634,février 2024,134425290,Lagram Najat,26,4235.03
+3634,mars 2024,134425290,Lagram Najat,26,4345.19
+3634,avril 2024,134425290,Lagram Najat,26,4528.48
+3634,mai 2024,134425290,Lagram Najat,26,4465.34
+3634,juin 2024,134425290,Lagram Najat,26,4612.71
+3634,juillet 2024,134425290,Lagram Najat,26,4823.76
+3634,août 2024,134425290,Lagram Najat,26,5051.06
+3634,septembre 2024,134425290,Lagram Najat,26,4955.68
+3634,octobre 2024,134425290,Lagram Najat,26,4988.63
+3634,novembre 2024,134425290,Lagram Najat,26,5126.24
+3634,décembre 2024,134425290,Lagram Najat,26,5009.12
+3634,décembre 2023,135488040,Labroumi Ghizlane,26,4289.18
+3634,janvier 2024,135488040,Labroumi Ghizlane,26,4500.71
+3634,février 2024,135488040,Labroumi Ghizlane,26,4602.55
+3634,mars 2024,135488040,Labroumi Ghizlane,26,4742.71
+3634,avril 2024,135488040,Labroumi Ghizlane,26,4748.24
+3634,mai 2024,135488040,Labroumi Ghizlane,26,4907.13
+3634,juin 2024,135488040,Labroumi Ghizlane,26,4842.99
+3634,juillet 2024,135488040,Labroumi Ghizlane,26,4942.3
+3634,août 2024,135488040,Labroumi Ghizlane,26,5151.84
+3634,septembre 2024,135488040,Labroumi Ghizlane,26,5373.37
+3634,octobre 2024,135488040,Labroumi Ghizlane,26,5527.97
+3634,novembre 2024,135488040,Labroumi Ghizlane,26,5577.06
+3634,décembre 2024,135488040,Labroumi Ghizlane,26,5656.57
+3634,décembre 2023,135964073,El Yassini Lalla Asma,26,3415.67
+3634,janvier 2024,135964073,El Yassini Lalla Asma,26,3389.35
+3634,février 2024,135964073,El Yassini Lalla Asma,26,3392.48
+3634,mars 2024,135964073,El Yassini Lalla Asma,26,3294.99
+3634,avril 2024,135964073,El Yassini Lalla Asma,26,3421.76
+3634,mai 2024,135964073,El Yassini Lalla Asma,26,3494.26
+3634,juin 2024,135964073,El Yassini Lalla Asma,26,3469.48
+3634,juillet 2024,135964073,El Yassini Lalla Asma,26,3581.78
+3634,août 2024,135964073,El Yassini Lalla Asma,26,3657.92
+3634,septembre 2024,135964073,El Yassini Lalla Asma,26,3759.58
+3634,octobre 2024,135964073,El Yassini Lalla Asma,26,3715.01
+3634,novembre 2024,135964073,El Yassini Lalla Asma,26,3813.46
+3634,décembre 2024,135964073,El Yassini Lalla Asma,26,3788.02
+3634,décembre 2023,138621133,Alaoui Ben Abdallah Fatima Zahra,26,6531.59
+3634,janvier 2024,138621133,Alaoui Ben Abdallah Fatima Zahra,26,6699.66
+3634,février 2024,138621133,Alaoui Ben Abdallah Fatima Zahra,26,6798.6
+3634,mars 2024,138621133,Alaoui Ben Abdallah Fatima Zahra,26,7008.03
+3634,avril 2024,138621133,Alaoui Ben Abdallah Fatima Zahra,26,7287.21
+3634,mai 2024,138621133,Alaoui Ben Abdallah Fatima Zahra,26,7565.23
+3634,juin 2024,138621133,Alaoui Ben Abdallah Fatima Zahra,26,7666.27
+3634,juillet 2024,138621133,Alaoui Ben Abdallah Fatima Zahra,26,8021.19
+3634,août 2024,138621133,Alaoui Ben Abdallah Fatima Zahra,26,8375.79
+3634,septembre 2024,138621133,Alaoui Ben Abdallah Fatima Zahra,26,8215.02
+3634,octobre 2024,138621133,Alaoui Ben Abdallah Fatima Zahra,26,8060.89
+3634,novembre 2024,138621133,Alaoui Ben Abdallah Fatima Zahra,26,8322.87
+3634,décembre 2024,138621133,Alaoui Ben Abdallah Fatima Zahra,26,8214.61
+3634,décembre 2023,139276979,Zhiri Youssef,26,2970.0
+3634,janvier 2024,139276979,Zhiri Youssef,26,2922.06
+3634,février 2024,139276979,Zhiri Youssef,26,3058.04
+3634,mars 2024,139276979,Zhiri Youssef,26,3060.78
+3634,avril 2024,139276979,Zhiri Youssef,26,3040.49
+3634,mai 2024,139276979,Zhiri Youssef,26,2968.86
+3634,juin 2024,139276979,Zhiri Youssef,26,2975.72
+3634,juillet 2024,139276979,Zhiri Youssef,26,3045.04
+3634,août 2024,139276979,Zhiri Youssef,26,2954.21
+3634,septembre 2024,139276979,Zhiri Youssef,26,2963.56
+3634,octobre 2024,139276979,Zhiri Youssef,26,2982.7
+3634,novembre 2024,139276979,Zhiri Youssef,26,2910.8
+3634,décembre 2024,139276979,Zhiri Youssef,26,2971.49
+3634,décembre 2023,140531800,El Hamioui Basma,26,4039.2
+3634,janvier 2024,140531800,El Hamioui Basma,26,4046.33
+3634,février 2024,140531800,El Hamioui Basma,26,3998.98
+3634,mars 2024,140531800,El Hamioui Basma,26,4162.02
+3634,avril 2024,140531800,El Hamioui Basma,26,4174.5
+3634,mai 2024,140531800,El Hamioui Basma,26,4076.11
+3634,juin 2024,140531800,El Hamioui Basma,26,4199.27
+3634,juillet 2024,140531800,El Hamioui Basma,26,4407.02
+3634,août 2024,140531800,El Hamioui Basma,26,4362.62
+3634,septembre 2024,140531800,El Hamioui Basma,26,4306.81
+3634,octobre 2024,140531800,El Hamioui Basma,26,4321.32
+3634,novembre 2024,140531800,El Hamioui Basma,26,4209.41
+3634,décembre 2024,140531800,El Hamioui Basma,26,4398.37
+3634,décembre 2023,140967385,En Naciri Karima,26,4184.85
+3634,janvier 2024,140967385,En Naciri Karima,26,4304.97
+3634,février 2024,140967385,En Naciri Karima,26,4233.4
+3634,mars 2024,140967385,En Naciri Karima,26,4309.48
+3634,avril 2024,140967385,En Naciri Karima,26,4194.99
+3634,mai 2024,140967385,En Naciri Karima,26,4122.24
+3634,juin 2024,140967385,En Naciri Karima,26,4232.98
+3634,juillet 2024,140967385,En Naciri Karima,26,4227.95
+3634,août 2024,140967385,En Naciri Karima,26,4374.94
+3634,septembre 2024,140967385,En Naciri Karima,26,4433.91
+3634,octobre 2024,140967385,En Naciri Karima,26,4549.82
+3634,novembre 2024,140967385,En Naciri Karima,26,4692.83
+3634,décembre 2024,140967385,En Naciri Karima,26,4600.95
+3634,décembre 2023,140986898,El Mouatasim Larbi,26,4104.1
+3634,janvier 2024,140986898,El Mouatasim Larbi,26,4135.47
+3634,février 2024,140986898,El Mouatasim Larbi,26,4258.73
+3634,mars 2024,140986898,El Mouatasim Larbi,26,4394.35
+3634,avril 2024,140986898,El Mouatasim Larbi,26,4554.71
+3634,mai 2024,140986898,El Mouatasim Larbi,26,4556.53
+3634,juin 2024,140986898,El Mouatasim Larbi,26,4662.81
+3634,juillet 2024,140986898,El Mouatasim Larbi,26,4860.63
+3634,août 2024,140986898,El Mouatasim Larbi,26,4918.85
+3634,septembre 2024,140986898,El Mouatasim Larbi,26,4819.08
+3634,octobre 2024,140986898,El Mouatasim Larbi,26,4729.24
+3634,novembre 2024,140986898,El Mouatasim Larbi,26,4806.83
+3634,décembre 2024,140986898,El Mouatasim Larbi,26,4871.67
+3634,décembre 2023,140986997,El Hartika Zahira,26,3267.16
+3634,janvier 2024,140986997,El Hartika Zahira,26,3200.43
+3634,février 2024,140986997,El Hartika Zahira,26,3265.84
+3634,mars 2024,140986997,El Hartika Zahira,26,3378.9
+3634,avril 2024,140986997,El Hartika Zahira,26,3298.99
+3634,mai 2024,140986997,El Hartika Zahira,26,3210.58
+3634,juin 2024,140986997,El Hartika Zahira,26,3338.78
+3634,juillet 2024,140986997,El Hartika Zahira,26,3424.97
+3634,août 2024,140986997,El Hartika Zahira,26,3410.39
+3634,septembre 2024,140986997,El Hartika Zahira,26,3424.74
+3634,octobre 2024,140986997,El Hartika Zahira,26,3509.22
+3634,novembre 2024,140986997,El Hartika Zahira,26,3662.19
+3634,décembre 2024,140986997,El Hartika Zahira,26,3698.59
+3634,décembre 2023,145142002,Tourni Loubna,26,3457.53
+3634,janvier 2024,145142002,Tourni Loubna,26,3394.67
+3634,février 2024,145142002,Tourni Loubna,26,3521.93
+3634,mars 2024,145142002,Tourni Loubna,26,3459.42
+3634,avril 2024,145142002,Tourni Loubna,26,3426.79
+3634,mai 2024,145142002,Tourni Loubna,26,3568.6
+3634,juin 2024,145142002,Tourni Loubna,26,3637.6
+3634,juillet 2024,145142002,Tourni Loubna,26,3679.7
+3634,août 2024,145142002,Tourni Loubna,26,3618.86
+3634,septembre 2024,145142002,Tourni Loubna,26,3557.42
+3634,octobre 2024,145142002,Tourni Loubna,26,3599.68
+3634,novembre 2024,145142002,Tourni Loubna,26,3681.28
+3634,décembre 2024,145142002,Tourni Loubna,26,3629.53
+3634,décembre 2023,150199844,Bouras Oumaima,26,2970.15
+3634,janvier 2024,150199844,Bouras Oumaima,26,2913.22
+3634,février 2024,150199844,Bouras Oumaima,26,2880.76
+3634,mars 2024,150199844,Bouras Oumaima,26,2819.8
+3634,avril 2024,150199844,Bouras Oumaima,26,2790.87
+3634,mai 2024,150199844,Bouras Oumaima,26,2807.75
+3634,juin 2024,150199844,Bouras Oumaima,26,2900.23
+3634,juillet 2024,150199844,Bouras Oumaima,26,2906.06
+3634,août 2024,150199844,Bouras Oumaima,26,2883.56
+3634,septembre 2024,150199844,Bouras Oumaima,26,2977.46
+3634,octobre 2024,150199844,Bouras Oumaima,26,2890.59
+3634,novembre 2024,150199844,Bouras Oumaima,26,2938.4
+3634,décembre 2024,150199844,Bouras Oumaima,26,3017.05
+3634,décembre 2023,150539166,Labissi Samira,22,2890.18
+3634,janvier 2024,150539166,Labissi Samira,22,3030.01
+3634,février 2024,150539166,Labissi Samira,22,3077.03
+3634,mars 2024,150539166,Labissi Samira,22,3104.64
+3634,avril 2024,150539166,Labissi Samira,22,3176.39
+3634,mai 2024,150539166,Labissi Samira,22,3179.7
+3634,juin 2024,150539166,Labissi Samira,22,3112.05
+3634,juillet 2024,150539166,Labissi Samira,22,3178.66
+3634,août 2024,150539166,Labissi Samira,22,3268.97
+3634,septembre 2024,150539166,Labissi Samira,22,3377.61
+3634,octobre 2024,150539166,Labissi Samira,22,3324.02
+3634,novembre 2024,150539166,Labissi Samira,22,3420.1
+3634,décembre 2024,150539166,Labissi Samira,22,3576.36
+3634,décembre 2023,151157032,Kebchaoui Fatiha,26,9534.25
+3634,janvier 2024,151157032,Kebchaoui Fatiha,26,9605.28
+3634,février 2024,151157032,Kebchaoui Fatiha,26,9708.04
+3634,mars 2024,151157032,Kebchaoui Fatiha,26,10088.27
+3634,avril 2024,151157032,Kebchaoui Fatiha,26,10398.09
+3634,mai 2024,151157032,Kebchaoui Fatiha,26,10830.59
+3634,juin 2024,151157032,Kebchaoui Fatiha,26,10714.42
+3634,juillet 2024,151157032,Kebchaoui Fatiha,26,10507.42
+3634,août 2024,151157032,Kebchaoui Fatiha,26,10543.81
+3634,septembre 2024,151157032,Kebchaoui Fatiha,26,11016.75
+3634,octobre 2024,151157032,Kebchaoui Fatiha,26,11145.46
+3634,novembre 2024,151157032,Kebchaoui Fatiha,26,11131.82
+3634,décembre 2024,151157032,Kebchaoui Fatiha,26,11155.65
+3634,décembre 2023,154638831,Ait Rammania Ouafa,26,8400.0
+3634,janvier 2024,154638831,Ait Rammania Ouafa,26,8220.75
+3634,février 2024,154638831,Ait Rammania Ouafa,26,8409.67
+3634,mars 2024,154638831,Ait Rammania Ouafa,26,8753.02
+3634,avril 2024,154638831,Ait Rammania Ouafa,26,8599.76
+3634,mai 2024,154638831,Ait Rammania Ouafa,26,8859.09
+3634,juin 2024,154638831,Ait Rammania Ouafa,26,9265.05
+3634,juillet 2024,154638831,Ait Rammania Ouafa,26,9662.74
+3634,août 2024,154638831,Ait Rammania Ouafa,26,10034.25
+3634,septembre 2024,154638831,Ait Rammania Ouafa,26,10483.78
+3634,octobre 2024,154638831,Ait Rammania Ouafa,26,10894.25
+3634,novembre 2024,154638831,Ait Rammania Ouafa,26,11301.09
+3634,décembre 2024,154638831,Ait Rammania Ouafa,26,11413.6
+3634,décembre 2023,155094272,Chabbel Karima,26,3415.67
+3634,janvier 2024,155094272,Chabbel Karima,26,3433.12
+3634,février 2024,155094272,Chabbel Karima,26,3500.23
+3634,mars 2024,155094272,Chabbel Karima,26,3596.82
+3634,avril 2024,155094272,Chabbel Karima,26,3731.95
+3634,mai 2024,155094272,Chabbel Karima,26,3816.04
+3634,juin 2024,155094272,Chabbel Karima,26,3767.41
+3634,juillet 2024,155094272,Chabbel Karima,26,3674.44
+3634,août 2024,155094272,Chabbel Karima,26,3565.85
+3634,septembre 2024,155094272,Chabbel Karima,26,3571.99
+3634,octobre 2024,155094272,Chabbel Karima,26,3473.17
+3634,novembre 2024,155094272,Chabbel Karima,26,3617.93
+3634,décembre 2024,155094272,Chabbel Karima,26,3775.36
+3634,décembre 2023,157676284,Laoutia Assma,26,3894.5
+3634,janvier 2024,157676284,Laoutia Assma,26,3944.74
+3634,février 2024,157676284,Laoutia Assma,26,3856.45
+3634,mars 2024,157676284,Laoutia Assma,26,4031.23
+3634,avril 2024,157676284,Laoutia Assma,26,4182.93
+3634,mai 2024,157676284,Laoutia Assma,26,4246.86
+3634,juin 2024,157676284,Laoutia Assma,26,4415.76
+3634,juillet 2024,157676284,Laoutia Assma,26,4379.32
+3634,août 2024,157676284,Laoutia Assma,26,4404.9
+3634,septembre 2024,157676284,Laoutia Assma,26,4617.56
+3634,octobre 2024,157676284,Laoutia Assma,26,4697.65
+3634,novembre 2024,157676284,Laoutia Assma,26,4908.76
+3634,décembre 2024,157676284,Laoutia Assma,26,4771.99
+3634,décembre 2023,161841612,El Firdoussi Saloua,26,3378.02
+3634,janvier 2024,161841612,El Firdoussi Saloua,26,3527.24
+3634,février 2024,161841612,El Firdoussi Saloua,26,3585.9
+3634,mars 2024,161841612,El Firdoussi Saloua,26,3487.9
+3634,avril 2024,161841612,El Firdoussi Saloua,26,3577.8
+3634,mai 2024,161841612,El Firdoussi Saloua,26,3643.07
+3634,juin 2024,161841612,El Firdoussi Saloua,26,3684.19
+3634,juillet 2024,161841612,El Firdoussi Saloua,26,3637.72
+3634,août 2024,161841612,El Firdoussi Saloua,26,3797.17
+3634,septembre 2024,161841612,El Firdoussi Saloua,26,3896.06
+3634,octobre 2024,161841612,El Firdoussi Saloua,26,3933.77
+3634,novembre 2024,161841612,El Firdoussi Saloua,26,3923.19
+3634,décembre 2024,161841612,El Firdoussi Saloua,26,3908.04
+3634,décembre 2023,162852291,Rahim Latifa,26,3267.16
+3634,janvier 2024,162852291,Rahim Latifa,26,3377.2
+3634,février 2024,162852291,Rahim Latifa,26,3304.31
+3634,mars 2024,162852291,Rahim Latifa,26,3255.78
+3634,avril 2024,162852291,Rahim Latifa,26,3397.69
+3634,mai 2024,162852291,Rahim Latifa,26,3355.7
+3634,juin 2024,162852291,Rahim Latifa,26,3521.76
+3634,juillet 2024,162852291,Rahim Latifa,26,3427.02
+3634,août 2024,162852291,Rahim Latifa,26,3549.76
+3634,septembre 2024,162852291,Rahim Latifa,26,3484.77
+3634,octobre 2024,162852291,Rahim Latifa,26,3448.7
+3634,novembre 2024,162852291,Rahim Latifa,26,3596.28
+3634,décembre 2024,162852291,Rahim Latifa,26,3525.85
+3634,décembre 2023,164966488,Erradi Latifa,26,4186.0
+3634,janvier 2024,164966488,Erradi Latifa,26,4312.73
+3634,février 2024,164966488,Erradi Latifa,26,4300.83
+3634,mars 2024,164966488,Erradi Latifa,26,4390.09
+3634,avril 2024,164966488,Erradi Latifa,26,4605.76
+3634,mai 2024,164966488,Erradi Latifa,26,4707.03
+3634,juin 2024,164966488,Erradi Latifa,26,4591.96
+3634,juillet 2024,164966488,Erradi Latifa,26,4510.83
+3634,août 2024,164966488,Erradi Latifa,26,4424.58
+3634,septembre 2024,164966488,Erradi Latifa,26,4634.75
+3634,octobre 2024,164966488,Erradi Latifa,26,4600.45
+3634,novembre 2024,164966488,Erradi Latifa,26,4813.02
+3634,décembre 2024,164966488,Erradi Latifa,26,4990.54
+3634,décembre 2023,170495968,Khizzioui Mohamed,26,5708.39
+3634,janvier 2024,170495968,Khizzioui Mohamed,26,5572.27
+3634,février 2024,170495968,Khizzioui Mohamed,26,5536.05
+3634,mars 2024,170495968,Khizzioui Mohamed,26,5744.14
+3634,avril 2024,170495968,Khizzioui Mohamed,26,5574.83
+3634,mai 2024,170495968,Khizzioui Mohamed,26,5632.06
+3634,juin 2024,170495968,Khizzioui Mohamed,26,5517.89
+3634,juillet 2024,170495968,Khizzioui Mohamed,26,5748.51
+3634,août 2024,170495968,Khizzioui Mohamed,26,6000.37
+3634,septembre 2024,170495968,Khizzioui Mohamed,26,5828.47
+3634,octobre 2024,170495968,Khizzioui Mohamed,26,5931.18
+3634,novembre 2024,170495968,Khizzioui Mohamed,26,5920.26
+3634,décembre 2024,170495968,Khizzioui Mohamed,26,5870.3
+3634,décembre 2023,175526669,Ait Boukdir Mohamad,26,3267.16
+3634,janvier 2024,175526669,Ait Boukdir Mohamad,26,3344.8
+3634,février 2024,175526669,Ait Boukdir Mohamad,26,3443.23
+3634,mars 2024,175526669,Ait Boukdir Mohamad,26,3511.29
+3634,avril 2024,175526669,Ait Boukdir Mohamad,26,3566.58
+3634,mai 2024,175526669,Ait Boukdir Mohamad,26,3529.29
+3634,juin 2024,175526669,Ait Boukdir Mohamad,26,3660.79
+3634,juillet 2024,175526669,Ait Boukdir Mohamad,26,3783.91
+3634,août 2024,175526669,Ait Boukdir Mohamad,26,3788.6
+3634,septembre 2024,175526669,Ait Boukdir Mohamad,26,3749.92
+3634,octobre 2024,175526669,Ait Boukdir Mohamad,26,3731.88
+3634,novembre 2024,175526669,Ait Boukdir Mohamad,26,3904.92
+3634,décembre 2024,175526669,Ait Boukdir Mohamad,26,3900.74
+3634,décembre 2023,175665269,Aboufirass Abdellatif,26,6518.05
+3634,janvier 2024,175665269,Aboufirass Abdellatif,26,6711.34
+3634,février 2024,175665269,Aboufirass Abdellatif,26,6777.69
+3634,mars 2024,175665269,Aboufirass Abdellatif,26,6978.6
+3634,avril 2024,175665269,Aboufirass Abdellatif,26,7142.27
+3634,mai 2024,175665269,Aboufirass Abdellatif,26,7052.7
+3634,juin 2024,175665269,Aboufirass Abdellatif,26,7017.92
+3634,juillet 2024,175665269,Aboufirass Abdellatif,26,7238.74
+3634,août 2024,175665269,Aboufirass Abdellatif,26,7398.08
+3634,septembre 2024,175665269,Aboufirass Abdellatif,26,7297.24
+3634,octobre 2024,175665269,Aboufirass Abdellatif,26,7154.16
+3634,novembre 2024,175665269,Aboufirass Abdellatif,26,7270.41
+3634,décembre 2024,175665269,Aboufirass Abdellatif,26,7395.31
+3634,décembre 2023,175728618,Ouaga Noura,26,5203.56
+3634,janvier 2024,175728618,Ouaga Noura,26,5047.51
+3634,février 2024,175728618,Ouaga Noura,26,5011.77
+3634,mars 2024,175728618,Ouaga Noura,26,5245.16
+3634,avril 2024,175728618,Ouaga Noura,26,5191.8
+3634,mai 2024,175728618,Ouaga Noura,26,5075.51
+3634,juin 2024,175728618,Ouaga Noura,26,5231.83
+3634,juillet 2024,175728618,Ouaga Noura,26,5409.8
+3634,août 2024,175728618,Ouaga Noura,26,5389.82
+3634,septembre 2024,175728618,Ouaga Noura,26,5558.89
+3634,octobre 2024,175728618,Ouaga Noura,26,5799.84
+3634,novembre 2024,175728618,Ouaga Noura,26,6012.66
+3634,décembre 2024,175728618,Ouaga Noura,26,6283.72
+3634,décembre 2023,175732617,Zabori Maryem,26,3377.73
+3634,janvier 2024,175732617,Zabori Maryem,26,3359.96
+3634,février 2024,175732617,Zabori Maryem,26,3516.28
+3634,mars 2024,175732617,Zabori Maryem,26,3545.97
+3634,avril 2024,175732617,Zabori Maryem,26,3712.75
+3634,mai 2024,175732617,Zabori Maryem,26,3653.07
+3634,juin 2024,175732617,Zabori Maryem,26,3669.9
+3634,juillet 2024,175732617,Zabori Maryem,26,3726.04
+3634,août 2024,175732617,Zabori Maryem,26,3734.22
+3634,septembre 2024,175732617,Zabori Maryem,26,3716.54
+3634,octobre 2024,175732617,Zabori Maryem,26,3876.89
+3634,novembre 2024,175732617,Zabori Maryem,26,3921.43
+3634,décembre 2024,175732617,Zabori Maryem,26,4080.12
+3634,décembre 2023,183244129,Abid Asmaa,26,3217.16
+3634,janvier 2024,183244129,Abid Asmaa,26,3322.03
+3634,février 2024,183244129,Abid Asmaa,26,3238.02
+3634,mars 2024,183244129,Abid Asmaa,26,3178.32
+3634,avril 2024,183244129,Abid Asmaa,26,3191.83
+3634,mai 2024,183244129,Abid Asmaa,26,3155.18
+3634,juin 2024,183244129,Abid Asmaa,26,3111.54
+3634,juillet 2024,183244129,Abid Asmaa,26,3035.73
+3634,août 2024,183244129,Abid Asmaa,26,3098.6
+3634,septembre 2024,183244129,Abid Asmaa,26,3130.48
+3634,octobre 2024,183244129,Abid Asmaa,26,3121.38
+3634,novembre 2024,183244129,Abid Asmaa,26,3202.09
+3634,décembre 2024,183244129,Abid Asmaa,26,3168.72
+3634,décembre 2023,183867930,Assif Khadija,26,3779.47
+3634,janvier 2024,183867930,Assif Khadija,26,3689.82
+3634,février 2024,183867930,Assif Khadija,26,3752.04
+3634,mars 2024,183867930,Assif Khadija,26,3673.52
+3634,avril 2024,183867930,Assif Khadija,26,3587.39
+3634,mai 2024,183867930,Assif Khadija,26,3606.91
+3634,juin 2024,183867930,Assif Khadija,26,3734.73
+3634,juillet 2024,183867930,Assif Khadija,26,3656.35
+3634,août 2024,183867930,Assif Khadija,26,3629.24
+3634,septembre 2024,183867930,Assif Khadija,26,3525.25
+3634,octobre 2024,183867930,Assif Khadija,26,3484.69
+3634,novembre 2024,183867930,Assif Khadija,26,3517.04
+3634,décembre 2024,183867930,Assif Khadija,26,3463.18
+3634,décembre 2023,183881534,Zouihil Nezha,26,4470.85
+3634,janvier 2024,183881534,Zouihil Nezha,26,4453.35
+3634,février 2024,183881534,Zouihil Nezha,26,4382.85
+3634,mars 2024,183881534,Zouihil Nezha,26,4601.83
+3634,avril 2024,183881534,Zouihil Nezha,26,4736.62
+3634,mai 2024,183881534,Zouihil Nezha,26,4902.13
+3634,juin 2024,183881534,Zouihil Nezha,26,4787.08
+3634,juillet 2024,183881534,Zouihil Nezha,26,4702.75
+3634,août 2024,183881534,Zouihil Nezha,26,4706.12
+3634,septembre 2024,183881534,Zouihil Nezha,26,4837.67
+3634,octobre 2024,183881534,Zouihil Nezha,26,4759.2
+3634,novembre 2024,183881534,Zouihil Nezha,26,4755.76
+3634,décembre 2024,183881534,Zouihil Nezha,26,4669.8
+3634,décembre 2023,184889363,Labissi Hasna,26,3267.16
+3634,janvier 2024,184889363,Labissi Hasna,26,3304.78
+3634,février 2024,184889363,Labissi Hasna,26,3431.21
+3634,mars 2024,184889363,Labissi Hasna,26,3348.73
+3634,avril 2024,184889363,Labissi Hasna,26,3357.09
+3634,mai 2024,184889363,Labissi Hasna,26,3453.64
+3634,juin 2024,184889363,Labissi Hasna,26,3486.23
+3634,juillet 2024,184889363,Labissi Hasna,26,3443.07
+3634,août 2024,184889363,Labissi Hasna,26,3376.21
+3634,septembre 2024,184889363,Labissi Hasna,26,3339.83
+3634,octobre 2024,184889363,Labissi Hasna,26,3395.33
+3634,novembre 2024,184889363,Labissi Hasna,26,3537.46
+3634,décembre 2024,184889363,Labissi Hasna,26,3541.33
+3634,décembre 2023,185748675,Bedrane Zahra,26,3150.0
+3634,janvier 2024,185748675,Bedrane Zahra,26,3210.04
+3634,février 2024,185748675,Bedrane Zahra,26,3197.95
+3634,mars 2024,185748675,Bedrane Zahra,26,3166.1
+3634,avril 2024,185748675,Bedrane Zahra,26,3220.63
+3634,mai 2024,185748675,Bedrane Zahra,26,3249.76
+3634,juin 2024,185748675,Bedrane Zahra,26,3317.14
+3634,juillet 2024,185748675,Bedrane Zahra,26,3316.54
+3634,août 2024,185748675,Bedrane Zahra,26,3443.56
+3634,septembre 2024,185748675,Bedrane Zahra,26,3590.27
+3634,octobre 2024,185748675,Bedrane Zahra,26,3508.23
+3634,novembre 2024,185748675,Bedrane Zahra,26,3448.08
+3634,décembre 2024,185748675,Bedrane Zahra,26,3605.57
+3634,décembre 2023,188681252,Akdane Ilham,26,3267.16
+3634,janvier 2024,188681252,Akdane Ilham,26,3340.99
+3634,février 2024,188681252,Akdane Ilham,26,3336.04
+3634,mars 2024,188681252,Akdane Ilham,26,3261.41
+3634,avril 2024,188681252,Akdane Ilham,26,3192.18
+3634,mai 2024,188681252,Akdane Ilham,26,3121.66
+3634,juin 2024,188681252,Akdane Ilham,26,3115.31
+3634,juillet 2024,188681252,Akdane Ilham,26,3194.85
+3634,août 2024,188681252,Akdane Ilham,26,3222.35
+3634,septembre 2024,188681252,Akdane Ilham,26,3178.96
+3634,octobre 2024,188681252,Akdane Ilham,26,3257.33
+3634,novembre 2024,188681252,Akdane Ilham,26,3406.76
+3634,décembre 2024,188681252,Akdane Ilham,26,3409.77
+3634,décembre 2023,189452587,Bougzime Lamiaa,26,3267.16
+3634,janvier 2024,189452587,Bougzime Lamiaa,26,3174.67
+3634,février 2024,189452587,Bougzime Lamiaa,26,3280.5
+3634,mars 2024,189452587,Bougzime Lamiaa,26,3294.93
+3634,avril 2024,189452587,Bougzime Lamiaa,26,3354.62
+3634,mai 2024,189452587,Bougzime Lamiaa,26,3266.9
+3634,juin 2024,189452587,Bougzime Lamiaa,26,3222.04
+3634,juillet 2024,189452587,Bougzime Lamiaa,26,3271.9
+3634,août 2024,189452587,Bougzime Lamiaa,26,3241.8
+3634,septembre 2024,189452587,Bougzime Lamiaa,26,3240.33
+3634,octobre 2024,189452587,Bougzime Lamiaa,26,3375.5
+3634,novembre 2024,189452587,Bougzime Lamiaa,26,3435.81
+3634,décembre 2024,189452587,Bougzime Lamiaa,26,3469.86
+3634,décembre 2023,190350431,El Qobaysy Bochra,26,4355.04
+3634,janvier 2024,190350431,El Qobaysy Bochra,26,4282.81
+3634,février 2024,190350431,El Qobaysy Bochra,26,4227.04
+3634,mars 2024,190350431,El Qobaysy Bochra,26,4207.02
+3634,avril 2024,190350431,El Qobaysy Bochra,26,4159.09
+3634,mai 2024,190350431,El Qobaysy Bochra,26,4064.38
+3634,juin 2024,190350431,El Qobaysy Bochra,26,4183.39
+3634,juillet 2024,190350431,El Qobaysy Bochra,26,4391.9
+3634,août 2024,190350431,El Qobaysy Bochra,26,4399.01
+3634,septembre 2024,190350431,El Qobaysy Bochra,26,4347.14
+3634,octobre 2024,190350431,El Qobaysy Bochra,26,4281.19
+3634,novembre 2024,190350431,El Qobaysy Bochra,26,4155.67
+3634,décembre 2024,190350431,El Qobaysy Bochra,26,4110.39
+3634,décembre 2023,192870812,El Moustaassime Salma,26,3378.02
+3634,janvier 2024,192870812,El Moustaassime Salma,26,3522.25
+3634,février 2024,192870812,El Moustaassime Salma,26,3448.1
+3634,mars 2024,192870812,El Moustaassime Salma,26,3373.33
+3634,avril 2024,192870812,El Moustaassime Salma,26,3410.3
+3634,mai 2024,192870812,El Moustaassime Salma,26,3438.02
+3634,juin 2024,192870812,El Moustaassime Salma,26,3466.11
+3634,juillet 2024,192870812,El Moustaassime Salma,26,3551.31
+3634,août 2024,192870812,El Moustaassime Salma,26,3488.8
+3634,septembre 2024,192870812,El Moustaassime Salma,26,3412.61
+3634,octobre 2024,192870812,El Moustaassime Salma,26,3404.21
+3634,novembre 2024,192870812,El Moustaassime Salma,26,3507.98
+3634,décembre 2024,192870812,El Moustaassime Salma,26,3567.49
+3634,décembre 2023,193280031,Moukhtari Fatima,26,3564.18
+3634,janvier 2024,193280031,Moukhtari Fatima,26,3714.5
+3634,février 2024,193280031,Moukhtari Fatima,26,3792.86
+3634,mars 2024,193280031,Moukhtari Fatima,26,3738.79
+3634,avril 2024,193280031,Moukhtari Fatima,26,3867.51
+3634,mai 2024,193280031,Moukhtari Fatima,26,3881.9
+3634,juin 2024,193280031,Moukhtari Fatima,26,3980.53
+3634,juillet 2024,193280031,Moukhtari Fatima,26,4178.36
+3634,août 2024,193280031,Moukhtari Fatima,26,4343.2
+3634,septembre 2024,193280031,Moukhtari Fatima,26,4501.15
+3634,octobre 2024,193280031,Moukhtari Fatima,26,4634.83
+3634,novembre 2024,193280031,Moukhtari Fatima,26,4762.23
+3634,décembre 2024,193280031,Moukhtari Fatima,26,4824.3
+3634,décembre 2023,193280338,Kasstor Mina,26,3712.69
+3634,janvier 2024,193280338,Kasstor Mina,26,3650.91
+3634,février 2024,193280338,Kasstor Mina,26,3748.46
+3634,mars 2024,193280338,Kasstor Mina,26,3852.62
+3634,avril 2024,193280338,Kasstor Mina,26,3758.79
+3634,mai 2024,193280338,Kasstor Mina,26,3938.63
+3634,juin 2024,193280338,Kasstor Mina,26,4129.55
+3634,juillet 2024,193280338,Kasstor Mina,26,4302.36
+3634,août 2024,193280338,Kasstor Mina,26,4229.07
+3634,septembre 2024,193280338,Kasstor Mina,26,4277.06
+3634,octobre 2024,193280338,Kasstor Mina,26,4159.51
+3634,novembre 2024,193280338,Kasstor Mina,26,4178.01
+3634,décembre 2024,193280338,Kasstor Mina,26,4274.57
+3634,décembre 2023,193281534,Tarani Halima,26,3712.69
+3634,janvier 2024,193281534,Tarani Halima,26,3705.89
+3634,février 2024,193281534,Tarani Halima,26,3662.29
+3634,mars 2024,193281534,Tarani Halima,26,3613.73
+3634,avril 2024,193281534,Tarani Halima,26,3513.87
+3634,mai 2024,193281534,Tarani Halima,26,3507.52
+3634,juin 2024,193281534,Tarani Halima,26,3577.41
+3634,juillet 2024,193281534,Tarani Halima,26,3740.58
+3634,août 2024,193281534,Tarani Halima,26,3714.1
+3634,septembre 2024,193281534,Tarani Halima,26,3621.55
+3634,octobre 2024,193281534,Tarani Halima,26,3527.23
+3634,novembre 2024,193281534,Tarani Halima,26,3634.43
+3634,décembre 2024,193281534,Tarani Halima,26,3717.15
+3634,décembre 2023,195102616,Bouzoune Mina,26,3217.46
+3634,janvier 2024,195102616,Bouzoune Mina,26,3217.86
+3634,février 2024,195102616,Bouzoune Mina,26,3330.27
+3634,mars 2024,195102616,Bouzoune Mina,26,3303.61
+3634,avril 2024,195102616,Bouzoune Mina,26,3371.09
+3634,mai 2024,195102616,Bouzoune Mina,26,3420.6
+3634,juin 2024,195102616,Bouzoune Mina,26,3522.38
+3634,juillet 2024,195102616,Bouzoune Mina,26,3462.52
+3634,août 2024,195102616,Bouzoune Mina,26,3527.06
+3634,septembre 2024,195102616,Bouzoune Mina,26,3629.44
+3634,octobre 2024,195102616,Bouzoune Mina,26,3695.45
+3634,novembre 2024,195102616,Bouzoune Mina,26,3657.97
+3634,décembre 2024,195102616,Bouzoune Mina,26,3645.63
+3634,décembre 2023,195257971,Boutouba Halima,26,3415.67
+3634,janvier 2024,195257971,Boutouba Halima,26,3459.54
+3634,février 2024,195257971,Boutouba Halima,26,3425.96
+3634,mars 2024,195257971,Boutouba Halima,26,3387.57
+3634,avril 2024,195257971,Boutouba Halima,26,3311.7
+3634,mai 2024,195257971,Boutouba Halima,26,3433.62
+3634,juin 2024,195257971,Boutouba Halima,26,3574.61
+3634,juillet 2024,195257971,Boutouba Halima,26,3693.3
+3634,août 2024,195257971,Boutouba Halima,26,3712.93
+3634,septembre 2024,195257971,Boutouba Halima,26,3730.24
+3634,octobre 2024,195257971,Boutouba Halima,26,3661.89
+3634,novembre 2024,195257971,Boutouba Halima,26,3620.92
+3634,décembre 2024,195257971,Boutouba Halima,26,3740.2
+3634,décembre 2023,195928879,Nahlaoui Ilham,26,5650.22
+3634,janvier 2024,195928879,Nahlaoui Ilham,26,5878.35
+3634,février 2024,195928879,Nahlaoui Ilham,26,5747.97
+3634,mars 2024,195928879,Nahlaoui Ilham,26,5713.39
+3634,avril 2024,195928879,Nahlaoui Ilham,26,5962.95
+3634,mai 2024,195928879,Nahlaoui Ilham,26,5823.49
+3634,juin 2024,195928879,Nahlaoui Ilham,26,5812.3
+3634,juillet 2024,195928879,Nahlaoui Ilham,26,5704.78
+3634,août 2024,195928879,Nahlaoui Ilham,26,5829.4
+3634,septembre 2024,195928879,Nahlaoui Ilham,26,5951.54
+3634,octobre 2024,195928879,Nahlaoui Ilham,26,5872.42
+3634,novembre 2024,195928879,Nahlaoui Ilham,26,5920.82
+3634,décembre 2024,195928879,Nahlaoui Ilham,26,5926.0
+3634,décembre 2023,197591872,Bessame Sana,26,3415.67
+3634,janvier 2024,197591872,Bessame Sana,26,3399.21
+3634,février 2024,197591872,Bessame Sana,26,3305.82
+3634,mars 2024,197591872,Bessame Sana,26,3302.65
+3634,avril 2024,197591872,Bessame Sana,26,3394.4
+3634,mai 2024,197591872,Bessame Sana,26,3507.2
+3634,juin 2024,197591872,Bessame Sana,26,3501.97
+3634,juillet 2024,197591872,Bessame Sana,26,3422.28
+3634,août 2024,197591872,Bessame Sana,26,3459.15
+3634,septembre 2024,197591872,Bessame Sana,26,3446.11
+3634,octobre 2024,197591872,Bessame Sana,26,3444.22
+3634,novembre 2024,197591872,Bessame Sana,26,3580.95
+3634,décembre 2024,197591872,Bessame Sana,26,3479.14
+3634,décembre 2023,197592276,Abbouz Hayat,26,3415.67
+3634,janvier 2024,197592276,Abbouz Hayat,26,3397.9
+3634,février 2024,197592276,Abbouz Hayat,26,3439.69
+3634,mars 2024,197592276,Abbouz Hayat,26,3368.93
+3634,avril 2024,197592276,Abbouz Hayat,26,3470.52
+3634,mai 2024,197592276,Abbouz Hayat,26,3546.1
+3634,juin 2024,197592276,Abbouz Hayat,26,3443.74
+3634,juillet 2024,197592276,Abbouz Hayat,26,3584.86
+3634,août 2024,197592276,Abbouz Hayat,26,3677.66
+3634,septembre 2024,197592276,Abbouz Hayat,26,3698.24
+3634,octobre 2024,197592276,Abbouz Hayat,26,3840.48
+3634,novembre 2024,197592276,Abbouz Hayat,26,4001.78
+3634,décembre 2024,197592276,Abbouz Hayat,26,4004.86
+3634,décembre 2023,197976746,El Mzahar Wiam,0,0.0
+3634,janvier 2024,197976746,El Mzahar Wiam,0,0.0
+3634,février 2024,197976746,El Mzahar Wiam,0,0.0
+3634,mars 2024,197976746,El Mzahar Wiam,0,0.0
+3634,avril 2024,197976746,El Mzahar Wiam,0,0.0
+3634,mai 2024,197976746,El Mzahar Wiam,0,0.0
+3634,juin 2024,197976746,El Mzahar Wiam,0,0.0
+3634,juillet 2024,197976746,El Mzahar Wiam,0,0.0
+3634,août 2024,197976746,El Mzahar Wiam,0,0.0
+3634,septembre 2024,197976746,El Mzahar Wiam,0,0.0
+3634,octobre 2024,197976746,El Mzahar Wiam,0,0.0
+3634,novembre 2024,197976746,El Mzahar Wiam,0,0.0
+3634,décembre 2024,197976746,El Mzahar Wiam,0,0.0
+3634,décembre 2023,198693646,Al Azawi Rania,26,3500.0
+3634,janvier 2024,198693646,Al Azawi Rania,26,3449.89
+3634,février 2024,198693646,Al Azawi Rania,26,3565.09
+3634,mars 2024,198693646,Al Azawi Rania,26,3666.28
+3634,avril 2024,198693646,Al Azawi Rania,26,3698.45
+3634,mai 2024,198693646,Al Azawi Rania,26,3762.54
+3634,juin 2024,198693646,Al Azawi Rania,26,3663.03
+3634,juillet 2024,198693646,Al Azawi Rania,26,3588.02
+3634,août 2024,198693646,Al Azawi Rania,26,3486.5
+3634,septembre 2024,198693646,Al Azawi Rania,26,3658.77
+3634,octobre 2024,198693646,Al Azawi Rania,26,3788.95
+3634,novembre 2024,198693646,Al Azawi Rania,26,3720.02
+3634,décembre 2024,198693646,Al Azawi Rania,26,3738.99
+3634,décembre 2023,199622683,El Kinani Assia,26,3834.16
+3634,janvier 2024,199622683,El Kinani Assia,26,3975.94
+3634,février 2024,199622683,El Kinani Assia,26,3898.03
+3634,mars 2024,199622683,El Kinani Assia,26,3908.03
+3634,avril 2024,199622683,El Kinani Assia,26,3923.34
+3634,mai 2024,199622683,El Kinani Assia,26,4076.61
+3634,juin 2024,199622683,El Kinani Assia,26,4194.29
+3634,juillet 2024,199622683,El Kinani Assia,26,4286.37
+3634,août 2024,199622683,El Kinani Assia,26,4394.32
+3634,septembre 2024,199622683,El Kinani Assia,26,4515.69
+3634,octobre 2024,199622683,El Kinani Assia,26,4517.85
+3634,novembre 2024,199622683,El Kinani Assia,26,4634.87
+3634,décembre 2024,199622683,El Kinani Assia,26,4843.0

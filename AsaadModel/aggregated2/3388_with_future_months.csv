@@ -1,0 +1,664 @@
+ID_adherent,month,immatriculationNumber,full_name,nombre_jours,salaire
+3388,décembre 2023,101818262,Lachhab Mohammed,26,6890.8
+3388,janvier 2024,101818262,Lachhab Mohammed,26,7033.29
+3388,février 2024,101818262,Lachhab Mohammed,26,7326.18
+3388,mars 2024,101818262,Lachhab Mohammed,26,7342.79
+3388,avril 2024,101818262,Lachhab Mohammed,26,7668.45
+3388,mai 2024,101818262,Lachhab Mohammed,26,7598.73
+3388,juin 2024,101818262,Lachhab Mohammed,26,7849.33
+3388,juillet 2024,101818262,Lachhab Mohammed,26,8082.78
+3388,août 2024,101818262,Lachhab Mohammed,26,7971.57
+3388,septembre 2024,101818262,Lachhab Mohammed,26,8131.36
+3388,octobre 2024,101818262,Lachhab Mohammed,26,8242.52
+3388,novembre 2024,101818262,Lachhab Mohammed,26,8492.73
+3388,décembre 2024,101818262,Lachhab Mohammed,26,8818.19
+3388,décembre 2023,104457182,El Jamaa Miloud,24,3410.88
+3388,janvier 2024,104457182,El Jamaa Miloud,24,3320.72
+3388,février 2024,104457182,El Jamaa Miloud,24,3232.69
+3388,mars 2024,104457182,El Jamaa Miloud,24,3221.45
+3388,avril 2024,104457182,El Jamaa Miloud,24,3287.57
+3388,mai 2024,104457182,El Jamaa Miloud,24,3358.95
+3388,juin 2024,104457182,El Jamaa Miloud,24,3277.35
+3388,juillet 2024,104457182,El Jamaa Miloud,24,3200.53
+3388,août 2024,104457182,El Jamaa Miloud,24,3199.54
+3388,septembre 2024,104457182,El Jamaa Miloud,24,3148.85
+3388,octobre 2024,104457182,El Jamaa Miloud,24,3275.75
+3388,novembre 2024,104457182,El Jamaa Miloud,24,3427.68
+3388,décembre 2024,104457182,El Jamaa Miloud,24,3565.43
+3388,décembre 2023,105289814,Belghazouani Zine El Abidine,26,4675.0
+3388,janvier 2024,105289814,Belghazouani Zine El Abidine,26,4834.65
+3388,février 2024,105289814,Belghazouani Zine El Abidine,26,5012.71
+3388,mars 2024,105289814,Belghazouani Zine El Abidine,26,5111.75
+3388,avril 2024,105289814,Belghazouani Zine El Abidine,26,4990.97
+3388,mai 2024,105289814,Belghazouani Zine El Abidine,26,4904.59
+3388,juin 2024,105289814,Belghazouani Zine El Abidine,26,5094.83
+3388,juillet 2024,105289814,Belghazouani Zine El Abidine,26,5140.5
+3388,août 2024,105289814,Belghazouani Zine El Abidine,26,5032.74
+3388,septembre 2024,105289814,Belghazouani Zine El Abidine,26,5244.95
+3388,octobre 2024,105289814,Belghazouani Zine El Abidine,26,5483.98
+3388,novembre 2024,105289814,Belghazouani Zine El Abidine,26,5581.75
+3388,décembre 2024,105289814,Belghazouani Zine El Abidine,26,5857.23
+3388,décembre 2023,109481764,Znagui Mustapha,24,3496.8
+3388,janvier 2024,109481764,Znagui Mustapha,24,3485.46
+3388,février 2024,109481764,Znagui Mustapha,24,3513.16
+3388,mars 2024,109481764,Znagui Mustapha,24,3613.09
+3388,avril 2024,109481764,Znagui Mustapha,24,3654.37
+3388,mai 2024,109481764,Znagui Mustapha,24,3789.24
+3388,juin 2024,109481764,Znagui Mustapha,24,3697.44
+3388,juillet 2024,109481764,Znagui Mustapha,24,3646.82
+3388,août 2024,109481764,Znagui Mustapha,24,3648.04
+3388,septembre 2024,109481764,Znagui Mustapha,24,3678.65
+3388,octobre 2024,109481764,Znagui Mustapha,24,3736.48
+3388,novembre 2024,109481764,Znagui Mustapha,24,3746.4
+3388,décembre 2024,109481764,Znagui Mustapha,24,3791.4
+3388,décembre 2023,109481962,Afriouiha Zoubida,24,3556.15
+3388,janvier 2024,109481962,Afriouiha Zoubida,24,3578.79
+3388,février 2024,109481962,Afriouiha Zoubida,24,3562.14
+3388,mars 2024,109481962,Afriouiha Zoubida,24,3627.85
+3388,avril 2024,109481962,Afriouiha Zoubida,24,3626.44
+3388,mai 2024,109481962,Afriouiha Zoubida,24,3752.19
+3388,juin 2024,109481962,Afriouiha Zoubida,24,3785.25
+3388,juillet 2024,109481962,Afriouiha Zoubida,24,3954.06
+3388,août 2024,109481962,Afriouiha Zoubida,24,3979.9
+3388,septembre 2024,109481962,Afriouiha Zoubida,24,4051.84
+3388,octobre 2024,109481962,Afriouiha Zoubida,24,4076.26
+3388,novembre 2024,109481962,Afriouiha Zoubida,24,3966.48
+3388,décembre 2024,109481962,Afriouiha Zoubida,24,4149.16
+3388,décembre 2023,112993459,Sallam Mohamed,26,3204.18
+3388,janvier 2024,112993459,Sallam Mohamed,26,3161.28
+3388,février 2024,112993459,Sallam Mohamed,26,3214.91
+3388,mars 2024,112993459,Sallam Mohamed,26,3215.56
+3388,avril 2024,112993459,Sallam Mohamed,26,3226.21
+3388,mai 2024,112993459,Sallam Mohamed,26,3130.9
+3388,juin 2024,112993459,Sallam Mohamed,26,3078.34
+3388,juillet 2024,112993459,Sallam Mohamed,26,3146.67
+3388,août 2024,112993459,Sallam Mohamed,26,3053.81
+3388,septembre 2024,112993459,Sallam Mohamed,26,3013.03
+3388,octobre 2024,112993459,Sallam Mohamed,26,2940.29
+3388,novembre 2024,112993459,Sallam Mohamed,26,2962.57
+3388,décembre 2024,112993459,Sallam Mohamed,26,2993.14
+3388,décembre 2023,115971356,Massisse Ayoub,26,3228.16
+3388,janvier 2024,115971356,Massisse Ayoub,26,3182.95
+3388,février 2024,115971356,Massisse Ayoub,26,3223.28
+3388,mars 2024,115971356,Massisse Ayoub,26,3345.3
+3388,avril 2024,115971356,Massisse Ayoub,26,3478.94
+3388,mai 2024,115971356,Massisse Ayoub,26,3482.81
+3388,juin 2024,115971356,Massisse Ayoub,26,3427.25
+3388,juillet 2024,115971356,Massisse Ayoub,26,3582.44
+3388,août 2024,115971356,Massisse Ayoub,26,3553.19
+3388,septembre 2024,115971356,Massisse Ayoub,26,3638.74
+3388,octobre 2024,115971356,Massisse Ayoub,26,3815.45
+3388,novembre 2024,115971356,Massisse Ayoub,26,3804.83
+3388,décembre 2024,115971356,Massisse Ayoub,26,3759.57
+3388,décembre 2023,121927572,Alhiane Kamal,26,3713.42
+3388,janvier 2024,121927572,Alhiane Kamal,26,3770.99
+3388,février 2024,121927572,Alhiane Kamal,26,3761.97
+3388,mars 2024,121927572,Alhiane Kamal,26,3834.26
+3388,avril 2024,121927572,Alhiane Kamal,26,3813.4
+3388,mai 2024,121927572,Alhiane Kamal,26,3860.36
+3388,juin 2024,121927572,Alhiane Kamal,26,4030.8
+3388,juillet 2024,121927572,Alhiane Kamal,26,4038.56
+3388,août 2024,121927572,Alhiane Kamal,26,4037.14
+3388,septembre 2024,121927572,Alhiane Kamal,26,4040.25
+3388,octobre 2024,121927572,Alhiane Kamal,26,4213.99
+3388,novembre 2024,121927572,Alhiane Kamal,26,4095.03
+3388,décembre 2024,121927572,Alhiane Kamal,26,4271.38
+3388,décembre 2023,125767982,Alouss Saida,26,3862.62
+3388,janvier 2024,125767982,Alouss Saida,26,3991.01
+3388,février 2024,125767982,Alouss Saida,26,3988.18
+3388,mars 2024,125767982,Alouss Saida,26,4086.59
+3388,avril 2024,125767982,Alouss Saida,26,4282.31
+3388,mai 2024,125767982,Alouss Saida,26,4360.59
+3388,juin 2024,125767982,Alouss Saida,26,4388.23
+3388,juillet 2024,125767982,Alouss Saida,26,4324.52
+3388,août 2024,125767982,Alouss Saida,26,4489.96
+3388,septembre 2024,125767982,Alouss Saida,26,4468.68
+3388,octobre 2024,125767982,Alouss Saida,26,4495.44
+3388,novembre 2024,125767982,Alouss Saida,26,4719.29
+3388,décembre 2024,125767982,Alouss Saida,26,4818.76
+3388,décembre 2023,127317417,Belhimer Boujemaa,26,3118.5
+3388,janvier 2024,127317417,Belhimer Boujemaa,26,3261.71
+3388,février 2024,127317417,Belhimer Boujemaa,26,3227.24
+3388,mars 2024,127317417,Belhimer Boujemaa,26,3154.33
+3388,avril 2024,127317417,Belhimer Boujemaa,26,3105.24
+3388,mai 2024,127317417,Belhimer Boujemaa,26,3119.09
+3388,juin 2024,127317417,Belhimer Boujemaa,26,3265.19
+3388,juillet 2024,127317417,Belhimer Boujemaa,26,3273.41
+3388,août 2024,127317417,Belhimer Boujemaa,26,3429.7
+3388,septembre 2024,127317417,Belhimer Boujemaa,26,3444.61
+3388,octobre 2024,127317417,Belhimer Boujemaa,26,3461.84
+3388,novembre 2024,127317417,Belhimer Boujemaa,26,3589.73
+3388,décembre 2024,127317417,Belhimer Boujemaa,26,3503.8
+3388,décembre 2023,128580571,El Hadek Sidi Mohamed,26,3557.84
+3388,janvier 2024,128580571,El Hadek Sidi Mohamed,26,3713.27
+3388,février 2024,128580571,El Hadek Sidi Mohamed,26,3853.06
+3388,mars 2024,128580571,El Hadek Sidi Mohamed,26,3812.55
+3388,avril 2024,128580571,El Hadek Sidi Mohamed,26,3747.76
+3388,mai 2024,128580571,El Hadek Sidi Mohamed,26,3899.55
+3388,juin 2024,128580571,El Hadek Sidi Mohamed,26,3853.07
+3388,juillet 2024,128580571,El Hadek Sidi Mohamed,26,3738.0
+3388,août 2024,128580571,El Hadek Sidi Mohamed,26,3860.59
+3388,septembre 2024,128580571,El Hadek Sidi Mohamed,26,3948.65
+3388,octobre 2024,128580571,El Hadek Sidi Mohamed,26,3877.11
+3388,novembre 2024,128580571,El Hadek Sidi Mohamed,26,3962.78
+3388,décembre 2024,128580571,El Hadek Sidi Mohamed,26,3980.15
+3388,décembre 2023,131823794,Aitlafqih Zakaria,20,3200.0
+3388,janvier 2024,131823794,Aitlafqih Zakaria,20,3201.76
+3388,février 2024,131823794,Aitlafqih Zakaria,20,3124.63
+3388,mars 2024,131823794,Aitlafqih Zakaria,20,3262.64
+3388,avril 2024,131823794,Aitlafqih Zakaria,20,3358.0
+3388,mai 2024,131823794,Aitlafqih Zakaria,20,3377.73
+3388,juin 2024,131823794,Aitlafqih Zakaria,20,3425.73
+3388,juillet 2024,131823794,Aitlafqih Zakaria,20,3519.87
+3388,août 2024,131823794,Aitlafqih Zakaria,20,3611.25
+3388,septembre 2024,131823794,Aitlafqih Zakaria,20,3723.51
+3388,octobre 2024,131823794,Aitlafqih Zakaria,20,3757.7
+3388,novembre 2024,131823794,Aitlafqih Zakaria,20,3916.26
+3388,décembre 2024,131823794,Aitlafqih Zakaria,20,3869.1
+3388,décembre 2023,134847027,Richka Amine,21,3222.69
+3388,janvier 2024,134847027,Richka Amine,21,3171.54
+3388,février 2024,134847027,Richka Amine,21,3280.57
+3388,mars 2024,134847027,Richka Amine,21,3238.04
+3388,avril 2024,134847027,Richka Amine,21,3261.18
+3388,mai 2024,134847027,Richka Amine,21,3326.29
+3388,juin 2024,134847027,Richka Amine,21,3418.35
+3388,juillet 2024,134847027,Richka Amine,21,3455.07
+3388,août 2024,134847027,Richka Amine,21,3398.83
+3388,septembre 2024,134847027,Richka Amine,21,3439.38
+3388,octobre 2024,134847027,Richka Amine,21,3470.97
+3388,novembre 2024,134847027,Richka Amine,21,3544.82
+3388,décembre 2024,134847027,Richka Amine,21,3721.43
+3388,décembre 2023,134913903,Qouabai Abdelilah,26,3538.93
+3388,janvier 2024,134913903,Qouabai Abdelilah,26,3561.66
+3388,février 2024,134913903,Qouabai Abdelilah,26,3702.23
+3388,mars 2024,134913903,Qouabai Abdelilah,26,3600.98
+3388,avril 2024,134913903,Qouabai Abdelilah,26,3518.11
+3388,mai 2024,134913903,Qouabai Abdelilah,26,3562.31
+3388,juin 2024,134913903,Qouabai Abdelilah,26,3682.21
+3388,juillet 2024,134913903,Qouabai Abdelilah,26,3858.53
+3388,août 2024,134913903,Qouabai Abdelilah,26,3920.84
+3388,septembre 2024,134913903,Qouabai Abdelilah,26,3833.7
+3388,octobre 2024,134913903,Qouabai Abdelilah,26,3951.49
+3388,novembre 2024,134913903,Qouabai Abdelilah,26,3942.37
+3388,décembre 2024,134913903,Qouabai Abdelilah,26,4085.81
+3388,décembre 2023,136758144,Boumahdy Abdessater,25,3250.0
+3388,janvier 2024,136758144,Boumahdy Abdessater,25,3176.86
+3388,février 2024,136758144,Boumahdy Abdessater,25,3277.4
+3388,mars 2024,136758144,Boumahdy Abdessater,25,3294.25
+3388,avril 2024,136758144,Boumahdy Abdessater,25,3383.12
+3388,mai 2024,136758144,Boumahdy Abdessater,25,3348.98
+3388,juin 2024,136758144,Boumahdy Abdessater,25,3377.03
+3388,juillet 2024,136758144,Boumahdy Abdessater,25,3521.83
+3388,août 2024,136758144,Boumahdy Abdessater,25,3594.07
+3388,septembre 2024,136758144,Boumahdy Abdessater,25,3636.68
+3388,octobre 2024,136758144,Boumahdy Abdessater,25,3535.95
+3388,novembre 2024,136758144,Boumahdy Abdessater,25,3581.79
+3388,décembre 2024,136758144,Boumahdy Abdessater,25,3492.46
+3388,décembre 2023,139928606,Benchikh Ismaail,26,4203.29
+3388,janvier 2024,139928606,Benchikh Ismaail,26,4259.2
+3388,février 2024,139928606,Benchikh Ismaail,26,4311.46
+3388,mars 2024,139928606,Benchikh Ismaail,26,4483.24
+3388,avril 2024,139928606,Benchikh Ismaail,26,4626.41
+3388,mai 2024,139928606,Benchikh Ismaail,26,4608.97
+3388,juin 2024,139928606,Benchikh Ismaail,26,4542.77
+3388,juillet 2024,139928606,Benchikh Ismaail,26,4683.23
+3388,août 2024,139928606,Benchikh Ismaail,26,4770.42
+3388,septembre 2024,139928606,Benchikh Ismaail,26,4683.66
+3388,octobre 2024,139928606,Benchikh Ismaail,26,4693.16
+3388,novembre 2024,139928606,Benchikh Ismaail,26,4579.27
+3388,décembre 2024,139928606,Benchikh Ismaail,26,4540.98
+3388,décembre 2023,140910988,Elhaouaji Zakaria,24,3015.69
+3388,janvier 2024,140910988,Elhaouaji Zakaria,24,3094.75
+3388,février 2024,140910988,Elhaouaji Zakaria,24,3212.96
+3388,mars 2024,140910988,Elhaouaji Zakaria,24,3231.35
+3388,avril 2024,140910988,Elhaouaji Zakaria,24,3243.88
+3388,mai 2024,140910988,Elhaouaji Zakaria,24,3180.19
+3388,juin 2024,140910988,Elhaouaji Zakaria,24,3181.67
+3388,juillet 2024,140910988,Elhaouaji Zakaria,24,3178.35
+3388,août 2024,140910988,Elhaouaji Zakaria,24,3311.53
+3388,septembre 2024,140910988,Elhaouaji Zakaria,24,3266.54
+3388,octobre 2024,140910988,Elhaouaji Zakaria,24,3237.35
+3388,novembre 2024,140910988,Elhaouaji Zakaria,24,3334.45
+3388,décembre 2024,140910988,Elhaouaji Zakaria,24,3404.4
+3388,décembre 2023,141527232,Sebbane Abdellatif,23,3697.69
+3388,janvier 2024,141527232,Sebbane Abdellatif,23,3851.34
+3388,février 2024,141527232,Sebbane Abdellatif,23,4002.96
+3388,mars 2024,141527232,Sebbane Abdellatif,23,4116.94
+3388,avril 2024,141527232,Sebbane Abdellatif,23,4209.73
+3388,mai 2024,141527232,Sebbane Abdellatif,23,4284.74
+3388,juin 2024,141527232,Sebbane Abdellatif,23,4351.46
+3388,juillet 2024,141527232,Sebbane Abdellatif,23,4478.61
+3388,août 2024,141527232,Sebbane Abdellatif,23,4500.85
+3388,septembre 2024,141527232,Sebbane Abdellatif,23,4678.08
+3388,octobre 2024,141527232,Sebbane Abdellatif,23,4788.4
+3388,novembre 2024,141527232,Sebbane Abdellatif,23,4839.88
+3388,décembre 2024,141527232,Sebbane Abdellatif,23,4800.82
+3388,décembre 2023,143104273,Ifrioui Rachid,26,3974.25
+3388,janvier 2024,143104273,Ifrioui Rachid,26,3888.24
+3388,février 2024,143104273,Ifrioui Rachid,26,3983.11
+3388,mars 2024,143104273,Ifrioui Rachid,26,4092.81
+3388,avril 2024,143104273,Ifrioui Rachid,26,4010.48
+3388,mai 2024,143104273,Ifrioui Rachid,26,4062.01
+3388,juin 2024,143104273,Ifrioui Rachid,26,4155.05
+3388,juillet 2024,143104273,Ifrioui Rachid,26,4323.61
+3388,août 2024,143104273,Ifrioui Rachid,26,4451.28
+3388,septembre 2024,143104273,Ifrioui Rachid,26,4518.17
+3388,octobre 2024,143104273,Ifrioui Rachid,26,4383.85
+3388,novembre 2024,143104273,Ifrioui Rachid,26,4352.73
+3388,décembre 2024,143104273,Ifrioui Rachid,26,4480.51
+3388,décembre 2023,144163385,Ben Amghar Jamal Eddine,23,3652.94
+3388,janvier 2024,144163385,Ben Amghar Jamal Eddine,23,3706.05
+3388,février 2024,144163385,Ben Amghar Jamal Eddine,23,3602.29
+3388,mars 2024,144163385,Ben Amghar Jamal Eddine,23,3656.35
+3388,avril 2024,144163385,Ben Amghar Jamal Eddine,23,3716.64
+3388,mai 2024,144163385,Ben Amghar Jamal Eddine,23,3722.22
+3388,juin 2024,144163385,Ben Amghar Jamal Eddine,23,3884.33
+3388,juillet 2024,144163385,Ben Amghar Jamal Eddine,23,3911.44
+3388,août 2024,144163385,Ben Amghar Jamal Eddine,23,4087.72
+3388,septembre 2024,144163385,Ben Amghar Jamal Eddine,23,4069.73
+3388,octobre 2024,144163385,Ben Amghar Jamal Eddine,23,4141.69
+3388,novembre 2024,144163385,Ben Amghar Jamal Eddine,23,4136.93
+3388,décembre 2024,144163385,Ben Amghar Jamal Eddine,23,4221.87
+3388,décembre 2023,144163484,Benjaber Khalid,26,3713.43
+3388,janvier 2024,144163484,Benjaber Khalid,26,3825.18
+3388,février 2024,144163484,Benjaber Khalid,26,3870.07
+3388,mars 2024,144163484,Benjaber Khalid,26,3850.73
+3388,avril 2024,144163484,Benjaber Khalid,26,3875.41
+3388,mai 2024,144163484,Benjaber Khalid,26,3978.54
+3388,juin 2024,144163484,Benjaber Khalid,26,4165.73
+3388,juillet 2024,144163484,Benjaber Khalid,26,4289.03
+3388,août 2024,144163484,Benjaber Khalid,26,4314.33
+3388,septembre 2024,144163484,Benjaber Khalid,26,4293.62
+3388,octobre 2024,144163484,Benjaber Khalid,26,4255.56
+3388,novembre 2024,144163484,Benjaber Khalid,26,4268.01
+3388,décembre 2024,144163484,Benjaber Khalid,26,4392.62
+3388,décembre 2023,150380609,Qachba Abdeljabar,20,2826.92
+3388,janvier 2024,150380609,Qachba Abdeljabar,20,2867.31
+3388,février 2024,150380609,Qachba Abdeljabar,20,2914.52
+3388,mars 2024,150380609,Qachba Abdeljabar,20,3055.17
+3388,avril 2024,150380609,Qachba Abdeljabar,20,3013.03
+3388,mai 2024,150380609,Qachba Abdeljabar,20,2988.75
+3388,juin 2024,150380609,Qachba Abdeljabar,20,2928.63
+3388,juillet 2024,150380609,Qachba Abdeljabar,20,2945.95
+3388,août 2024,150380609,Qachba Abdeljabar,20,2994.1
+3388,septembre 2024,150380609,Qachba Abdeljabar,20,3141.34
+3388,octobre 2024,150380609,Qachba Abdeljabar,20,3144.5
+3388,novembre 2024,150380609,Qachba Abdeljabar,20,3074.87
+3388,décembre 2024,150380609,Qachba Abdeljabar,20,3156.45
+3388,décembre 2023,150434046,Touali Sidi Mohamed,26,3296.6
+3388,janvier 2024,150434046,Touali Sidi Mohamed,26,3359.45
+3388,février 2024,150434046,Touali Sidi Mohamed,26,3447.86
+3388,mars 2024,150434046,Touali Sidi Mohamed,26,3412.85
+3388,avril 2024,150434046,Touali Sidi Mohamed,26,3318.35
+3388,mai 2024,150434046,Touali Sidi Mohamed,26,3360.66
+3388,juin 2024,150434046,Touali Sidi Mohamed,26,3265.74
+3388,juillet 2024,150434046,Touali Sidi Mohamed,26,3297.75
+3388,août 2024,150434046,Touali Sidi Mohamed,26,3318.78
+3388,septembre 2024,150434046,Touali Sidi Mohamed,26,3366.99
+3388,octobre 2024,150434046,Touali Sidi Mohamed,26,3415.22
+3388,novembre 2024,150434046,Touali Sidi Mohamed,26,3426.93
+3388,décembre 2024,150434046,Touali Sidi Mohamed,26,3344.81
+3388,décembre 2023,150562068,Mimouni Badr,25,3942.3
+3388,janvier 2024,150562068,Mimouni Badr,25,3908.04
+3388,février 2024,150562068,Mimouni Badr,25,3901.36
+3388,mars 2024,150562068,Mimouni Badr,25,3954.76
+3388,avril 2024,150562068,Mimouni Badr,25,4152.17
+3388,mai 2024,150562068,Mimouni Badr,25,4118.58
+3388,juin 2024,150562068,Mimouni Badr,25,4043.13
+3388,juillet 2024,150562068,Mimouni Badr,25,4034.18
+3388,août 2024,150562068,Mimouni Badr,25,4091.69
+3388,septembre 2024,150562068,Mimouni Badr,25,4184.42
+3388,octobre 2024,150562068,Mimouni Badr,25,4361.24
+3388,novembre 2024,150562068,Mimouni Badr,25,4299.49
+3388,décembre 2024,150562068,Mimouni Badr,25,4487.19
+3388,décembre 2023,151040980,Moussaid Abdelghani,21,3295.77
+3388,janvier 2024,151040980,Moussaid Abdelghani,21,3432.05
+3388,février 2024,151040980,Moussaid Abdelghani,21,3536.02
+3388,mars 2024,151040980,Moussaid Abdelghani,21,3640.12
+3388,avril 2024,151040980,Moussaid Abdelghani,21,3670.63
+3388,mai 2024,151040980,Moussaid Abdelghani,21,3680.12
+3388,juin 2024,151040980,Moussaid Abdelghani,21,3738.03
+3388,juillet 2024,151040980,Moussaid Abdelghani,21,3884.83
+3388,août 2024,151040980,Moussaid Abdelghani,21,3999.4
+3388,septembre 2024,151040980,Moussaid Abdelghani,21,4184.34
+3388,octobre 2024,151040980,Moussaid Abdelghani,21,4156.42
+3388,novembre 2024,151040980,Moussaid Abdelghani,21,4197.36
+3388,décembre 2024,151040980,Moussaid Abdelghani,21,4299.39
+3388,décembre 2023,152572172,Slimani Abdellatif,26,3575.0
+3388,janvier 2024,152572172,Slimani Abdellatif,26,3482.64
+3388,février 2024,152572172,Slimani Abdellatif,26,3404.02
+3388,mars 2024,152572172,Slimani Abdellatif,26,3539.84
+3388,avril 2024,152572172,Slimani Abdellatif,26,3609.71
+3388,mai 2024,152572172,Slimani Abdellatif,26,3556.84
+3388,juin 2024,152572172,Slimani Abdellatif,26,3645.11
+3388,juillet 2024,152572172,Slimani Abdellatif,26,3710.75
+3388,août 2024,152572172,Slimani Abdellatif,26,3799.49
+3388,septembre 2024,152572172,Slimani Abdellatif,26,3801.37
+3388,octobre 2024,152572172,Slimani Abdellatif,26,3842.18
+3388,novembre 2024,152572172,Slimani Abdellatif,26,3826.84
+3388,décembre 2024,152572172,Slimani Abdellatif,26,3784.15
+3388,décembre 2023,152572370,Ajmam Mohamed,25,3141.35
+3388,janvier 2024,152572370,Ajmam Mohamed,25,3166.26
+3388,février 2024,152572370,Ajmam Mohamed,25,3203.41
+3388,mars 2024,152572370,Ajmam Mohamed,25,3265.92
+3388,avril 2024,152572370,Ajmam Mohamed,25,3294.4
+3388,mai 2024,152572370,Ajmam Mohamed,25,3451.77
+3388,juin 2024,152572370,Ajmam Mohamed,25,3362.54
+3388,juillet 2024,152572370,Ajmam Mohamed,25,3404.45
+3388,août 2024,152572370,Ajmam Mohamed,25,3567.92
+3388,septembre 2024,152572370,Ajmam Mohamed,25,3645.95
+3388,octobre 2024,152572370,Ajmam Mohamed,25,3815.4
+3388,novembre 2024,152572370,Ajmam Mohamed,25,3832.71
+3388,décembre 2024,152572370,Ajmam Mohamed,25,3775.02
+3388,décembre 2023,155176334,Ettoumi Khalid,24,3104.08
+3388,janvier 2024,155176334,Ettoumi Khalid,24,3112.22
+3388,février 2024,155176334,Ettoumi Khalid,24,3265.69
+3388,mars 2024,155176334,Ettoumi Khalid,24,3328.85
+3388,avril 2024,155176334,Ettoumi Khalid,24,3301.24
+3388,mai 2024,155176334,Ettoumi Khalid,24,3257.19
+3388,juin 2024,155176334,Ettoumi Khalid,24,3351.17
+3388,juillet 2024,155176334,Ettoumi Khalid,24,3291.74
+3388,août 2024,155176334,Ettoumi Khalid,24,3202.14
+3388,septembre 2024,155176334,Ettoumi Khalid,24,3191.49
+3388,octobre 2024,155176334,Ettoumi Khalid,24,3338.29
+3388,novembre 2024,155176334,Ettoumi Khalid,24,3368.21
+3388,décembre 2024,155176334,Ettoumi Khalid,24,3338.37
+3388,décembre 2023,161307014,El Bouni Hicham,26,3352.32
+3388,janvier 2024,161307014,El Bouni Hicham,26,3490.27
+3388,février 2024,161307014,El Bouni Hicham,26,3416.69
+3388,mars 2024,161307014,El Bouni Hicham,26,3571.72
+3388,avril 2024,161307014,El Bouni Hicham,26,3474.38
+3388,mai 2024,161307014,El Bouni Hicham,26,3426.35
+3388,juin 2024,161307014,El Bouni Hicham,26,3373.86
+3388,juillet 2024,161307014,El Bouni Hicham,26,3300.74
+3388,août 2024,161307014,El Bouni Hicham,26,3261.88
+3388,septembre 2024,161307014,El Bouni Hicham,26,3333.35
+3388,octobre 2024,161307014,El Bouni Hicham,26,3389.81
+3388,novembre 2024,161307014,El Bouni Hicham,26,3502.25
+3388,décembre 2024,161307014,El Bouni Hicham,26,3597.44
+3388,décembre 2023,168570160,Masran Aziz,26,3570.6
+3388,janvier 2024,168570160,Masran Aziz,26,3585.63
+3388,février 2024,168570160,Masran Aziz,26,3529.4
+3388,mars 2024,168570160,Masran Aziz,26,3434.31
+3388,avril 2024,168570160,Masran Aziz,26,3390.78
+3388,mai 2024,168570160,Masran Aziz,26,3551.4
+3388,juin 2024,168570160,Masran Aziz,26,3591.8
+3388,juillet 2024,168570160,Masran Aziz,26,3754.47
+3388,août 2024,168570160,Masran Aziz,26,3903.01
+3388,septembre 2024,168570160,Masran Aziz,26,3916.97
+3388,octobre 2024,168570160,Masran Aziz,26,4078.2
+3388,novembre 2024,168570160,Masran Aziz,26,4081.21
+3388,décembre 2024,168570160,Masran Aziz,26,3964.54
+3388,décembre 2023,170783470,Mariami Ep El Hachmi Laila,23,3021.41
+3388,janvier 2024,170783470,Mariami Ep El Hachmi Laila,23,3119.28
+3388,février 2024,170783470,Mariami Ep El Hachmi Laila,23,3247.54
+3388,mars 2024,170783470,Mariami Ep El Hachmi Laila,23,3170.83
+3388,avril 2024,170783470,Mariami Ep El Hachmi Laila,23,3214.88
+3388,mai 2024,170783470,Mariami Ep El Hachmi Laila,23,3286.94
+3388,juin 2024,170783470,Mariami Ep El Hachmi Laila,23,3214.98
+3388,juillet 2024,170783470,Mariami Ep El Hachmi Laila,23,3119.62
+3388,août 2024,170783470,Mariami Ep El Hachmi Laila,23,3158.7
+3388,septembre 2024,170783470,Mariami Ep El Hachmi Laila,23,3274.12
+3388,octobre 2024,170783470,Mariami Ep El Hachmi Laila,23,3207.06
+3388,novembre 2024,170783470,Mariami Ep El Hachmi Laila,23,3271.05
+3388,décembre 2024,170783470,Mariami Ep El Hachmi Laila,23,3189.28
+3388,décembre 2023,170783579,Znagui Mohamed,25,3510.0
+3388,janvier 2024,170783579,Znagui Mohamed,25,3596.48
+3388,février 2024,170783579,Znagui Mohamed,25,3591.89
+3388,mars 2024,170783579,Znagui Mohamed,25,3682.63
+3388,avril 2024,170783579,Znagui Mohamed,25,3863.67
+3388,mai 2024,170783579,Znagui Mohamed,25,4030.05
+3388,juin 2024,170783579,Znagui Mohamed,25,3955.19
+3388,juillet 2024,170783579,Znagui Mohamed,25,4084.41
+3388,août 2024,170783579,Znagui Mohamed,25,4228.1
+3388,septembre 2024,170783579,Znagui Mohamed,25,4265.06
+3388,octobre 2024,170783579,Znagui Mohamed,25,4410.09
+3388,novembre 2024,170783579,Znagui Mohamed,25,4508.85
+3388,décembre 2024,170783579,Znagui Mohamed,25,4516.83
+3388,décembre 2023,170783678,Id Youssef Lalla Fatima,26,3284.14
+3388,janvier 2024,170783678,Id Youssef Lalla Fatima,26,3437.0
+3388,février 2024,170783678,Id Youssef Lalla Fatima,26,3372.21
+3388,mars 2024,170783678,Id Youssef Lalla Fatima,26,3292.78
+3388,avril 2024,170783678,Id Youssef Lalla Fatima,26,3364.1
+3388,mai 2024,170783678,Id Youssef Lalla Fatima,26,3508.3
+3388,juin 2024,170783678,Id Youssef Lalla Fatima,26,3574.46
+3388,juillet 2024,170783678,Id Youssef Lalla Fatima,26,3568.52
+3388,août 2024,170783678,Id Youssef Lalla Fatima,26,3645.84
+3388,septembre 2024,170783678,Id Youssef Lalla Fatima,26,3771.76
+3388,octobre 2024,170783678,Id Youssef Lalla Fatima,26,3924.0
+3388,novembre 2024,170783678,Id Youssef Lalla Fatima,26,4099.36
+3388,décembre 2024,170783678,Id Youssef Lalla Fatima,26,4199.89
+3388,décembre 2023,172172907,Belharouali Jinane,25,4807.7
+3388,janvier 2024,172172907,Belharouali Jinane,25,4811.11
+3388,février 2024,172172907,Belharouali Jinane,25,5043.29
+3388,mars 2024,172172907,Belharouali Jinane,25,4965.43
+3388,avril 2024,172172907,Belharouali Jinane,25,4847.84
+3388,mai 2024,172172907,Belharouali Jinane,25,4776.75
+3388,juin 2024,172172907,Belharouali Jinane,25,4978.52
+3388,juillet 2024,172172907,Belharouali Jinane,25,4987.24
+3388,août 2024,172172907,Belharouali Jinane,25,5058.91
+3388,septembre 2024,172172907,Belharouali Jinane,25,4929.26
+3388,octobre 2024,172172907,Belharouali Jinane,25,4811.05
+3388,novembre 2024,172172907,Belharouali Jinane,25,4997.15
+3388,décembre 2024,172172907,Belharouali Jinane,25,4946.57
+3388,décembre 2023,173144778,Belkharres Abdelhak,25,3781.25
+3388,janvier 2024,173144778,Belkharres Abdelhak,25,3890.66
+3388,février 2024,173144778,Belkharres Abdelhak,25,3851.34
+3388,mars 2024,173144778,Belkharres Abdelhak,25,3787.52
+3388,avril 2024,173144778,Belkharres Abdelhak,25,3748.51
+3388,mai 2024,173144778,Belkharres Abdelhak,25,3905.02
+3388,juin 2024,173144778,Belkharres Abdelhak,25,3848.41
+3388,juillet 2024,173144778,Belkharres Abdelhak,25,3859.5
+3388,août 2024,173144778,Belkharres Abdelhak,25,3965.82
+3388,septembre 2024,173144778,Belkharres Abdelhak,25,4085.46
+3388,octobre 2024,173144778,Belkharres Abdelhak,25,4057.8
+3388,novembre 2024,173144778,Belkharres Abdelhak,25,4254.2
+3388,décembre 2024,173144778,Belkharres Abdelhak,25,4234.35
+3388,décembre 2023,173190771,Ait Alla Hamid,26,5635.0
+3388,janvier 2024,173190771,Ait Alla Hamid,26,5631.05
+3388,février 2024,173190771,Ait Alla Hamid,26,5466.27
+3388,mars 2024,173190771,Ait Alla Hamid,26,5629.72
+3388,avril 2024,173190771,Ait Alla Hamid,26,5882.92
+3388,mai 2024,173190771,Ait Alla Hamid,26,5747.6
+3388,juin 2024,173190771,Ait Alla Hamid,26,6034.49
+3388,juillet 2024,173190771,Ait Alla Hamid,26,6072.32
+3388,août 2024,173190771,Ait Alla Hamid,26,6173.4
+3388,septembre 2024,173190771,Ait Alla Hamid,26,6067.68
+3388,octobre 2024,173190771,Ait Alla Hamid,26,6289.96
+3388,novembre 2024,173190771,Ait Alla Hamid,26,6266.5
+3388,décembre 2024,173190771,Ait Alla Hamid,26,6512.23
+3388,décembre 2023,174008229,El Bahlouli Abdelaali,23,3566.77
+3388,janvier 2024,174008229,El Bahlouli Abdelaali,23,3721.93
+3388,février 2024,174008229,El Bahlouli Abdelaali,23,3827.51
+3388,mars 2024,174008229,El Bahlouli Abdelaali,23,3861.64
+3388,avril 2024,174008229,El Bahlouli Abdelaali,23,3832.14
+3388,mai 2024,174008229,El Bahlouli Abdelaali,23,3849.57
+3388,juin 2024,174008229,El Bahlouli Abdelaali,23,4023.78
+3388,juillet 2024,174008229,El Bahlouli Abdelaali,23,3937.99
+3388,août 2024,174008229,El Bahlouli Abdelaali,23,4014.81
+3388,septembre 2024,174008229,El Bahlouli Abdelaali,23,4046.76
+3388,octobre 2024,174008229,El Bahlouli Abdelaali,23,4173.37
+3388,novembre 2024,174008229,El Bahlouli Abdelaali,23,4352.75
+3388,décembre 2024,174008229,El Bahlouli Abdelaali,23,4462.71
+3388,décembre 2023,175336878,Ouazzani Younes,26,25760.01
+3388,janvier 2024,175336878,Ouazzani Younes,26,26232.7
+3388,février 2024,175336878,Ouazzani Younes,26,27369.5
+3388,mars 2024,175336878,Ouazzani Younes,26,28072.09
+3388,avril 2024,175336878,Ouazzani Younes,26,27531.73
+3388,mai 2024,175336878,Ouazzani Younes,26,28825.23
+3388,juin 2024,175336878,Ouazzani Younes,26,29216.34
+3388,juillet 2024,175336878,Ouazzani Younes,26,30330.3
+3388,août 2024,175336878,Ouazzani Younes,26,29896.02
+3388,septembre 2024,175336878,Ouazzani Younes,26,30582.87
+3388,octobre 2024,175336878,Ouazzani Younes,26,30833.96
+3388,novembre 2024,175336878,Ouazzani Younes,26,32245.51
+3388,décembre 2024,175336878,Ouazzani Younes,26,33534.72
+3388,décembre 2023,179274967,Bourbouh Karima,26,7837.51
+3388,janvier 2024,179274967,Bourbouh Karima,26,7975.11
+3388,février 2024,179274967,Bourbouh Karima,26,8035.18
+3388,mars 2024,179274967,Bourbouh Karima,26,8308.59
+3388,avril 2024,179274967,Bourbouh Karima,26,8392.31
+3388,mai 2024,179274967,Bourbouh Karima,26,8692.01
+3388,juin 2024,179274967,Bourbouh Karima,26,8592.52
+3388,juillet 2024,179274967,Bourbouh Karima,26,8632.68
+3388,août 2024,179274967,Bourbouh Karima,26,8991.11
+3388,septembre 2024,179274967,Bourbouh Karima,26,9050.13
+3388,octobre 2024,179274967,Bourbouh Karima,26,8847.63
+3388,novembre 2024,179274967,Bourbouh Karima,26,8876.56
+3388,décembre 2024,179274967,Bourbouh Karima,26,8616.82
+3388,décembre 2023,180217170,Debagh Abdellah,21,2968.27
+3388,janvier 2024,180217170,Debagh Abdellah,21,3039.54
+3388,février 2024,180217170,Debagh Abdellah,21,3142.2
+3388,mars 2024,180217170,Debagh Abdellah,21,3062.37
+3388,avril 2024,180217170,Debagh Abdellah,21,3152.37
+3388,mai 2024,180217170,Debagh Abdellah,21,3107.59
+3388,juin 2024,180217170,Debagh Abdellah,21,3030.6
+3388,juillet 2024,180217170,Debagh Abdellah,21,2962.12
+3388,août 2024,180217170,Debagh Abdellah,21,3036.85
+3388,septembre 2024,180217170,Debagh Abdellah,21,3009.08
+3388,octobre 2024,180217170,Debagh Abdellah,21,3032.7
+3388,novembre 2024,180217170,Debagh Abdellah,21,2997.08
+3388,décembre 2024,180217170,Debagh Abdellah,21,3136.75
+3388,décembre 2023,182623843,Aoud Abdelghani,26,3576.44
+3388,janvier 2024,182623843,Aoud Abdelghani,26,3476.7
+3388,février 2024,182623843,Aoud Abdelghani,26,3567.81
+3388,mars 2024,182623843,Aoud Abdelghani,26,3583.87
+3388,avril 2024,182623843,Aoud Abdelghani,26,3508.52
+3388,mai 2024,182623843,Aoud Abdelghani,26,3623.78
+3388,juin 2024,182623843,Aoud Abdelghani,26,3660.85
+3388,juillet 2024,182623843,Aoud Abdelghani,26,3842.67
+3388,août 2024,182623843,Aoud Abdelghani,26,3851.55
+3388,septembre 2024,182623843,Aoud Abdelghani,26,4005.45
+3388,octobre 2024,182623843,Aoud Abdelghani,26,4022.71
+3388,novembre 2024,182623843,Aoud Abdelghani,26,4222.46
+3388,décembre 2024,182623843,Aoud Abdelghani,26,4372.31
+3388,décembre 2023,189175858,El Barghali Rabii,26,3250.0
+3388,janvier 2024,189175858,El Barghali Rabii,26,3402.96
+3388,février 2024,189175858,El Barghali Rabii,26,3356.58
+3388,mars 2024,189175858,El Barghali Rabii,26,3476.83
+3388,avril 2024,189175858,El Barghali Rabii,26,3542.39
+3388,mai 2024,189175858,El Barghali Rabii,26,3585.32
+3388,juin 2024,189175858,El Barghali Rabii,26,3485.06
+3388,juillet 2024,189175858,El Barghali Rabii,26,3389.47
+3388,août 2024,189175858,El Barghali Rabii,26,3505.93
+3388,septembre 2024,189175858,El Barghali Rabii,26,3680.09
+3388,octobre 2024,189175858,El Barghali Rabii,26,3584.31
+3388,novembre 2024,189175858,El Barghali Rabii,26,3640.84
+3388,décembre 2024,189175858,El Barghali Rabii,26,3536.98
+3388,décembre 2023,190243924,Antra Abdelaziz,23,2925.0
+3388,janvier 2024,190243924,Antra Abdelaziz,23,2941.35
+3388,février 2024,190243924,Antra Abdelaziz,23,3059.19
+3388,mars 2024,190243924,Antra Abdelaziz,23,3192.47
+3388,avril 2024,190243924,Antra Abdelaziz,23,3258.25
+3388,mai 2024,190243924,Antra Abdelaziz,23,3294.19
+3388,juin 2024,190243924,Antra Abdelaziz,23,3362.5
+3388,juillet 2024,190243924,Antra Abdelaziz,23,3494.15
+3388,août 2024,190243924,Antra Abdelaziz,23,3665.98
+3388,septembre 2024,190243924,Antra Abdelaziz,23,3628.67
+3388,octobre 2024,190243924,Antra Abdelaziz,23,3660.53
+3388,novembre 2024,190243924,Antra Abdelaziz,23,3835.43
+3388,décembre 2024,190243924,Antra Abdelaziz,23,3814.47
+3388,décembre 2023,190245029,Fert Zakaria,16,2196.93
+3388,janvier 2024,190245029,Fert Zakaria,16,2131.04
+3388,février 2024,190245029,Fert Zakaria,16,2180.75
+3388,mars 2024,190245029,Fert Zakaria,16,2191.11
+3388,avril 2024,190245029,Fert Zakaria,16,2285.26
+3388,mai 2024,190245029,Fert Zakaria,16,2317.46
+3388,juin 2024,190245029,Fert Zakaria,16,2414.1
+3388,juillet 2024,190245029,Fert Zakaria,16,2530.59
+3388,août 2024,190245029,Fert Zakaria,16,2468.38
+3388,septembre 2024,190245029,Fert Zakaria,16,2487.22
+3388,octobre 2024,190245029,Fert Zakaria,16,2470.78
+3388,novembre 2024,190245029,Fert Zakaria,16,2516.53
+3388,décembre 2024,190245029,Fert Zakaria,16,2595.18
+3388,décembre 2023,192157869,El Battach Ahmed,10,2106.92
+3388,janvier 2024,192157869,El Battach Ahmed,10,2092.04
+3388,février 2024,192157869,El Battach Ahmed,10,2182.2
+3388,mars 2024,192157869,El Battach Ahmed,10,2177.77
+3388,avril 2024,192157869,El Battach Ahmed,10,2157.38
+3388,mai 2024,192157869,El Battach Ahmed,10,2132.8
+3388,juin 2024,192157869,El Battach Ahmed,10,2189.5
+3388,juillet 2024,192157869,El Battach Ahmed,10,2290.24
+3388,août 2024,192157869,El Battach Ahmed,10,2269.28
+3388,septembre 2024,192157869,El Battach Ahmed,10,2292.95
+3388,octobre 2024,192157869,El Battach Ahmed,10,2260.39
+3388,novembre 2024,192157869,El Battach Ahmed,10,2237.41
+3388,décembre 2024,192157869,El Battach Ahmed,10,2190.09
+3388,décembre 2023,195045309,Mkalaai Mustapha,24,4342.5
+3388,janvier 2024,195045309,Mkalaai Mustapha,24,4538.09
+3388,février 2024,195045309,Mkalaai Mustapha,24,4495.83
+3388,mars 2024,195045309,Mkalaai Mustapha,24,4533.57
+3388,avril 2024,195045309,Mkalaai Mustapha,24,4646.13
+3388,mai 2024,195045309,Mkalaai Mustapha,24,4664.0
+3388,juin 2024,195045309,Mkalaai Mustapha,24,4541.38
+3388,juillet 2024,195045309,Mkalaai Mustapha,24,4601.97
+3388,août 2024,195045309,Mkalaai Mustapha,24,4524.81
+3388,septembre 2024,195045309,Mkalaai Mustapha,24,4639.62
+3388,octobre 2024,195045309,Mkalaai Mustapha,24,4661.63
+3388,novembre 2024,195045309,Mkalaai Mustapha,24,4855.71
+3388,décembre 2024,195045309,Mkalaai Mustapha,24,5092.34
+3388,décembre 2023,195896951,Oulamine Ahmed,25,3649.03
+3388,janvier 2024,195896951,Oulamine Ahmed,25,3611.44
+3388,février 2024,195896951,Oulamine Ahmed,25,3558.57
+3388,mars 2024,195896951,Oulamine Ahmed,25,3664.12
+3388,avril 2024,195896951,Oulamine Ahmed,25,3644.51
+3388,mai 2024,195896951,Oulamine Ahmed,25,3763.72
+3388,juin 2024,195896951,Oulamine Ahmed,25,3677.05
+3388,juillet 2024,195896951,Oulamine Ahmed,25,3851.72
+3388,août 2024,195896951,Oulamine Ahmed,25,4033.54
+3388,septembre 2024,195896951,Oulamine Ahmed,25,4213.86
+3388,octobre 2024,195896951,Oulamine Ahmed,25,4165.45
+3388,novembre 2024,195896951,Oulamine Ahmed,25,4347.54
+3388,décembre 2024,195896951,Oulamine Ahmed,25,4369.48
+3388,décembre 2023,196247942,Marhoub Mohamed,26,3900.0
+3388,janvier 2024,196247942,Marhoub Mohamed,26,3930.31
+3388,février 2024,196247942,Marhoub Mohamed,26,4011.53
+3388,mars 2024,196247942,Marhoub Mohamed,26,4032.44
+3388,avril 2024,196247942,Marhoub Mohamed,26,3975.29
+3388,mai 2024,196247942,Marhoub Mohamed,26,4132.01
+3388,juin 2024,196247942,Marhoub Mohamed,26,4009.17
+3388,juillet 2024,196247942,Marhoub Mohamed,26,3981.6
+3388,août 2024,196247942,Marhoub Mohamed,26,3956.94
+3388,septembre 2024,196247942,Marhoub Mohamed,26,4142.04
+3388,octobre 2024,196247942,Marhoub Mohamed,26,4213.78
+3388,novembre 2024,196247942,Marhoub Mohamed,26,4226.13
+3388,décembre 2024,196247942,Marhoub Mohamed,26,4276.13
+3388,décembre 2023,196390754,Jalal Mohamed,26,3885.01
+3388,janvier 2024,196390754,Jalal Mohamed,26,4059.55
+3388,février 2024,196390754,Jalal Mohamed,26,4218.67
+3388,mars 2024,196390754,Jalal Mohamed,26,4352.37
+3388,avril 2024,196390754,Jalal Mohamed,26,4449.35
+3388,mai 2024,196390754,Jalal Mohamed,26,4381.48
+3388,juin 2024,196390754,Jalal Mohamed,26,4565.84
+3388,juillet 2024,196390754,Jalal Mohamed,26,4623.93
+3388,août 2024,196390754,Jalal Mohamed,26,4593.33
+3388,septembre 2024,196390754,Jalal Mohamed,26,4628.35
+3388,octobre 2024,196390754,Jalal Mohamed,26,4651.11
+3388,novembre 2024,196390754,Jalal Mohamed,26,4795.87
+3388,décembre 2024,196390754,Jalal Mohamed,26,4947.91
+3388,décembre 2023,199844890,Farah Abdelfattah,26,3900.0
+3388,janvier 2024,199844890,Farah Abdelfattah,26,3812.42
+3388,février 2024,199844890,Farah Abdelfattah,26,3816.14
+3388,mars 2024,199844890,Farah Abdelfattah,26,3782.49
+3388,avril 2024,199844890,Farah Abdelfattah,26,3767.62
+3388,mai 2024,199844890,Farah Abdelfattah,26,3810.6
+3388,juin 2024,199844890,Farah Abdelfattah,26,3700.36
+3388,juillet 2024,199844890,Farah Abdelfattah,26,3694.94
+3388,août 2024,199844890,Farah Abdelfattah,26,3831.92
+3388,septembre 2024,199844890,Farah Abdelfattah,26,3901.42
+3388,octobre 2024,199844890,Farah Abdelfattah,26,3934.58
+3388,novembre 2024,199844890,Farah Abdelfattah,26,3863.23
+3388,décembre 2024,199844890,Farah Abdelfattah,26,3925.29
+3388,décembre 2023,928388520,Fawzi Hicham,26,3657.5
+3388,janvier 2024,928388520,Fawzi Hicham,26,3826.88
+3388,février 2024,928388520,Fawzi Hicham,26,3752.89
+3388,mars 2024,928388520,Fawzi Hicham,26,3784.25
+3388,avril 2024,928388520,Fawzi Hicham,26,3725.65
+3388,mai 2024,928388520,Fawzi Hicham,26,3785.28
+3388,juin 2024,928388520,Fawzi Hicham,26,3762.24
+3388,juillet 2024,928388520,Fawzi Hicham,26,3947.1
+3388,août 2024,928388520,Fawzi Hicham,26,4094.32
+3388,septembre 2024,928388520,Fawzi Hicham,26,3996.21
+3388,octobre 2024,928388520,Fawzi Hicham,26,3971.35
+3388,novembre 2024,928388520,Fawzi Hicham,26,4008.13
+3388,décembre 2024,928388520,Fawzi Hicham,26,4161.69

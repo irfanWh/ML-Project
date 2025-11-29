@@ -1,0 +1,677 @@
+ID_adherent,month,immatriculationNumber,full_name,nombre_jours,salaire
+52015,décembre 2023,100162785,Hamima Lahbib,26,5017.46
+52015,janvier 2024,100162785,Hamima Lahbib,26,4993.13
+52015,février 2024,100162785,Hamima Lahbib,26,5067.43
+52015,mars 2024,100162785,Hamima Lahbib,26,4947.45
+52015,avril 2024,100162785,Hamima Lahbib,26,4841.39
+52015,mai 2024,100162785,Hamima Lahbib,26,5049.95
+52015,juin 2024,100162785,Hamima Lahbib,26,5174.5
+52015,juillet 2024,100162785,Hamima Lahbib,26,5257.8
+52015,août 2024,100162785,Hamima Lahbib,26,5350.66
+52015,septembre 2024,100162785,Hamima Lahbib,26,5282.67
+52015,octobre 2024,100162785,Hamima Lahbib,26,5260.25
+52015,novembre 2024,100162785,Hamima Lahbib,26,5177.75
+52015,décembre 2024,100162785,Hamima Lahbib,26,5296.54
+52015,décembre 2023,100234287,Boulkich Abdelaziz,25,4818.88
+52015,janvier 2024,100234287,Boulkich Abdelaziz,25,4891.35
+52015,février 2024,100234287,Boulkich Abdelaziz,25,5077.48
+52015,mars 2024,100234287,Boulkich Abdelaziz,25,5130.94
+52015,avril 2024,100234287,Boulkich Abdelaziz,25,5162.76
+52015,mai 2024,100234287,Boulkich Abdelaziz,25,5138.08
+52015,juin 2024,100234287,Boulkich Abdelaziz,25,5239.66
+52015,juillet 2024,100234287,Boulkich Abdelaziz,25,5305.31
+52015,août 2024,100234287,Boulkich Abdelaziz,25,5441.79
+52015,septembre 2024,100234287,Boulkich Abdelaziz,25,5448.78
+52015,octobre 2024,100234287,Boulkich Abdelaziz,25,5605.08
+52015,novembre 2024,100234287,Boulkich Abdelaziz,25,5820.06
+52015,décembre 2024,100234287,Boulkich Abdelaziz,25,5718.14
+52015,décembre 2023,100283680,Boujadiguene My Lahcen,26,5030.93
+52015,janvier 2024,100283680,Boujadiguene My Lahcen,26,5056.61
+52015,février 2024,100283680,Boujadiguene My Lahcen,26,5202.66
+52015,mars 2024,100283680,Boujadiguene My Lahcen,26,5116.49
+52015,avril 2024,100283680,Boujadiguene My Lahcen,26,5281.87
+52015,mai 2024,100283680,Boujadiguene My Lahcen,26,5388.91
+52015,juin 2024,100283680,Boujadiguene My Lahcen,26,5586.32
+52015,juillet 2024,100283680,Boujadiguene My Lahcen,26,5435.91
+52015,août 2024,100283680,Boujadiguene My Lahcen,26,5628.76
+52015,septembre 2024,100283680,Boujadiguene My Lahcen,26,5547.55
+52015,octobre 2024,100283680,Boujadiguene My Lahcen,26,5432.85
+52015,novembre 2024,100283680,Boujadiguene My Lahcen,26,5299.62
+52015,décembre 2024,100283680,Boujadiguene My Lahcen,26,5268.26
+52015,décembre 2023,101025966,Ait Abdella Abderrahim,25,4818.88
+52015,janvier 2024,101025966,Ait Abdella Abderrahim,25,4988.32
+52015,février 2024,101025966,Ait Abdella Abderrahim,25,5012.23
+52015,mars 2024,101025966,Ait Abdella Abderrahim,25,5091.81
+52015,avril 2024,101025966,Ait Abdella Abderrahim,25,5238.66
+52015,mai 2024,101025966,Ait Abdella Abderrahim,25,5497.64
+52015,juin 2024,101025966,Ait Abdella Abderrahim,25,5597.49
+52015,juillet 2024,101025966,Ait Abdella Abderrahim,25,5599.06
+52015,août 2024,101025966,Ait Abdella Abderrahim,25,5850.74
+52015,septembre 2024,101025966,Ait Abdella Abderrahim,25,6088.35
+52015,octobre 2024,101025966,Ait Abdella Abderrahim,25,6151.45
+52015,novembre 2024,101025966,Ait Abdella Abderrahim,25,6435.77
+52015,décembre 2024,101025966,Ait Abdella Abderrahim,25,6428.83
+52015,décembre 2023,106659303,Idahmad Hicham,26,4863.2
+52015,janvier 2024,106659303,Idahmad Hicham,26,4974.62
+52015,février 2024,106659303,Idahmad Hicham,26,5179.6
+52015,mars 2024,106659303,Idahmad Hicham,26,5163.11
+52015,avril 2024,106659303,Idahmad Hicham,26,5371.05
+52015,mai 2024,106659303,Idahmad Hicham,26,5540.8
+52015,juin 2024,106659303,Idahmad Hicham,26,5593.11
+52015,juillet 2024,106659303,Idahmad Hicham,26,5687.67
+52015,août 2024,106659303,Idahmad Hicham,26,5527.32
+52015,septembre 2024,106659303,Idahmad Hicham,26,5470.81
+52015,octobre 2024,106659303,Idahmad Hicham,26,5645.11
+52015,novembre 2024,106659303,Idahmad Hicham,26,5574.16
+52015,décembre 2024,106659303,Idahmad Hicham,26,5601.94
+52015,décembre 2023,106805066,El Joughirt Abdelaziz,19,3853.92
+52015,janvier 2024,106805066,El Joughirt Abdelaziz,19,3762.57
+52015,février 2024,106805066,El Joughirt Abdelaziz,19,3925.16
+52015,mars 2024,106805066,El Joughirt Abdelaziz,19,3950.89
+52015,avril 2024,106805066,El Joughirt Abdelaziz,19,3881.51
+52015,mai 2024,106805066,El Joughirt Abdelaziz,19,4042.14
+52015,juin 2024,106805066,El Joughirt Abdelaziz,19,4092.37
+52015,juillet 2024,106805066,El Joughirt Abdelaziz,19,4052.17
+52015,août 2024,106805066,El Joughirt Abdelaziz,19,4031.11
+52015,septembre 2024,106805066,El Joughirt Abdelaziz,19,4093.21
+52015,octobre 2024,106805066,El Joughirt Abdelaziz,19,4215.1
+52015,novembre 2024,106805066,El Joughirt Abdelaziz,19,4263.07
+52015,décembre 2024,106805066,El Joughirt Abdelaziz,19,4160.98
+52015,décembre 2023,107806469,Boughayou Ahmed,25,4818.88
+52015,janvier 2024,107806469,Boughayou Ahmed,25,4718.96
+52015,février 2024,107806469,Boughayou Ahmed,25,4835.49
+52015,mars 2024,107806469,Boughayou Ahmed,25,4987.36
+52015,avril 2024,107806469,Boughayou Ahmed,25,4838.79
+52015,mai 2024,107806469,Boughayou Ahmed,25,4938.55
+52015,juin 2024,107806469,Boughayou Ahmed,25,4888.33
+52015,juillet 2024,107806469,Boughayou Ahmed,25,5097.97
+52015,août 2024,107806469,Boughayou Ahmed,25,5112.7
+52015,septembre 2024,107806469,Boughayou Ahmed,25,4996.07
+52015,octobre 2024,107806469,Boughayou Ahmed,25,4847.33
+52015,novembre 2024,107806469,Boughayou Ahmed,25,4783.1
+52015,décembre 2024,107806469,Boughayou Ahmed,25,4801.47
+52015,décembre 2023,109832488,Ait Errai Khalid,25,4818.88
+52015,janvier 2024,109832488,Ait Errai Khalid,25,4853.18
+52015,février 2024,109832488,Ait Errai Khalid,25,5069.28
+52015,mars 2024,109832488,Ait Errai Khalid,25,5269.11
+52015,avril 2024,109832488,Ait Errai Khalid,25,5243.08
+52015,mai 2024,109832488,Ait Errai Khalid,25,5180.71
+52015,juin 2024,109832488,Ait Errai Khalid,25,5295.93
+52015,juillet 2024,109832488,Ait Errai Khalid,25,5286.35
+52015,août 2024,109832488,Ait Errai Khalid,25,5128.34
+52015,septembre 2024,109832488,Ait Errai Khalid,25,5043.51
+52015,octobre 2024,109832488,Ait Errai Khalid,25,5158.07
+52015,novembre 2024,109832488,Ait Errai Khalid,25,5205.29
+52015,décembre 2024,109832488,Ait Errai Khalid,25,5172.48
+52015,décembre 2023,111983451,Battas Sidi Mohamed,26,4802.04
+52015,janvier 2024,111983451,Battas Sidi Mohamed,26,4921.53
+52015,février 2024,111983451,Battas Sidi Mohamed,26,4861.56
+52015,mars 2024,111983451,Battas Sidi Mohamed,26,5090.83
+52015,avril 2024,111983451,Battas Sidi Mohamed,26,5328.09
+52015,mai 2024,111983451,Battas Sidi Mohamed,26,5296.76
+52015,juin 2024,111983451,Battas Sidi Mohamed,26,5503.29
+52015,juillet 2024,111983451,Battas Sidi Mohamed,26,5598.39
+52015,août 2024,111983451,Battas Sidi Mohamed,26,5506.96
+52015,septembre 2024,111983451,Battas Sidi Mohamed,26,5626.6
+52015,octobre 2024,111983451,Battas Sidi Mohamed,26,5510.58
+52015,novembre 2024,111983451,Battas Sidi Mohamed,26,5361.86
+52015,décembre 2024,111983451,Battas Sidi Mohamed,26,5439.8
+52015,décembre 2023,112341054,El Hiz Omar,25,4818.88
+52015,janvier 2024,112341054,El Hiz Omar,25,4960.75
+52015,février 2024,112341054,El Hiz Omar,25,4932.02
+52015,mars 2024,112341054,El Hiz Omar,25,4784.58
+52015,avril 2024,112341054,El Hiz Omar,25,4655.28
+52015,mai 2024,112341054,El Hiz Omar,25,4785.86
+52015,juin 2024,112341054,El Hiz Omar,25,5008.13
+52015,juillet 2024,112341054,El Hiz Omar,25,4990.69
+52015,août 2024,112341054,El Hiz Omar,25,5223.91
+52015,septembre 2024,112341054,El Hiz Omar,25,5175.4
+52015,octobre 2024,112341054,El Hiz Omar,25,5144.19
+52015,novembre 2024,112341054,El Hiz Omar,25,5016.27
+52015,décembre 2024,112341054,El Hiz Omar,25,5180.49
+52015,décembre 2023,112883676,Errai Faress,25,4818.88
+52015,janvier 2024,112883676,Errai Faress,25,4730.83
+52015,février 2024,112883676,Errai Faress,25,4906.47
+52015,mars 2024,112883676,Errai Faress,25,5145.86
+52015,avril 2024,112883676,Errai Faress,25,5343.23
+52015,mai 2024,112883676,Errai Faress,25,5469.69
+52015,juin 2024,112883676,Errai Faress,25,5700.19
+52015,juillet 2024,112883676,Errai Faress,25,5763.56
+52015,août 2024,112883676,Errai Faress,25,5887.96
+52015,septembre 2024,112883676,Errai Faress,25,5789.04
+52015,octobre 2024,112883676,Errai Faress,25,5873.81
+52015,novembre 2024,112883676,Errai Faress,25,5724.05
+52015,décembre 2024,112883676,Errai Faress,25,5648.93
+52015,décembre 2023,117026065,Essagure Omar,26,5530.93
+52015,janvier 2024,117026065,Essagure Omar,26,5468.17
+52015,février 2024,117026065,Essagure Omar,26,5564.35
+52015,mars 2024,117026065,Essagure Omar,26,5613.11
+52015,avril 2024,117026065,Essagure Omar,26,5472.93
+52015,mai 2024,117026065,Essagure Omar,26,5392.99
+52015,juin 2024,117026065,Essagure Omar,26,5560.14
+52015,juillet 2024,117026065,Essagure Omar,26,5467.07
+52015,août 2024,117026065,Essagure Omar,26,5721.09
+52015,septembre 2024,117026065,Essagure Omar,26,5907.64
+52015,octobre 2024,117026065,Essagure Omar,26,6075.84
+52015,novembre 2024,117026065,Essagure Omar,26,6248.6
+52015,décembre 2024,117026065,Essagure Omar,26,6221.86
+52015,décembre 2023,117953078,Fouta Moulid,26,5017.46
+52015,janvier 2024,117953078,Fouta Moulid,26,5236.55
+52015,février 2024,117953078,Fouta Moulid,26,5349.72
+52015,mars 2024,117953078,Fouta Moulid,26,5360.11
+52015,avril 2024,117953078,Fouta Moulid,26,5534.25
+52015,mai 2024,117953078,Fouta Moulid,26,5478.31
+52015,juin 2024,117953078,Fouta Moulid,26,5657.99
+52015,juillet 2024,117953078,Fouta Moulid,26,5690.14
+52015,août 2024,117953078,Fouta Moulid,26,5726.23
+52015,septembre 2024,117953078,Fouta Moulid,26,5861.83
+52015,octobre 2024,117953078,Fouta Moulid,26,6045.97
+52015,novembre 2024,117953078,Fouta Moulid,26,6272.79
+52015,décembre 2024,117953078,Fouta Moulid,26,6105.48
+52015,décembre 2023,118133075,Idfares Brahim,25,3499.28
+52015,janvier 2024,118133075,Idfares Brahim,25,3427.67
+52015,février 2024,118133075,Idfares Brahim,25,3366.44
+52015,mars 2024,118133075,Idfares Brahim,25,3409.19
+52015,avril 2024,118133075,Idfares Brahim,25,3453.37
+52015,mai 2024,118133075,Idfares Brahim,25,3492.06
+52015,juin 2024,118133075,Idfares Brahim,25,3394.8
+52015,juillet 2024,118133075,Idfares Brahim,25,3430.56
+52015,août 2024,118133075,Idfares Brahim,25,3469.18
+52015,septembre 2024,118133075,Idfares Brahim,25,3507.57
+52015,octobre 2024,118133075,Idfares Brahim,25,3649.0
+52015,novembre 2024,118133075,Idfares Brahim,25,3698.81
+52015,décembre 2024,118133075,Idfares Brahim,25,3832.33
+52015,décembre 2023,119698052,Kerroubasse Mohamad,26,4980.93
+52015,janvier 2024,119698052,Kerroubasse Mohamad,26,5065.94
+52015,février 2024,119698052,Kerroubasse Mohamad,26,5044.85
+52015,mars 2024,119698052,Kerroubasse Mohamad,26,4903.93
+52015,avril 2024,119698052,Kerroubasse Mohamad,26,4785.92
+52015,mai 2024,119698052,Kerroubasse Mohamad,26,4833.73
+52015,juin 2024,119698052,Kerroubasse Mohamad,26,5069.53
+52015,juillet 2024,119698052,Kerroubasse Mohamad,26,5043.9
+52015,août 2024,119698052,Kerroubasse Mohamad,26,5015.17
+52015,septembre 2024,119698052,Kerroubasse Mohamad,26,5086.4
+52015,octobre 2024,119698052,Kerroubasse Mohamad,26,5306.26
+52015,novembre 2024,119698052,Kerroubasse Mohamad,26,5182.1
+52015,décembre 2024,119698052,Kerroubasse Mohamad,26,5169.02
+52015,décembre 2023,120823603,Idlamine Abderrahim,25,4818.88
+52015,janvier 2024,120823603,Idlamine Abderrahim,25,4967.43
+52015,février 2024,120823603,Idlamine Abderrahim,25,4939.73
+52015,mars 2024,120823603,Idlamine Abderrahim,25,4854.79
+52015,avril 2024,120823603,Idlamine Abderrahim,25,4884.38
+52015,mai 2024,120823603,Idlamine Abderrahim,25,4990.1
+52015,juin 2024,120823603,Idlamine Abderrahim,25,5056.14
+52015,juillet 2024,120823603,Idlamine Abderrahim,25,5062.66
+52015,août 2024,120823603,Idlamine Abderrahim,25,4937.71
+52015,septembre 2024,120823603,Idlamine Abderrahim,25,4933.37
+52015,octobre 2024,120823603,Idlamine Abderrahim,25,5012.34
+52015,novembre 2024,120823603,Idlamine Abderrahim,25,5120.1
+52015,décembre 2024,120823603,Idlamine Abderrahim,25,4980.51
+52015,décembre 2023,120987767,Echninat Abdellatif,26,6430.93
+52015,janvier 2024,120987767,Echninat Abdellatif,26,6678.45
+52015,février 2024,120987767,Echninat Abdellatif,26,6671.26
+52015,mars 2024,120987767,Echninat Abdellatif,26,6858.79
+52015,avril 2024,120987767,Echninat Abdellatif,26,6782.44
+52015,mai 2024,120987767,Echninat Abdellatif,26,7078.6
+52015,juin 2024,120987767,Echninat Abdellatif,26,6890.08
+52015,juillet 2024,120987767,Echninat Abdellatif,26,6778.88
+52015,août 2024,120987767,Echninat Abdellatif,26,6681.09
+52015,septembre 2024,120987767,Echninat Abdellatif,26,6723.34
+52015,octobre 2024,120987767,Echninat Abdellatif,26,6915.78
+52015,novembre 2024,120987767,Echninat Abdellatif,26,6897.97
+52015,décembre 2024,120987767,Echninat Abdellatif,26,7004.63
+52015,décembre 2023,126007668,Ait Zzi Mohamed,25,4818.88
+52015,janvier 2024,126007668,Ait Zzi Mohamed,25,4833.38
+52015,février 2024,126007668,Ait Zzi Mohamed,25,4824.75
+52015,mars 2024,126007668,Ait Zzi Mohamed,25,4992.42
+52015,avril 2024,126007668,Ait Zzi Mohamed,25,5058.18
+52015,mai 2024,126007668,Ait Zzi Mohamed,25,4925.15
+52015,juin 2024,126007668,Ait Zzi Mohamed,25,5099.74
+52015,juillet 2024,126007668,Ait Zzi Mohamed,25,5265.49
+52015,août 2024,126007668,Ait Zzi Mohamed,25,5525.94
+52015,septembre 2024,126007668,Ait Zzi Mohamed,25,5747.1
+52015,octobre 2024,126007668,Ait Zzi Mohamed,25,5819.66
+52015,novembre 2024,126007668,Ait Zzi Mohamed,25,5849.66
+52015,décembre 2024,126007668,Ait Zzi Mohamed,25,5900.85
+52015,décembre 2023,126532020,Ouali Eddine Nihale,26,6000.0
+52015,janvier 2024,126532020,Ouali Eddine Nihale,26,5878.42
+52015,février 2024,126532020,Ouali Eddine Nihale,26,6042.17
+52015,mars 2024,126532020,Ouali Eddine Nihale,26,6026.51
+52015,avril 2024,126532020,Ouali Eddine Nihale,26,6133.2
+52015,mai 2024,126532020,Ouali Eddine Nihale,26,6143.15
+52015,juin 2024,126532020,Ouali Eddine Nihale,26,6309.1
+52015,juillet 2024,126532020,Ouali Eddine Nihale,26,6191.91
+52015,août 2024,126532020,Ouali Eddine Nihale,26,6007.93
+52015,septembre 2024,126532020,Ouali Eddine Nihale,26,6125.45
+52015,octobre 2024,126532020,Ouali Eddine Nihale,26,6429.23
+52015,novembre 2024,126532020,Ouali Eddine Nihale,26,6662.94
+52015,décembre 2024,126532020,Ouali Eddine Nihale,26,6914.65
+52015,décembre 2023,129552102,Idlamine Driss,25,4818.88
+52015,janvier 2024,129552102,Idlamine Driss,25,4978.07
+52015,février 2024,129552102,Idlamine Driss,25,4960.87
+52015,mars 2024,129552102,Idlamine Driss,25,4827.45
+52015,avril 2024,129552102,Idlamine Driss,25,4836.36
+52015,mai 2024,129552102,Idlamine Driss,25,5069.85
+52015,juin 2024,129552102,Idlamine Driss,25,5080.86
+52015,juillet 2024,129552102,Idlamine Driss,25,4932.01
+52015,août 2024,129552102,Idlamine Driss,25,4865.99
+52015,septembre 2024,129552102,Idlamine Driss,25,5085.31
+52015,octobre 2024,129552102,Idlamine Driss,25,5338.55
+52015,novembre 2024,129552102,Idlamine Driss,25,5550.13
+52015,décembre 2024,129552102,Idlamine Driss,25,5645.19
+52015,décembre 2023,131570783,Amaray Said,25,4818.88
+52015,janvier 2024,131570783,Amaray Said,25,4822.74
+52015,février 2024,131570783,Amaray Said,25,4816.59
+52015,mars 2024,131570783,Amaray Said,25,4882.63
+52015,avril 2024,131570783,Amaray Said,25,5015.38
+52015,mai 2024,131570783,Amaray Said,25,4945.56
+52015,juin 2024,131570783,Amaray Said,25,4899.09
+52015,juillet 2024,131570783,Amaray Said,25,4884.0
+52015,août 2024,131570783,Amaray Said,25,4809.1
+52015,septembre 2024,131570783,Amaray Said,25,4924.13
+52015,octobre 2024,131570783,Amaray Said,25,4823.34
+52015,novembre 2024,131570783,Amaray Said,25,4876.42
+52015,décembre 2024,131570783,Amaray Said,25,5102.39
+52015,décembre 2023,134483694,Ait Abdellah Hassan,26,4731.04
+52015,janvier 2024,134483694,Ait Abdellah Hassan,26,4914.53
+52015,février 2024,134483694,Ait Abdellah Hassan,26,4808.57
+52015,mars 2024,134483694,Ait Abdellah Hassan,26,4913.54
+52015,avril 2024,134483694,Ait Abdellah Hassan,26,4998.91
+52015,mai 2024,134483694,Ait Abdellah Hassan,26,4916.02
+52015,juin 2024,134483694,Ait Abdellah Hassan,26,5147.97
+52015,juillet 2024,134483694,Ait Abdellah Hassan,26,5301.46
+52015,août 2024,134483694,Ait Abdellah Hassan,26,5250.0
+52015,septembre 2024,134483694,Ait Abdellah Hassan,26,5109.9
+52015,octobre 2024,134483694,Ait Abdellah Hassan,26,5312.97
+52015,novembre 2024,134483694,Ait Abdellah Hassan,26,5418.11
+52015,décembre 2024,134483694,Ait Abdellah Hassan,26,5526.89
+52015,décembre 2023,134735079,Slitine Elmghari Mly Abdeljalil,26,6541.04
+52015,janvier 2024,134735079,Slitine Elmghari Mly Abdeljalil,26,6781.63
+52015,février 2024,134735079,Slitine Elmghari Mly Abdeljalil,26,7097.36
+52015,mars 2024,134735079,Slitine Elmghari Mly Abdeljalil,26,7236.14
+52015,avril 2024,134735079,Slitine Elmghari Mly Abdeljalil,26,7335.23
+52015,mai 2024,134735079,Slitine Elmghari Mly Abdeljalil,26,7242.48
+52015,juin 2024,134735079,Slitine Elmghari Mly Abdeljalil,26,7256.68
+52015,juillet 2024,134735079,Slitine Elmghari Mly Abdeljalil,26,7379.29
+52015,août 2024,134735079,Slitine Elmghari Mly Abdeljalil,26,7198.75
+52015,septembre 2024,134735079,Slitine Elmghari Mly Abdeljalil,26,7399.71
+52015,octobre 2024,134735079,Slitine Elmghari Mly Abdeljalil,26,7304.62
+52015,novembre 2024,134735079,Slitine Elmghari Mly Abdeljalil,26,7102.56
+52015,décembre 2024,134735079,Slitine Elmghari Mly Abdeljalil,26,7089.8
+52015,décembre 2023,135000202,Bazaoui Saliha,26,4532.35
+52015,janvier 2024,135000202,Bazaoui Saliha,26,4679.22
+52015,février 2024,135000202,Bazaoui Saliha,26,4852.39
+52015,mars 2024,135000202,Bazaoui Saliha,26,4791.16
+52015,avril 2024,135000202,Bazaoui Saliha,26,4784.96
+52015,mai 2024,135000202,Bazaoui Saliha,26,4673.56
+52015,juin 2024,135000202,Bazaoui Saliha,26,4549.67
+52015,juillet 2024,135000202,Bazaoui Saliha,26,4728.12
+52015,août 2024,135000202,Bazaoui Saliha,26,4892.27
+52015,septembre 2024,135000202,Bazaoui Saliha,26,4954.92
+52015,octobre 2024,135000202,Bazaoui Saliha,26,4978.35
+52015,novembre 2024,135000202,Bazaoui Saliha,26,5158.25
+52015,décembre 2024,135000202,Bazaoui Saliha,26,5291.77
+52015,décembre 2023,136148634,Hamima Abderrahmane,26,5330.93
+52015,janvier 2024,136148634,Hamima Abderrahmane,26,5265.26
+52015,février 2024,136148634,Hamima Abderrahmane,26,5396.14
+52015,mars 2024,136148634,Hamima Abderrahmane,26,5328.41
+52015,avril 2024,136148634,Hamima Abderrahmane,26,5425.47
+52015,mai 2024,136148634,Hamima Abderrahmane,26,5677.61
+52015,juin 2024,136148634,Hamima Abderrahmane,26,5650.07
+52015,juillet 2024,136148634,Hamima Abderrahmane,26,5666.52
+52015,août 2024,136148634,Hamima Abderrahmane,26,5942.46
+52015,septembre 2024,136148634,Hamima Abderrahmane,26,5799.26
+52015,octobre 2024,136148634,Hamima Abderrahmane,26,6084.84
+52015,novembre 2024,136148634,Hamima Abderrahmane,26,6237.67
+52015,décembre 2024,136148634,Hamima Abderrahmane,26,6199.95
+52015,décembre 2023,138346955,Id Faress Said,7,1832.0
+52015,janvier 2024,138346955,Id Faress Said,7,1778.45
+52015,février 2024,138346955,Id Faress Said,7,1799.69
+52015,mars 2024,138346955,Id Faress Said,7,1842.7
+52015,avril 2024,138346955,Id Faress Said,7,1908.73
+52015,mai 2024,138346955,Id Faress Said,7,1998.81
+52015,juin 2024,138346955,Id Faress Said,7,2093.56
+52015,juillet 2024,138346955,Id Faress Said,7,2042.38
+52015,août 2024,138346955,Id Faress Said,7,2069.29
+52015,septembre 2024,138346955,Id Faress Said,7,2142.21
+52015,octobre 2024,138346955,Id Faress Said,7,2130.65
+52015,novembre 2024,138346955,Id Faress Said,7,2195.53
+52015,décembre 2024,138346955,Id Faress Said,7,2265.83
+52015,décembre 2023,140879887,Mgharen Abdelaziz,25,4718.88
+52015,janvier 2024,140879887,Mgharen Abdelaziz,25,4827.69
+52015,février 2024,140879887,Mgharen Abdelaziz,25,4828.4
+52015,mars 2024,140879887,Mgharen Abdelaziz,25,4690.13
+52015,avril 2024,140879887,Mgharen Abdelaziz,25,4707.07
+52015,mai 2024,140879887,Mgharen Abdelaziz,25,4593.0
+52015,juin 2024,140879887,Mgharen Abdelaziz,25,4588.99
+52015,juillet 2024,140879887,Mgharen Abdelaziz,25,4556.06
+52015,août 2024,140879887,Mgharen Abdelaziz,25,4474.31
+52015,septembre 2024,140879887,Mgharen Abdelaziz,25,4585.15
+52015,octobre 2024,140879887,Mgharen Abdelaziz,25,4555.44
+52015,novembre 2024,140879887,Mgharen Abdelaziz,25,4718.09
+52015,décembre 2024,140879887,Mgharen Abdelaziz,25,4644.92
+52015,décembre 2023,140884282,Tachtoukt Moulay Hssaine,26,5080.93
+52015,janvier 2024,140884282,Tachtoukt Moulay Hssaine,26,5189.35
+52015,février 2024,140884282,Tachtoukt Moulay Hssaine,26,5210.29
+52015,mars 2024,140884282,Tachtoukt Moulay Hssaine,26,5065.46
+52015,avril 2024,140884282,Tachtoukt Moulay Hssaine,26,5078.54
+52015,mai 2024,140884282,Tachtoukt Moulay Hssaine,26,5069.76
+52015,juin 2024,140884282,Tachtoukt Moulay Hssaine,26,5066.06
+52015,juillet 2024,140884282,Tachtoukt Moulay Hssaine,26,5226.1
+52015,août 2024,140884282,Tachtoukt Moulay Hssaine,26,5327.39
+52015,septembre 2024,140884282,Tachtoukt Moulay Hssaine,26,5503.01
+52015,octobre 2024,140884282,Tachtoukt Moulay Hssaine,26,5528.75
+52015,novembre 2024,140884282,Tachtoukt Moulay Hssaine,26,5671.72
+52015,décembre 2024,140884282,Tachtoukt Moulay Hssaine,26,5801.94
+52015,décembre 2023,141542350,Battas Mohamed,25,4818.88
+52015,janvier 2024,141542350,Battas Mohamed,25,4960.06
+52015,février 2024,141542350,Battas Mohamed,25,4951.94
+52015,mars 2024,141542350,Battas Mohamed,25,4928.85
+52015,avril 2024,141542350,Battas Mohamed,25,4786.44
+52015,mai 2024,141542350,Battas Mohamed,25,4871.58
+52015,juin 2024,141542350,Battas Mohamed,25,4975.9
+52015,juillet 2024,141542350,Battas Mohamed,25,5015.56
+52015,août 2024,141542350,Battas Mohamed,25,5015.08
+52015,septembre 2024,141542350,Battas Mohamed,25,5100.61
+52015,octobre 2024,141542350,Battas Mohamed,25,5274.83
+52015,novembre 2024,141542350,Battas Mohamed,25,5492.69
+52015,décembre 2024,141542350,Battas Mohamed,25,5608.8
+52015,décembre 2023,147028156,Ait Braim Lahcen,26,4630.2
+52015,janvier 2024,147028156,Ait Braim Lahcen,26,4498.25
+52015,février 2024,147028156,Ait Braim Lahcen,26,4587.74
+52015,mars 2024,147028156,Ait Braim Lahcen,26,4488.77
+52015,avril 2024,147028156,Ait Braim Lahcen,26,4682.06
+52015,mai 2024,147028156,Ait Braim Lahcen,26,4626.23
+52015,juin 2024,147028156,Ait Braim Lahcen,26,4683.03
+52015,juillet 2024,147028156,Ait Braim Lahcen,26,4822.43
+52015,août 2024,147028156,Ait Braim Lahcen,26,4907.72
+52015,septembre 2024,147028156,Ait Braim Lahcen,26,4835.52
+52015,octobre 2024,147028156,Ait Braim Lahcen,26,4894.01
+52015,novembre 2024,147028156,Ait Braim Lahcen,26,4954.21
+52015,décembre 2024,147028156,Ait Braim Lahcen,26,4858.48
+52015,décembre 2023,147775682,Id M Hand Youssef,26,4999.04
+52015,janvier 2024,147775682,Id M Hand Youssef,26,5128.02
+52015,février 2024,147775682,Id M Hand Youssef,26,5134.1
+52015,mars 2024,147775682,Id M Hand Youssef,26,5129.64
+52015,avril 2024,147775682,Id M Hand Youssef,26,5033.52
+52015,mai 2024,147775682,Id M Hand Youssef,26,5145.67
+52015,juin 2024,147775682,Id M Hand Youssef,26,5344.38
+52015,juillet 2024,147775682,Id M Hand Youssef,26,5189.7
+52015,août 2024,147775682,Id M Hand Youssef,26,5118.92
+52015,septembre 2024,147775682,Id M Hand Youssef,26,5264.67
+52015,octobre 2024,147775682,Id M Hand Youssef,26,5179.55
+52015,novembre 2024,147775682,Id M Hand Youssef,26,5130.21
+52015,décembre 2024,147775682,Id M Hand Youssef,26,5069.64
+52015,décembre 2023,147776086,Ait Ezzi Said,22,4411.4
+52015,janvier 2024,147776086,Ait Ezzi Said,22,4531.61
+52015,février 2024,147776086,Ait Ezzi Said,22,4578.29
+52015,mars 2024,147776086,Ait Ezzi Said,22,4586.53
+52015,avril 2024,147776086,Ait Ezzi Said,22,4571.63
+52015,mai 2024,147776086,Ait Ezzi Said,22,4557.36
+52015,juin 2024,147776086,Ait Ezzi Said,22,4421.95
+52015,juillet 2024,147776086,Ait Ezzi Said,22,4420.62
+52015,août 2024,147776086,Ait Ezzi Said,22,4631.75
+52015,septembre 2024,147776086,Ait Ezzi Said,22,4515.32
+52015,octobre 2024,147776086,Ait Ezzi Said,22,4423.2
+52015,novembre 2024,147776086,Ait Ezzi Said,22,4398.24
+52015,décembre 2024,147776086,Ait Ezzi Said,22,4434.83
+52015,décembre 2023,147843273,Madbouhi Mustapha,25,4818.88
+52015,janvier 2024,147843273,Madbouhi Mustapha,25,4730.1
+52015,février 2024,147843273,Madbouhi Mustapha,25,4742.15
+52015,mars 2024,147843273,Madbouhi Mustapha,25,4686.43
+52015,avril 2024,147843273,Madbouhi Mustapha,25,4738.86
+52015,mai 2024,147843273,Madbouhi Mustapha,25,4957.45
+52015,juin 2024,147843273,Madbouhi Mustapha,25,4872.59
+52015,juillet 2024,147843273,Madbouhi Mustapha,25,4825.57
+52015,août 2024,147843273,Madbouhi Mustapha,25,4943.03
+52015,septembre 2024,147843273,Madbouhi Mustapha,25,5149.66
+52015,octobre 2024,147843273,Madbouhi Mustapha,25,5086.7
+52015,novembre 2024,147843273,Madbouhi Mustapha,25,5149.18
+52015,décembre 2024,147843273,Madbouhi Mustapha,25,5121.8
+52015,décembre 2023,149831870,Ait Moulay Mhand Moulay Ahmed,25,4818.88
+52015,janvier 2024,149831870,Ait Moulay Mhand Moulay Ahmed,25,4982.94
+52015,février 2024,149831870,Ait Moulay Mhand Moulay Ahmed,25,4837.05
+52015,mars 2024,149831870,Ait Moulay Mhand Moulay Ahmed,25,4769.58
+52015,avril 2024,149831870,Ait Moulay Mhand Moulay Ahmed,25,4780.98
+52015,mai 2024,149831870,Ait Moulay Mhand Moulay Ahmed,25,4645.4
+52015,juin 2024,149831870,Ait Moulay Mhand Moulay Ahmed,25,4609.49
+52015,juillet 2024,149831870,Ait Moulay Mhand Moulay Ahmed,25,4766.02
+52015,août 2024,149831870,Ait Moulay Mhand Moulay Ahmed,25,4753.29
+52015,septembre 2024,149831870,Ait Moulay Mhand Moulay Ahmed,25,4660.69
+52015,octobre 2024,149831870,Ait Moulay Mhand Moulay Ahmed,25,4727.55
+52015,novembre 2024,149831870,Ait Moulay Mhand Moulay Ahmed,25,4665.28
+52015,décembre 2024,149831870,Ait Moulay Mhand Moulay Ahmed,25,4785.51
+52015,décembre 2023,151076589,Id Ouahmane Driss,26,4799.04
+52015,janvier 2024,151076589,Id Ouahmane Driss,26,4810.83
+52015,février 2024,151076589,Id Ouahmane Driss,26,5020.63
+52015,mars 2024,151076589,Id Ouahmane Driss,26,5063.18
+52015,avril 2024,151076589,Id Ouahmane Driss,26,5087.23
+52015,mai 2024,151076589,Id Ouahmane Driss,26,5319.45
+52015,juin 2024,151076589,Id Ouahmane Driss,26,5238.31
+52015,juillet 2024,151076589,Id Ouahmane Driss,26,5112.8
+52015,août 2024,151076589,Id Ouahmane Driss,26,4987.51
+52015,septembre 2024,151076589,Id Ouahmane Driss,26,4926.29
+52015,octobre 2024,151076589,Id Ouahmane Driss,26,4860.94
+52015,novembre 2024,151076589,Id Ouahmane Driss,26,5027.37
+52015,décembre 2024,151076589,Id Ouahmane Driss,26,5071.14
+52015,décembre 2023,151142588,Tafkirt Omar,25,4714.88
+52015,janvier 2024,151142588,Tafkirt Omar,25,4886.18
+52015,février 2024,151142588,Tafkirt Omar,25,5066.37
+52015,mars 2024,151142588,Tafkirt Omar,25,5215.58
+52015,avril 2024,151142588,Tafkirt Omar,25,5292.96
+52015,mai 2024,151142588,Tafkirt Omar,25,5284.04
+52015,juin 2024,151142588,Tafkirt Omar,25,5188.95
+52015,juillet 2024,151142588,Tafkirt Omar,25,5095.65
+52015,août 2024,151142588,Tafkirt Omar,25,4971.28
+52015,septembre 2024,151142588,Tafkirt Omar,25,4982.14
+52015,octobre 2024,151142588,Tafkirt Omar,25,5174.47
+52015,novembre 2024,151142588,Tafkirt Omar,25,5314.01
+52015,décembre 2024,151142588,Tafkirt Omar,25,5272.86
+52015,décembre 2023,154899889,Ballouk Kamal,25,4818.88
+52015,janvier 2024,154899889,Ballouk Kamal,25,4800.63
+52015,février 2024,154899889,Ballouk Kamal,25,4756.24
+52015,mars 2024,154899889,Ballouk Kamal,25,4837.12
+52015,avril 2024,154899889,Ballouk Kamal,25,4834.22
+52015,mai 2024,154899889,Ballouk Kamal,25,4881.59
+52015,juin 2024,154899889,Ballouk Kamal,25,4827.14
+52015,juillet 2024,154899889,Ballouk Kamal,25,4704.01
+52015,août 2024,154899889,Ballouk Kamal,25,4752.98
+52015,septembre 2024,154899889,Ballouk Kamal,25,4892.25
+52015,octobre 2024,154899889,Ballouk Kamal,25,4747.79
+52015,novembre 2024,154899889,Ballouk Kamal,25,4621.41
+52015,décembre 2024,154899889,Ballouk Kamal,25,4699.24
+52015,décembre 2023,156998754,El Hiz Omar,26,4999.04
+52015,janvier 2024,156998754,El Hiz Omar,26,5173.35
+52015,février 2024,156998754,El Hiz Omar,26,5089.39
+52015,mars 2024,156998754,El Hiz Omar,26,5124.67
+52015,avril 2024,156998754,El Hiz Omar,26,5071.58
+52015,mai 2024,156998754,El Hiz Omar,26,4969.17
+52015,juin 2024,156998754,El Hiz Omar,26,5210.74
+52015,juillet 2024,156998754,El Hiz Omar,26,5060.14
+52015,août 2024,156998754,El Hiz Omar,26,5254.8
+52015,septembre 2024,156998754,El Hiz Omar,26,5190.72
+52015,octobre 2024,156998754,El Hiz Omar,26,5182.11
+52015,novembre 2024,156998754,El Hiz Omar,26,5248.38
+52015,décembre 2024,156998754,El Hiz Omar,26,5491.9
+52015,décembre 2023,157232458,Ait Mbarek Brahim,25,4768.88
+52015,janvier 2024,157232458,Ait Mbarek Brahim,25,4716.58
+52015,février 2024,157232458,Ait Mbarek Brahim,25,4839.09
+52015,mars 2024,157232458,Ait Mbarek Brahim,25,4701.84
+52015,avril 2024,157232458,Ait Mbarek Brahim,25,4616.92
+52015,mai 2024,157232458,Ait Mbarek Brahim,25,4495.16
+52015,juin 2024,157232458,Ait Mbarek Brahim,25,4667.53
+52015,juillet 2024,157232458,Ait Mbarek Brahim,25,4755.21
+52015,août 2024,157232458,Ait Mbarek Brahim,25,4838.77
+52015,septembre 2024,157232458,Ait Mbarek Brahim,25,4961.91
+52015,octobre 2024,157232458,Ait Mbarek Brahim,25,4995.61
+52015,novembre 2024,157232458,Ait Mbarek Brahim,25,4914.43
+52015,décembre 2024,157232458,Ait Mbarek Brahim,25,4997.24
+52015,décembre 2023,165233787,Myje Brahim,26,5030.93
+52015,janvier 2024,165233787,Myje Brahim,26,5274.95
+52015,février 2024,165233787,Myje Brahim,26,5529.56
+52015,mars 2024,165233787,Myje Brahim,26,5469.82
+52015,avril 2024,165233787,Myje Brahim,26,5692.08
+52015,mai 2024,165233787,Myje Brahim,26,5689.97
+52015,juin 2024,165233787,Myje Brahim,26,5968.75
+52015,juillet 2024,165233787,Myje Brahim,26,5820.68
+52015,août 2024,165233787,Myje Brahim,26,6059.62
+52015,septembre 2024,165233787,Myje Brahim,26,5964.48
+52015,octobre 2024,165233787,Myje Brahim,26,6140.82
+52015,novembre 2024,165233787,Myje Brahim,26,6164.6
+52015,décembre 2024,165233787,Myje Brahim,26,6377.58
+52015,décembre 2023,167448376,Ait Lachguer Ahmed,25,4818.88
+52015,janvier 2024,167448376,Ait Lachguer Ahmed,25,4746.82
+52015,février 2024,167448376,Ait Lachguer Ahmed,25,4770.07
+52015,mars 2024,167448376,Ait Lachguer Ahmed,25,4880.77
+52015,avril 2024,167448376,Ait Lachguer Ahmed,25,4834.49
+52015,mai 2024,167448376,Ait Lachguer Ahmed,25,4998.57
+52015,juin 2024,167448376,Ait Lachguer Ahmed,25,5049.23
+52015,juillet 2024,167448376,Ait Lachguer Ahmed,25,5225.12
+52015,août 2024,167448376,Ait Lachguer Ahmed,25,5146.56
+52015,septembre 2024,167448376,Ait Lachguer Ahmed,25,5015.53
+52015,octobre 2024,167448376,Ait Lachguer Ahmed,25,5041.39
+52015,novembre 2024,167448376,Ait Lachguer Ahmed,25,5154.13
+52015,décembre 2024,167448376,Ait Lachguer Ahmed,25,5118.03
+52015,décembre 2023,173567574,Zerrouk Abdelaziz,25,4818.88
+52015,janvier 2024,173567574,Zerrouk Abdelaziz,25,4855.76
+52015,février 2024,173567574,Zerrouk Abdelaziz,25,5007.04
+52015,mars 2024,173567574,Zerrouk Abdelaziz,25,4919.14
+52015,avril 2024,173567574,Zerrouk Abdelaziz,25,4881.59
+52015,mai 2024,173567574,Zerrouk Abdelaziz,25,5062.57
+52015,juin 2024,173567574,Zerrouk Abdelaziz,25,5138.62
+52015,juillet 2024,173567574,Zerrouk Abdelaziz,25,5028.89
+52015,août 2024,173567574,Zerrouk Abdelaziz,25,5019.27
+52015,septembre 2024,173567574,Zerrouk Abdelaziz,25,4988.84
+52015,octobre 2024,173567574,Zerrouk Abdelaziz,25,5172.8
+52015,novembre 2024,173567574,Zerrouk Abdelaziz,25,5237.94
+52015,décembre 2024,173567574,Zerrouk Abdelaziz,25,5211.83
+52015,décembre 2023,176013780,Jerrar Abdennacer,26,5630.93
+52015,janvier 2024,176013780,Jerrar Abdennacer,26,5683.98
+52015,février 2024,176013780,Jerrar Abdennacer,26,5863.42
+52015,mars 2024,176013780,Jerrar Abdennacer,26,5843.16
+52015,avril 2024,176013780,Jerrar Abdennacer,26,5684.55
+52015,mai 2024,176013780,Jerrar Abdennacer,26,5569.86
+52015,juin 2024,176013780,Jerrar Abdennacer,26,5615.57
+52015,juillet 2024,176013780,Jerrar Abdennacer,26,5537.87
+52015,août 2024,176013780,Jerrar Abdennacer,26,5508.72
+52015,septembre 2024,176013780,Jerrar Abdennacer,26,5553.23
+52015,octobre 2024,176013780,Jerrar Abdennacer,26,5814.37
+52015,novembre 2024,176013780,Jerrar Abdennacer,26,5874.37
+52015,décembre 2024,176013780,Jerrar Abdennacer,26,5867.94
+52015,décembre 2023,179167881,Sarhany Mohamed,26,5530.93
+52015,janvier 2024,179167881,Sarhany Mohamed,26,5585.83
+52015,février 2024,179167881,Sarhany Mohamed,26,5793.25
+52015,mars 2024,179167881,Sarhany Mohamed,26,5981.1
+52015,avril 2024,179167881,Sarhany Mohamed,26,6024.04
+52015,mai 2024,179167881,Sarhany Mohamed,26,5953.14
+52015,juin 2024,179167881,Sarhany Mohamed,26,5776.32
+52015,juillet 2024,179167881,Sarhany Mohamed,26,5840.58
+52015,août 2024,179167881,Sarhany Mohamed,26,5999.22
+52015,septembre 2024,179167881,Sarhany Mohamed,26,6209.59
+52015,octobre 2024,179167881,Sarhany Mohamed,26,6062.43
+52015,novembre 2024,179167881,Sarhany Mohamed,26,5930.62
+52015,décembre 2024,179167881,Sarhany Mohamed,26,5827.26
+52015,décembre 2023,180887056,Adnak Abdelkhalak,26,4704.06
+52015,janvier 2024,180887056,Adnak Abdelkhalak,26,4719.2
+52015,février 2024,180887056,Adnak Abdelkhalak,26,4618.75
+52015,mars 2024,180887056,Adnak Abdelkhalak,26,4615.61
+52015,avril 2024,180887056,Adnak Abdelkhalak,26,4807.09
+52015,mai 2024,180887056,Adnak Abdelkhalak,26,4819.89
+52015,juin 2024,180887056,Adnak Abdelkhalak,26,5005.74
+52015,juillet 2024,180887056,Adnak Abdelkhalak,26,4920.28
+52015,août 2024,180887056,Adnak Abdelkhalak,26,4918.41
+52015,septembre 2024,180887056,Adnak Abdelkhalak,26,4903.07
+52015,octobre 2024,180887056,Adnak Abdelkhalak,26,4947.32
+52015,novembre 2024,180887056,Adnak Abdelkhalak,26,4836.18
+52015,décembre 2024,180887056,Adnak Abdelkhalak,26,4896.45
+52015,décembre 2023,181992763,Laachir Said,26,4848.32
+52015,janvier 2024,181992763,Laachir Said,26,4998.94
+52015,février 2024,181992763,Laachir Said,26,4857.31
+52015,mars 2024,181992763,Laachir Said,26,5051.18
+52015,avril 2024,181992763,Laachir Said,26,5009.2
+52015,mai 2024,181992763,Laachir Said,26,5228.81
+52015,juin 2024,181992763,Laachir Said,26,5287.0
+52015,juillet 2024,181992763,Laachir Said,26,5174.23
+52015,août 2024,181992763,Laachir Said,26,5265.62
+52015,septembre 2024,181992763,Laachir Said,26,5144.1
+52015,octobre 2024,181992763,Laachir Said,26,5118.35
+52015,novembre 2024,181992763,Laachir Said,26,5218.24
+52015,décembre 2024,181992763,Laachir Said,26,5171.34
+52015,décembre 2023,182133085,Echchanini Mohamed,26,5330.93
+52015,janvier 2024,182133085,Echchanini Mohamed,26,5435.03
+52015,février 2024,182133085,Echchanini Mohamed,26,5365.32
+52015,mars 2024,182133085,Echchanini Mohamed,26,5492.8
+52015,avril 2024,182133085,Echchanini Mohamed,26,5461.68
+52015,mai 2024,182133085,Echchanini Mohamed,26,5355.21
+52015,juin 2024,182133085,Echchanini Mohamed,26,5586.75
+52015,juillet 2024,182133085,Echchanini Mohamed,26,5565.02
+52015,août 2024,182133085,Echchanini Mohamed,26,5585.44
+52015,septembre 2024,182133085,Echchanini Mohamed,26,5526.58
+52015,octobre 2024,182133085,Echchanini Mohamed,26,5607.51
+52015,novembre 2024,182133085,Echchanini Mohamed,26,5553.69
+52015,décembre 2024,182133085,Echchanini Mohamed,26,5829.93
+52015,décembre 2023,182172083,Boulajaj Mohamed,25,4768.88
+52015,janvier 2024,182172083,Boulajaj Mohamed,25,4904.55
+52015,février 2024,182172083,Boulajaj Mohamed,25,4982.39
+52015,mars 2024,182172083,Boulajaj Mohamed,25,5075.94
+52015,avril 2024,182172083,Boulajaj Mohamed,25,5299.93
+52015,mai 2024,182172083,Boulajaj Mohamed,25,5480.13
+52015,juin 2024,182172083,Boulajaj Mohamed,25,5651.51
+52015,juillet 2024,182172083,Boulajaj Mohamed,25,5655.36
+52015,août 2024,182172083,Boulajaj Mohamed,25,5870.12
+52015,septembre 2024,182172083,Boulajaj Mohamed,25,5854.6
+52015,octobre 2024,182172083,Boulajaj Mohamed,25,5723.91
+52015,novembre 2024,182172083,Boulajaj Mohamed,25,5577.43
+52015,décembre 2024,182172083,Boulajaj Mohamed,25,5497.86
+52015,décembre 2023,182657150,Tadlaoui Hassan,26,5331.64
+52015,janvier 2024,182657150,Tadlaoui Hassan,26,5388.67
+52015,février 2024,182657150,Tadlaoui Hassan,26,5474.96
+52015,mars 2024,182657150,Tadlaoui Hassan,26,5680.2
+52015,avril 2024,182657150,Tadlaoui Hassan,26,5933.63
+52015,mai 2024,182657150,Tadlaoui Hassan,26,5981.57
+52015,juin 2024,182657150,Tadlaoui Hassan,26,6126.9
+52015,juillet 2024,182657150,Tadlaoui Hassan,26,6067.54
+52015,août 2024,182657150,Tadlaoui Hassan,26,5917.52
+52015,septembre 2024,182657150,Tadlaoui Hassan,26,5836.97
+52015,octobre 2024,182657150,Tadlaoui Hassan,26,6050.33
+52015,novembre 2024,182657150,Tadlaoui Hassan,26,6113.46
+52015,décembre 2024,182657150,Tadlaoui Hassan,26,6039.75
+52015,décembre 2023,185906182,Ben Hmama Abdelaziz,26,6948.32
+52015,janvier 2024,185906182,Ben Hmama Abdelaziz,26,7189.25
+52015,février 2024,185906182,Ben Hmama Abdelaziz,26,7366.64
+52015,mars 2024,185906182,Ben Hmama Abdelaziz,26,7222.74
+52015,avril 2024,185906182,Ben Hmama Abdelaziz,26,7408.43
+52015,mai 2024,185906182,Ben Hmama Abdelaziz,26,7426.51
+52015,juin 2024,185906182,Ben Hmama Abdelaziz,26,7359.27
+52015,juillet 2024,185906182,Ben Hmama Abdelaziz,26,7160.89
+52015,août 2024,185906182,Ben Hmama Abdelaziz,26,7494.86
+52015,septembre 2024,185906182,Ben Hmama Abdelaziz,26,7555.64
+52015,octobre 2024,185906182,Ben Hmama Abdelaziz,26,7688.82
+52015,novembre 2024,185906182,Ben Hmama Abdelaziz,26,7686.92
+52015,décembre 2024,185906182,Ben Hmama Abdelaziz,26,7492.07
+52015,décembre 2023,186108266,Echchanini Said,26,5330.93
+52015,janvier 2024,186108266,Echchanini Said,26,5250.89
+52015,février 2024,186108266,Echchanini Said,26,5247.35
+52015,mars 2024,186108266,Echchanini Said,26,5454.3
+52015,avril 2024,186108266,Echchanini Said,26,5583.63
+52015,mai 2024,186108266,Echchanini Said,26,5648.9
+52015,juin 2024,186108266,Echchanini Said,26,5904.89
+52015,juillet 2024,186108266,Echchanini Said,26,5967.57
+52015,août 2024,186108266,Echchanini Said,26,6209.32
+52015,septembre 2024,186108266,Echchanini Said,26,6270.15
+52015,octobre 2024,186108266,Echchanini Said,26,6412.21
+52015,novembre 2024,186108266,Echchanini Said,26,6433.13
+52015,décembre 2024,186108266,Echchanini Said,26,6253.03
+52015,décembre 2023,188316594,Karam Fatima Zahra,25,4168.88
+52015,janvier 2024,188316594,Karam Fatima Zahra,25,4080.19
+52015,février 2024,188316594,Karam Fatima Zahra,25,4124.74
+52015,mars 2024,188316594,Karam Fatima Zahra,25,4060.53
+52015,avril 2024,188316594,Karam Fatima Zahra,25,4081.38
+52015,mai 2024,188316594,Karam Fatima Zahra,25,4262.55
+52015,juin 2024,188316594,Karam Fatima Zahra,25,4318.09
+52015,juillet 2024,188316594,Karam Fatima Zahra,25,4235.99
+52015,août 2024,188316594,Karam Fatima Zahra,25,4187.98
+52015,septembre 2024,188316594,Karam Fatima Zahra,25,4112.81
+52015,octobre 2024,188316594,Karam Fatima Zahra,25,4117.0
+52015,novembre 2024,188316594,Karam Fatima Zahra,25,4028.28
+52015,décembre 2024,188316594,Karam Fatima Zahra,25,4098.02

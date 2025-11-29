@@ -1,0 +1,859 @@
+ID_adherent,month,immatriculationNumber,full_name,nombre_jours,salaire
+53377,décembre 2023,101881780,Fouass Mohamed,26,3557.84
+53377,janvier 2024,101881780,Fouass Mohamed,26,3568.54
+53377,février 2024,101881780,Fouass Mohamed,26,3477.56
+53377,mars 2024,101881780,Fouass Mohamed,26,3636.32
+53377,avril 2024,101881780,Fouass Mohamed,26,3777.97
+53377,mai 2024,101881780,Fouass Mohamed,26,3684.44
+53377,juin 2024,101881780,Fouass Mohamed,26,3695.55
+53377,juillet 2024,101881780,Fouass Mohamed,26,3791.98
+53377,août 2024,101881780,Fouass Mohamed,26,3702.3
+53377,septembre 2024,101881780,Fouass Mohamed,26,3802.42
+53377,octobre 2024,101881780,Fouass Mohamed,26,3693.41
+53377,novembre 2024,101881780,Fouass Mohamed,26,3861.04
+53377,décembre 2024,101881780,Fouass Mohamed,26,3786.17
+53377,décembre 2023,103020972,Halhoul Najim,17,2220.54
+53377,janvier 2024,103020972,Halhoul Najim,17,2292.2
+53377,février 2024,103020972,Halhoul Najim,17,2232.75
+53377,mars 2024,103020972,Halhoul Najim,17,2193.26
+53377,avril 2024,103020972,Halhoul Najim,17,2226.49
+53377,mai 2024,103020972,Halhoul Najim,17,2185.04
+53377,juin 2024,103020972,Halhoul Najim,17,2242.88
+53377,juillet 2024,103020972,Halhoul Najim,17,2300.46
+53377,août 2024,103020972,Halhoul Najim,17,2346.3
+53377,septembre 2024,103020972,Halhoul Najim,17,2384.06
+53377,octobre 2024,103020972,Halhoul Najim,17,2498.28
+53377,novembre 2024,103020972,Halhoul Najim,17,2570.56
+53377,décembre 2024,103020972,Halhoul Najim,17,2653.11
+53377,décembre 2023,104384088,Belayachi Jamal,17,2114.8
+53377,janvier 2024,104384088,Belayachi Jamal,17,2096.68
+53377,février 2024,104384088,Belayachi Jamal,17,2120.03
+53377,mars 2024,104384088,Belayachi Jamal,17,2161.49
+53377,avril 2024,104384088,Belayachi Jamal,17,2170.63
+53377,mai 2024,104384088,Belayachi Jamal,17,2227.99
+53377,juin 2024,104384088,Belayachi Jamal,17,2266.2
+53377,juillet 2024,104384088,Belayachi Jamal,17,2214.49
+53377,août 2024,104384088,Belayachi Jamal,17,2237.82
+53377,septembre 2024,104384088,Belayachi Jamal,17,2326.26
+53377,octobre 2024,104384088,Belayachi Jamal,17,2284.19
+53377,novembre 2024,104384088,Belayachi Jamal,17,2271.92
+53377,décembre 2024,104384088,Belayachi Jamal,17,2373.58
+53377,décembre 2023,104898386,Daryf Brahim,18,2239.2
+53377,janvier 2024,104898386,Daryf Brahim,18,2223.57
+53377,février 2024,104898386,Daryf Brahim,18,2314.37
+53377,mars 2024,104898386,Daryf Brahim,18,2249.09
+53377,avril 2024,104898386,Daryf Brahim,18,2206.97
+53377,mai 2024,104898386,Daryf Brahim,18,2147.67
+53377,juin 2024,104898386,Daryf Brahim,18,2205.11
+53377,juillet 2024,104898386,Daryf Brahim,18,2220.96
+53377,août 2024,104898386,Daryf Brahim,18,2271.78
+53377,septembre 2024,104898386,Daryf Brahim,18,2235.22
+53377,octobre 2024,104898386,Daryf Brahim,18,2305.8
+53377,novembre 2024,104898386,Daryf Brahim,18,2367.63
+53377,décembre 2024,104898386,Daryf Brahim,18,2467.43
+53377,décembre 2023,105376894,Khrikhach Elmadani,18,2239.2
+53377,janvier 2024,105376894,Khrikhach Elmadani,18,2327.9
+53377,février 2024,105376894,Khrikhach Elmadani,18,2261.11
+53377,mars 2024,105376894,Khrikhach Elmadani,18,2349.95
+53377,avril 2024,105376894,Khrikhach Elmadani,18,2326.93
+53377,mai 2024,105376894,Khrikhach Elmadani,18,2408.35
+53377,juin 2024,105376894,Khrikhach Elmadani,18,2343.57
+53377,juillet 2024,105376894,Khrikhach Elmadani,18,2367.38
+53377,août 2024,105376894,Khrikhach Elmadani,18,2394.81
+53377,septembre 2024,105376894,Khrikhach Elmadani,18,2509.37
+53377,octobre 2024,105376894,Khrikhach Elmadani,18,2599.64
+53377,novembre 2024,105376894,Khrikhach Elmadani,18,2638.67
+53377,décembre 2024,105376894,Khrikhach Elmadani,18,2573.3
+53377,décembre 2023,106361555,Aimeche El Rhali,17,2114.8
+53377,janvier 2024,106361555,Aimeche El Rhali,17,2138.71
+53377,février 2024,106361555,Aimeche El Rhali,17,2181.47
+53377,mars 2024,106361555,Aimeche El Rhali,17,2118.09
+53377,avril 2024,106361555,Aimeche El Rhali,17,2181.63
+53377,mai 2024,106361555,Aimeche El Rhali,17,2164.65
+53377,juin 2024,106361555,Aimeche El Rhali,17,2120.0
+53377,juillet 2024,106361555,Aimeche El Rhali,17,2090.38
+53377,août 2024,106361555,Aimeche El Rhali,17,2127.7
+53377,septembre 2024,106361555,Aimeche El Rhali,17,2212.02
+53377,octobre 2024,106361555,Aimeche El Rhali,17,2166.35
+53377,novembre 2024,106361555,Aimeche El Rhali,17,2245.98
+53377,décembre 2024,106361555,Aimeche El Rhali,17,2272.18
+53377,décembre 2023,108851050,Hammada Miloud,17,2114.8
+53377,janvier 2024,108851050,Hammada Miloud,17,2196.35
+53377,février 2024,108851050,Hammada Miloud,17,2263.69
+53377,mars 2024,108851050,Hammada Miloud,17,2372.41
+53377,avril 2024,108851050,Hammada Miloud,17,2401.11
+53377,mai 2024,108851050,Hammada Miloud,17,2374.97
+53377,juin 2024,108851050,Hammada Miloud,17,2475.73
+53377,juillet 2024,108851050,Hammada Miloud,17,2564.5
+53377,août 2024,108851050,Hammada Miloud,17,2671.01
+53377,septembre 2024,108851050,Hammada Miloud,17,2656.85
+53377,octobre 2024,108851050,Hammada Miloud,17,2719.21
+53377,novembre 2024,108851050,Hammada Miloud,17,2689.89
+53377,décembre 2024,108851050,Hammada Miloud,17,2634.39
+53377,décembre 2023,109028208,El Aissaoui Mohamed,0,0.0
+53377,janvier 2024,109028208,El Aissaoui Mohamed,0,0.0
+53377,février 2024,109028208,El Aissaoui Mohamed,0,0.0
+53377,mars 2024,109028208,El Aissaoui Mohamed,0,0.0
+53377,avril 2024,109028208,El Aissaoui Mohamed,0,0.0
+53377,mai 2024,109028208,El Aissaoui Mohamed,0,0.0
+53377,juin 2024,109028208,El Aissaoui Mohamed,0,0.0
+53377,juillet 2024,109028208,El Aissaoui Mohamed,0,0.0
+53377,août 2024,109028208,El Aissaoui Mohamed,0,0.0
+53377,septembre 2024,109028208,El Aissaoui Mohamed,0,0.0
+53377,octobre 2024,109028208,El Aissaoui Mohamed,0,0.0
+53377,novembre 2024,109028208,El Aissaoui Mohamed,0,0.0
+53377,décembre 2024,109028208,El Aissaoui Mohamed,0,0.0
+53377,décembre 2023,109272154,El Moutamanni Hamza,0,0.0
+53377,janvier 2024,109272154,El Moutamanni Hamza,0,0.0
+53377,février 2024,109272154,El Moutamanni Hamza,0,0.0
+53377,mars 2024,109272154,El Moutamanni Hamza,0,0.0
+53377,avril 2024,109272154,El Moutamanni Hamza,0,0.0
+53377,mai 2024,109272154,El Moutamanni Hamza,0,0.0
+53377,juin 2024,109272154,El Moutamanni Hamza,0,0.0
+53377,juillet 2024,109272154,El Moutamanni Hamza,0,0.0
+53377,août 2024,109272154,El Moutamanni Hamza,0,0.0
+53377,septembre 2024,109272154,El Moutamanni Hamza,0,0.0
+53377,octobre 2024,109272154,El Moutamanni Hamza,0,0.0
+53377,novembre 2024,109272154,El Moutamanni Hamza,0,0.0
+53377,décembre 2024,109272154,El Moutamanni Hamza,0,0.0
+53377,décembre 2023,109272659,El Bane Mohammed,0,0.0
+53377,janvier 2024,109272659,El Bane Mohammed,0,0.0
+53377,février 2024,109272659,El Bane Mohammed,0,0.0
+53377,mars 2024,109272659,El Bane Mohammed,0,0.0
+53377,avril 2024,109272659,El Bane Mohammed,0,0.0
+53377,mai 2024,109272659,El Bane Mohammed,0,0.0
+53377,juin 2024,109272659,El Bane Mohammed,0,0.0
+53377,juillet 2024,109272659,El Bane Mohammed,0,0.0
+53377,août 2024,109272659,El Bane Mohammed,0,0.0
+53377,septembre 2024,109272659,El Bane Mohammed,0,0.0
+53377,octobre 2024,109272659,El Bane Mohammed,0,0.0
+53377,novembre 2024,109272659,El Bane Mohammed,0,0.0
+53377,décembre 2024,109272659,El Bane Mohammed,0,0.0
+53377,décembre 2023,109465204,Hamdoun Khalid,17,2220.54
+53377,janvier 2024,109465204,Hamdoun Khalid,17,2209.62
+53377,février 2024,109465204,Hamdoun Khalid,17,2161.21
+53377,mars 2024,109465204,Hamdoun Khalid,17,2176.62
+53377,avril 2024,109465204,Hamdoun Khalid,17,2205.49
+53377,mai 2024,109465204,Hamdoun Khalid,17,2286.37
+53377,juin 2024,109465204,Hamdoun Khalid,17,2392.19
+53377,juillet 2024,109465204,Hamdoun Khalid,17,2384.76
+53377,août 2024,109465204,Hamdoun Khalid,17,2491.05
+53377,septembre 2024,109465204,Hamdoun Khalid,17,2598.51
+53377,octobre 2024,109465204,Hamdoun Khalid,17,2618.73
+53377,novembre 2024,109465204,Hamdoun Khalid,17,2651.44
+53377,décembre 2024,109465204,Hamdoun Khalid,17,2572.94
+53377,décembre 2023,111693655,Fahime Mohamed Yassine,0,0.0
+53377,janvier 2024,111693655,Fahime Mohamed Yassine,0,0.0
+53377,février 2024,111693655,Fahime Mohamed Yassine,0,0.0
+53377,mars 2024,111693655,Fahime Mohamed Yassine,0,0.0
+53377,avril 2024,111693655,Fahime Mohamed Yassine,0,0.0
+53377,mai 2024,111693655,Fahime Mohamed Yassine,0,0.0
+53377,juin 2024,111693655,Fahime Mohamed Yassine,0,0.0
+53377,juillet 2024,111693655,Fahime Mohamed Yassine,0,0.0
+53377,août 2024,111693655,Fahime Mohamed Yassine,0,0.0
+53377,septembre 2024,111693655,Fahime Mohamed Yassine,0,0.0
+53377,octobre 2024,111693655,Fahime Mohamed Yassine,0,0.0
+53377,novembre 2024,111693655,Fahime Mohamed Yassine,0,0.0
+53377,décembre 2024,111693655,Fahime Mohamed Yassine,0,0.0
+53377,décembre 2023,112284741,Gueltoum Mohamed,24,2985.6
+53377,janvier 2024,112284741,Gueltoum Mohamed,24,3028.35
+53377,février 2024,112284741,Gueltoum Mohamed,24,3070.96
+53377,mars 2024,112284741,Gueltoum Mohamed,24,3048.04
+53377,avril 2024,112284741,Gueltoum Mohamed,24,3091.64
+53377,mai 2024,112284741,Gueltoum Mohamed,24,3140.86
+53377,juin 2024,112284741,Gueltoum Mohamed,24,3106.61
+53377,juillet 2024,112284741,Gueltoum Mohamed,24,3178.99
+53377,août 2024,112284741,Gueltoum Mohamed,24,3305.57
+53377,septembre 2024,112284741,Gueltoum Mohamed,24,3368.99
+53377,octobre 2024,112284741,Gueltoum Mohamed,24,3321.14
+53377,novembre 2024,112284741,Gueltoum Mohamed,24,3262.53
+53377,décembre 2024,112284741,Gueltoum Mohamed,24,3199.38
+53377,décembre 2023,116238968,Bouqachaba Kaddour,17,2114.8
+53377,janvier 2024,116238968,Bouqachaba Kaddour,17,2056.09
+53377,février 2024,116238968,Bouqachaba Kaddour,17,2006.7
+53377,mars 2024,116238968,Bouqachaba Kaddour,17,1951.74
+53377,avril 2024,116238968,Bouqachaba Kaddour,17,1927.66
+53377,mai 2024,116238968,Bouqachaba Kaddour,17,1961.19
+53377,juin 2024,116238968,Bouqachaba Kaddour,17,2045.83
+53377,juillet 2024,116238968,Bouqachaba Kaddour,17,2008.66
+53377,août 2024,116238968,Bouqachaba Kaddour,17,2051.29
+53377,septembre 2024,116238968,Bouqachaba Kaddour,17,2094.84
+53377,octobre 2024,116238968,Bouqachaba Kaddour,17,2160.87
+53377,novembre 2024,116238968,Bouqachaba Kaddour,17,2215.39
+53377,décembre 2024,116238968,Bouqachaba Kaddour,17,2269.84
+53377,décembre 2023,119184212,Belkaid Souhail,0,0.0
+53377,janvier 2024,119184212,Belkaid Souhail,0,0.0
+53377,février 2024,119184212,Belkaid Souhail,0,0.0
+53377,mars 2024,119184212,Belkaid Souhail,0,0.0
+53377,avril 2024,119184212,Belkaid Souhail,0,0.0
+53377,mai 2024,119184212,Belkaid Souhail,0,0.0
+53377,juin 2024,119184212,Belkaid Souhail,0,0.0
+53377,juillet 2024,119184212,Belkaid Souhail,0,0.0
+53377,août 2024,119184212,Belkaid Souhail,0,0.0
+53377,septembre 2024,119184212,Belkaid Souhail,0,0.0
+53377,octobre 2024,119184212,Belkaid Souhail,0,0.0
+53377,novembre 2024,119184212,Belkaid Souhail,0,0.0
+53377,décembre 2024,119184212,Belkaid Souhail,0,0.0
+53377,décembre 2023,122181549,El Yartaoui Abdelaziz,26,3396.12
+53377,janvier 2024,122181549,El Yartaoui Abdelaziz,26,3503.79
+53377,février 2024,122181549,El Yartaoui Abdelaziz,26,3399.68
+53377,mars 2024,122181549,El Yartaoui Abdelaziz,26,3333.14
+53377,avril 2024,122181549,El Yartaoui Abdelaziz,26,3418.51
+53377,mai 2024,122181549,El Yartaoui Abdelaziz,26,3491.59
+53377,juin 2024,122181549,El Yartaoui Abdelaziz,26,3589.86
+53377,juillet 2024,122181549,El Yartaoui Abdelaziz,26,3660.09
+53377,août 2024,122181549,El Yartaoui Abdelaziz,26,3579.55
+53377,septembre 2024,122181549,El Yartaoui Abdelaziz,26,3561.76
+53377,octobre 2024,122181549,El Yartaoui Abdelaziz,26,3574.42
+53377,novembre 2024,122181549,El Yartaoui Abdelaziz,26,3529.92
+53377,décembre 2024,122181549,El Yartaoui Abdelaziz,26,3561.17
+53377,décembre 2023,123604727,Er Raamouche Azeddine,17,2114.8
+53377,janvier 2024,123604727,Er Raamouche Azeddine,17,2109.82
+53377,février 2024,123604727,Er Raamouche Azeddine,17,2204.02
+53377,mars 2024,123604727,Er Raamouche Azeddine,17,2312.35
+53377,avril 2024,123604727,Er Raamouche Azeddine,17,2255.87
+53377,mai 2024,123604727,Er Raamouche Azeddine,17,2356.11
+53377,juin 2024,123604727,Er Raamouche Azeddine,17,2418.85
+53377,juillet 2024,123604727,Er Raamouche Azeddine,17,2515.42
+53377,août 2024,123604727,Er Raamouche Azeddine,17,2510.46
+53377,septembre 2024,123604727,Er Raamouche Azeddine,17,2497.8
+53377,octobre 2024,123604727,Er Raamouche Azeddine,17,2521.9
+53377,novembre 2024,123604727,Er Raamouche Azeddine,17,2446.91
+53377,décembre 2024,123604727,Er Raamouche Azeddine,17,2542.97
+53377,décembre 2023,124121030,Taoussi Salah,26,3234.4
+53377,janvier 2024,124121030,Taoussi Salah,26,3239.94
+53377,février 2024,124121030,Taoussi Salah,26,3268.55
+53377,mars 2024,124121030,Taoussi Salah,26,3400.83
+53377,avril 2024,124121030,Taoussi Salah,26,3498.66
+53377,mai 2024,124121030,Taoussi Salah,26,3522.43
+53377,juin 2024,124121030,Taoussi Salah,26,3578.12
+53377,juillet 2024,124121030,Taoussi Salah,26,3482.24
+53377,août 2024,124121030,Taoussi Salah,26,3636.05
+53377,septembre 2024,124121030,Taoussi Salah,26,3587.19
+53377,octobre 2024,124121030,Taoussi Salah,26,3639.38
+53377,novembre 2024,124121030,Taoussi Salah,26,3582.16
+53377,décembre 2024,124121030,Taoussi Salah,26,3543.7
+53377,décembre 2023,125850860,El Guili Azouz,18,2351.16
+53377,janvier 2024,125850860,El Guili Azouz,18,2372.17
+53377,février 2024,125850860,El Guili Azouz,18,2467.45
+53377,mars 2024,125850860,El Guili Azouz,18,2426.33
+53377,avril 2024,125850860,El Guili Azouz,18,2425.73
+53377,mai 2024,125850860,El Guili Azouz,18,2481.03
+53377,juin 2024,125850860,El Guili Azouz,18,2546.12
+53377,juillet 2024,125850860,El Guili Azouz,18,2492.58
+53377,août 2024,125850860,El Guili Azouz,18,2533.48
+53377,septembre 2024,125850860,El Guili Azouz,18,2492.02
+53377,octobre 2024,125850860,El Guili Azouz,18,2421.34
+53377,novembre 2024,125850860,El Guili Azouz,18,2366.21
+53377,décembre 2024,125850860,El Guili Azouz,18,2298.46
+53377,décembre 2023,127792557,Jalloul Jaouad,17,2114.8
+53377,janvier 2024,127792557,Jalloul Jaouad,17,2152.38
+53377,février 2024,127792557,Jalloul Jaouad,17,2173.17
+53377,mars 2024,127792557,Jalloul Jaouad,17,2231.41
+53377,avril 2024,127792557,Jalloul Jaouad,17,2183.17
+53377,mai 2024,127792557,Jalloul Jaouad,17,2271.06
+53377,juin 2024,127792557,Jalloul Jaouad,17,2356.65
+53377,juillet 2024,127792557,Jalloul Jaouad,17,2440.87
+53377,août 2024,127792557,Jalloul Jaouad,17,2397.71
+53377,septembre 2024,127792557,Jalloul Jaouad,17,2510.05
+53377,octobre 2024,127792557,Jalloul Jaouad,17,2468.7
+53377,novembre 2024,127792557,Jalloul Jaouad,17,2462.12
+53377,décembre 2024,127792557,Jalloul Jaouad,17,2435.38
+53377,décembre 2023,128706482,Zouirchi Mohammed,17,2220.54
+53377,janvier 2024,128706482,Zouirchi Mohammed,17,2233.96
+53377,février 2024,128706482,Zouirchi Mohammed,17,2292.67
+53377,mars 2024,128706482,Zouirchi Mohammed,17,2284.21
+53377,avril 2024,128706482,Zouirchi Mohammed,17,2252.87
+53377,mai 2024,128706482,Zouirchi Mohammed,17,2236.8
+53377,juin 2024,128706482,Zouirchi Mohammed,17,2207.46
+53377,juillet 2024,128706482,Zouirchi Mohammed,17,2302.6
+53377,août 2024,128706482,Zouirchi Mohammed,17,2269.91
+53377,septembre 2024,128706482,Zouirchi Mohammed,17,2246.86
+53377,octobre 2024,128706482,Zouirchi Mohammed,17,2325.2
+53377,novembre 2024,128706482,Zouirchi Mohammed,17,2307.05
+53377,décembre 2024,128706482,Zouirchi Mohammed,17,2255.69
+53377,décembre 2023,129891833,Darchem Ahmed,0,0.0
+53377,janvier 2024,129891833,Darchem Ahmed,0,0.0
+53377,février 2024,129891833,Darchem Ahmed,0,0.0
+53377,mars 2024,129891833,Darchem Ahmed,0,0.0
+53377,avril 2024,129891833,Darchem Ahmed,0,0.0
+53377,mai 2024,129891833,Darchem Ahmed,0,0.0
+53377,juin 2024,129891833,Darchem Ahmed,0,0.0
+53377,juillet 2024,129891833,Darchem Ahmed,0,0.0
+53377,août 2024,129891833,Darchem Ahmed,0,0.0
+53377,septembre 2024,129891833,Darchem Ahmed,0,0.0
+53377,octobre 2024,129891833,Darchem Ahmed,0,0.0
+53377,novembre 2024,129891833,Darchem Ahmed,0,0.0
+53377,décembre 2024,129891833,Darchem Ahmed,0,0.0
+53377,décembre 2023,130240270,Belallam Ali,0,0.0
+53377,janvier 2024,130240270,Belallam Ali,0,0.0
+53377,février 2024,130240270,Belallam Ali,0,0.0
+53377,mars 2024,130240270,Belallam Ali,0,0.0
+53377,avril 2024,130240270,Belallam Ali,0,0.0
+53377,mai 2024,130240270,Belallam Ali,0,0.0
+53377,juin 2024,130240270,Belallam Ali,0,0.0
+53377,juillet 2024,130240270,Belallam Ali,0,0.0
+53377,août 2024,130240270,Belallam Ali,0,0.0
+53377,septembre 2024,130240270,Belallam Ali,0,0.0
+53377,octobre 2024,130240270,Belallam Ali,0,0.0
+53377,novembre 2024,130240270,Belallam Ali,0,0.0
+53377,décembre 2024,130240270,Belallam Ali,0,0.0
+53377,décembre 2023,131345133,Rami Elmahdi,0,0.0
+53377,janvier 2024,131345133,Rami Elmahdi,0,0.0
+53377,février 2024,131345133,Rami Elmahdi,0,0.0
+53377,mars 2024,131345133,Rami Elmahdi,0,0.0
+53377,avril 2024,131345133,Rami Elmahdi,0,0.0
+53377,mai 2024,131345133,Rami Elmahdi,0,0.0
+53377,juin 2024,131345133,Rami Elmahdi,0,0.0
+53377,juillet 2024,131345133,Rami Elmahdi,0,0.0
+53377,août 2024,131345133,Rami Elmahdi,0,0.0
+53377,septembre 2024,131345133,Rami Elmahdi,0,0.0
+53377,octobre 2024,131345133,Rami Elmahdi,0,0.0
+53377,novembre 2024,131345133,Rami Elmahdi,0,0.0
+53377,décembre 2024,131345133,Rami Elmahdi,0,0.0
+53377,décembre 2023,132984587,Bouzaayb Fettah,17,2326.28
+53377,janvier 2024,132984587,Bouzaayb Fettah,17,2258.42
+53377,février 2024,132984587,Bouzaayb Fettah,17,2359.66
+53377,mars 2024,132984587,Bouzaayb Fettah,17,2372.03
+53377,avril 2024,132984587,Bouzaayb Fettah,17,2445.0
+53377,mai 2024,132984587,Bouzaayb Fettah,17,2413.58
+53377,juin 2024,132984587,Bouzaayb Fettah,17,2434.59
+53377,juillet 2024,132984587,Bouzaayb Fettah,17,2398.33
+53377,août 2024,132984587,Bouzaayb Fettah,17,2349.09
+53377,septembre 2024,132984587,Bouzaayb Fettah,17,2367.81
+53377,octobre 2024,132984587,Bouzaayb Fettah,17,2434.26
+53377,novembre 2024,132984587,Bouzaayb Fettah,17,2527.05
+53377,décembre 2024,132984587,Bouzaayb Fettah,17,2485.42
+53377,décembre 2023,133894967,Mzizi Said,18,2239.2
+53377,janvier 2024,133894967,Mzizi Said,18,2234.49
+53377,février 2024,133894967,Mzizi Said,18,2281.78
+53377,mars 2024,133894967,Mzizi Said,18,2342.67
+53377,avril 2024,133894967,Mzizi Said,18,2375.39
+53377,mai 2024,133894967,Mzizi Said,18,2375.08
+53377,juin 2024,133894967,Mzizi Said,18,2411.27
+53377,juillet 2024,133894967,Mzizi Said,18,2525.6
+53377,août 2024,133894967,Mzizi Said,18,2473.26
+53377,septembre 2024,133894967,Mzizi Said,18,2459.49
+53377,octobre 2024,133894967,Mzizi Said,18,2564.68
+53377,novembre 2024,133894967,Mzizi Said,18,2613.77
+53377,décembre 2024,133894967,Mzizi Said,18,2555.02
+53377,décembre 2023,134306276,Mabchour Radouane,0,0.0
+53377,janvier 2024,134306276,Mabchour Radouane,0,0.0
+53377,février 2024,134306276,Mabchour Radouane,0,0.0
+53377,mars 2024,134306276,Mabchour Radouane,0,0.0
+53377,avril 2024,134306276,Mabchour Radouane,0,0.0
+53377,mai 2024,134306276,Mabchour Radouane,0,0.0
+53377,juin 2024,134306276,Mabchour Radouane,0,0.0
+53377,juillet 2024,134306276,Mabchour Radouane,0,0.0
+53377,août 2024,134306276,Mabchour Radouane,0,0.0
+53377,septembre 2024,134306276,Mabchour Radouane,0,0.0
+53377,octobre 2024,134306276,Mabchour Radouane,0,0.0
+53377,novembre 2024,134306276,Mabchour Radouane,0,0.0
+53377,décembre 2024,134306276,Mabchour Radouane,0,0.0
+53377,décembre 2023,136367094,Nimmiche Tariq,17,2114.8
+53377,janvier 2024,136367094,Nimmiche Tariq,17,2171.49
+53377,février 2024,136367094,Nimmiche Tariq,17,2224.63
+53377,mars 2024,136367094,Nimmiche Tariq,17,2226.15
+53377,avril 2024,136367094,Nimmiche Tariq,17,2162.17
+53377,mai 2024,136367094,Nimmiche Tariq,17,2118.78
+53377,juin 2024,136367094,Nimmiche Tariq,17,2186.88
+53377,juillet 2024,136367094,Nimmiche Tariq,17,2240.67
+53377,août 2024,136367094,Nimmiche Tariq,17,2352.1
+53377,septembre 2024,136367094,Nimmiche Tariq,17,2301.98
+53377,octobre 2024,136367094,Nimmiche Tariq,17,2281.17
+53377,novembre 2024,136367094,Nimmiche Tariq,17,2303.98
+53377,décembre 2024,136367094,Nimmiche Tariq,17,2316.11
+53377,décembre 2023,136931143,El Hamidi Mohamed,17,2114.8
+53377,janvier 2024,136931143,El Hamidi Mohamed,17,2190.61
+53377,février 2024,136931143,El Hamidi Mohamed,17,2162.88
+53377,mars 2024,136931143,El Hamidi Mohamed,17,2201.41
+53377,avril 2024,136931143,El Hamidi Mohamed,17,2262.69
+53377,mai 2024,136931143,El Hamidi Mohamed,17,2296.02
+53377,juin 2024,136931143,El Hamidi Mohamed,17,2253.0
+53377,juillet 2024,136931143,El Hamidi Mohamed,17,2276.2
+53377,août 2024,136931143,El Hamidi Mohamed,17,2358.09
+53377,septembre 2024,136931143,El Hamidi Mohamed,17,2327.12
+53377,octobre 2024,136931143,El Hamidi Mohamed,17,2282.58
+53377,novembre 2024,136931143,El Hamidi Mohamed,17,2277.18
+53377,décembre 2024,136931143,El Hamidi Mohamed,17,2301.87
+53377,décembre 2023,139061958,Boumhah Jamal,17,2114.8
+53377,janvier 2024,139061958,Boumhah Jamal,17,2158.96
+53377,février 2024,139061958,Boumhah Jamal,17,2256.49
+53377,mars 2024,139061958,Boumhah Jamal,17,2350.42
+53377,avril 2024,139061958,Boumhah Jamal,17,2397.89
+53377,mai 2024,139061958,Boumhah Jamal,17,2465.52
+53377,juin 2024,139061958,Boumhah Jamal,17,2531.08
+53377,juillet 2024,139061958,Boumhah Jamal,17,2634.07
+53377,août 2024,139061958,Boumhah Jamal,17,2603.79
+53377,septembre 2024,139061958,Boumhah Jamal,17,2684.19
+53377,octobre 2024,139061958,Boumhah Jamal,17,2787.41
+53377,novembre 2024,139061958,Boumhah Jamal,17,2729.15
+53377,décembre 2024,139061958,Boumhah Jamal,17,2669.92
+53377,décembre 2023,143182493,Adnadane Kenza,25,3607.69
+53377,janvier 2024,143182493,Adnadane Kenza,25,3766.55
+53377,février 2024,143182493,Adnadane Kenza,25,3703.55
+53377,mars 2024,143182493,Adnadane Kenza,25,3685.47
+53377,avril 2024,143182493,Adnadane Kenza,25,3771.55
+53377,mai 2024,143182493,Adnadane Kenza,25,3835.65
+53377,juin 2024,143182493,Adnadane Kenza,25,3939.9
+53377,juillet 2024,143182493,Adnadane Kenza,25,3931.64
+53377,août 2024,143182493,Adnadane Kenza,25,3967.45
+53377,septembre 2024,143182493,Adnadane Kenza,25,4008.92
+53377,octobre 2024,143182493,Adnadane Kenza,25,4123.96
+53377,novembre 2024,143182493,Adnadane Kenza,25,4162.13
+53377,décembre 2024,143182493,Adnadane Kenza,25,4198.61
+53377,décembre 2023,145189661,Abid Abdellah,17,2114.8
+53377,janvier 2024,145189661,Abid Abdellah,17,2094.75
+53377,février 2024,145189661,Abid Abdellah,17,2083.2
+53377,mars 2024,145189661,Abid Abdellah,17,2047.04
+53377,avril 2024,145189661,Abid Abdellah,17,2115.01
+53377,mai 2024,145189661,Abid Abdellah,17,2087.91
+53377,juin 2024,145189661,Abid Abdellah,17,2153.02
+53377,juillet 2024,145189661,Abid Abdellah,17,2107.6
+53377,août 2024,145189661,Abid Abdellah,17,2199.76
+53377,septembre 2024,145189661,Abid Abdellah,17,2217.04
+53377,octobre 2024,145189661,Abid Abdellah,17,2309.48
+53377,novembre 2024,145189661,Abid Abdellah,17,2375.8
+53377,décembre 2024,145189661,Abid Abdellah,17,2335.66
+53377,décembre 2023,145213197,El Aissaoui Rachid,18,2239.2
+53377,janvier 2024,145213197,El Aissaoui Rachid,18,2182.22
+53377,février 2024,145213197,El Aissaoui Rachid,18,2242.93
+53377,mars 2024,145213197,El Aissaoui Rachid,18,2301.98
+53377,avril 2024,145213197,El Aissaoui Rachid,18,2355.4
+53377,mai 2024,145213197,El Aissaoui Rachid,18,2435.14
+53377,juin 2024,145213197,El Aissaoui Rachid,18,2527.53
+53377,juillet 2024,145213197,El Aissaoui Rachid,18,2497.68
+53377,août 2024,145213197,El Aissaoui Rachid,18,2548.7
+53377,septembre 2024,145213197,El Aissaoui Rachid,18,2583.09
+53377,octobre 2024,145213197,El Aissaoui Rachid,18,2660.22
+53377,novembre 2024,145213197,El Aissaoui Rachid,18,2736.47
+53377,décembre 2024,145213197,El Aissaoui Rachid,18,2832.94
+53377,décembre 2023,145287291,Beriak Ahmed,17,2114.8
+53377,janvier 2024,145287291,Beriak Ahmed,17,2150.83
+53377,février 2024,145287291,Beriak Ahmed,17,2153.71
+53377,mars 2024,145287291,Beriak Ahmed,17,2229.45
+53377,avril 2024,145287291,Beriak Ahmed,17,2245.59
+53377,mai 2024,145287291,Beriak Ahmed,17,2246.54
+53377,juin 2024,145287291,Beriak Ahmed,17,2214.92
+53377,juillet 2024,145287291,Beriak Ahmed,17,2190.59
+53377,août 2024,145287291,Beriak Ahmed,17,2207.79
+53377,septembre 2024,145287291,Beriak Ahmed,17,2293.76
+53377,octobre 2024,145287291,Beriak Ahmed,17,2392.27
+53377,novembre 2024,145287291,Beriak Ahmed,17,2489.92
+53377,décembre 2024,145287291,Beriak Ahmed,17,2580.56
+53377,décembre 2023,146707991,Ahrara El Houcine,18,2239.2
+53377,janvier 2024,146707991,Ahrara El Houcine,18,2284.48
+53377,février 2024,146707991,Ahrara El Houcine,18,2366.8
+53377,mars 2024,146707991,Ahrara El Houcine,18,2339.37
+53377,avril 2024,146707991,Ahrara El Houcine,18,2280.74
+53377,mai 2024,146707991,Ahrara El Houcine,18,2226.44
+53377,juin 2024,146707991,Ahrara El Houcine,18,2289.0
+53377,juillet 2024,146707991,Ahrara El Houcine,18,2254.69
+53377,août 2024,146707991,Ahrara El Houcine,18,2336.61
+53377,septembre 2024,146707991,Ahrara El Houcine,18,2276.32
+53377,octobre 2024,146707991,Ahrara El Houcine,18,2238.85
+53377,novembre 2024,146707991,Ahrara El Houcine,18,2336.82
+53377,décembre 2024,146707991,Ahrara El Houcine,18,2339.43
+53377,décembre 2023,149224273,Kabbach Ismail,17,2114.8
+53377,janvier 2024,149224273,Kabbach Ismail,17,2100.36
+53377,février 2024,149224273,Kabbach Ismail,17,2176.45
+53377,mars 2024,149224273,Kabbach Ismail,17,2164.37
+53377,avril 2024,149224273,Kabbach Ismail,17,2164.11
+53377,mai 2024,149224273,Kabbach Ismail,17,2188.2
+53377,juin 2024,149224273,Kabbach Ismail,17,2159.29
+53377,juillet 2024,149224273,Kabbach Ismail,17,2101.41
+53377,août 2024,149224273,Kabbach Ismail,17,2202.67
+53377,septembre 2024,149224273,Kabbach Ismail,17,2286.95
+53377,octobre 2024,149224273,Kabbach Ismail,17,2288.1
+53377,novembre 2024,149224273,Kabbach Ismail,17,2314.68
+53377,décembre 2024,149224273,Kabbach Ismail,17,2348.73
+53377,décembre 2023,149808746,Ghaffouli Abdellatif,26,3557.84
+53377,janvier 2024,149808746,Ghaffouli Abdellatif,26,3709.46
+53377,février 2024,149808746,Ghaffouli Abdellatif,26,3686.01
+53377,mars 2024,149808746,Ghaffouli Abdellatif,26,3747.89
+53377,avril 2024,149808746,Ghaffouli Abdellatif,26,3886.08
+53377,mai 2024,149808746,Ghaffouli Abdellatif,26,3973.23
+53377,juin 2024,149808746,Ghaffouli Abdellatif,26,3963.16
+53377,juillet 2024,149808746,Ghaffouli Abdellatif,26,3888.36
+53377,août 2024,149808746,Ghaffouli Abdellatif,26,4016.5
+53377,septembre 2024,149808746,Ghaffouli Abdellatif,26,3904.37
+53377,octobre 2024,149808746,Ghaffouli Abdellatif,26,3982.54
+53377,novembre 2024,149808746,Ghaffouli Abdellatif,26,3954.81
+53377,décembre 2024,149808746,Ghaffouli Abdellatif,26,4113.13
+53377,décembre 2023,154553129,Louaraini Fatima Zahra,20,2488.0
+53377,janvier 2024,154553129,Louaraini Fatima Zahra,20,2591.38
+53377,février 2024,154553129,Louaraini Fatima Zahra,20,2639.79
+53377,mars 2024,154553129,Louaraini Fatima Zahra,20,2685.77
+53377,avril 2024,154553129,Louaraini Fatima Zahra,20,2734.32
+53377,mai 2024,154553129,Louaraini Fatima Zahra,20,2663.45
+53377,juin 2024,154553129,Louaraini Fatima Zahra,20,2727.29
+53377,juillet 2024,154553129,Louaraini Fatima Zahra,20,2742.11
+53377,août 2024,154553129,Louaraini Fatima Zahra,20,2736.48
+53377,septembre 2024,154553129,Louaraini Fatima Zahra,20,2676.46
+53377,octobre 2024,154553129,Louaraini Fatima Zahra,20,2611.71
+53377,novembre 2024,154553129,Louaraini Fatima Zahra,20,2564.58
+53377,décembre 2024,154553129,Louaraini Fatima Zahra,20,2658.47
+53377,décembre 2023,156330659,El Moutamanni Hicham,26,4289.08
+53377,janvier 2024,156330659,El Moutamanni Hicham,26,4240.69
+53377,février 2024,156330659,El Moutamanni Hicham,26,4247.11
+53377,mars 2024,156330659,El Moutamanni Hicham,26,4391.45
+53377,avril 2024,156330659,El Moutamanni Hicham,26,4456.51
+53377,mai 2024,156330659,El Moutamanni Hicham,26,4602.77
+53377,juin 2024,156330659,El Moutamanni Hicham,26,4711.91
+53377,juillet 2024,156330659,El Moutamanni Hicham,26,4579.56
+53377,août 2024,156330659,El Moutamanni Hicham,26,4485.96
+53377,septembre 2024,156330659,El Moutamanni Hicham,26,4481.67
+53377,octobre 2024,156330659,El Moutamanni Hicham,26,4357.66
+53377,novembre 2024,156330659,El Moutamanni Hicham,26,4502.6
+53377,décembre 2024,156330659,El Moutamanni Hicham,26,4505.09
+53377,décembre 2023,157163596,Lakbid Mhamed,0,0.0
+53377,janvier 2024,157163596,Lakbid Mhamed,0,0.0
+53377,février 2024,157163596,Lakbid Mhamed,0,0.0
+53377,mars 2024,157163596,Lakbid Mhamed,0,0.0
+53377,avril 2024,157163596,Lakbid Mhamed,0,0.0
+53377,mai 2024,157163596,Lakbid Mhamed,0,0.0
+53377,juin 2024,157163596,Lakbid Mhamed,0,0.0
+53377,juillet 2024,157163596,Lakbid Mhamed,0,0.0
+53377,août 2024,157163596,Lakbid Mhamed,0,0.0
+53377,septembre 2024,157163596,Lakbid Mhamed,0,0.0
+53377,octobre 2024,157163596,Lakbid Mhamed,0,0.0
+53377,novembre 2024,157163596,Lakbid Mhamed,0,0.0
+53377,décembre 2024,157163596,Lakbid Mhamed,0,0.0
+53377,décembre 2023,158076020,Kendadi Ahmed,17,2220.54
+53377,janvier 2024,158076020,Kendadi Ahmed,17,2291.22
+53377,février 2024,158076020,Kendadi Ahmed,17,2290.73
+53377,mars 2024,158076020,Kendadi Ahmed,17,2282.82
+53377,avril 2024,158076020,Kendadi Ahmed,17,2272.93
+53377,mai 2024,158076020,Kendadi Ahmed,17,2296.86
+53377,juin 2024,158076020,Kendadi Ahmed,17,2390.97
+53377,juillet 2024,158076020,Kendadi Ahmed,17,2415.54
+53377,août 2024,158076020,Kendadi Ahmed,17,2372.27
+53377,septembre 2024,158076020,Kendadi Ahmed,17,2400.97
+53377,octobre 2024,158076020,Kendadi Ahmed,17,2388.76
+53377,novembre 2024,158076020,Kendadi Ahmed,17,2407.58
+53377,décembre 2024,158076020,Kendadi Ahmed,17,2354.86
+53377,décembre 2023,161746247,Salam Azouz,18,2239.2
+53377,janvier 2024,161746247,Salam Azouz,18,2254.24
+53377,février 2024,161746247,Salam Azouz,18,2238.76
+53377,mars 2024,161746247,Salam Azouz,18,2257.91
+53377,avril 2024,161746247,Salam Azouz,18,2236.74
+53377,mai 2024,161746247,Salam Azouz,18,2297.69
+53377,juin 2024,161746247,Salam Azouz,18,2302.16
+53377,juillet 2024,161746247,Salam Azouz,18,2274.55
+53377,août 2024,161746247,Salam Azouz,18,2317.62
+53377,septembre 2024,161746247,Salam Azouz,18,2254.15
+53377,octobre 2024,161746247,Salam Azouz,18,2334.2
+53377,novembre 2024,161746247,Salam Azouz,18,2267.09
+53377,décembre 2024,161746247,Salam Azouz,18,2331.76
+53377,décembre 2023,162049613,Srisra Mohamed,17,2114.8
+53377,janvier 2024,162049613,Srisra Mohamed,17,2083.75
+53377,février 2024,162049613,Srisra Mohamed,17,2156.96
+53377,mars 2024,162049613,Srisra Mohamed,17,2145.79
+53377,avril 2024,162049613,Srisra Mohamed,17,2123.03
+53377,mai 2024,162049613,Srisra Mohamed,17,2088.45
+53377,juin 2024,162049613,Srisra Mohamed,17,2105.53
+53377,juillet 2024,162049613,Srisra Mohamed,17,2049.75
+53377,août 2024,162049613,Srisra Mohamed,17,2038.57
+53377,septembre 2024,162049613,Srisra Mohamed,17,2062.09
+53377,octobre 2024,162049613,Srisra Mohamed,17,2006.16
+53377,novembre 2024,162049613,Srisra Mohamed,17,2052.14
+53377,décembre 2024,162049613,Srisra Mohamed,17,2106.48
+53377,décembre 2023,163795581,Nih Mustapha,17,2114.8
+53377,janvier 2024,163795581,Nih Mustapha,17,2138.9
+53377,février 2024,163795581,Nih Mustapha,17,2135.06
+53377,mars 2024,163795581,Nih Mustapha,17,2239.54
+53377,avril 2024,163795581,Nih Mustapha,17,2348.27
+53377,mai 2024,163795581,Nih Mustapha,17,2431.91
+53377,juin 2024,163795581,Nih Mustapha,17,2414.97
+53377,juillet 2024,163795581,Nih Mustapha,17,2402.46
+53377,août 2024,163795581,Nih Mustapha,17,2407.21
+53377,septembre 2024,163795581,Nih Mustapha,17,2391.15
+53377,octobre 2024,163795581,Nih Mustapha,17,2379.0
+53377,novembre 2024,163795581,Nih Mustapha,17,2480.52
+53377,décembre 2024,163795581,Nih Mustapha,17,2560.04
+53377,décembre 2023,165601048,Er Rachdi Hakim,0,0.0
+53377,janvier 2024,165601048,Er Rachdi Hakim,0,0.0
+53377,février 2024,165601048,Er Rachdi Hakim,0,0.0
+53377,mars 2024,165601048,Er Rachdi Hakim,0,0.0
+53377,avril 2024,165601048,Er Rachdi Hakim,0,0.0
+53377,mai 2024,165601048,Er Rachdi Hakim,0,0.0
+53377,juin 2024,165601048,Er Rachdi Hakim,0,0.0
+53377,juillet 2024,165601048,Er Rachdi Hakim,0,0.0
+53377,août 2024,165601048,Er Rachdi Hakim,0,0.0
+53377,septembre 2024,165601048,Er Rachdi Hakim,0,0.0
+53377,octobre 2024,165601048,Er Rachdi Hakim,0,0.0
+53377,novembre 2024,165601048,Er Rachdi Hakim,0,0.0
+53377,décembre 2024,165601048,Er Rachdi Hakim,0,0.0
+53377,décembre 2023,169119488,Taina Mohamed,18,2239.2
+53377,janvier 2024,169119488,Taina Mohamed,18,2310.85
+53377,février 2024,169119488,Taina Mohamed,18,2246.93
+53377,mars 2024,169119488,Taina Mohamed,18,2220.98
+53377,avril 2024,169119488,Taina Mohamed,18,2282.08
+53377,mai 2024,169119488,Taina Mohamed,18,2272.17
+53377,juin 2024,169119488,Taina Mohamed,18,2250.71
+53377,juillet 2024,169119488,Taina Mohamed,18,2352.15
+53377,août 2024,169119488,Taina Mohamed,18,2402.54
+53377,septembre 2024,169119488,Taina Mohamed,18,2424.55
+53377,octobre 2024,169119488,Taina Mohamed,18,2430.0
+53377,novembre 2024,169119488,Taina Mohamed,18,2530.77
+53377,décembre 2024,169119488,Taina Mohamed,18,2530.07
+53377,décembre 2023,173958674,Kacim Aziz,0,0.0
+53377,janvier 2024,173958674,Kacim Aziz,0,0.0
+53377,février 2024,173958674,Kacim Aziz,0,0.0
+53377,mars 2024,173958674,Kacim Aziz,0,0.0
+53377,avril 2024,173958674,Kacim Aziz,0,0.0
+53377,mai 2024,173958674,Kacim Aziz,0,0.0
+53377,juin 2024,173958674,Kacim Aziz,0,0.0
+53377,juillet 2024,173958674,Kacim Aziz,0,0.0
+53377,août 2024,173958674,Kacim Aziz,0,0.0
+53377,septembre 2024,173958674,Kacim Aziz,0,0.0
+53377,octobre 2024,173958674,Kacim Aziz,0,0.0
+53377,novembre 2024,173958674,Kacim Aziz,0,0.0
+53377,décembre 2024,173958674,Kacim Aziz,0,0.0
+53377,décembre 2023,174221137,Ezzair Rachid,17,2220.54
+53377,janvier 2024,174221137,Ezzair Rachid,17,2190.52
+53377,février 2024,174221137,Ezzair Rachid,17,2260.19
+53377,mars 2024,174221137,Ezzair Rachid,17,2352.55
+53377,avril 2024,174221137,Ezzair Rachid,17,2283.82
+53377,mai 2024,174221137,Ezzair Rachid,17,2265.48
+53377,juin 2024,174221137,Ezzair Rachid,17,2372.43
+53377,juillet 2024,174221137,Ezzair Rachid,17,2420.23
+53377,août 2024,174221137,Ezzair Rachid,17,2366.61
+53377,septembre 2024,174221137,Ezzair Rachid,17,2430.0
+53377,octobre 2024,174221137,Ezzair Rachid,17,2449.31
+53377,novembre 2024,174221137,Ezzair Rachid,17,2482.67
+53377,décembre 2024,174221137,Ezzair Rachid,17,2416.32
+53377,décembre 2023,175101734,Laachachi Abdelmalek,26,5361.0
+53377,janvier 2024,175101734,Laachachi Abdelmalek,26,5259.14
+53377,février 2024,175101734,Laachachi Abdelmalek,26,5106.32
+53377,mars 2024,175101734,Laachachi Abdelmalek,26,5310.35
+53377,avril 2024,175101734,Laachachi Abdelmalek,26,5466.92
+53377,mai 2024,175101734,Laachachi Abdelmalek,26,5549.42
+53377,juin 2024,175101734,Laachachi Abdelmalek,26,5604.38
+53377,juillet 2024,175101734,Laachachi Abdelmalek,26,5703.3
+53377,août 2024,175101734,Laachachi Abdelmalek,26,5637.11
+53377,septembre 2024,175101734,Laachachi Abdelmalek,26,5813.47
+53377,octobre 2024,175101734,Laachachi Abdelmalek,26,5727.8
+53377,novembre 2024,175101734,Laachachi Abdelmalek,26,5670.92
+53377,décembre 2024,175101734,Laachachi Abdelmalek,26,5833.75
+53377,décembre 2023,175593171,El Haouzi Mohamed,0,0.0
+53377,janvier 2024,175593171,El Haouzi Mohamed,0,0.0
+53377,février 2024,175593171,El Haouzi Mohamed,0,0.0
+53377,mars 2024,175593171,El Haouzi Mohamed,0,0.0
+53377,avril 2024,175593171,El Haouzi Mohamed,0,0.0
+53377,mai 2024,175593171,El Haouzi Mohamed,0,0.0
+53377,juin 2024,175593171,El Haouzi Mohamed,0,0.0
+53377,juillet 2024,175593171,El Haouzi Mohamed,0,0.0
+53377,août 2024,175593171,El Haouzi Mohamed,0,0.0
+53377,septembre 2024,175593171,El Haouzi Mohamed,0,0.0
+53377,octobre 2024,175593171,El Haouzi Mohamed,0,0.0
+53377,novembre 2024,175593171,El Haouzi Mohamed,0,0.0
+53377,décembre 2024,175593171,El Haouzi Mohamed,0,0.0
+53377,décembre 2023,180147088,Rekik Naoual,26,4289.08
+53377,janvier 2024,180147088,Rekik Naoual,26,4218.77
+53377,février 2024,180147088,Rekik Naoual,26,4105.7
+53377,mars 2024,180147088,Rekik Naoual,26,4222.55
+53377,avril 2024,180147088,Rekik Naoual,26,4272.77
+53377,mai 2024,180147088,Rekik Naoual,26,4240.62
+53377,juin 2024,180147088,Rekik Naoual,26,4219.19
+53377,juillet 2024,180147088,Rekik Naoual,26,4327.46
+53377,août 2024,180147088,Rekik Naoual,26,4333.1
+53377,septembre 2024,180147088,Rekik Naoual,26,4275.39
+53377,octobre 2024,180147088,Rekik Naoual,26,4283.81
+53377,novembre 2024,180147088,Rekik Naoual,26,4180.35
+53377,décembre 2024,180147088,Rekik Naoual,26,4182.16
+53377,décembre 2023,180683660,Zibat Hafid,23,3290.38
+53377,janvier 2024,180683660,Zibat Hafid,23,3439.87
+53377,février 2024,180683660,Zibat Hafid,23,3346.55
+53377,mars 2024,180683660,Zibat Hafid,23,3416.5
+53377,avril 2024,180683660,Zibat Hafid,23,3474.24
+53377,mai 2024,180683660,Zibat Hafid,23,3646.48
+53377,juin 2024,180683660,Zibat Hafid,23,3551.91
+53377,juillet 2024,180683660,Zibat Hafid,23,3598.84
+53377,août 2024,180683660,Zibat Hafid,23,3679.59
+53377,septembre 2024,180683660,Zibat Hafid,23,3760.71
+53377,octobre 2024,180683660,Zibat Hafid,23,3934.07
+53377,novembre 2024,180683660,Zibat Hafid,23,4055.11
+53377,décembre 2024,180683660,Zibat Hafid,23,3954.32
+53377,décembre 2023,181689196,Sabahi Hamza,0,0.0
+53377,janvier 2024,181689196,Sabahi Hamza,0,0.0
+53377,février 2024,181689196,Sabahi Hamza,0,0.0
+53377,mars 2024,181689196,Sabahi Hamza,0,0.0
+53377,avril 2024,181689196,Sabahi Hamza,0,0.0
+53377,mai 2024,181689196,Sabahi Hamza,0,0.0
+53377,juin 2024,181689196,Sabahi Hamza,0,0.0
+53377,juillet 2024,181689196,Sabahi Hamza,0,0.0
+53377,août 2024,181689196,Sabahi Hamza,0,0.0
+53377,septembre 2024,181689196,Sabahi Hamza,0,0.0
+53377,octobre 2024,181689196,Sabahi Hamza,0,0.0
+53377,novembre 2024,181689196,Sabahi Hamza,0,0.0
+53377,décembre 2024,181689196,Sabahi Hamza,0,0.0
+53377,décembre 2023,188090242,Nhari Driss,0,0.0
+53377,janvier 2024,188090242,Nhari Driss,0,0.0
+53377,février 2024,188090242,Nhari Driss,0,0.0
+53377,mars 2024,188090242,Nhari Driss,0,0.0
+53377,avril 2024,188090242,Nhari Driss,0,0.0
+53377,mai 2024,188090242,Nhari Driss,0,0.0
+53377,juin 2024,188090242,Nhari Driss,0,0.0
+53377,juillet 2024,188090242,Nhari Driss,0,0.0
+53377,août 2024,188090242,Nhari Driss,0,0.0
+53377,septembre 2024,188090242,Nhari Driss,0,0.0
+53377,octobre 2024,188090242,Nhari Driss,0,0.0
+53377,novembre 2024,188090242,Nhari Driss,0,0.0
+53377,décembre 2024,188090242,Nhari Driss,0,0.0
+53377,décembre 2023,188252863,Bassam M Hammed,17,2326.28
+53377,janvier 2024,188252863,Bassam M Hammed,17,2328.67
+53377,février 2024,188252863,Bassam M Hammed,17,2338.64
+53377,mars 2024,188252863,Bassam M Hammed,17,2427.28
+53377,avril 2024,188252863,Bassam M Hammed,17,2375.3
+53377,mai 2024,188252863,Bassam M Hammed,17,2377.53
+53377,juin 2024,188252863,Bassam M Hammed,17,2308.94
+53377,juillet 2024,188252863,Bassam M Hammed,17,2401.1
+53377,août 2024,188252863,Bassam M Hammed,17,2495.78
+53377,septembre 2024,188252863,Bassam M Hammed,17,2550.61
+53377,octobre 2024,188252863,Bassam M Hammed,17,2564.59
+53377,novembre 2024,188252863,Bassam M Hammed,17,2601.85
+53377,décembre 2024,188252863,Bassam M Hammed,17,2724.33
+53377,décembre 2023,188507870,Lamghari Ahmed,17,2114.8
+53377,janvier 2024,188507870,Lamghari Ahmed,17,2091.32
+53377,février 2024,188507870,Lamghari Ahmed,17,2141.42
+53377,mars 2024,188507870,Lamghari Ahmed,17,2087.71
+53377,avril 2024,188507870,Lamghari Ahmed,17,2154.62
+53377,mai 2024,188507870,Lamghari Ahmed,17,2135.83
+53377,juin 2024,188507870,Lamghari Ahmed,17,2108.99
+53377,juillet 2024,188507870,Lamghari Ahmed,17,2204.71
+53377,août 2024,188507870,Lamghari Ahmed,17,2201.2
+53377,septembre 2024,188507870,Lamghari Ahmed,17,2199.49
+53377,octobre 2024,188507870,Lamghari Ahmed,17,2164.38
+53377,novembre 2024,188507870,Lamghari Ahmed,17,2259.21
+53377,décembre 2024,188507870,Lamghari Ahmed,17,2227.14
+53377,décembre 2023,190205462,El Gouj Abderrahim,26,3396.12
+53377,janvier 2024,190205462,El Gouj Abderrahim,26,3563.16
+53377,février 2024,190205462,El Gouj Abderrahim,26,3725.54
+53377,mars 2024,190205462,El Gouj Abderrahim,26,3676.37
+53377,avril 2024,190205462,El Gouj Abderrahim,26,3781.86
+53377,mai 2024,190205462,El Gouj Abderrahim,26,3796.14
+53377,juin 2024,190205462,El Gouj Abderrahim,26,3758.22
+53377,juillet 2024,190205462,El Gouj Abderrahim,26,3744.82
+53377,août 2024,190205462,El Gouj Abderrahim,26,3860.31
+53377,septembre 2024,190205462,El Gouj Abderrahim,26,3941.26
+53377,octobre 2024,190205462,El Gouj Abderrahim,26,3909.48
+53377,novembre 2024,190205462,El Gouj Abderrahim,26,3860.9
+53377,décembre 2024,190205462,El Gouj Abderrahim,26,3812.63
+53377,décembre 2023,192180302,El Bouchikhi Bouchta,9,1299.98
+53377,janvier 2024,192180302,El Bouchikhi Bouchta,9,1305.12
+53377,février 2024,192180302,El Bouchikhi Bouchta,9,1314.39
+53377,mars 2024,192180302,El Bouchikhi Bouchta,9,1365.47
+53377,avril 2024,192180302,El Bouchikhi Bouchta,9,1428.38
+53377,mai 2024,192180302,El Bouchikhi Bouchta,9,1425.35
+53377,juin 2024,192180302,El Bouchikhi Bouchta,9,1453.35
+53377,juillet 2024,192180302,El Bouchikhi Bouchta,9,1410.83
+53377,août 2024,192180302,El Bouchikhi Bouchta,9,1477.54
+53377,septembre 2024,192180302,El Bouchikhi Bouchta,9,1488.21
+53377,octobre 2024,192180302,El Bouchikhi Bouchta,9,1511.52
+53377,novembre 2024,192180302,El Bouchikhi Bouchta,9,1471.65
+53377,décembre 2024,192180302,El Bouchikhi Bouchta,9,1469.64
+53377,décembre 2023,193645368,Rachidi Mbarek,0,0.0
+53377,janvier 2024,193645368,Rachidi Mbarek,0,0.0
+53377,février 2024,193645368,Rachidi Mbarek,0,0.0
+53377,mars 2024,193645368,Rachidi Mbarek,0,0.0
+53377,avril 2024,193645368,Rachidi Mbarek,0,0.0
+53377,mai 2024,193645368,Rachidi Mbarek,0,0.0
+53377,juin 2024,193645368,Rachidi Mbarek,0,0.0
+53377,juillet 2024,193645368,Rachidi Mbarek,0,0.0
+53377,août 2024,193645368,Rachidi Mbarek,0,0.0
+53377,septembre 2024,193645368,Rachidi Mbarek,0,0.0
+53377,octobre 2024,193645368,Rachidi Mbarek,0,0.0
+53377,novembre 2024,193645368,Rachidi Mbarek,0,0.0
+53377,décembre 2024,193645368,Rachidi Mbarek,0,0.0
+53377,décembre 2023,195589887,Sabahi Bouchta,10,1306.2
+53377,janvier 2024,195589887,Sabahi Bouchta,10,1358.74
+53377,février 2024,195589887,Sabahi Bouchta,10,1397.0
+53377,mars 2024,195589887,Sabahi Bouchta,10,1453.99
+53377,avril 2024,195589887,Sabahi Bouchta,10,1487.13
+53377,mai 2024,195589887,Sabahi Bouchta,10,1455.3
+53377,juin 2024,195589887,Sabahi Bouchta,10,1456.65
+53377,juillet 2024,195589887,Sabahi Bouchta,10,1522.67
+53377,août 2024,195589887,Sabahi Bouchta,10,1551.69
+53377,septembre 2024,195589887,Sabahi Bouchta,10,1605.91
+53377,octobre 2024,195589887,Sabahi Bouchta,10,1643.77
+53377,novembre 2024,195589887,Sabahi Bouchta,10,1643.72
+53377,décembre 2024,195589887,Sabahi Bouchta,10,1673.19
+53377,décembre 2023,195989513,Bennani Ismail,26,3234.4
+53377,janvier 2024,195989513,Bennani Ismail,26,3281.63
+53377,février 2024,195989513,Bennani Ismail,26,3238.52
+53377,mars 2024,195989513,Bennani Ismail,26,3170.36
+53377,avril 2024,195989513,Bennani Ismail,26,3276.34
+53377,mai 2024,195989513,Bennani Ismail,26,3411.73
+53377,juin 2024,195989513,Bennani Ismail,26,3569.03
+53377,juillet 2024,195989513,Bennani Ismail,26,3715.2
+53377,août 2024,195989513,Bennani Ismail,26,3836.19
+53377,septembre 2024,195989513,Bennani Ismail,26,3954.63
+53377,octobre 2024,195989513,Bennani Ismail,26,4149.69
+53377,novembre 2024,195989513,Bennani Ismail,26,4214.0
+53377,décembre 2024,195989513,Bennani Ismail,26,4174.69
+53377,décembre 2023,196536267,Hammadi Mohammed,12,1492.8
+53377,janvier 2024,196536267,Hammadi Mohammed,12,1481.46
+53377,février 2024,196536267,Hammadi Mohammed,12,1482.87
+53377,mars 2024,196536267,Hammadi Mohammed,12,1556.07
+53377,avril 2024,196536267,Hammadi Mohammed,12,1532.88
+53377,mai 2024,196536267,Hammadi Mohammed,12,1538.24
+53377,juin 2024,196536267,Hammadi Mohammed,12,1520.7
+53377,juillet 2024,196536267,Hammadi Mohammed,12,1565.05
+53377,août 2024,196536267,Hammadi Mohammed,12,1595.25
+53377,septembre 2024,196536267,Hammadi Mohammed,12,1645.73
+53377,octobre 2024,196536267,Hammadi Mohammed,12,1699.68
+53377,novembre 2024,196536267,Hammadi Mohammed,12,1761.68
+53377,décembre 2024,196536267,Hammadi Mohammed,12,1738.12
+53377,décembre 2023,197119830,Jamai Mounir Abdelmajid,23,2861.2
+53377,janvier 2024,197119830,Jamai Mounir Abdelmajid,23,2914.54
+53377,février 2024,197119830,Jamai Mounir Abdelmajid,23,2950.8
+53377,mars 2024,197119830,Jamai Mounir Abdelmajid,23,2869.47
+53377,avril 2024,197119830,Jamai Mounir Abdelmajid,23,2800.15
+53377,mai 2024,197119830,Jamai Mounir Abdelmajid,23,2767.56
+53377,juin 2024,197119830,Jamai Mounir Abdelmajid,23,2685.04
+53377,juillet 2024,197119830,Jamai Mounir Abdelmajid,23,2611.59
+53377,août 2024,197119830,Jamai Mounir Abdelmajid,23,2631.33
+53377,septembre 2024,197119830,Jamai Mounir Abdelmajid,23,2728.64
+53377,octobre 2024,197119830,Jamai Mounir Abdelmajid,23,2685.18
+53377,novembre 2024,197119830,Jamai Mounir Abdelmajid,23,2706.58
+53377,décembre 2024,197119830,Jamai Mounir Abdelmajid,23,2686.48
+53377,décembre 2023,197176731,Nih Balid,17,2114.8
+53377,janvier 2024,197176731,Nih Balid,17,2160.92
+53377,février 2024,197176731,Nih Balid,17,2199.37
+53377,mars 2024,197176731,Nih Balid,17,2248.48
+53377,avril 2024,197176731,Nih Balid,17,2353.94
+53377,mai 2024,197176731,Nih Balid,17,2324.02
+53377,juin 2024,197176731,Nih Balid,17,2260.18
+53377,juillet 2024,197176731,Nih Balid,17,2262.36
+53377,août 2024,197176731,Nih Balid,17,2276.31
+53377,septembre 2024,197176731,Nih Balid,17,2288.04
+53377,octobre 2024,197176731,Nih Balid,17,2244.18
+53377,novembre 2024,197176731,Nih Balid,17,2353.48
+53377,décembre 2024,197176731,Nih Balid,17,2392.83
+53377,décembre 2023,910240516,Rami Abdenbi,0,0.0
+53377,janvier 2024,910240516,Rami Abdenbi,0,0.0
+53377,février 2024,910240516,Rami Abdenbi,0,0.0
+53377,mars 2024,910240516,Rami Abdenbi,0,0.0
+53377,avril 2024,910240516,Rami Abdenbi,0,0.0
+53377,mai 2024,910240516,Rami Abdenbi,0,0.0
+53377,juin 2024,910240516,Rami Abdenbi,0,0.0
+53377,juillet 2024,910240516,Rami Abdenbi,0,0.0
+53377,août 2024,910240516,Rami Abdenbi,0,0.0
+53377,septembre 2024,910240516,Rami Abdenbi,0,0.0
+53377,octobre 2024,910240516,Rami Abdenbi,0,0.0
+53377,novembre 2024,910240516,Rami Abdenbi,0,0.0
+53377,décembre 2024,910240516,Rami Abdenbi,0,0.0
+53377,décembre 2023,926011622,Bibiche Adel,17,2114.8
+53377,janvier 2024,926011622,Bibiche Adel,17,2214.64
+53377,février 2024,926011622,Bibiche Adel,17,2278.21
+53377,mars 2024,926011622,Bibiche Adel,17,2344.95
+53377,avril 2024,926011622,Bibiche Adel,17,2346.38
+53377,mai 2024,926011622,Bibiche Adel,17,2373.11
+53377,juin 2024,926011622,Bibiche Adel,17,2424.48
+53377,juillet 2024,926011622,Bibiche Adel,17,2390.72
+53377,août 2024,926011622,Bibiche Adel,17,2389.15
+53377,septembre 2024,926011622,Bibiche Adel,17,2393.64
+53377,octobre 2024,926011622,Bibiche Adel,17,2399.63
+53377,novembre 2024,926011622,Bibiche Adel,17,2440.47
+53377,décembre 2024,926011622,Bibiche Adel,17,2535.38

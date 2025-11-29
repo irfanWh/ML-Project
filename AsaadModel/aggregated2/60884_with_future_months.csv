@@ -1,0 +1,378 @@
+ID_adherent,month,immatriculationNumber,full_name,nombre_jours,salaire
+60884,décembre 2023,102705773,Tahiri Aitouna,16,2101.89
+60884,janvier 2024,102705773,Tahiri Aitouna,16,2088.35
+60884,février 2024,102705773,Tahiri Aitouna,16,2154.01
+60884,mars 2024,102705773,Tahiri Aitouna,16,2222.21
+60884,avril 2024,102705773,Tahiri Aitouna,16,2164.69
+60884,mai 2024,102705773,Tahiri Aitouna,16,2112.4
+60884,juin 2024,102705773,Tahiri Aitouna,16,2081.42
+60884,juillet 2024,102705773,Tahiri Aitouna,16,2098.21
+60884,août 2024,102705773,Tahiri Aitouna,16,2050.01
+60884,septembre 2024,102705773,Tahiri Aitouna,16,1988.58
+60884,octobre 2024,102705773,Tahiri Aitouna,16,2007.58
+60884,novembre 2024,102705773,Tahiri Aitouna,16,1968.76
+60884,décembre 2024,102705773,Tahiri Aitouna,16,1991.7
+60884,décembre 2023,109700057,Taleb Fatima,26,4781.75
+60884,janvier 2024,109700057,Taleb Fatima,26,4995.41
+60884,février 2024,109700057,Taleb Fatima,26,4918.12
+60884,mars 2024,109700057,Taleb Fatima,26,4871.08
+60884,avril 2024,109700057,Taleb Fatima,26,4859.47
+60884,mai 2024,109700057,Taleb Fatima,26,4917.68
+60884,juin 2024,109700057,Taleb Fatima,26,4830.79
+60884,juillet 2024,109700057,Taleb Fatima,26,4826.13
+60884,août 2024,109700057,Taleb Fatima,26,4897.48
+60884,septembre 2024,109700057,Taleb Fatima,26,4786.32
+60884,octobre 2024,109700057,Taleb Fatima,26,4709.73
+60884,novembre 2024,109700057,Taleb Fatima,26,4719.14
+60884,décembre 2024,109700057,Taleb Fatima,26,4754.41
+60884,décembre 2023,114101761,Bounaim Hicham,4,652.72
+60884,janvier 2024,114101761,Bounaim Hicham,4,665.98
+60884,février 2024,114101761,Bounaim Hicham,4,683.57
+60884,mars 2024,114101761,Bounaim Hicham,4,716.72
+60884,avril 2024,114101761,Bounaim Hicham,4,727.33
+60884,mai 2024,114101761,Bounaim Hicham,4,749.68
+60884,juin 2024,114101761,Bounaim Hicham,4,742.02
+60884,juillet 2024,114101761,Bounaim Hicham,4,772.47
+60884,août 2024,114101761,Bounaim Hicham,4,809.52
+60884,septembre 2024,114101761,Bounaim Hicham,4,842.64
+60884,octobre 2024,114101761,Bounaim Hicham,4,835.89
+60884,novembre 2024,114101761,Bounaim Hicham,4,859.76
+60884,décembre 2024,114101761,Bounaim Hicham,4,885.4
+60884,décembre 2023,115576442,Nachit Mhamed,4,681.1
+60884,janvier 2024,115576442,Nachit Mhamed,4,690.88
+60884,février 2024,115576442,Nachit Mhamed,4,697.82
+60884,mars 2024,115576442,Nachit Mhamed,4,698.7
+60884,avril 2024,115576442,Nachit Mhamed,4,731.65
+60884,mai 2024,115576442,Nachit Mhamed,4,720.75
+60884,juin 2024,115576442,Nachit Mhamed,4,709.94
+60884,juillet 2024,115576442,Nachit Mhamed,4,733.54
+60884,août 2024,115576442,Nachit Mhamed,4,714.13
+60884,septembre 2024,115576442,Nachit Mhamed,4,716.69
+60884,octobre 2024,115576442,Nachit Mhamed,4,717.58
+60884,novembre 2024,115576442,Nachit Mhamed,4,726.23
+60884,décembre 2024,115576442,Nachit Mhamed,4,739.93
+60884,décembre 2023,117397672,Taleb Adil,4,610.03
+60884,janvier 2024,117397672,Taleb Adil,4,635.08
+60884,février 2024,117397672,Taleb Adil,4,643.49
+60884,mars 2024,117397672,Taleb Adil,4,653.79
+60884,avril 2024,117397672,Taleb Adil,4,667.2
+60884,mai 2024,117397672,Taleb Adil,4,690.93
+60884,juin 2024,117397672,Taleb Adil,4,703.19
+60884,juillet 2024,117397672,Taleb Adil,4,719.25
+60884,août 2024,117397672,Taleb Adil,4,714.1
+60884,septembre 2024,117397672,Taleb Adil,4,748.59
+60884,octobre 2024,117397672,Taleb Adil,4,772.35
+60884,novembre 2024,117397672,Taleb Adil,4,807.04
+60884,décembre 2024,117397672,Taleb Adil,4,783.3
+60884,décembre 2023,118196594,Bouna Zahra,5,628.28
+60884,janvier 2024,118196594,Bouna Zahra,5,637.41
+60884,février 2024,118196594,Bouna Zahra,5,634.77
+60884,mars 2024,118196594,Bouna Zahra,5,637.96
+60884,avril 2024,118196594,Bouna Zahra,5,628.66
+60884,mai 2024,118196594,Bouna Zahra,5,636.52
+60884,juin 2024,118196594,Bouna Zahra,5,665.75
+60884,juillet 2024,118196594,Bouna Zahra,5,694.37
+60884,août 2024,118196594,Bouna Zahra,5,684.0
+60884,septembre 2024,118196594,Bouna Zahra,5,666.75
+60884,octobre 2024,118196594,Bouna Zahra,5,647.79
+60884,novembre 2024,118196594,Bouna Zahra,5,674.01
+60884,décembre 2024,118196594,Bouna Zahra,5,666.32
+60884,décembre 2023,120499051,Azmi Hassan,4,614.4
+60884,janvier 2024,120499051,Azmi Hassan,4,614.41
+60884,février 2024,120499051,Azmi Hassan,4,618.44
+60884,mars 2024,120499051,Azmi Hassan,4,617.87
+60884,avril 2024,120499051,Azmi Hassan,4,614.09
+60884,mai 2024,120499051,Azmi Hassan,4,599.11
+60884,juin 2024,120499051,Azmi Hassan,4,614.25
+60884,juillet 2024,120499051,Azmi Hassan,4,627.78
+60884,août 2024,120499051,Azmi Hassan,4,654.75
+60884,septembre 2024,120499051,Azmi Hassan,4,645.91
+60884,octobre 2024,120499051,Azmi Hassan,4,656.95
+60884,novembre 2024,120499051,Azmi Hassan,4,650.89
+60884,décembre 2024,120499051,Azmi Hassan,4,669.59
+60884,décembre 2023,121097557,Karzouzi Abdennebi,5,685.39
+60884,janvier 2024,121097557,Karzouzi Abdennebi,5,690.31
+60884,février 2024,121097557,Karzouzi Abdennebi,5,682.64
+60884,mars 2024,121097557,Karzouzi Abdennebi,5,690.68
+60884,avril 2024,121097557,Karzouzi Abdennebi,5,703.85
+60884,mai 2024,121097557,Karzouzi Abdennebi,5,710.6
+60884,juin 2024,121097557,Karzouzi Abdennebi,5,725.21
+60884,juillet 2024,121097557,Karzouzi Abdennebi,5,751.91
+60884,août 2024,121097557,Karzouzi Abdennebi,5,782.11
+60884,septembre 2024,121097557,Karzouzi Abdennebi,5,813.03
+60884,octobre 2024,121097557,Karzouzi Abdennebi,5,790.19
+60884,novembre 2024,121097557,Karzouzi Abdennebi,5,775.0
+60884,décembre 2024,121097557,Karzouzi Abdennebi,5,782.26
+60884,décembre 2023,123066055,Jayd Mohamed,26,3790.9
+60884,janvier 2024,123066055,Jayd Mohamed,26,3972.28
+60884,février 2024,123066055,Jayd Mohamed,26,4064.01
+60884,mars 2024,123066055,Jayd Mohamed,26,4184.89
+60884,avril 2024,123066055,Jayd Mohamed,26,4221.29
+60884,mai 2024,123066055,Jayd Mohamed,26,4415.58
+60884,juin 2024,123066055,Jayd Mohamed,26,4450.68
+60884,juillet 2024,123066055,Jayd Mohamed,26,4496.69
+60884,août 2024,123066055,Jayd Mohamed,26,4711.3
+60884,septembre 2024,123066055,Jayd Mohamed,26,4591.01
+60884,octobre 2024,123066055,Jayd Mohamed,26,4761.91
+60884,novembre 2024,123066055,Jayd Mohamed,26,4794.29
+60884,décembre 2024,123066055,Jayd Mohamed,26,4772.27
+60884,décembre 2023,123396949,El Houtaini Mohamed,26,2900.62
+60884,janvier 2024,123396949,El Houtaini Mohamed,26,2863.6
+60884,février 2024,123396949,El Houtaini Mohamed,26,2979.0
+60884,mars 2024,123396949,El Houtaini Mohamed,26,3122.86
+60884,avril 2024,123396949,El Houtaini Mohamed,26,3174.95
+60884,mai 2024,123396949,El Houtaini Mohamed,26,3275.64
+60884,juin 2024,123396949,El Houtaini Mohamed,26,3231.52
+60884,juillet 2024,123396949,El Houtaini Mohamed,26,3352.97
+60884,août 2024,123396949,El Houtaini Mohamed,26,3464.53
+60884,septembre 2024,123396949,El Houtaini Mohamed,26,3522.11
+60884,octobre 2024,123396949,El Houtaini Mohamed,26,3573.71
+60884,novembre 2024,123396949,El Houtaini Mohamed,26,3591.11
+60884,décembre 2024,123396949,El Houtaini Mohamed,26,3707.0
+60884,décembre 2023,126917750,Azaroual Abderrahim,26,2900.62
+60884,janvier 2024,126917750,Azaroual Abderrahim,26,2856.94
+60884,février 2024,126917750,Azaroual Abderrahim,26,2837.29
+60884,mars 2024,126917750,Azaroual Abderrahim,26,2767.64
+60884,avril 2024,126917750,Azaroual Abderrahim,26,2805.83
+60884,mai 2024,126917750,Azaroual Abderrahim,26,2880.12
+60884,juin 2024,126917750,Azaroual Abderrahim,26,2835.16
+60884,juillet 2024,126917750,Azaroual Abderrahim,26,2844.87
+60884,août 2024,126917750,Azaroual Abderrahim,26,2827.37
+60884,septembre 2024,126917750,Azaroual Abderrahim,26,2898.15
+60884,octobre 2024,126917750,Azaroual Abderrahim,26,2851.14
+60884,novembre 2024,126917750,Azaroual Abderrahim,26,2951.05
+60884,décembre 2024,126917750,Azaroual Abderrahim,26,3054.98
+60884,décembre 2023,128753178,Elhoutaini Elahcen,4,525.47
+60884,janvier 2024,128753178,Elhoutaini Elahcen,4,523.5
+60884,février 2024,128753178,Elhoutaini Elahcen,4,531.15
+60884,mars 2024,128753178,Elhoutaini Elahcen,4,531.76
+60884,avril 2024,128753178,Elhoutaini Elahcen,4,533.86
+60884,mai 2024,128753178,Elhoutaini Elahcen,4,530.9
+60884,juin 2024,128753178,Elhoutaini Elahcen,4,540.26
+60884,juillet 2024,128753178,Elhoutaini Elahcen,4,561.65
+60884,août 2024,128753178,Elhoutaini Elahcen,4,553.25
+60884,septembre 2024,128753178,Elhoutaini Elahcen,4,560.04
+60884,octobre 2024,128753178,Elhoutaini Elahcen,4,546.83
+60884,novembre 2024,128753178,Elhoutaini Elahcen,4,555.01
+60884,décembre 2024,128753178,Elhoutaini Elahcen,4,538.81
+60884,décembre 2023,128753376,Saber Tarik,4,547.36
+60884,janvier 2024,128753376,Saber Tarik,4,541.18
+60884,février 2024,128753376,Saber Tarik,4,542.2
+60884,mars 2024,128753376,Saber Tarik,4,532.0
+60884,avril 2024,128753376,Saber Tarik,4,522.89
+60884,mai 2024,128753376,Saber Tarik,4,544.96
+60884,juin 2024,128753376,Saber Tarik,4,540.02
+60884,juillet 2024,128753376,Saber Tarik,4,534.1
+60884,août 2024,128753376,Saber Tarik,4,546.84
+60884,septembre 2024,128753376,Saber Tarik,4,539.15
+60884,octobre 2024,128753376,Saber Tarik,4,528.75
+60884,novembre 2024,128753376,Saber Tarik,4,551.71
+60884,décembre 2024,128753376,Saber Tarik,4,577.82
+60884,décembre 2023,130549771,Aousaibi El Khadem,5,656.83
+60884,janvier 2024,130549771,Aousaibi El Khadem,5,685.65
+60884,février 2024,130549771,Aousaibi El Khadem,5,678.83
+60884,mars 2024,130549771,Aousaibi El Khadem,5,666.09
+60884,avril 2024,130549771,Aousaibi El Khadem,5,680.44
+60884,mai 2024,130549771,Aousaibi El Khadem,5,703.24
+60884,juin 2024,130549771,Aousaibi El Khadem,5,695.63
+60884,juillet 2024,130549771,Aousaibi El Khadem,5,703.6
+60884,août 2024,130549771,Aousaibi El Khadem,5,712.24
+60884,septembre 2024,130549771,Aousaibi El Khadem,5,694.23
+60884,octobre 2024,130549771,Aousaibi El Khadem,5,722.15
+60884,novembre 2024,130549771,Aousaibi El Khadem,5,747.94
+60884,décembre 2024,130549771,Aousaibi El Khadem,5,783.57
+60884,décembre 2023,133902140,El Houtaini Molid,5,685.39
+60884,janvier 2024,133902140,El Houtaini Molid,5,672.43
+60884,février 2024,133902140,El Houtaini Molid,5,674.75
+60884,mars 2024,133902140,El Houtaini Molid,5,655.37
+60884,avril 2024,133902140,El Houtaini Molid,5,644.01
+60884,mai 2024,133902140,El Houtaini Molid,5,670.44
+60884,juin 2024,133902140,El Houtaini Molid,5,657.23
+60884,juillet 2024,133902140,El Houtaini Molid,5,683.31
+60884,août 2024,133902140,El Houtaini Molid,5,716.03
+60884,septembre 2024,133902140,El Houtaini Molid,5,738.68
+60884,octobre 2024,133902140,El Houtaini Molid,5,772.4
+60884,novembre 2024,133902140,El Houtaini Molid,5,757.59
+60884,décembre 2024,133902140,El Houtaini Molid,5,784.17
+60884,décembre 2023,140112138,El Hilali Abderrahman,11,2497.61
+60884,janvier 2024,140112138,El Hilali Abderrahman,11,2498.77
+60884,février 2024,140112138,El Hilali Abderrahman,11,2507.33
+60884,mars 2024,140112138,El Hilali Abderrahman,11,2490.0
+60884,avril 2024,140112138,El Hilali Abderrahman,11,2457.53
+60884,mai 2024,140112138,El Hilali Abderrahman,11,2576.01
+60884,juin 2024,140112138,El Hilali Abderrahman,11,2524.41
+60884,juillet 2024,140112138,El Hilali Abderrahman,11,2468.69
+60884,août 2024,140112138,El Hilali Abderrahman,11,2570.92
+60884,septembre 2024,140112138,El Hilali Abderrahman,11,2615.15
+60884,octobre 2024,140112138,El Hilali Abderrahman,11,2682.26
+60884,novembre 2024,140112138,El Hilali Abderrahman,11,2793.92
+60884,décembre 2024,140112138,El Hilali Abderrahman,11,2876.55
+60884,décembre 2023,140521842,Ouazi Mohamed,4,663.63
+60884,janvier 2024,140521842,Ouazi Mohamed,4,663.22
+60884,février 2024,140521842,Ouazi Mohamed,4,673.69
+60884,mars 2024,140521842,Ouazi Mohamed,4,704.45
+60884,avril 2024,140521842,Ouazi Mohamed,4,690.42
+60884,mai 2024,140521842,Ouazi Mohamed,4,707.16
+60884,juin 2024,140521842,Ouazi Mohamed,4,714.76
+60884,juillet 2024,140521842,Ouazi Mohamed,4,702.85
+60884,août 2024,140521842,Ouazi Mohamed,4,689.74
+60884,septembre 2024,140521842,Ouazi Mohamed,4,713.71
+60884,octobre 2024,140521842,Ouazi Mohamed,4,713.43
+60884,novembre 2024,140521842,Ouazi Mohamed,4,712.19
+60884,décembre 2024,140521842,Ouazi Mohamed,4,741.56
+60884,décembre 2023,147503976,Kbady Mohamed,4,572.24
+60884,janvier 2024,147503976,Kbady Mohamed,4,583.83
+60884,février 2024,147503976,Kbady Mohamed,4,588.37
+60884,mars 2024,147503976,Kbady Mohamed,4,611.65
+60884,avril 2024,147503976,Kbady Mohamed,4,623.73
+60884,mai 2024,147503976,Kbady Mohamed,4,639.76
+60884,juin 2024,147503976,Kbady Mohamed,4,643.53
+60884,juillet 2024,147503976,Kbady Mohamed,4,658.73
+60884,août 2024,147503976,Kbady Mohamed,4,641.23
+60884,septembre 2024,147503976,Kbady Mohamed,4,634.78
+60884,octobre 2024,147503976,Kbady Mohamed,4,631.4
+60884,novembre 2024,147503976,Kbady Mohamed,4,656.11
+60884,décembre 2024,147503976,Kbady Mohamed,4,671.37
+60884,décembre 2023,159614753,Bousaibi Hasna,4,525.47
+60884,janvier 2024,159614753,Bousaibi Hasna,4,536.72
+60884,février 2024,159614753,Bousaibi Hasna,4,547.9
+60884,mars 2024,159614753,Bousaibi Hasna,4,532.36
+60884,avril 2024,159614753,Bousaibi Hasna,4,536.98
+60884,mai 2024,159614753,Bousaibi Hasna,4,525.71
+60884,juin 2024,159614753,Bousaibi Hasna,4,519.21
+60884,juillet 2024,159614753,Bousaibi Hasna,4,539.71
+60884,août 2024,159614753,Bousaibi Hasna,4,544.23
+60884,septembre 2024,159614753,Bousaibi Hasna,4,529.77
+60884,octobre 2024,159614753,Bousaibi Hasna,4,536.2
+60884,novembre 2024,159614753,Bousaibi Hasna,4,536.8
+60884,décembre 2024,159614753,Bousaibi Hasna,4,539.28
+60884,décembre 2023,162490736,Benamre Rachid,14,5356.34
+60884,janvier 2024,162490736,Benamre Rachid,14,5324.41
+60884,février 2024,162490736,Benamre Rachid,14,5295.05
+60884,mars 2024,162490736,Benamre Rachid,14,5447.55
+60884,avril 2024,162490736,Benamre Rachid,14,5705.36
+60884,mai 2024,162490736,Benamre Rachid,14,5822.36
+60884,juin 2024,162490736,Benamre Rachid,14,5754.52
+60884,juillet 2024,162490736,Benamre Rachid,14,5616.85
+60884,août 2024,162490736,Benamre Rachid,14,5713.66
+60884,septembre 2024,162490736,Benamre Rachid,14,5552.47
+60884,octobre 2024,162490736,Benamre Rachid,14,5724.95
+60884,novembre 2024,162490736,Benamre Rachid,14,5831.67
+60884,décembre 2024,162490736,Benamre Rachid,14,6073.68
+60884,décembre 2023,168059255,Bensaltana Abderrahman,4,652.72
+60884,janvier 2024,168059255,Bensaltana Abderrahman,4,635.95
+60884,février 2024,168059255,Bensaltana Abderrahman,4,656.09
+60884,mars 2024,168059255,Bensaltana Abderrahman,4,655.37
+60884,avril 2024,168059255,Bensaltana Abderrahman,4,681.83
+60884,mai 2024,168059255,Bensaltana Abderrahman,4,673.31
+60884,juin 2024,168059255,Bensaltana Abderrahman,4,664.22
+60884,juillet 2024,168059255,Bensaltana Abderrahman,4,665.9
+60884,août 2024,168059255,Bensaltana Abderrahman,4,692.4
+60884,septembre 2024,168059255,Bensaltana Abderrahman,4,691.43
+60884,octobre 2024,168059255,Bensaltana Abderrahman,4,701.18
+60884,novembre 2024,168059255,Bensaltana Abderrahman,4,702.05
+60884,décembre 2024,168059255,Bensaltana Abderrahman,4,697.88
+60884,décembre 2023,180006151,Dghoughi Rachid,4,597.12
+60884,janvier 2024,180006151,Dghoughi Rachid,4,589.11
+60884,février 2024,180006151,Dghoughi Rachid,4,607.21
+60884,mars 2024,180006151,Dghoughi Rachid,4,627.05
+60884,avril 2024,180006151,Dghoughi Rachid,4,614.14
+60884,mai 2024,180006151,Dghoughi Rachid,4,634.47
+60884,juin 2024,180006151,Dghoughi Rachid,4,655.36
+60884,juillet 2024,180006151,Dghoughi Rachid,4,635.74
+60884,août 2024,180006151,Dghoughi Rachid,4,652.9
+60884,septembre 2024,180006151,Dghoughi Rachid,4,654.54
+60884,octobre 2024,180006151,Dghoughi Rachid,4,642.83
+60884,novembre 2024,180006151,Dghoughi Rachid,4,672.68
+60884,décembre 2024,180006151,Dghoughi Rachid,4,686.64
+60884,décembre 2023,183708051,Asri Abdelhadi,4,572.24
+60884,janvier 2024,183708051,Asri Abdelhadi,4,566.54
+60884,février 2024,183708051,Asri Abdelhadi,4,579.82
+60884,mars 2024,183708051,Asri Abdelhadi,4,579.0
+60884,avril 2024,183708051,Asri Abdelhadi,4,582.76
+60884,mai 2024,183708051,Asri Abdelhadi,4,588.52
+60884,juin 2024,183708051,Asri Abdelhadi,4,580.64
+60884,juillet 2024,183708051,Asri Abdelhadi,4,578.83
+60884,août 2024,183708051,Asri Abdelhadi,4,571.0
+60884,septembre 2024,183708051,Asri Abdelhadi,4,586.72
+60884,octobre 2024,183708051,Asri Abdelhadi,4,600.79
+60884,novembre 2024,183708051,Asri Abdelhadi,4,596.36
+60884,décembre 2024,183708051,Asri Abdelhadi,4,590.85
+60884,décembre 2023,184531055,El Mhini Khalid,13,7617.17
+60884,janvier 2024,184531055,El Mhini Khalid,13,7976.07
+60884,février 2024,184531055,El Mhini Khalid,13,7925.54
+60884,mars 2024,184531055,El Mhini Khalid,13,8273.16
+60884,avril 2024,184531055,El Mhini Khalid,13,8197.39
+60884,mai 2024,184531055,El Mhini Khalid,13,8372.23
+60884,juin 2024,184531055,El Mhini Khalid,13,8557.2
+60884,juillet 2024,184531055,El Mhini Khalid,13,8499.91
+60884,août 2024,184531055,El Mhini Khalid,13,8499.38
+60884,septembre 2024,184531055,El Mhini Khalid,13,8417.44
+60884,octobre 2024,184531055,El Mhini Khalid,13,8257.92
+60884,novembre 2024,184531055,El Mhini Khalid,13,8370.01
+60884,décembre 2024,184531055,El Mhini Khalid,13,8469.75
+60884,décembre 2023,189011961,Ousouk Jamal,4,615.78
+60884,janvier 2024,189011961,Ousouk Jamal,4,617.08
+60884,février 2024,189011961,Ousouk Jamal,4,629.66
+60884,mars 2024,189011961,Ousouk Jamal,4,645.51
+60884,avril 2024,189011961,Ousouk Jamal,4,671.64
+60884,mai 2024,189011961,Ousouk Jamal,4,665.22
+60884,juin 2024,189011961,Ousouk Jamal,4,673.38
+60884,juillet 2024,189011961,Ousouk Jamal,4,655.46
+60884,août 2024,189011961,Ousouk Jamal,4,680.59
+60884,septembre 2024,189011961,Ousouk Jamal,4,672.42
+60884,octobre 2024,189011961,Ousouk Jamal,4,658.98
+60884,novembre 2024,189011961,Ousouk Jamal,4,670.69
+60884,décembre 2024,189011961,Ousouk Jamal,4,678.59
+60884,décembre 2023,189955599,Berchih Redouane,4,502.62
+60884,janvier 2024,189955599,Berchih Redouane,4,508.06
+60884,février 2024,189955599,Berchih Redouane,4,532.67
+60884,mars 2024,189955599,Berchih Redouane,4,552.0
+60884,avril 2024,189955599,Berchih Redouane,4,552.31
+60884,mai 2024,189955599,Berchih Redouane,4,577.18
+60884,juin 2024,189955599,Berchih Redouane,4,591.02
+60884,juillet 2024,189955599,Berchih Redouane,4,597.14
+60884,août 2024,189955599,Berchih Redouane,4,588.37
+60884,septembre 2024,189955599,Berchih Redouane,4,597.8
+60884,octobre 2024,189955599,Berchih Redouane,4,586.68
+60884,novembre 2024,189955599,Berchih Redouane,4,595.68
+60884,décembre 2024,189955599,Berchih Redouane,4,605.05
+60884,décembre 2023,192079378,Ousouk Noureddine,3,429.18
+60884,janvier 2024,192079378,Ousouk Noureddine,3,422.74
+60884,février 2024,192079378,Ousouk Noureddine,3,423.75
+60884,mars 2024,192079378,Ousouk Noureddine,3,444.92
+60884,avril 2024,192079378,Ousouk Noureddine,3,439.89
+60884,mai 2024,192079378,Ousouk Noureddine,3,439.67
+60884,juin 2024,192079378,Ousouk Noureddine,3,459.38
+60884,juillet 2024,192079378,Ousouk Noureddine,3,475.03
+60884,août 2024,192079378,Ousouk Noureddine,3,492.31
+60884,septembre 2024,192079378,Ousouk Noureddine,3,504.44
+60884,octobre 2024,192079378,Ousouk Noureddine,3,506.02
+60884,novembre 2024,192079378,Ousouk Noureddine,3,524.95
+60884,décembre 2024,192079378,Ousouk Noureddine,3,544.86
+60884,décembre 2023,192079477,Achebbakh Mohamed,5,656.83
+60884,janvier 2024,192079477,Achebbakh Mohamed,5,646.02
+60884,février 2024,192079477,Achebbakh Mohamed,5,655.03
+60884,mars 2024,192079477,Achebbakh Mohamed,5,679.5
+60884,avril 2024,192079477,Achebbakh Mohamed,5,709.69
+60884,mai 2024,192079477,Achebbakh Mohamed,5,735.88
+60884,juin 2024,192079477,Achebbakh Mohamed,5,747.56
+60884,juillet 2024,192079477,Achebbakh Mohamed,5,768.84
+60884,août 2024,192079477,Achebbakh Mohamed,5,782.18
+60884,septembre 2024,192079477,Achebbakh Mohamed,5,805.62
+60884,octobre 2024,192079477,Achebbakh Mohamed,5,841.19
+60884,novembre 2024,192079477,Achebbakh Mohamed,5,853.51
+60884,décembre 2024,192079477,Achebbakh Mohamed,5,868.26
+60884,décembre 2023,193673161,Kbadi Mohamed,26,3612.61
+60884,janvier 2024,193673161,Kbadi Mohamed,26,3639.46
+60884,février 2024,193673161,Kbadi Mohamed,26,3632.53
+60884,mars 2024,193673161,Kbadi Mohamed,26,3790.75
+60884,avril 2024,193673161,Kbadi Mohamed,26,3770.49
+60884,mai 2024,193673161,Kbadi Mohamed,26,3718.49
+60884,juin 2024,193673161,Kbadi Mohamed,26,3649.56
+60884,juillet 2024,193673161,Kbadi Mohamed,26,3589.92
+60884,août 2024,193673161,Kbadi Mohamed,26,3568.77
+60884,septembre 2024,193673161,Kbadi Mohamed,26,3677.35
+60884,octobre 2024,193673161,Kbadi Mohamed,26,3754.97
+60884,novembre 2024,193673161,Kbadi Mohamed,26,3933.97
+60884,décembre 2024,193673161,Kbadi Mohamed,26,3828.42

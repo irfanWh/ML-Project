@@ -1,0 +1,781 @@
+ID_adherent,month,immatriculationNumber,full_name,nombre_jours,salaire
+4932,décembre 2023,100214586,Lahouizi Younes,26,3538.49
+4932,janvier 2024,100214586,Lahouizi Younes,26,3697.5
+4932,février 2024,100214586,Lahouizi Younes,26,3842.83
+4932,mars 2024,100214586,Lahouizi Younes,26,3797.16
+4932,avril 2024,100214586,Lahouizi Younes,26,3978.29
+4932,mai 2024,100214586,Lahouizi Younes,26,3938.33
+4932,juin 2024,100214586,Lahouizi Younes,26,4021.67
+4932,juillet 2024,100214586,Lahouizi Younes,26,4018.38
+4932,août 2024,100214586,Lahouizi Younes,26,4152.87
+4932,septembre 2024,100214586,Lahouizi Younes,26,4252.32
+4932,octobre 2024,100214586,Lahouizi Younes,26,4187.95
+4932,novembre 2024,100214586,Lahouizi Younes,26,4238.45
+4932,décembre 2024,100214586,Lahouizi Younes,26,4411.4
+4932,décembre 2023,102437804,Rachidi Ghita,26,3339.05
+4932,janvier 2024,102437804,Rachidi Ghita,26,3436.55
+4932,février 2024,102437804,Rachidi Ghita,26,3405.45
+4932,mars 2024,102437804,Rachidi Ghita,26,3445.75
+4932,avril 2024,102437804,Rachidi Ghita,26,3417.19
+4932,mai 2024,102437804,Rachidi Ghita,26,3442.31
+4932,juin 2024,102437804,Rachidi Ghita,26,3482.75
+4932,juillet 2024,102437804,Rachidi Ghita,26,3453.48
+4932,août 2024,102437804,Rachidi Ghita,26,3538.52
+4932,septembre 2024,102437804,Rachidi Ghita,26,3712.18
+4932,octobre 2024,102437804,Rachidi Ghita,26,3612.56
+4932,novembre 2024,102437804,Rachidi Ghita,26,3537.14
+4932,décembre 2024,102437804,Rachidi Ghita,26,3555.86
+4932,décembre 2023,103553999,Haitoute Abdeljalil,26,4254.77
+4932,janvier 2024,103553999,Haitoute Abdeljalil,26,4243.56
+4932,février 2024,103553999,Haitoute Abdeljalil,26,4201.04
+4932,mars 2024,103553999,Haitoute Abdeljalil,26,4386.29
+4932,avril 2024,103553999,Haitoute Abdeljalil,26,4301.91
+4932,mai 2024,103553999,Haitoute Abdeljalil,26,4208.83
+4932,juin 2024,103553999,Haitoute Abdeljalil,26,4163.71
+4932,juillet 2024,103553999,Haitoute Abdeljalil,26,4200.22
+4932,août 2024,103553999,Haitoute Abdeljalil,26,4169.72
+4932,septembre 2024,103553999,Haitoute Abdeljalil,26,4231.66
+4932,octobre 2024,103553999,Haitoute Abdeljalil,26,4168.72
+4932,novembre 2024,103553999,Haitoute Abdeljalil,26,4130.65
+4932,décembre 2024,103553999,Haitoute Abdeljalil,26,4201.23
+4932,décembre 2023,103593292,Ettuhfi Saad,26,4107.87
+4932,janvier 2024,103593292,Ettuhfi Saad,26,4082.06
+4932,février 2024,103593292,Ettuhfi Saad,26,4037.08
+4932,mars 2024,103593292,Ettuhfi Saad,26,3965.07
+4932,avril 2024,103593292,Ettuhfi Saad,26,4088.67
+4932,mai 2024,103593292,Ettuhfi Saad,26,4067.93
+4932,juin 2024,103593292,Ettuhfi Saad,26,4152.57
+4932,juillet 2024,103593292,Ettuhfi Saad,26,4300.45
+4932,août 2024,103593292,Ettuhfi Saad,26,4478.38
+4932,septembre 2024,103593292,Ettuhfi Saad,26,4607.55
+4932,octobre 2024,103593292,Ettuhfi Saad,26,4539.55
+4932,novembre 2024,103593292,Ettuhfi Saad,26,4465.31
+4932,décembre 2024,103593292,Ettuhfi Saad,26,4512.33
+4932,décembre 2023,104869015,Ben Maloui Asma,26,3163.2
+4932,janvier 2024,104869015,Ben Maloui Asma,26,3131.14
+4932,février 2024,104869015,Ben Maloui Asma,26,3101.87
+4932,mars 2024,104869015,Ben Maloui Asma,26,3059.36
+4932,avril 2024,104869015,Ben Maloui Asma,26,3005.44
+4932,mai 2024,104869015,Ben Maloui Asma,26,3018.43
+4932,juin 2024,104869015,Ben Maloui Asma,26,3050.58
+4932,juillet 2024,104869015,Ben Maloui Asma,26,3185.9
+4932,août 2024,104869015,Ben Maloui Asma,26,3111.12
+4932,septembre 2024,104869015,Ben Maloui Asma,26,3185.88
+4932,octobre 2024,104869015,Ben Maloui Asma,26,3131.22
+4932,novembre 2024,104869015,Ben Maloui Asma,26,3213.26
+4932,décembre 2024,104869015,Ben Maloui Asma,26,3217.04
+4932,décembre 2023,111099807,Boulmane Hajar,26,3002.36
+4932,janvier 2024,111099807,Boulmane Hajar,26,3065.12
+4932,février 2024,111099807,Boulmane Hajar,26,3111.11
+4932,mars 2024,111099807,Boulmane Hajar,26,3019.75
+4932,avril 2024,111099807,Boulmane Hajar,26,3156.26
+4932,mai 2024,111099807,Boulmane Hajar,26,3127.01
+4932,juin 2024,111099807,Boulmane Hajar,26,3178.6
+4932,juillet 2024,111099807,Boulmane Hajar,26,3201.17
+4932,août 2024,111099807,Boulmane Hajar,26,3190.66
+4932,septembre 2024,111099807,Boulmane Hajar,26,3346.18
+4932,octobre 2024,111099807,Boulmane Hajar,26,3280.8
+4932,novembre 2024,111099807,Boulmane Hajar,26,3363.59
+4932,décembre 2024,111099807,Boulmane Hajar,26,3463.36
+4932,décembre 2023,112206563,Belkhou Ouafa,26,6633.28
+4932,janvier 2024,112206563,Belkhou Ouafa,26,6468.26
+4932,février 2024,112206563,Belkhou Ouafa,26,6357.47
+4932,mars 2024,112206563,Belkhou Ouafa,26,6674.69
+4932,avril 2024,112206563,Belkhou Ouafa,26,6631.73
+4932,mai 2024,112206563,Belkhou Ouafa,26,6874.48
+4932,juin 2024,112206563,Belkhou Ouafa,26,6969.27
+4932,juillet 2024,112206563,Belkhou Ouafa,26,6802.65
+4932,août 2024,112206563,Belkhou Ouafa,26,7113.64
+4932,septembre 2024,112206563,Belkhou Ouafa,26,7414.06
+4932,octobre 2024,112206563,Belkhou Ouafa,26,7624.33
+4932,novembre 2024,112206563,Belkhou Ouafa,26,7644.49
+4932,décembre 2024,112206563,Belkhou Ouafa,26,7848.97
+4932,décembre 2023,112373370,Amarmach Mohammed,26,4937.8
+4932,janvier 2024,112373370,Amarmach Mohammed,26,5097.72
+4932,février 2024,112373370,Amarmach Mohammed,26,5208.45
+4932,mars 2024,112373370,Amarmach Mohammed,26,5342.89
+4932,avril 2024,112373370,Amarmach Mohammed,26,5328.42
+4932,mai 2024,112373370,Amarmach Mohammed,26,5414.0
+4932,juin 2024,112373370,Amarmach Mohammed,26,5276.56
+4932,juillet 2024,112373370,Amarmach Mohammed,26,5400.32
+4932,août 2024,112373370,Amarmach Mohammed,26,5609.16
+4932,septembre 2024,112373370,Amarmach Mohammed,26,5735.56
+4932,octobre 2024,112373370,Amarmach Mohammed,26,5851.04
+4932,novembre 2024,112373370,Amarmach Mohammed,26,5701.15
+4932,décembre 2024,112373370,Amarmach Mohammed,26,5946.13
+4932,décembre 2023,112669456,Hilali Azzahra,26,5522.19
+4932,janvier 2024,112669456,Hilali Azzahra,26,5575.26
+4932,février 2024,112669456,Hilali Azzahra,26,5637.03
+4932,mars 2024,112669456,Hilali Azzahra,26,5698.48
+4932,avril 2024,112669456,Hilali Azzahra,26,5983.24
+4932,mai 2024,112669456,Hilali Azzahra,26,5810.96
+4932,juin 2024,112669456,Hilali Azzahra,26,5995.99
+4932,juillet 2024,112669456,Hilali Azzahra,26,6132.08
+4932,août 2024,112669456,Hilali Azzahra,26,6239.46
+4932,septembre 2024,112669456,Hilali Azzahra,26,6090.41
+4932,octobre 2024,112669456,Hilali Azzahra,26,6113.94
+4932,novembre 2024,112669456,Hilali Azzahra,26,6033.66
+4932,décembre 2024,112669456,Hilali Azzahra,26,6257.2
+4932,décembre 2023,118725156,Lahouizi Khalid,18,2144.55
+4932,janvier 2024,118725156,Lahouizi Khalid,18,2206.55
+4932,février 2024,118725156,Lahouizi Khalid,18,2298.96
+4932,mars 2024,118725156,Lahouizi Khalid,18,2402.16
+4932,avril 2024,118725156,Lahouizi Khalid,18,2386.86
+4932,mai 2024,118725156,Lahouizi Khalid,18,2344.08
+4932,juin 2024,118725156,Lahouizi Khalid,18,2356.46
+4932,juillet 2024,118725156,Lahouizi Khalid,18,2314.4
+4932,août 2024,118725156,Lahouizi Khalid,18,2351.64
+4932,septembre 2024,118725156,Lahouizi Khalid,18,2440.55
+4932,octobre 2024,118725156,Lahouizi Khalid,18,2393.18
+4932,novembre 2024,118725156,Lahouizi Khalid,18,2393.39
+4932,décembre 2024,118725156,Lahouizi Khalid,18,2355.62
+4932,décembre 2023,119595886,Yanisse Nadia,26,5493.27
+4932,janvier 2024,119595886,Yanisse Nadia,26,5444.04
+4932,février 2024,119595886,Yanisse Nadia,26,5395.59
+4932,mars 2024,119595886,Yanisse Nadia,26,5383.75
+4932,avril 2024,119595886,Yanisse Nadia,26,5344.88
+4932,mai 2024,119595886,Yanisse Nadia,26,5547.61
+4932,juin 2024,119595886,Yanisse Nadia,26,5462.5
+4932,juillet 2024,119595886,Yanisse Nadia,26,5448.48
+4932,août 2024,119595886,Yanisse Nadia,26,5411.72
+4932,septembre 2024,119595886,Yanisse Nadia,26,5577.65
+4932,octobre 2024,119595886,Yanisse Nadia,26,5519.38
+4932,novembre 2024,119595886,Yanisse Nadia,26,5357.61
+4932,décembre 2024,119595886,Yanisse Nadia,26,5564.22
+4932,décembre 2023,122381181,Mekroume Fatima Zahra,26,3431.27
+4932,janvier 2024,122381181,Mekroume Fatima Zahra,26,3396.28
+4932,février 2024,122381181,Mekroume Fatima Zahra,26,3508.09
+4932,mars 2024,122381181,Mekroume Fatima Zahra,26,3488.77
+4932,avril 2024,122381181,Mekroume Fatima Zahra,26,3395.63
+4932,mai 2024,122381181,Mekroume Fatima Zahra,26,3412.87
+4932,juin 2024,122381181,Mekroume Fatima Zahra,26,3320.43
+4932,juillet 2024,122381181,Mekroume Fatima Zahra,26,3296.5
+4932,août 2024,122381181,Mekroume Fatima Zahra,26,3397.33
+4932,septembre 2024,122381181,Mekroume Fatima Zahra,26,3427.2
+4932,octobre 2024,122381181,Mekroume Fatima Zahra,26,3358.89
+4932,novembre 2024,122381181,Mekroume Fatima Zahra,26,3390.9
+4932,décembre 2024,122381181,Mekroume Fatima Zahra,26,3550.23
+4932,décembre 2023,122388583,Mahmoudi Zaouia Moulay Rachid,26,5236.97
+4932,janvier 2024,122388583,Mahmoudi Zaouia Moulay Rachid,26,5242.95
+4932,février 2024,122388583,Mahmoudi Zaouia Moulay Rachid,26,5472.23
+4932,mars 2024,122388583,Mahmoudi Zaouia Moulay Rachid,26,5590.33
+4932,avril 2024,122388583,Mahmoudi Zaouia Moulay Rachid,26,5452.61
+4932,mai 2024,122388583,Mahmoudi Zaouia Moulay Rachid,26,5420.07
+4932,juin 2024,122388583,Mahmoudi Zaouia Moulay Rachid,26,5426.4
+4932,juillet 2024,122388583,Mahmoudi Zaouia Moulay Rachid,26,5355.79
+4932,août 2024,122388583,Mahmoudi Zaouia Moulay Rachid,26,5381.49
+4932,septembre 2024,122388583,Mahmoudi Zaouia Moulay Rachid,26,5357.96
+4932,octobre 2024,122388583,Mahmoudi Zaouia Moulay Rachid,26,5463.29
+4932,novembre 2024,122388583,Mahmoudi Zaouia Moulay Rachid,26,5658.1
+4932,décembre 2024,122388583,Mahmoudi Zaouia Moulay Rachid,26,5887.61
+4932,décembre 2023,124350168,Neghmouchi Atika,26,5661.48
+4932,janvier 2024,124350168,Neghmouchi Atika,26,5788.85
+4932,février 2024,124350168,Neghmouchi Atika,26,5757.45
+4932,mars 2024,124350168,Neghmouchi Atika,26,5919.78
+4932,avril 2024,124350168,Neghmouchi Atika,26,6155.16
+4932,mai 2024,124350168,Neghmouchi Atika,26,6280.13
+4932,juin 2024,124350168,Neghmouchi Atika,26,6120.22
+4932,juillet 2024,124350168,Neghmouchi Atika,26,6178.8
+4932,août 2024,124350168,Neghmouchi Atika,26,6040.8
+4932,septembre 2024,124350168,Neghmouchi Atika,26,6220.31
+4932,octobre 2024,124350168,Neghmouchi Atika,26,6351.29
+4932,novembre 2024,124350168,Neghmouchi Atika,26,6655.06
+4932,décembre 2024,124350168,Neghmouchi Atika,26,6663.6
+4932,décembre 2023,126672776,El Hamdi El Mustapha,26,3324.04
+4932,janvier 2024,126672776,El Hamdi El Mustapha,26,3425.81
+4932,février 2024,126672776,El Hamdi El Mustapha,26,3523.67
+4932,mars 2024,126672776,El Hamdi El Mustapha,26,3612.08
+4932,avril 2024,126672776,El Hamdi El Mustapha,26,3721.03
+4932,mai 2024,126672776,El Hamdi El Mustapha,26,3622.05
+4932,juin 2024,126672776,El Hamdi El Mustapha,26,3644.91
+4932,juillet 2024,126672776,El Hamdi El Mustapha,26,3611.48
+4932,août 2024,126672776,El Hamdi El Mustapha,26,3596.73
+4932,septembre 2024,126672776,El Hamdi El Mustapha,26,3603.2
+4932,octobre 2024,126672776,El Hamdi El Mustapha,26,3526.36
+4932,novembre 2024,126672776,El Hamdi El Mustapha,26,3449.74
+4932,décembre 2024,126672776,El Hamdi El Mustapha,26,3505.36
+4932,décembre 2023,129506899,Lahlou Mohamed,26,26806.12
+4932,janvier 2024,129506899,Lahlou Mohamed,26,26551.24
+4932,février 2024,129506899,Lahlou Mohamed,26,26192.02
+4932,mars 2024,129506899,Lahlou Mohamed,26,26421.27
+4932,avril 2024,129506899,Lahlou Mohamed,26,27361.68
+4932,mai 2024,129506899,Lahlou Mohamed,26,28155.8
+4932,juin 2024,129506899,Lahlou Mohamed,26,28872.16
+4932,juillet 2024,129506899,Lahlou Mohamed,26,28213.36
+4932,août 2024,129506899,Lahlou Mohamed,26,28681.55
+4932,septembre 2024,129506899,Lahlou Mohamed,26,30019.5
+4932,octobre 2024,129506899,Lahlou Mohamed,26,29609.85
+4932,novembre 2024,129506899,Lahlou Mohamed,26,30533.71
+4932,décembre 2024,129506899,Lahlou Mohamed,26,30257.76
+4932,décembre 2023,131733456,Boutekra Fouzia,26,5890.17
+4932,janvier 2024,131733456,Boutekra Fouzia,26,5960.21
+4932,février 2024,131733456,Boutekra Fouzia,26,6152.84
+4932,mars 2024,131733456,Boutekra Fouzia,26,6330.75
+4932,avril 2024,131733456,Boutekra Fouzia,26,6521.62
+4932,mai 2024,131733456,Boutekra Fouzia,26,6485.72
+4932,juin 2024,131733456,Boutekra Fouzia,26,6752.76
+4932,juillet 2024,131733456,Boutekra Fouzia,26,6595.08
+4932,août 2024,131733456,Boutekra Fouzia,26,6715.96
+4932,septembre 2024,131733456,Boutekra Fouzia,26,6709.77
+4932,octobre 2024,131733456,Boutekra Fouzia,26,6978.53
+4932,novembre 2024,131733456,Boutekra Fouzia,26,7015.05
+4932,décembre 2024,131733456,Boutekra Fouzia,26,6935.36
+4932,décembre 2023,131838298,Jobai Majda,26,4734.08
+4932,janvier 2024,131838298,Jobai Majda,26,4832.3
+4932,février 2024,131838298,Jobai Majda,26,4821.69
+4932,mars 2024,131838298,Jobai Majda,26,5015.43
+4932,avril 2024,131838298,Jobai Majda,26,4899.48
+4932,mai 2024,131838298,Jobai Majda,26,5066.13
+4932,juin 2024,131838298,Jobai Majda,26,5040.71
+4932,juillet 2024,131838298,Jobai Majda,26,5136.74
+4932,août 2024,131838298,Jobai Majda,26,5194.37
+4932,septembre 2024,131838298,Jobai Majda,26,5205.83
+4932,octobre 2024,131838298,Jobai Majda,26,5221.94
+4932,novembre 2024,131838298,Jobai Majda,26,5361.03
+4932,décembre 2024,131838298,Jobai Majda,26,5620.36
+4932,décembre 2023,132966973,Benhaddi Feirouz,26,4780.77
+4932,janvier 2024,132966973,Benhaddi Feirouz,26,4889.52
+4932,février 2024,132966973,Benhaddi Feirouz,26,5084.11
+4932,mars 2024,132966973,Benhaddi Feirouz,26,5280.31
+4932,avril 2024,132966973,Benhaddi Feirouz,26,5290.9
+4932,mai 2024,132966973,Benhaddi Feirouz,26,5429.65
+4932,juin 2024,132966973,Benhaddi Feirouz,26,5685.41
+4932,juillet 2024,132966973,Benhaddi Feirouz,26,5803.76
+4932,août 2024,132966973,Benhaddi Feirouz,26,5945.65
+4932,septembre 2024,132966973,Benhaddi Feirouz,26,5950.83
+4932,octobre 2024,132966973,Benhaddi Feirouz,26,6185.58
+4932,novembre 2024,132966973,Benhaddi Feirouz,26,6341.53
+4932,décembre 2024,132966973,Benhaddi Feirouz,26,6653.59
+4932,décembre 2023,134734766,Chakir Jamila,26,5523.04
+4932,janvier 2024,134734766,Chakir Jamila,26,5505.13
+4932,février 2024,134734766,Chakir Jamila,26,5462.28
+4932,mars 2024,134734766,Chakir Jamila,26,5439.87
+4932,avril 2024,134734766,Chakir Jamila,26,5664.12
+4932,mai 2024,134734766,Chakir Jamila,26,5643.13
+4932,juin 2024,134734766,Chakir Jamila,26,5483.03
+4932,juillet 2024,134734766,Chakir Jamila,26,5425.14
+4932,août 2024,134734766,Chakir Jamila,26,5598.63
+4932,septembre 2024,134734766,Chakir Jamila,26,5834.81
+4932,octobre 2024,134734766,Chakir Jamila,26,5691.35
+4932,novembre 2024,134734766,Chakir Jamila,26,5616.25
+4932,décembre 2024,134734766,Chakir Jamila,26,5773.54
+4932,décembre 2023,134774564,Loubiz Hasna,13,1715.63
+4932,janvier 2024,134774564,Loubiz Hasna,13,1700.3
+4932,février 2024,134774564,Loubiz Hasna,13,1773.17
+4932,mars 2024,134774564,Loubiz Hasna,13,1760.2
+4932,avril 2024,134774564,Loubiz Hasna,13,1802.38
+4932,mai 2024,134774564,Loubiz Hasna,13,1846.39
+4932,juin 2024,134774564,Loubiz Hasna,13,1849.99
+4932,juillet 2024,134774564,Loubiz Hasna,13,1898.87
+4932,août 2024,134774564,Loubiz Hasna,13,1872.67
+4932,septembre 2024,134774564,Loubiz Hasna,13,1934.8
+4932,octobre 2024,134774564,Loubiz Hasna,13,2005.94
+4932,novembre 2024,134774564,Loubiz Hasna,13,1985.51
+4932,décembre 2024,134774564,Loubiz Hasna,13,2001.57
+4932,décembre 2023,136799634,Rahim Mohamed Amine,26,3000.0
+4932,janvier 2024,136799634,Rahim Mohamed Amine,26,3003.19
+4932,février 2024,136799634,Rahim Mohamed Amine,26,3139.18
+4932,mars 2024,136799634,Rahim Mohamed Amine,26,3140.23
+4932,avril 2024,136799634,Rahim Mohamed Amine,26,3142.48
+4932,mai 2024,136799634,Rahim Mohamed Amine,26,3151.88
+4932,juin 2024,136799634,Rahim Mohamed Amine,26,3297.89
+4932,juillet 2024,136799634,Rahim Mohamed Amine,26,3349.83
+4932,août 2024,136799634,Rahim Mohamed Amine,26,3265.26
+4932,septembre 2024,136799634,Rahim Mohamed Amine,26,3419.56
+4932,octobre 2024,136799634,Rahim Mohamed Amine,26,3344.41
+4932,novembre 2024,136799634,Rahim Mohamed Amine,26,3423.11
+4932,décembre 2024,136799634,Rahim Mohamed Amine,26,3456.99
+4932,décembre 2023,137362008,Elmansour Amal,26,3627.49
+4932,janvier 2024,137362008,Elmansour Amal,26,3520.16
+4932,février 2024,137362008,Elmansour Amal,26,3438.34
+4932,mars 2024,137362008,Elmansour Amal,26,3469.39
+4932,avril 2024,137362008,Elmansour Amal,26,3588.42
+4932,mai 2024,137362008,Elmansour Amal,26,3615.68
+4932,juin 2024,137362008,Elmansour Amal,26,3788.37
+4932,juillet 2024,137362008,Elmansour Amal,26,3698.7
+4932,août 2024,137362008,Elmansour Amal,26,3812.53
+4932,septembre 2024,137362008,Elmansour Amal,26,3792.08
+4932,octobre 2024,137362008,Elmansour Amal,26,3729.89
+4932,novembre 2024,137362008,Elmansour Amal,26,3646.96
+4932,décembre 2024,137362008,Elmansour Amal,26,3731.45
+4932,décembre 2023,137720267,Bouzekri Fatiha,26,6026.2
+4932,janvier 2024,137720267,Bouzekri Fatiha,26,5847.6
+4932,février 2024,137720267,Bouzekri Fatiha,26,5691.05
+4932,mars 2024,137720267,Bouzekri Fatiha,26,5526.08
+4932,avril 2024,137720267,Bouzekri Fatiha,26,5649.59
+4932,mai 2024,137720267,Bouzekri Fatiha,26,5498.51
+4932,juin 2024,137720267,Bouzekri Fatiha,26,5565.66
+4932,juillet 2024,137720267,Bouzekri Fatiha,26,5745.56
+4932,août 2024,137720267,Bouzekri Fatiha,26,5576.06
+4932,septembre 2024,137720267,Bouzekri Fatiha,26,5797.85
+4932,octobre 2024,137720267,Bouzekri Fatiha,26,5759.99
+4932,novembre 2024,137720267,Bouzekri Fatiha,26,5656.16
+4932,décembre 2024,137720267,Bouzekri Fatiha,26,5889.28
+4932,décembre 2023,140064417,Jabbar Kenza,26,3109.59
+4932,janvier 2024,140064417,Jabbar Kenza,26,3017.56
+4932,février 2024,140064417,Jabbar Kenza,26,2938.13
+4932,mars 2024,140064417,Jabbar Kenza,26,2912.21
+4932,avril 2024,140064417,Jabbar Kenza,26,2845.73
+4932,mai 2024,140064417,Jabbar Kenza,26,2941.12
+4932,juin 2024,140064417,Jabbar Kenza,26,2912.94
+4932,juillet 2024,140064417,Jabbar Kenza,26,2869.35
+4932,août 2024,140064417,Jabbar Kenza,26,2898.73
+4932,septembre 2024,140064417,Jabbar Kenza,26,2916.02
+4932,octobre 2024,140064417,Jabbar Kenza,26,3019.8
+4932,novembre 2024,140064417,Jabbar Kenza,26,3081.55
+4932,décembre 2024,140064417,Jabbar Kenza,26,3085.57
+4932,décembre 2023,145308279,Byasse Abderrazak,26,5839.85
+4932,janvier 2024,145308279,Byasse Abderrazak,26,5764.51
+4932,février 2024,145308279,Byasse Abderrazak,26,5765.44
+4932,mars 2024,145308279,Byasse Abderrazak,26,5982.75
+4932,avril 2024,145308279,Byasse Abderrazak,26,5963.97
+4932,mai 2024,145308279,Byasse Abderrazak,26,5942.45
+4932,juin 2024,145308279,Byasse Abderrazak,26,6225.64
+4932,juillet 2024,145308279,Byasse Abderrazak,26,6043.97
+4932,août 2024,145308279,Byasse Abderrazak,26,6107.97
+4932,septembre 2024,145308279,Byasse Abderrazak,26,6158.1
+4932,octobre 2024,145308279,Byasse Abderrazak,26,6061.08
+4932,novembre 2024,145308279,Byasse Abderrazak,26,5945.5
+4932,décembre 2024,145308279,Byasse Abderrazak,26,6229.62
+4932,décembre 2023,148054770,Ouahab Wafa,26,4949.6
+4932,janvier 2024,148054770,Ouahab Wafa,26,4926.77
+4932,février 2024,148054770,Ouahab Wafa,26,4885.5
+4932,mars 2024,148054770,Ouahab Wafa,26,5071.35
+4932,avril 2024,148054770,Ouahab Wafa,26,5006.78
+4932,mai 2024,148054770,Ouahab Wafa,26,5076.74
+4932,juin 2024,148054770,Ouahab Wafa,26,4946.39
+4932,juillet 2024,148054770,Ouahab Wafa,26,4999.1
+4932,août 2024,148054770,Ouahab Wafa,26,4870.2
+4932,septembre 2024,148054770,Ouahab Wafa,26,4776.69
+4932,octobre 2024,148054770,Ouahab Wafa,26,4869.2
+4932,novembre 2024,148054770,Ouahab Wafa,26,4870.29
+4932,décembre 2024,148054770,Ouahab Wafa,26,4955.92
+4932,décembre 2023,148054879,Himmad Souad,26,4986.63
+4932,janvier 2024,148054879,Himmad Souad,26,5202.8
+4932,février 2024,148054879,Himmad Souad,26,5375.24
+4932,mars 2024,148054879,Himmad Souad,26,5489.77
+4932,avril 2024,148054879,Himmad Souad,26,5531.73
+4932,mai 2024,148054879,Himmad Souad,26,5792.67
+4932,juin 2024,148054879,Himmad Souad,26,5716.1
+4932,juillet 2024,148054879,Himmad Souad,26,5635.41
+4932,août 2024,148054879,Himmad Souad,26,5484.95
+4932,septembre 2024,148054879,Himmad Souad,26,5701.44
+4932,octobre 2024,148054879,Himmad Souad,26,5566.22
+4932,novembre 2024,148054879,Himmad Souad,26,5500.95
+4932,décembre 2024,148054879,Himmad Souad,26,5724.52
+4932,décembre 2023,148055075,Ghassoun Nisrine,26,6223.01
+4932,janvier 2024,148055075,Ghassoun Nisrine,26,6405.55
+4932,février 2024,148055075,Ghassoun Nisrine,26,6661.17
+4932,mars 2024,148055075,Ghassoun Nisrine,26,6856.36
+4932,avril 2024,148055075,Ghassoun Nisrine,26,6808.65
+4932,mai 2024,148055075,Ghassoun Nisrine,26,6920.91
+4932,juin 2024,148055075,Ghassoun Nisrine,26,7076.41
+4932,juillet 2024,148055075,Ghassoun Nisrine,26,7137.8
+4932,août 2024,148055075,Ghassoun Nisrine,26,7310.42
+4932,septembre 2024,148055075,Ghassoun Nisrine,26,7185.59
+4932,octobre 2024,148055075,Ghassoun Nisrine,26,7308.62
+4932,novembre 2024,148055075,Ghassoun Nisrine,26,7637.32
+4932,décembre 2024,148055075,Ghassoun Nisrine,26,7862.87
+4932,décembre 2023,148185411,El Ouahbi Anas,26,3431.27
+4932,janvier 2024,148185411,El Ouahbi Anas,26,3405.34
+4932,février 2024,148185411,El Ouahbi Anas,26,3397.41
+4932,mars 2024,148185411,El Ouahbi Anas,26,3327.22
+4932,avril 2024,148185411,El Ouahbi Anas,26,3338.39
+4932,mai 2024,148185411,El Ouahbi Anas,26,3315.47
+4932,juin 2024,148185411,El Ouahbi Anas,26,3337.57
+4932,juillet 2024,148185411,El Ouahbi Anas,26,3276.93
+4932,août 2024,148185411,El Ouahbi Anas,26,3440.05
+4932,septembre 2024,148185411,El Ouahbi Anas,26,3559.78
+4932,octobre 2024,148185411,El Ouahbi Anas,26,3600.96
+4932,novembre 2024,148185411,El Ouahbi Anas,26,3633.27
+4932,décembre 2024,148185411,El Ouahbi Anas,26,3554.63
+4932,décembre 2023,149442784,Aboufarasse Maryam,26,3484.88
+4932,janvier 2024,149442784,Aboufarasse Maryam,26,3431.33
+4932,février 2024,149442784,Aboufarasse Maryam,26,3470.85
+4932,mars 2024,149442784,Aboufarasse Maryam,26,3555.6
+4932,avril 2024,149442784,Aboufarasse Maryam,26,3646.45
+4932,mai 2024,149442784,Aboufarasse Maryam,26,3788.87
+4932,juin 2024,149442784,Aboufarasse Maryam,26,3774.59
+4932,juillet 2024,149442784,Aboufarasse Maryam,26,3771.33
+4932,août 2024,149442784,Aboufarasse Maryam,26,3914.22
+4932,septembre 2024,149442784,Aboufarasse Maryam,26,4090.63
+4932,octobre 2024,149442784,Aboufarasse Maryam,26,4255.78
+4932,novembre 2024,149442784,Aboufarasse Maryam,26,4327.46
+4932,décembre 2024,149442784,Aboufarasse Maryam,26,4525.63
+4932,décembre 2023,149506548,Ghanbi Brahim,23,3509.55
+4932,janvier 2024,149506548,Ghanbi Brahim,23,3414.75
+4932,février 2024,149506548,Ghanbi Brahim,23,3540.25
+4932,mars 2024,149506548,Ghanbi Brahim,23,3564.48
+4932,avril 2024,149506548,Ghanbi Brahim,23,3678.43
+4932,mai 2024,149506548,Ghanbi Brahim,23,3573.0
+4932,juin 2024,149506548,Ghanbi Brahim,23,3595.86
+4932,juillet 2024,149506548,Ghanbi Brahim,23,3616.92
+4932,août 2024,149506548,Ghanbi Brahim,23,3628.43
+4932,septembre 2024,149506548,Ghanbi Brahim,23,3590.34
+4932,octobre 2024,149506548,Ghanbi Brahim,23,3711.72
+4932,novembre 2024,149506548,Ghanbi Brahim,23,3869.58
+4932,décembre 2024,149506548,Ghanbi Brahim,23,3806.42
+4932,décembre 2023,149771274,Amira Najat,26,5522.85
+4932,janvier 2024,149771274,Amira Najat,26,5546.29
+4932,février 2024,149771274,Amira Najat,26,5439.81
+4932,mars 2024,149771274,Amira Najat,26,5420.43
+4932,avril 2024,149771274,Amira Najat,26,5377.18
+4932,mai 2024,149771274,Amira Najat,26,5550.23
+4932,juin 2024,149771274,Amira Najat,26,5696.86
+4932,juillet 2024,149771274,Amira Najat,26,5554.65
+4932,août 2024,149771274,Amira Najat,26,5762.73
+4932,septembre 2024,149771274,Amira Najat,26,5700.25
+4932,octobre 2024,149771274,Amira Najat,26,5891.95
+4932,novembre 2024,149771274,Amira Najat,26,6154.56
+4932,décembre 2024,149771274,Amira Najat,26,6279.32
+4932,décembre 2023,149975496,Al Allaoui Khalid,26,3324.04
+4932,janvier 2024,149975496,Al Allaoui Khalid,26,3291.94
+4932,février 2024,149975496,Al Allaoui Khalid,26,3321.0
+4932,mars 2024,149975496,Al Allaoui Khalid,26,3306.01
+4932,avril 2024,149975496,Al Allaoui Khalid,26,3390.47
+4932,mai 2024,149975496,Al Allaoui Khalid,26,3542.53
+4932,juin 2024,149975496,Al Allaoui Khalid,26,3475.27
+4932,juillet 2024,149975496,Al Allaoui Khalid,26,3570.9
+4932,août 2024,149975496,Al Allaoui Khalid,26,3523.62
+4932,septembre 2024,149975496,Al Allaoui Khalid,26,3636.6
+4932,octobre 2024,149975496,Al Allaoui Khalid,26,3738.08
+4932,novembre 2024,149975496,Al Allaoui Khalid,26,3703.28
+4932,décembre 2024,149975496,Al Allaoui Khalid,26,3671.29
+4932,décembre 2023,150484866,Missri Essaadia,12,1501.18
+4932,janvier 2024,150484866,Missri Essaadia,12,1573.37
+4932,février 2024,150484866,Missri Essaadia,12,1604.31
+4932,mars 2024,150484866,Missri Essaadia,12,1661.18
+4932,avril 2024,150484866,Missri Essaadia,12,1713.53
+4932,mai 2024,150484866,Missri Essaadia,12,1797.54
+4932,juin 2024,150484866,Missri Essaadia,12,1788.41
+4932,juillet 2024,150484866,Missri Essaadia,12,1759.0
+4932,août 2024,150484866,Missri Essaadia,12,1731.38
+4932,septembre 2024,150484866,Missri Essaadia,12,1785.7
+4932,octobre 2024,150484866,Missri Essaadia,12,1791.45
+4932,novembre 2024,150484866,Missri Essaadia,12,1859.78
+4932,décembre 2024,150484866,Missri Essaadia,12,1849.74
+4932,décembre 2023,151057589,Ouled Ait Ouna Abdelhak,26,5259.88
+4932,janvier 2024,151057589,Ouled Ait Ouna Abdelhak,26,5321.42
+4932,février 2024,151057589,Ouled Ait Ouna Abdelhak,26,5458.96
+4932,mars 2024,151057589,Ouled Ait Ouna Abdelhak,26,5532.81
+4932,avril 2024,151057589,Ouled Ait Ouna Abdelhak,26,5619.53
+4932,mai 2024,151057589,Ouled Ait Ouna Abdelhak,26,5821.8
+4932,juin 2024,151057589,Ouled Ait Ouna Abdelhak,26,5879.21
+4932,juillet 2024,151057589,Ouled Ait Ouna Abdelhak,26,5928.74
+4932,août 2024,151057589,Ouled Ait Ouna Abdelhak,26,6084.85
+4932,septembre 2024,151057589,Ouled Ait Ouna Abdelhak,26,6041.25
+4932,octobre 2024,151057589,Ouled Ait Ouna Abdelhak,26,6100.43
+4932,novembre 2024,151057589,Ouled Ait Ouna Abdelhak,26,6194.18
+4932,décembre 2024,151057589,Ouled Ait Ouna Abdelhak,26,6077.79
+4932,décembre 2023,151065582,El Karchaoui Mariam,26,3484.88
+4932,janvier 2024,151065582,El Karchaoui Mariam,26,3620.35
+4932,février 2024,151065582,El Karchaoui Mariam,26,3762.04
+4932,mars 2024,151065582,El Karchaoui Mariam,26,3829.78
+4932,avril 2024,151065582,El Karchaoui Mariam,26,3972.99
+4932,mai 2024,151065582,El Karchaoui Mariam,26,4057.75
+4932,juin 2024,151065582,El Karchaoui Mariam,26,4071.53
+4932,juillet 2024,151065582,El Karchaoui Mariam,26,4091.97
+4932,août 2024,151065582,El Karchaoui Mariam,26,4128.53
+4932,septembre 2024,151065582,El Karchaoui Mariam,26,4080.01
+4932,octobre 2024,151065582,El Karchaoui Mariam,26,4255.1
+4932,novembre 2024,151065582,El Karchaoui Mariam,26,4169.57
+4932,décembre 2024,151065582,El Karchaoui Mariam,26,4144.48
+4932,décembre 2023,153148244,Janah Wafa,18,2144.55
+4932,janvier 2024,153148244,Janah Wafa,18,2238.91
+4932,février 2024,153148244,Janah Wafa,18,2189.84
+4932,mars 2024,153148244,Janah Wafa,18,2185.34
+4932,avril 2024,153148244,Janah Wafa,18,2214.01
+4932,mai 2024,153148244,Janah Wafa,18,2289.24
+4932,juin 2024,153148244,Janah Wafa,18,2245.6
+4932,juillet 2024,153148244,Janah Wafa,18,2289.89
+4932,août 2024,153148244,Janah Wafa,18,2336.65
+4932,septembre 2024,153148244,Janah Wafa,18,2325.05
+4932,octobre 2024,153148244,Janah Wafa,18,2268.57
+4932,novembre 2024,153148244,Janah Wafa,18,2214.55
+4932,décembre 2024,153148244,Janah Wafa,18,2178.93
+4932,décembre 2023,153505164,El Ghomari Touria,26,5749.47
+4932,janvier 2024,153505164,El Ghomari Touria,26,5916.19
+4932,février 2024,153505164,El Ghomari Touria,26,5975.51
+4932,mars 2024,153505164,El Ghomari Touria,26,5872.29
+4932,avril 2024,153505164,El Ghomari Touria,26,6048.64
+4932,mai 2024,153505164,El Ghomari Touria,26,6297.27
+4932,juin 2024,153505164,El Ghomari Touria,26,6355.47
+4932,juillet 2024,153505164,El Ghomari Touria,26,6653.53
+4932,août 2024,153505164,El Ghomari Touria,26,6962.42
+4932,septembre 2024,153505164,El Ghomari Touria,26,7281.12
+4932,octobre 2024,153505164,El Ghomari Touria,26,7584.0
+4932,novembre 2024,153505164,El Ghomari Touria,26,7608.12
+4932,décembre 2024,153505164,El Ghomari Touria,26,7654.9
+4932,décembre 2023,155632767,Lakhmili Nadia,26,5695.74
+4932,janvier 2024,155632767,Lakhmili Nadia,26,5532.39
+4932,février 2024,155632767,Lakhmili Nadia,26,5551.27
+4932,mars 2024,155632767,Lakhmili Nadia,26,5827.86
+4932,avril 2024,155632767,Lakhmili Nadia,26,5693.26
+4932,mai 2024,155632767,Lakhmili Nadia,26,5931.52
+4932,juin 2024,155632767,Lakhmili Nadia,26,5843.99
+4932,juillet 2024,155632767,Lakhmili Nadia,26,5814.12
+4932,août 2024,155632767,Lakhmili Nadia,26,6027.46
+4932,septembre 2024,155632767,Lakhmili Nadia,26,6114.88
+4932,octobre 2024,155632767,Lakhmili Nadia,26,6201.86
+4932,novembre 2024,155632767,Lakhmili Nadia,26,6341.62
+4932,décembre 2024,155632767,Lakhmili Nadia,26,6616.95
+4932,décembre 2023,155936979,Ait Said Hafida,26,3270.43
+4932,janvier 2024,155936979,Ait Said Hafida,26,3320.34
+4932,février 2024,155936979,Ait Said Hafida,26,3315.62
+4932,mars 2024,155936979,Ait Said Hafida,26,3233.52
+4932,avril 2024,155936979,Ait Said Hafida,26,3243.47
+4932,mai 2024,155936979,Ait Said Hafida,26,3210.31
+4932,juin 2024,155936979,Ait Said Hafida,26,3197.88
+4932,juillet 2024,155936979,Ait Said Hafida,26,3327.27
+4932,août 2024,155936979,Ait Said Hafida,26,3262.0
+4932,septembre 2024,155936979,Ait Said Hafida,26,3201.81
+4932,octobre 2024,155936979,Ait Said Hafida,26,3141.14
+4932,novembre 2024,155936979,Ait Said Hafida,26,3175.87
+4932,décembre 2024,155936979,Ait Said Hafida,26,3166.76
+4932,décembre 2023,159391179,Ait Si Ahmad Mariam,26,4945.31
+4932,janvier 2024,159391179,Ait Si Ahmad Mariam,26,4825.63
+4932,février 2024,159391179,Ait Si Ahmad Mariam,26,5013.66
+4932,mars 2024,159391179,Ait Si Ahmad Mariam,26,5223.79
+4932,avril 2024,159391179,Ait Si Ahmad Mariam,26,5298.88
+4932,mai 2024,159391179,Ait Si Ahmad Mariam,26,5283.42
+4932,juin 2024,159391179,Ait Si Ahmad Mariam,26,5183.5
+4932,juillet 2024,159391179,Ait Si Ahmad Mariam,26,5196.99
+4932,août 2024,159391179,Ait Si Ahmad Mariam,26,5142.76
+4932,septembre 2024,159391179,Ait Si Ahmad Mariam,26,5295.05
+4932,octobre 2024,159391179,Ait Si Ahmad Mariam,26,5447.21
+4932,novembre 2024,159391179,Ait Si Ahmad Mariam,26,5636.24
+4932,décembre 2024,159391179,Ait Si Ahmad Mariam,26,5583.55
+4932,décembre 2023,161342871,Mouyan Latifa,26,3774.39
+4932,janvier 2024,161342871,Mouyan Latifa,26,3679.18
+4932,février 2024,161342871,Mouyan Latifa,26,3763.42
+4932,mars 2024,161342871,Mouyan Latifa,26,3829.59
+4932,avril 2024,161342871,Mouyan Latifa,26,3925.94
+4932,mai 2024,161342871,Mouyan Latifa,26,3979.12
+4932,juin 2024,161342871,Mouyan Latifa,26,4078.27
+4932,juillet 2024,161342871,Mouyan Latifa,26,4180.64
+4932,août 2024,161342871,Mouyan Latifa,26,4374.87
+4932,septembre 2024,161342871,Mouyan Latifa,26,4273.41
+4932,octobre 2024,161342871,Mouyan Latifa,26,4312.7
+4932,novembre 2024,161342871,Mouyan Latifa,26,4438.41
+4932,décembre 2024,161342871,Mouyan Latifa,26,4428.92
+4932,décembre 2023,161954270,Arich Abdessamad,26,5489.88
+4932,janvier 2024,161954270,Arich Abdessamad,26,5409.72
+4932,février 2024,161954270,Arich Abdessamad,26,5279.37
+4932,mars 2024,161954270,Arich Abdessamad,26,5294.82
+4932,avril 2024,161954270,Arich Abdessamad,26,5411.76
+4932,mai 2024,161954270,Arich Abdessamad,26,5476.14
+4932,juin 2024,161954270,Arich Abdessamad,26,5658.63
+4932,juillet 2024,161954270,Arich Abdessamad,26,5578.29
+4932,août 2024,161954270,Arich Abdessamad,26,5796.81
+4932,septembre 2024,161954270,Arich Abdessamad,26,5864.99
+4932,octobre 2024,161954270,Arich Abdessamad,26,6091.21
+4932,novembre 2024,161954270,Arich Abdessamad,26,5995.97
+4932,décembre 2024,161954270,Arich Abdessamad,26,6134.57
+4932,décembre 2023,164174875,Bouskarir Fatima,13,1822.86
+4932,janvier 2024,164174875,Bouskarir Fatima,13,1791.88
+4932,février 2024,164174875,Bouskarir Fatima,13,1789.93
+4932,mars 2024,164174875,Bouskarir Fatima,13,1823.1
+4932,avril 2024,164174875,Bouskarir Fatima,13,1809.12
+4932,mai 2024,164174875,Bouskarir Fatima,13,1869.58
+4932,juin 2024,164174875,Bouskarir Fatima,13,1953.95
+4932,juillet 2024,164174875,Bouskarir Fatima,13,2018.85
+4932,août 2024,164174875,Bouskarir Fatima,13,2057.46
+4932,septembre 2024,164174875,Bouskarir Fatima,13,2000.68
+4932,octobre 2024,164174875,Bouskarir Fatima,13,2081.38
+4932,novembre 2024,164174875,Bouskarir Fatima,13,2148.93
+4932,décembre 2024,164174875,Bouskarir Fatima,13,2135.07
+4932,décembre 2023,164935673,Ait Belhaj Nadia,26,4096.07
+4932,janvier 2024,164935673,Ait Belhaj Nadia,26,4138.86
+4932,février 2024,164935673,Ait Belhaj Nadia,26,4121.46
+4932,mars 2024,164935673,Ait Belhaj Nadia,26,4131.81
+4932,avril 2024,164935673,Ait Belhaj Nadia,26,4294.87
+4932,mai 2024,164935673,Ait Belhaj Nadia,26,4322.76
+4932,juin 2024,164935673,Ait Belhaj Nadia,26,4419.17
+4932,juillet 2024,164935673,Ait Belhaj Nadia,26,4326.92
+4932,août 2024,164935673,Ait Belhaj Nadia,26,4231.21
+4932,septembre 2024,164935673,Ait Belhaj Nadia,26,4219.5
+4932,octobre 2024,164935673,Ait Belhaj Nadia,26,4332.84
+4932,novembre 2024,164935673,Ait Belhaj Nadia,26,4277.69
+4932,décembre 2024,164935673,Ait Belhaj Nadia,26,4307.25
+4932,décembre 2023,166606793,Nassih Moulay Rachid,26,3324.04
+4932,janvier 2024,166606793,Nassih Moulay Rachid,26,3356.94
+4932,février 2024,166606793,Nassih Moulay Rachid,26,3354.85
+4932,mars 2024,166606793,Nassih Moulay Rachid,26,3286.03
+4932,avril 2024,166606793,Nassih Moulay Rachid,26,3354.32
+4932,mai 2024,166606793,Nassih Moulay Rachid,26,3349.47
+4932,juin 2024,166606793,Nassih Moulay Rachid,26,3340.38
+4932,juillet 2024,166606793,Nassih Moulay Rachid,26,3333.46
+4932,août 2024,166606793,Nassih Moulay Rachid,26,3234.06
+4932,septembre 2024,166606793,Nassih Moulay Rachid,26,3138.03
+4932,octobre 2024,166606793,Nassih Moulay Rachid,26,3175.35
+4932,novembre 2024,166606793,Nassih Moulay Rachid,26,3308.17
+4932,décembre 2024,166606793,Nassih Moulay Rachid,26,3446.66
+4932,décembre 2023,166799580,Sarbout Mohamed,26,4303.01
+4932,janvier 2024,166799580,Sarbout Mohamed,26,4392.88
+4932,février 2024,166799580,Sarbout Mohamed,26,4321.23
+4932,mars 2024,166799580,Sarbout Mohamed,26,4523.31
+4932,avril 2024,166799580,Sarbout Mohamed,26,4426.96
+4932,mai 2024,166799580,Sarbout Mohamed,26,4386.14
+4932,juin 2024,166799580,Sarbout Mohamed,26,4546.64
+4932,juillet 2024,166799580,Sarbout Mohamed,26,4752.16
+4932,août 2024,166799580,Sarbout Mohamed,26,4646.06
+4932,septembre 2024,166799580,Sarbout Mohamed,26,4700.04
+4932,octobre 2024,166799580,Sarbout Mohamed,26,4903.95
+4932,novembre 2024,166799580,Sarbout Mohamed,26,4976.9
+4932,décembre 2024,166799580,Sarbout Mohamed,26,5102.05
+4932,décembre 2023,169177296,El Gharmali Kawtar,26,4014.58
+4932,janvier 2024,169177296,El Gharmali Kawtar,26,3967.13
+4932,février 2024,169177296,El Gharmali Kawtar,26,4000.25
+4932,mars 2024,169177296,El Gharmali Kawtar,26,4047.5
+4932,avril 2024,169177296,El Gharmali Kawtar,26,3976.32
+4932,mai 2024,169177296,El Gharmali Kawtar,26,3949.07
+4932,juin 2024,169177296,El Gharmali Kawtar,26,3869.12
+4932,juillet 2024,169177296,El Gharmali Kawtar,26,3914.24
+4932,août 2024,169177296,El Gharmali Kawtar,26,3897.0
+4932,septembre 2024,169177296,El Gharmali Kawtar,26,4060.51
+4932,octobre 2024,169177296,El Gharmali Kawtar,26,4038.95
+4932,novembre 2024,169177296,El Gharmali Kawtar,26,4023.72
+4932,décembre 2024,169177296,El Gharmali Kawtar,26,3905.07
+4932,décembre 2023,172940664,El Fellah Kenza,26,6037.14
+4932,janvier 2024,172940664,El Fellah Kenza,26,6294.49
+4932,février 2024,172940664,El Fellah Kenza,26,6134.91
+4932,mars 2024,172940664,El Fellah Kenza,26,6257.38
+4932,avril 2024,172940664,El Fellah Kenza,26,6513.13
+4932,mai 2024,172940664,El Fellah Kenza,26,6477.56
+4932,juin 2024,172940664,El Fellah Kenza,26,6789.08
+4932,juillet 2024,172940664,El Fellah Kenza,26,6605.32
+4932,août 2024,172940664,El Fellah Kenza,26,6468.13
+4932,septembre 2024,172940664,El Fellah Kenza,26,6653.16
+4932,octobre 2024,172940664,El Fellah Kenza,26,6631.36
+4932,novembre 2024,172940664,El Fellah Kenza,26,6831.38
+4932,décembre 2024,172940664,El Fellah Kenza,26,7075.85
+4932,décembre 2023,180195871,Baddi Fatiha,26,4632.05
+4932,janvier 2024,180195871,Baddi Fatiha,26,4759.76
+4932,février 2024,180195871,Baddi Fatiha,26,4855.16
+4932,mars 2024,180195871,Baddi Fatiha,26,5057.06
+4932,avril 2024,180195871,Baddi Fatiha,26,4992.53
+4932,mai 2024,180195871,Baddi Fatiha,26,4857.6
+4932,juin 2024,180195871,Baddi Fatiha,26,4897.04
+4932,juillet 2024,180195871,Baddi Fatiha,26,5105.21
+4932,août 2024,180195871,Baddi Fatiha,26,5323.8
+4932,septembre 2024,180195871,Baddi Fatiha,26,5255.57
+4932,octobre 2024,180195871,Baddi Fatiha,26,5397.56
+4932,novembre 2024,180195871,Baddi Fatiha,26,5439.51
+4932,décembre 2024,180195871,Baddi Fatiha,26,5643.51
+4932,décembre 2023,182708755,Achahoud Soumia,26,6004.32
+4932,janvier 2024,182708755,Achahoud Soumia,26,5945.92
+4932,février 2024,182708755,Achahoud Soumia,26,6049.14
+4932,mars 2024,182708755,Achahoud Soumia,26,6046.34
+4932,avril 2024,182708755,Achahoud Soumia,26,6043.65
+4932,mai 2024,182708755,Achahoud Soumia,26,6232.1
+4932,juin 2024,182708755,Achahoud Soumia,26,6072.69
+4932,juillet 2024,182708755,Achahoud Soumia,26,6200.42
+4932,août 2024,182708755,Achahoud Soumia,26,6325.68
+4932,septembre 2024,182708755,Achahoud Soumia,26,6467.57
+4932,octobre 2024,182708755,Achahoud Soumia,26,6364.96
+4932,novembre 2024,182708755,Achahoud Soumia,26,6610.68
+4932,décembre 2024,182708755,Achahoud Soumia,26,6463.12
+4932,décembre 2023,183932139,Essaouaf Daouia,26,6026.2
+4932,janvier 2024,183932139,Essaouaf Daouia,26,6042.38
+4932,février 2024,183932139,Essaouaf Daouia,26,6235.91
+4932,mars 2024,183932139,Essaouaf Daouia,26,6480.07
+4932,avril 2024,183932139,Essaouaf Daouia,26,6416.15
+4932,mai 2024,183932139,Essaouaf Daouia,26,6559.78
+4932,juin 2024,183932139,Essaouaf Daouia,26,6687.42
+4932,juillet 2024,183932139,Essaouaf Daouia,26,6944.92
+4932,août 2024,183932139,Essaouaf Daouia,26,6987.03
+4932,septembre 2024,183932139,Essaouaf Daouia,26,7317.06
+4932,octobre 2024,183932139,Essaouaf Daouia,26,7361.05
+4932,novembre 2024,183932139,Essaouaf Daouia,26,7222.27
+4932,décembre 2024,183932139,Essaouaf Daouia,26,7224.31
+4932,décembre 2023,185714262,Misk Imane,26,3967.4
+4932,janvier 2024,185714262,Misk Imane,26,4055.11
+4932,février 2024,185714262,Misk Imane,26,4011.52
+4932,mars 2024,185714262,Misk Imane,26,4076.36
+4932,avril 2024,185714262,Misk Imane,26,4062.25
+4932,mai 2024,185714262,Misk Imane,26,4063.34
+4932,juin 2024,185714262,Misk Imane,26,3945.78
+4932,juillet 2024,185714262,Misk Imane,26,3989.42
+4932,août 2024,185714262,Misk Imane,26,3987.27
+4932,septembre 2024,185714262,Misk Imane,26,4074.47
+4932,octobre 2024,185714262,Misk Imane,26,3967.75
+4932,novembre 2024,185714262,Misk Imane,26,4104.36
+4932,décembre 2024,185714262,Misk Imane,26,3999.2
+4932,décembre 2023,187902941,Banine Nesrine,15,1600.0
+4932,janvier 2024,187902941,Banine Nesrine,15,1646.03
+4932,février 2024,187902941,Banine Nesrine,15,1715.69
+4932,mars 2024,187902941,Banine Nesrine,15,1734.57
+4932,avril 2024,187902941,Banine Nesrine,15,1770.09
+4932,mai 2024,187902941,Banine Nesrine,15,1843.55
+4932,juin 2024,187902941,Banine Nesrine,15,1925.89
+4932,juillet 2024,187902941,Banine Nesrine,15,1887.86
+4932,août 2024,187902941,Banine Nesrine,15,1944.19
+4932,septembre 2024,187902941,Banine Nesrine,15,2008.92
+4932,octobre 2024,187902941,Banine Nesrine,15,2055.43
+4932,novembre 2024,187902941,Banine Nesrine,15,2131.61
+4932,décembre 2024,187902941,Banine Nesrine,15,2230.67
+4932,décembre 2023,188894459,Belkar El Mostafa,26,4557.15
+4932,janvier 2024,188894459,Belkar El Mostafa,26,4657.33
+4932,février 2024,188894459,Belkar El Mostafa,26,4808.27
+4932,mars 2024,188894459,Belkar El Mostafa,26,4948.75
+4932,avril 2024,188894459,Belkar El Mostafa,26,5081.24
+4932,mai 2024,188894459,Belkar El Mostafa,26,5092.71
+4932,juin 2024,188894459,Belkar El Mostafa,26,4993.3
+4932,juillet 2024,188894459,Belkar El Mostafa,26,4849.71
+4932,août 2024,188894459,Belkar El Mostafa,26,4883.88
+4932,septembre 2024,188894459,Belkar El Mostafa,26,4920.5
+4932,octobre 2024,188894459,Belkar El Mostafa,26,4950.77
+4932,novembre 2024,188894459,Belkar El Mostafa,26,5126.4
+4932,décembre 2024,188894459,Belkar El Mostafa,26,5301.54
+4932,décembre 2023,189466687,El Fakir Brahim,26,4934.01
+4932,janvier 2024,189466687,El Fakir Brahim,26,5154.42
+4932,février 2024,189466687,El Fakir Brahim,26,5393.71
+4932,mars 2024,189466687,El Fakir Brahim,26,5320.99
+4932,avril 2024,189466687,El Fakir Brahim,26,5520.09
+4932,mai 2024,189466687,El Fakir Brahim,26,5476.72
+4932,juin 2024,189466687,El Fakir Brahim,26,5634.38
+4932,juillet 2024,189466687,El Fakir Brahim,26,5679.6
+4932,août 2024,189466687,El Fakir Brahim,26,5648.29
+4932,septembre 2024,189466687,El Fakir Brahim,26,5526.55
+4932,octobre 2024,189466687,El Fakir Brahim,26,5569.97
+4932,novembre 2024,189466687,El Fakir Brahim,26,5651.77
+4932,décembre 2024,189466687,El Fakir Brahim,26,5594.75
+4932,décembre 2023,190958897,Stika Rachida,25,3216.81
+4932,janvier 2024,190958897,Stika Rachida,25,3228.81
+4932,février 2024,190958897,Stika Rachida,25,3274.17
+4932,mars 2024,190958897,Stika Rachida,25,3178.3
+4932,avril 2024,190958897,Stika Rachida,25,3150.54
+4932,mai 2024,190958897,Stika Rachida,25,3291.06
+4932,juin 2024,190958897,Stika Rachida,25,3339.49
+4932,juillet 2024,190958897,Stika Rachida,25,3360.52
+4932,août 2024,190958897,Stika Rachida,25,3319.79
+4932,septembre 2024,190958897,Stika Rachida,25,3432.85
+4932,octobre 2024,190958897,Stika Rachida,25,3501.79
+4932,novembre 2024,190958897,Stika Rachida,25,3563.82
+4932,décembre 2024,190958897,Stika Rachida,25,3580.99
+4932,décembre 2023,198210303,Taoussi Mouna,26,3255.41
+4932,janvier 2024,198210303,Taoussi Mouna,26,3326.03
+4932,février 2024,198210303,Taoussi Mouna,26,3393.28
+4932,mars 2024,198210303,Taoussi Mouna,26,3372.77
+4932,avril 2024,198210303,Taoussi Mouna,26,3494.79
+4932,mai 2024,198210303,Taoussi Mouna,26,3403.72
+4932,juin 2024,198210303,Taoussi Mouna,26,3544.06
+4932,juillet 2024,198210303,Taoussi Mouna,26,3511.76
+4932,août 2024,198210303,Taoussi Mouna,26,3613.75
+4932,septembre 2024,198210303,Taoussi Mouna,26,3686.33
+4932,octobre 2024,198210303,Taoussi Mouna,26,3864.64
+4932,novembre 2024,198210303,Taoussi Mouna,26,4029.02
+4932,décembre 2024,198210303,Taoussi Mouna,26,4221.22
+4932,décembre 2023,198976800,Ben Salah Najatte,18,1979.41
+4932,janvier 2024,198976800,Ben Salah Najatte,18,2068.76
+4932,février 2024,198976800,Ben Salah Najatte,18,2141.46
+4932,mars 2024,198976800,Ben Salah Najatte,18,2213.97
+4932,avril 2024,198976800,Ben Salah Najatte,18,2174.33
+4932,mai 2024,198976800,Ben Salah Najatte,18,2120.7
+4932,juin 2024,198976800,Ben Salah Najatte,18,2166.54
+4932,juillet 2024,198976800,Ben Salah Najatte,18,2182.75
+4932,août 2024,198976800,Ben Salah Najatte,18,2197.69
+4932,septembre 2024,198976800,Ben Salah Najatte,18,2251.57
+4932,octobre 2024,198976800,Ben Salah Najatte,18,2361.08
+4932,novembre 2024,198976800,Ben Salah Najatte,18,2353.44
+4932,décembre 2024,198976800,Ben Salah Najatte,18,2441.5

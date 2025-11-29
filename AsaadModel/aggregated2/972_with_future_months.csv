@@ -1,0 +1,781 @@
+ID_adherent,month,immatriculationNumber,full_name,nombre_jours,salaire
+972,décembre 2023,101510149,Farsan Abdelkrim,26,5361.3
+972,janvier 2024,101510149,Farsan Abdelkrim,26,5279.01
+972,février 2024,101510149,Farsan Abdelkrim,26,5494.95
+972,mars 2024,101510149,Farsan Abdelkrim,26,5378.22
+972,avril 2024,101510149,Farsan Abdelkrim,26,5535.03
+972,mai 2024,101510149,Farsan Abdelkrim,26,5803.94
+972,juin 2024,101510149,Farsan Abdelkrim,26,5744.56
+972,juillet 2024,101510149,Farsan Abdelkrim,26,5927.33
+972,août 2024,101510149,Farsan Abdelkrim,26,5912.28
+972,septembre 2024,101510149,Farsan Abdelkrim,26,5867.55
+972,octobre 2024,101510149,Farsan Abdelkrim,26,5763.83
+972,novembre 2024,101510149,Farsan Abdelkrim,26,5739.45
+972,décembre 2024,101510149,Farsan Abdelkrim,26,5842.72
+972,décembre 2023,102476564,Sammami Fatna,12,1644.92
+972,janvier 2024,102476564,Sammami Fatna,12,1600.91
+972,février 2024,102476564,Sammami Fatna,12,1594.64
+972,mars 2024,102476564,Sammami Fatna,12,1614.08
+972,avril 2024,102476564,Sammami Fatna,12,1652.99
+972,mai 2024,102476564,Sammami Fatna,12,1732.19
+972,juin 2024,102476564,Sammami Fatna,12,1804.54
+972,juillet 2024,102476564,Sammami Fatna,12,1885.46
+972,août 2024,102476564,Sammami Fatna,12,1885.83
+972,septembre 2024,102476564,Sammami Fatna,12,1894.83
+972,octobre 2024,102476564,Sammami Fatna,12,1915.44
+972,novembre 2024,102476564,Sammami Fatna,12,1970.85
+972,décembre 2024,102476564,Sammami Fatna,12,1936.26
+972,décembre 2023,102476762,El Miftahy Najat,20,2398.85
+972,janvier 2024,102476762,El Miftahy Najat,20,2385.17
+972,février 2024,102476762,El Miftahy Najat,20,2489.58
+972,mars 2024,102476762,El Miftahy Najat,20,2576.31
+972,avril 2024,102476762,El Miftahy Najat,20,2631.48
+972,mai 2024,102476762,El Miftahy Najat,20,2752.55
+972,juin 2024,102476762,El Miftahy Najat,20,2717.16
+972,juillet 2024,102476762,El Miftahy Najat,20,2649.75
+972,août 2024,102476762,El Miftahy Najat,20,2765.66
+972,septembre 2024,102476762,El Miftahy Najat,20,2856.89
+972,octobre 2024,102476762,El Miftahy Najat,20,2864.23
+972,novembre 2024,102476762,El Miftahy Najat,20,2895.51
+972,décembre 2024,102476762,El Miftahy Najat,20,2943.1
+972,décembre 2023,104454469,Boumahdi Bouchra,21,2758.67
+972,janvier 2024,104454469,Boumahdi Bouchra,21,2793.72
+972,février 2024,104454469,Boumahdi Bouchra,21,2851.88
+972,mars 2024,104454469,Boumahdi Bouchra,21,2967.45
+972,avril 2024,104454469,Boumahdi Bouchra,21,3005.5
+972,mai 2024,104454469,Boumahdi Bouchra,21,3052.75
+972,juin 2024,104454469,Boumahdi Bouchra,21,3154.74
+972,juillet 2024,104454469,Boumahdi Bouchra,21,3119.06
+972,août 2024,104454469,Boumahdi Bouchra,21,3042.72
+972,septembre 2024,104454469,Boumahdi Bouchra,21,2976.21
+972,octobre 2024,104454469,Boumahdi Bouchra,21,2932.93
+972,novembre 2024,104454469,Boumahdi Bouchra,21,3059.81
+972,décembre 2024,104454469,Boumahdi Bouchra,21,3025.34
+972,décembre 2023,108380347,Makres Karima,19,2279.67
+972,janvier 2024,108380347,Makres Karima,19,2287.02
+972,février 2024,108380347,Makres Karima,19,2310.87
+972,mars 2024,108380347,Makres Karima,19,2256.86
+972,avril 2024,108380347,Makres Karima,19,2293.12
+972,mai 2024,108380347,Makres Karima,19,2262.18
+972,juin 2024,108380347,Makres Karima,19,2347.64
+972,juillet 2024,108380347,Makres Karima,19,2462.81
+972,août 2024,108380347,Makres Karima,19,2564.02
+972,septembre 2024,108380347,Makres Karima,19,2498.78
+972,octobre 2024,108380347,Makres Karima,19,2494.87
+972,novembre 2024,108380347,Makres Karima,19,2442.72
+972,décembre 2024,108380347,Makres Karima,19,2417.94
+972,décembre 2023,109960230,Farhene Anass,21,2399.65
+972,janvier 2024,109960230,Farhene Anass,21,2451.2
+972,février 2024,109960230,Farhene Anass,21,2565.15
+972,mars 2024,109960230,Farhene Anass,21,2669.91
+972,avril 2024,109960230,Farhene Anass,21,2606.22
+972,mai 2024,109960230,Farhene Anass,21,2698.76
+972,juin 2024,109960230,Farhene Anass,21,2696.9
+972,juillet 2024,109960230,Farhene Anass,21,2725.27
+972,août 2024,109960230,Farhene Anass,21,2817.1
+972,septembre 2024,109960230,Farhene Anass,21,2957.71
+972,octobre 2024,109960230,Farhene Anass,21,3046.52
+972,novembre 2024,109960230,Farhene Anass,21,3189.7
+972,décembre 2024,109960230,Farhene Anass,21,3258.4
+972,décembre 2023,109975056,Hafidi Malika,21,2878.62
+972,janvier 2024,109975056,Hafidi Malika,21,2870.33
+972,février 2024,109975056,Hafidi Malika,21,2976.67
+972,mars 2024,109975056,Hafidi Malika,21,2987.53
+972,avril 2024,109975056,Hafidi Malika,21,2960.93
+972,mai 2024,109975056,Hafidi Malika,21,2885.75
+972,juin 2024,109975056,Hafidi Malika,21,3000.66
+972,juillet 2024,109975056,Hafidi Malika,21,3050.29
+972,août 2024,109975056,Hafidi Malika,21,3141.88
+972,septembre 2024,109975056,Hafidi Malika,21,3232.17
+972,octobre 2024,109975056,Hafidi Malika,21,3205.42
+972,novembre 2024,109975056,Hafidi Malika,21,3251.17
+972,décembre 2024,109975056,Hafidi Malika,21,3193.18
+972,décembre 2023,110175059,Monyr Milouda,20,2741.54
+972,janvier 2024,110175059,Monyr Milouda,20,2715.11
+972,février 2024,110175059,Monyr Milouda,20,2718.12
+972,mars 2024,110175059,Monyr Milouda,20,2780.36
+972,avril 2024,110175059,Monyr Milouda,20,2890.91
+972,mai 2024,110175059,Monyr Milouda,20,2931.38
+972,juin 2024,110175059,Monyr Milouda,20,2966.15
+972,juillet 2024,110175059,Monyr Milouda,20,2902.49
+972,août 2024,110175059,Monyr Milouda,20,2989.22
+972,septembre 2024,110175059,Monyr Milouda,20,3041.02
+972,octobre 2024,110175059,Monyr Milouda,20,3010.65
+972,novembre 2024,110175059,Monyr Milouda,20,3136.14
+972,décembre 2024,110175059,Monyr Milouda,20,3156.12
+972,décembre 2023,110270958,Hayat Hnia,20,2399.65
+972,janvier 2024,110270958,Hayat Hnia,20,2512.77
+972,février 2024,110270958,Hayat Hnia,20,2440.88
+972,mars 2024,110270958,Hayat Hnia,20,2422.12
+972,avril 2024,110270958,Hayat Hnia,20,2535.17
+972,mai 2024,110270958,Hayat Hnia,20,2541.2
+972,juin 2024,110270958,Hayat Hnia,20,2558.1
+972,juillet 2024,110270958,Hayat Hnia,20,2510.84
+972,août 2024,110270958,Hayat Hnia,20,2446.86
+972,septembre 2024,110270958,Hayat Hnia,20,2382.47
+972,octobre 2024,110270958,Hayat Hnia,20,2453.48
+972,novembre 2024,110270958,Hayat Hnia,20,2395.36
+972,décembre 2024,110270958,Hayat Hnia,20,2482.85
+972,décembre 2023,110271550,Mabrouk Moulay Idriss,21,3715.38
+972,janvier 2024,110271550,Mabrouk Moulay Idriss,21,3653.2
+972,février 2024,110271550,Mabrouk Moulay Idriss,21,3619.1
+972,mars 2024,110271550,Mabrouk Moulay Idriss,21,3520.29
+972,avril 2024,110271550,Mabrouk Moulay Idriss,21,3617.88
+972,mai 2024,110271550,Mabrouk Moulay Idriss,21,3760.85
+972,juin 2024,110271550,Mabrouk Moulay Idriss,21,3918.05
+972,juillet 2024,110271550,Mabrouk Moulay Idriss,21,3982.28
+972,août 2024,110271550,Mabrouk Moulay Idriss,21,4075.46
+972,septembre 2024,110271550,Mabrouk Moulay Idriss,21,4148.3
+972,octobre 2024,110271550,Mabrouk Moulay Idriss,21,4049.44
+972,novembre 2024,110271550,Mabrouk Moulay Idriss,21,4137.69
+972,décembre 2024,110271550,Mabrouk Moulay Idriss,21,4065.12
+972,décembre 2023,110555350,Koudri Fatiha,21,2598.75
+972,janvier 2024,110555350,Koudri Fatiha,21,2680.32
+972,février 2024,110555350,Koudri Fatiha,21,2699.8
+972,mars 2024,110555350,Koudri Fatiha,21,2751.07
+972,avril 2024,110555350,Koudri Fatiha,21,2787.74
+972,mai 2024,110555350,Koudri Fatiha,21,2763.03
+972,juin 2024,110555350,Koudri Fatiha,21,2816.69
+972,juillet 2024,110555350,Koudri Fatiha,21,2937.39
+972,août 2024,110555350,Koudri Fatiha,21,3053.25
+972,septembre 2024,110555350,Koudri Fatiha,21,2995.39
+972,octobre 2024,110555350,Koudri Fatiha,21,3033.79
+972,novembre 2024,110555350,Koudri Fatiha,21,3079.41
+972,décembre 2024,110555350,Koudri Fatiha,21,3156.73
+972,décembre 2023,111341659,El Haiki Touria,19,2604.46
+972,janvier 2024,111341659,El Haiki Touria,19,2571.39
+972,février 2024,111341659,El Haiki Touria,19,2495.78
+972,mars 2024,111341659,El Haiki Touria,19,2577.49
+972,avril 2024,111341659,El Haiki Touria,19,2702.02
+972,mai 2024,111341659,El Haiki Touria,19,2754.29
+972,juin 2024,111341659,El Haiki Touria,19,2836.3
+972,juillet 2024,111341659,El Haiki Touria,19,2884.83
+972,août 2024,111341659,El Haiki Touria,19,2927.17
+972,septembre 2024,111341659,El Haiki Touria,19,2997.88
+972,octobre 2024,111341659,El Haiki Touria,19,3043.48
+972,novembre 2024,111341659,El Haiki Touria,19,3125.39
+972,décembre 2024,111341659,El Haiki Touria,19,3273.29
+972,décembre 2023,114714332,Errity Fatima,19,2604.46
+972,janvier 2024,114714332,Errity Fatima,19,2668.65
+972,février 2024,114714332,Errity Fatima,19,2714.74
+972,mars 2024,114714332,Errity Fatima,19,2655.53
+972,avril 2024,114714332,Errity Fatima,19,2725.26
+972,mai 2024,114714332,Errity Fatima,19,2771.54
+972,juin 2024,114714332,Errity Fatima,19,2758.36
+972,juillet 2024,114714332,Errity Fatima,19,2729.57
+972,août 2024,114714332,Errity Fatima,19,2697.9
+972,septembre 2024,114714332,Errity Fatima,19,2733.81
+972,octobre 2024,114714332,Errity Fatima,19,2851.93
+972,novembre 2024,114714332,Errity Fatima,19,2868.24
+972,décembre 2024,114714332,Errity Fatima,19,2825.84
+972,décembre 2023,115048152,Karroum Aicha,20,2627.31
+972,janvier 2024,115048152,Karroum Aicha,20,2651.5
+972,février 2024,115048152,Karroum Aicha,20,2766.24
+972,mars 2024,115048152,Karroum Aicha,20,2772.32
+972,avril 2024,115048152,Karroum Aicha,20,2704.49
+972,mai 2024,115048152,Karroum Aicha,20,2666.94
+972,juin 2024,115048152,Karroum Aicha,20,2628.74
+972,juillet 2024,115048152,Karroum Aicha,20,2704.65
+972,août 2024,115048152,Karroum Aicha,20,2718.39
+972,septembre 2024,115048152,Karroum Aicha,20,2786.83
+972,octobre 2024,115048152,Karroum Aicha,20,2811.78
+972,novembre 2024,115048152,Karroum Aicha,20,2729.38
+972,décembre 2024,115048152,Karroum Aicha,20,2793.12
+972,décembre 2023,115864780,Toumi Malika,10,1313.65
+972,janvier 2024,115864780,Toumi Malika,10,1322.99
+972,février 2024,115864780,Toumi Malika,10,1294.11
+972,mars 2024,115864780,Toumi Malika,10,1280.15
+972,avril 2024,115864780,Toumi Malika,10,1290.83
+972,mai 2024,115864780,Toumi Malika,10,1297.71
+972,juin 2024,115864780,Toumi Malika,10,1357.09
+972,juillet 2024,115864780,Toumi Malika,10,1403.65
+972,août 2024,115864780,Toumi Malika,10,1427.85
+972,septembre 2024,115864780,Toumi Malika,10,1436.92
+972,octobre 2024,115864780,Toumi Malika,10,1498.07
+972,novembre 2024,115864780,Toumi Malika,10,1463.0
+972,décembre 2024,115864780,Toumi Malika,10,1464.1
+972,décembre 2023,115864889,Belrhazi Saida,21,2638.73
+972,janvier 2024,115864889,Belrhazi Saida,21,2770.54
+972,février 2024,115864889,Belrhazi Saida,21,2733.49
+972,mars 2024,115864889,Belrhazi Saida,21,2793.42
+972,avril 2024,115864889,Belrhazi Saida,21,2824.59
+972,mai 2024,115864889,Belrhazi Saida,21,2941.71
+972,juin 2024,115864889,Belrhazi Saida,21,3069.21
+972,juillet 2024,115864889,Belrhazi Saida,21,3039.85
+972,août 2024,115864889,Belrhazi Saida,21,3110.45
+972,septembre 2024,115864889,Belrhazi Saida,21,3034.3
+972,octobre 2024,115864889,Belrhazi Saida,21,3013.0
+972,novembre 2024,115864889,Belrhazi Saida,21,2996.01
+972,décembre 2024,115864889,Belrhazi Saida,21,2953.44
+972,décembre 2023,117926166,El Badraoui Khadija,21,2758.67
+972,janvier 2024,117926166,El Badraoui Khadija,21,2709.25
+972,février 2024,117926166,El Badraoui Khadija,21,2827.54
+972,mars 2024,117926166,El Badraoui Khadija,21,2904.62
+972,avril 2024,117926166,El Badraoui Khadija,21,2981.22
+972,mai 2024,117926166,El Badraoui Khadija,21,3117.83
+972,juin 2024,117926166,El Badraoui Khadija,21,3064.36
+972,juillet 2024,117926166,El Badraoui Khadija,21,3004.55
+972,août 2024,117926166,El Badraoui Khadija,21,3103.69
+972,septembre 2024,117926166,El Badraoui Khadija,21,3110.92
+972,octobre 2024,117926166,El Badraoui Khadija,21,3138.33
+972,novembre 2024,117926166,El Badraoui Khadija,21,3290.25
+972,décembre 2024,117926166,El Badraoui Khadija,21,3326.45
+972,décembre 2023,119283200,Lamssaoui Khadija,26,4289.25
+972,janvier 2024,119283200,Lamssaoui Khadija,26,4328.77
+972,février 2024,119283200,Lamssaoui Khadija,26,4233.87
+972,mars 2024,119283200,Lamssaoui Khadija,26,4125.73
+972,avril 2024,119283200,Lamssaoui Khadija,26,4254.17
+972,mai 2024,119283200,Lamssaoui Khadija,26,4433.27
+972,juin 2024,119283200,Lamssaoui Khadija,26,4567.0
+972,juillet 2024,119283200,Lamssaoui Khadija,26,4753.71
+972,août 2024,119283200,Lamssaoui Khadija,26,4627.95
+972,septembre 2024,119283200,Lamssaoui Khadija,26,4693.06
+972,octobre 2024,119283200,Lamssaoui Khadija,26,4742.61
+972,novembre 2024,119283200,Lamssaoui Khadija,26,4772.34
+972,décembre 2024,119283200,Lamssaoui Khadija,26,4872.98
+972,décembre 2023,121184148,Jawad Mohammed,26,3753.6
+972,janvier 2024,121184148,Jawad Mohammed,26,3676.6
+972,février 2024,121184148,Jawad Mohammed,26,3721.4
+972,mars 2024,121184148,Jawad Mohammed,26,3620.97
+972,avril 2024,121184148,Jawad Mohammed,26,3634.26
+972,mai 2024,121184148,Jawad Mohammed,26,3595.8
+972,juin 2024,121184148,Jawad Mohammed,26,3749.37
+972,juillet 2024,121184148,Jawad Mohammed,26,3774.82
+972,août 2024,121184148,Jawad Mohammed,26,3889.35
+972,septembre 2024,121184148,Jawad Mohammed,26,3854.29
+972,octobre 2024,121184148,Jawad Mohammed,26,4036.44
+972,novembre 2024,121184148,Jawad Mohammed,26,4026.94
+972,décembre 2024,121184148,Jawad Mohammed,26,3999.54
+972,décembre 2023,124887278,Khachia Bouchra,21,2638.73
+972,janvier 2024,124887278,Khachia Bouchra,21,2735.4
+972,février 2024,124887278,Khachia Bouchra,21,2660.52
+972,mars 2024,124887278,Khachia Bouchra,21,2760.84
+972,avril 2024,124887278,Khachia Bouchra,21,2729.29
+972,mai 2024,124887278,Khachia Bouchra,21,2666.83
+972,juin 2024,124887278,Khachia Bouchra,21,2685.52
+972,juillet 2024,124887278,Khachia Bouchra,21,2780.12
+972,août 2024,124887278,Khachia Bouchra,21,2888.79
+972,septembre 2024,124887278,Khachia Bouchra,21,2992.66
+972,octobre 2024,124887278,Khachia Bouchra,21,2993.08
+972,novembre 2024,124887278,Khachia Bouchra,21,3040.82
+972,décembre 2024,124887278,Khachia Bouchra,21,3186.61
+972,décembre 2023,125124273,Souhair Miloudia,21,2758.67
+972,janvier 2024,125124273,Souhair Miloudia,21,2888.58
+972,février 2024,125124273,Souhair Miloudia,21,2914.14
+972,mars 2024,125124273,Souhair Miloudia,21,2929.68
+972,avril 2024,125124273,Souhair Miloudia,21,3061.36
+972,mai 2024,125124273,Souhair Miloudia,21,3099.07
+972,juin 2024,125124273,Souhair Miloudia,21,3116.61
+972,juillet 2024,125124273,Souhair Miloudia,21,3245.96
+972,août 2024,125124273,Souhair Miloudia,21,3293.96
+972,septembre 2024,125124273,Souhair Miloudia,21,3349.74
+972,octobre 2024,125124273,Souhair Miloudia,21,3407.03
+972,novembre 2024,125124273,Souhair Miloudia,21,3340.15
+972,décembre 2024,125124273,Souhair Miloudia,21,3315.06
+972,décembre 2023,125541865,Bouskine Hafida,20,2627.31
+972,janvier 2024,125541865,Bouskine Hafida,20,2667.07
+972,février 2024,125541865,Bouskine Hafida,20,2753.93
+972,mars 2024,125541865,Bouskine Hafida,20,2881.89
+972,avril 2024,125541865,Bouskine Hafida,20,2930.47
+972,mai 2024,125541865,Bouskine Hafida,20,2908.57
+972,juin 2024,125541865,Bouskine Hafida,20,2978.7
+972,juillet 2024,125541865,Bouskine Hafida,20,2939.36
+972,août 2024,125541865,Bouskine Hafida,20,2978.23
+972,septembre 2024,125541865,Bouskine Hafida,20,2996.67
+972,octobre 2024,125541865,Bouskine Hafida,20,2906.86
+972,novembre 2024,125541865,Bouskine Hafida,20,3051.67
+972,décembre 2024,125541865,Bouskine Hafida,20,3014.24
+972,décembre 2023,125590440,Maataoui Jamila,21,2758.67
+972,janvier 2024,125590440,Maataoui Jamila,21,2853.68
+972,février 2024,125590440,Maataoui Jamila,21,2773.61
+972,mars 2024,125590440,Maataoui Jamila,21,2868.98
+972,avril 2024,125590440,Maataoui Jamila,21,2948.86
+972,mai 2024,125590440,Maataoui Jamila,21,3078.52
+972,juin 2024,125590440,Maataoui Jamila,21,3113.46
+972,juillet 2024,125590440,Maataoui Jamila,21,3261.21
+972,août 2024,125590440,Maataoui Jamila,21,3194.4
+972,septembre 2024,125590440,Maataoui Jamila,21,3314.92
+972,octobre 2024,125590440,Maataoui Jamila,21,3224.73
+972,novembre 2024,125590440,Maataoui Jamila,21,3282.19
+972,décembre 2024,125590440,Maataoui Jamila,21,3226.67
+972,décembre 2023,125990145,Aamarti Abderrahim,26,3753.6
+972,janvier 2024,125990145,Aamarti Abderrahim,26,3771.06
+972,février 2024,125990145,Aamarti Abderrahim,26,3673.71
+972,mars 2024,125990145,Aamarti Abderrahim,26,3777.88
+972,avril 2024,125990145,Aamarti Abderrahim,26,3683.94
+972,mai 2024,125990145,Aamarti Abderrahim,26,3652.12
+972,juin 2024,125990145,Aamarti Abderrahim,26,3600.11
+972,juillet 2024,125990145,Aamarti Abderrahim,26,3540.03
+972,août 2024,125990145,Aamarti Abderrahim,26,3573.09
+972,septembre 2024,125990145,Aamarti Abderrahim,26,3576.15
+972,octobre 2024,125990145,Aamarti Abderrahim,26,3598.86
+972,novembre 2024,125990145,Aamarti Abderrahim,26,3674.6
+972,décembre 2024,125990145,Aamarti Abderrahim,26,3724.03
+972,décembre 2023,126411380,Es Soualhi Hanan,21,2758.67
+972,janvier 2024,126411380,Es Soualhi Hanan,21,2774.54
+972,février 2024,126411380,Es Soualhi Hanan,21,2805.23
+972,mars 2024,126411380,Es Soualhi Hanan,21,2875.39
+972,avril 2024,126411380,Es Soualhi Hanan,21,2915.69
+972,mai 2024,126411380,Es Soualhi Hanan,21,2939.29
+972,juin 2024,126411380,Es Soualhi Hanan,21,3064.1
+972,juillet 2024,126411380,Es Soualhi Hanan,21,3154.1
+972,août 2024,126411380,Es Soualhi Hanan,21,3307.78
+972,septembre 2024,126411380,Es Soualhi Hanan,21,3471.83
+972,octobre 2024,126411380,Es Soualhi Hanan,21,3416.23
+972,novembre 2024,126411380,Es Soualhi Hanan,21,3576.78
+972,décembre 2024,126411380,Es Soualhi Hanan,21,3654.48
+972,décembre 2023,126412784,El Mahous Khadija,21,2758.67
+972,janvier 2024,126412784,El Mahous Khadija,21,2709.19
+972,février 2024,126412784,El Mahous Khadija,21,2653.83
+972,mars 2024,126412784,El Mahous Khadija,21,2746.05
+972,avril 2024,126412784,El Mahous Khadija,21,2701.0
+972,mai 2024,126412784,El Mahous Khadija,21,2698.08
+972,juin 2024,126412784,El Mahous Khadija,21,2808.83
+972,juillet 2024,126412784,El Mahous Khadija,21,2934.06
+972,août 2024,126412784,El Mahous Khadija,21,2935.68
+972,septembre 2024,126412784,El Mahous Khadija,21,2960.7
+972,octobre 2024,126412784,El Mahous Khadija,21,3096.26
+972,novembre 2024,126412784,El Mahous Khadija,21,3063.01
+972,décembre 2024,126412784,El Mahous Khadija,21,3146.92
+972,décembre 2023,132841167,Mounir Fatima,21,2518.79
+972,janvier 2024,132841167,Mounir Fatima,21,2556.95
+972,février 2024,132841167,Mounir Fatima,21,2663.49
+972,mars 2024,132841167,Mounir Fatima,21,2658.71
+972,avril 2024,132841167,Mounir Fatima,21,2708.3
+972,mai 2024,132841167,Mounir Fatima,21,2771.2
+972,juin 2024,132841167,Mounir Fatima,21,2838.14
+972,juillet 2024,132841167,Mounir Fatima,21,2860.88
+972,août 2024,132841167,Mounir Fatima,21,2821.91
+972,septembre 2024,132841167,Mounir Fatima,21,2940.92
+972,octobre 2024,132841167,Mounir Fatima,21,2919.73
+972,novembre 2024,132841167,Mounir Fatima,21,2926.63
+972,décembre 2024,132841167,Mounir Fatima,21,2946.75
+972,décembre 2023,132873475,Ennassiri Khadija,20,2513.08
+972,janvier 2024,132873475,Ennassiri Khadija,20,2443.93
+972,février 2024,132873475,Ennassiri Khadija,20,2472.59
+972,mars 2024,132873475,Ennassiri Khadija,20,2498.38
+972,avril 2024,132873475,Ennassiri Khadija,20,2442.39
+972,mai 2024,132873475,Ennassiri Khadija,20,2450.48
+972,juin 2024,132873475,Ennassiri Khadija,20,2487.1
+972,juillet 2024,132873475,Ennassiri Khadija,20,2576.81
+972,août 2024,132873475,Ennassiri Khadija,20,2559.43
+972,septembre 2024,132873475,Ennassiri Khadija,20,2555.43
+972,octobre 2024,132873475,Ennassiri Khadija,20,2514.93
+972,novembre 2024,132873475,Ennassiri Khadija,20,2471.27
+972,décembre 2024,132873475,Ennassiri Khadija,20,2526.31
+972,décembre 2023,134392340,Darif Hassania,0,0.0
+972,janvier 2024,134392340,Darif Hassania,0,0.0
+972,février 2024,134392340,Darif Hassania,0,0.0
+972,mars 2024,134392340,Darif Hassania,0,0.0
+972,avril 2024,134392340,Darif Hassania,0,0.0
+972,mai 2024,134392340,Darif Hassania,0,0.0
+972,juin 2024,134392340,Darif Hassania,0,0.0
+972,juillet 2024,134392340,Darif Hassania,0,0.0
+972,août 2024,134392340,Darif Hassania,0,0.0
+972,septembre 2024,134392340,Darif Hassania,0,0.0
+972,octobre 2024,134392340,Darif Hassania,0,0.0
+972,novembre 2024,134392340,Darif Hassania,0,0.0
+972,décembre 2024,134392340,Darif Hassania,0,0.0
+972,décembre 2023,137448190,Daryf Rachida,18,2159.69
+972,janvier 2024,137448190,Daryf Rachida,18,2190.0
+972,février 2024,137448190,Daryf Rachida,18,2293.93
+972,mars 2024,137448190,Daryf Rachida,18,2385.69
+972,avril 2024,137448190,Daryf Rachida,18,2471.84
+972,mai 2024,137448190,Daryf Rachida,18,2492.42
+972,juin 2024,137448190,Daryf Rachida,18,2541.2
+972,juillet 2024,137448190,Daryf Rachida,18,2564.36
+972,août 2024,137448190,Daryf Rachida,18,2596.08
+972,septembre 2024,137448190,Daryf Rachida,18,2584.22
+972,octobre 2024,137448190,Daryf Rachida,18,2696.64
+972,novembre 2024,137448190,Daryf Rachida,18,2712.72
+972,décembre 2024,137448190,Daryf Rachida,18,2730.1
+972,décembre 2023,139880770,Jamjami Naima,14,1970.48
+972,janvier 2024,139880770,Jamjami Naima,14,1996.93
+972,février 2024,139880770,Jamjami Naima,14,1966.97
+972,mars 2024,139880770,Jamjami Naima,14,2049.0
+972,avril 2024,139880770,Jamjami Naima,14,2078.24
+972,mai 2024,139880770,Jamjami Naima,14,2173.35
+972,juin 2024,139880770,Jamjami Naima,14,2261.4
+972,juillet 2024,139880770,Jamjami Naima,14,2357.62
+972,août 2024,139880770,Jamjami Naima,14,2322.92
+972,septembre 2024,139880770,Jamjami Naima,14,2366.85
+972,octobre 2024,139880770,Jamjami Naima,14,2401.23
+972,novembre 2024,139880770,Jamjami Naima,14,2396.55
+972,décembre 2024,139880770,Jamjami Naima,14,2327.86
+972,décembre 2023,140594253,Radouane Said,20,2627.31
+972,janvier 2024,140594253,Radouane Said,20,2740.04
+972,février 2024,140594253,Radouane Said,20,2679.79
+972,mars 2024,140594253,Radouane Said,20,2785.15
+972,avril 2024,140594253,Radouane Said,20,2795.3
+972,mai 2024,140594253,Radouane Said,20,2756.93
+972,juin 2024,140594253,Radouane Said,20,2714.87
+972,juillet 2024,140594253,Radouane Said,20,2819.5
+972,août 2024,140594253,Radouane Said,20,2820.98
+972,septembre 2024,140594253,Radouane Said,20,2930.09
+972,octobre 2024,140594253,Radouane Said,20,3053.75
+972,novembre 2024,140594253,Radouane Said,20,3020.7
+972,décembre 2024,140594253,Radouane Said,20,2957.64
+972,décembre 2023,140783856,Aichour Khadija,20,2513.08
+972,janvier 2024,140783856,Aichour Khadija,20,2557.17
+972,février 2024,140783856,Aichour Khadija,20,2665.83
+972,mars 2024,140783856,Aichour Khadija,20,2739.25
+972,avril 2024,140783856,Aichour Khadija,20,2700.98
+972,mai 2024,140783856,Aichour Khadija,20,2710.4
+972,juin 2024,140783856,Aichour Khadija,20,2791.06
+972,juillet 2024,140783856,Aichour Khadija,20,2785.4
+972,août 2024,140783856,Aichour Khadija,20,2810.68
+972,septembre 2024,140783856,Aichour Khadija,20,2911.83
+972,octobre 2024,140783856,Aichour Khadija,20,2892.54
+972,novembre 2024,140783856,Aichour Khadija,20,2920.07
+972,décembre 2024,140783856,Aichour Khadija,20,2844.41
+972,décembre 2023,140964654,El Meskaoui Nadia,20,2627.31
+972,janvier 2024,140964654,El Meskaoui Nadia,20,2605.29
+972,février 2024,140964654,El Meskaoui Nadia,20,2617.82
+972,mars 2024,140964654,El Meskaoui Nadia,20,2720.07
+972,avril 2024,140964654,El Meskaoui Nadia,20,2686.42
+972,mai 2024,140964654,El Meskaoui Nadia,20,2662.17
+972,juin 2024,140964654,El Meskaoui Nadia,20,2679.09
+972,juillet 2024,140964654,El Meskaoui Nadia,20,2647.53
+972,août 2024,140964654,El Meskaoui Nadia,20,2694.52
+972,septembre 2024,140964654,El Meskaoui Nadia,20,2792.69
+972,octobre 2024,140964654,El Meskaoui Nadia,20,2826.84
+972,novembre 2024,140964654,El Meskaoui Nadia,20,2958.34
+972,décembre 2024,140964654,El Meskaoui Nadia,20,2916.7
+972,décembre 2023,144590942,Aichour Omar,26,9807.5
+972,janvier 2024,144590942,Aichour Omar,26,9660.73
+972,février 2024,144590942,Aichour Omar,26,10017.53
+972,mars 2024,144590942,Aichour Omar,26,10346.36
+972,avril 2024,144590942,Aichour Omar,26,10622.23
+972,mai 2024,144590942,Aichour Omar,26,10966.93
+972,juin 2024,144590942,Aichour Omar,26,10883.04
+972,juillet 2024,144590942,Aichour Omar,26,10711.81
+972,août 2024,144590942,Aichour Omar,26,10873.93
+972,septembre 2024,144590942,Aichour Omar,26,11328.89
+972,octobre 2024,144590942,Aichour Omar,26,11242.8
+972,novembre 2024,144590942,Aichour Omar,26,11345.96
+972,décembre 2024,144590942,Aichour Omar,26,11346.95
+972,décembre 2023,150662892,Fesraoui Halima,20,2399.65
+972,janvier 2024,150662892,Fesraoui Halima,20,2414.11
+972,février 2024,150662892,Fesraoui Halima,20,2439.66
+972,mars 2024,150662892,Fesraoui Halima,20,2551.14
+972,avril 2024,150662892,Fesraoui Halima,20,2521.53
+972,mai 2024,150662892,Fesraoui Halima,20,2473.39
+972,juin 2024,150662892,Fesraoui Halima,20,2511.63
+972,juillet 2024,150662892,Fesraoui Halima,20,2583.7
+972,août 2024,150662892,Fesraoui Halima,20,2606.24
+972,septembre 2024,150662892,Fesraoui Halima,20,2578.12
+972,octobre 2024,150662892,Fesraoui Halima,20,2515.67
+972,novembre 2024,150662892,Fesraoui Halima,20,2634.38
+972,décembre 2024,150662892,Fesraoui Halima,20,2757.56
+972,décembre 2023,151231175,Ferdous Halima,21,2638.73
+972,janvier 2024,151231175,Ferdous Halima,21,2630.72
+972,février 2024,151231175,Ferdous Halima,21,2718.72
+972,mars 2024,151231175,Ferdous Halima,21,2672.83
+972,avril 2024,151231175,Ferdous Halima,21,2803.95
+972,mai 2024,151231175,Ferdous Halima,21,2839.35
+972,juin 2024,151231175,Ferdous Halima,21,2798.74
+972,juillet 2024,151231175,Ferdous Halima,21,2824.48
+972,août 2024,151231175,Ferdous Halima,21,2920.25
+972,septembre 2024,151231175,Ferdous Halima,21,3003.59
+972,octobre 2024,151231175,Ferdous Halima,21,2981.15
+972,novembre 2024,151231175,Ferdous Halima,21,2918.77
+972,décembre 2024,151231175,Ferdous Halima,21,2972.59
+972,décembre 2023,153530137,Sbaii Mina,21,2998.56
+972,janvier 2024,153530137,Sbaii Mina,21,2990.28
+972,février 2024,153530137,Sbaii Mina,21,2987.21
+972,mars 2024,153530137,Sbaii Mina,21,2962.98
+972,avril 2024,153530137,Sbaii Mina,21,3107.58
+972,mai 2024,153530137,Sbaii Mina,21,3242.55
+972,juin 2024,153530137,Sbaii Mina,21,3300.78
+972,juillet 2024,153530137,Sbaii Mina,21,3457.08
+972,août 2024,153530137,Sbaii Mina,21,3598.56
+972,septembre 2024,153530137,Sbaii Mina,21,3713.01
+972,octobre 2024,153530137,Sbaii Mina,21,3805.94
+972,novembre 2024,153530137,Sbaii Mina,21,3717.08
+972,décembre 2024,153530137,Sbaii Mina,21,3896.83
+972,décembre 2023,153697797,Walji Najat,21,2519.64
+972,janvier 2024,153697797,Walji Najat,21,2470.06
+972,février 2024,153697797,Walji Najat,21,2449.51
+972,mars 2024,153697797,Walji Najat,21,2476.12
+972,avril 2024,153697797,Walji Najat,21,2515.76
+972,mai 2024,153697797,Walji Najat,21,2449.27
+972,juin 2024,153697797,Walji Najat,21,2478.94
+972,juillet 2024,153697797,Walji Najat,21,2595.63
+972,août 2024,153697797,Walji Najat,21,2668.86
+972,septembre 2024,153697797,Walji Najat,21,2769.17
+972,octobre 2024,153697797,Walji Najat,21,2820.07
+972,novembre 2024,153697797,Walji Najat,21,2769.11
+972,décembre 2024,153697797,Walji Najat,21,2887.08
+972,décembre 2023,156281009,Aichour Hamza,26,5432.0
+972,janvier 2024,156281009,Aichour Hamza,26,5539.22
+972,février 2024,156281009,Aichour Hamza,26,5399.63
+972,mars 2024,156281009,Aichour Hamza,26,5448.19
+972,avril 2024,156281009,Aichour Hamza,26,5454.29
+972,mai 2024,156281009,Aichour Hamza,26,5345.11
+972,juin 2024,156281009,Aichour Hamza,26,5283.71
+972,juillet 2024,156281009,Aichour Hamza,26,5246.4
+972,août 2024,156281009,Aichour Hamza,26,5143.05
+972,septembre 2024,156281009,Aichour Hamza,26,5221.3
+972,octobre 2024,156281009,Aichour Hamza,26,5336.67
+972,novembre 2024,156281009,Aichour Hamza,26,5571.36
+972,décembre 2024,156281009,Aichour Hamza,26,5704.82
+972,décembre 2023,156671045,Benammar Naima,21,2878.62
+972,janvier 2024,156671045,Benammar Naima,21,2807.46
+972,février 2024,156671045,Benammar Naima,21,2744.08
+972,mars 2024,156671045,Benammar Naima,21,2825.36
+972,avril 2024,156671045,Benammar Naima,21,2770.24
+972,mai 2024,156671045,Benammar Naima,21,2895.93
+972,juin 2024,156671045,Benammar Naima,21,2984.91
+972,juillet 2024,156671045,Benammar Naima,21,3115.71
+972,août 2024,156671045,Benammar Naima,21,3119.66
+972,septembre 2024,156671045,Benammar Naima,21,3162.49
+972,octobre 2024,156671045,Benammar Naima,21,3191.28
+972,novembre 2024,156671045,Benammar Naima,21,3153.86
+972,décembre 2024,156671045,Benammar Naima,21,3287.09
+972,décembre 2023,156784161,Baidi Asmaa,21,2758.67
+972,janvier 2024,156784161,Baidi Asmaa,21,2889.0
+972,février 2024,156784161,Baidi Asmaa,21,2942.64
+972,mars 2024,156784161,Baidi Asmaa,21,3087.38
+972,avril 2024,156784161,Baidi Asmaa,21,3100.97
+972,mai 2024,156784161,Baidi Asmaa,21,3196.58
+972,juin 2024,156784161,Baidi Asmaa,21,3201.53
+972,juillet 2024,156784161,Baidi Asmaa,21,3135.22
+972,août 2024,156784161,Baidi Asmaa,21,3142.3
+972,septembre 2024,156784161,Baidi Asmaa,21,3123.68
+972,octobre 2024,156784161,Baidi Asmaa,21,3137.47
+972,novembre 2024,156784161,Baidi Asmaa,21,3122.36
+972,décembre 2024,156784161,Baidi Asmaa,21,3076.23
+972,décembre 2023,156784468,Aabidat Hasnaa,20,2627.31
+972,janvier 2024,156784468,Aabidat Hasnaa,20,2548.66
+972,février 2024,156784468,Aabidat Hasnaa,20,2492.92
+972,mars 2024,156784468,Aabidat Hasnaa,20,2586.82
+972,avril 2024,156784468,Aabidat Hasnaa,20,2680.54
+972,mai 2024,156784468,Aabidat Hasnaa,20,2746.7
+972,juin 2024,156784468,Aabidat Hasnaa,20,2859.63
+972,juillet 2024,156784468,Aabidat Hasnaa,20,2935.71
+972,août 2024,156784468,Aabidat Hasnaa,20,2881.63
+972,septembre 2024,156784468,Aabidat Hasnaa,20,3002.85
+972,octobre 2024,156784468,Aabidat Hasnaa,20,2914.11
+972,novembre 2024,156784468,Aabidat Hasnaa,20,2988.21
+972,décembre 2024,156784468,Aabidat Hasnaa,20,2944.99
+972,décembre 2023,156847951,El Kard Malika,20,2741.54
+972,janvier 2024,156847951,El Kard Malika,20,2740.92
+972,février 2024,156847951,El Kard Malika,20,2668.73
+972,mars 2024,156847951,El Kard Malika,20,2719.75
+972,avril 2024,156847951,El Kard Malika,20,2807.14
+972,mai 2024,156847951,El Kard Malika,20,2746.25
+972,juin 2024,156847951,El Kard Malika,20,2805.11
+972,juillet 2024,156847951,El Kard Malika,20,2779.03
+972,août 2024,156847951,El Kard Malika,20,2856.85
+972,septembre 2024,156847951,El Kard Malika,20,2888.41
+972,octobre 2024,156847951,El Kard Malika,20,2912.95
+972,novembre 2024,156847951,El Kard Malika,20,2846.41
+972,décembre 2024,156847951,El Kard Malika,20,2932.57
+972,décembre 2023,156896255,Bakkar Kaltoum,17,2330.31
+972,janvier 2024,156896255,Bakkar Kaltoum,17,2362.6
+972,février 2024,156896255,Bakkar Kaltoum,17,2412.78
+972,mars 2024,156896255,Bakkar Kaltoum,17,2517.89
+972,avril 2024,156896255,Bakkar Kaltoum,17,2520.66
+972,mai 2024,156896255,Bakkar Kaltoum,17,2584.12
+972,juin 2024,156896255,Bakkar Kaltoum,17,2712.51
+972,juillet 2024,156896255,Bakkar Kaltoum,17,2694.52
+972,août 2024,156896255,Bakkar Kaltoum,17,2760.93
+972,septembre 2024,156896255,Bakkar Kaltoum,17,2809.98
+972,octobre 2024,156896255,Bakkar Kaltoum,17,2837.92
+972,novembre 2024,156896255,Bakkar Kaltoum,17,2915.6
+972,décembre 2024,156896255,Bakkar Kaltoum,17,2906.17
+972,décembre 2023,159529895,Aichour Aziza,20,2513.08
+972,janvier 2024,159529895,Aichour Aziza,20,2564.61
+972,février 2024,159529895,Aichour Aziza,20,2669.94
+972,mars 2024,159529895,Aichour Aziza,20,2711.6
+972,avril 2024,159529895,Aichour Aziza,20,2632.36
+972,mai 2024,159529895,Aichour Aziza,20,2758.99
+972,juin 2024,159529895,Aichour Aziza,20,2800.75
+972,juillet 2024,159529895,Aichour Aziza,20,2857.23
+972,août 2024,159529895,Aichour Aziza,20,2963.7
+972,septembre 2024,159529895,Aichour Aziza,20,2968.76
+972,octobre 2024,159529895,Aichour Aziza,20,3109.56
+972,novembre 2024,159529895,Aichour Aziza,20,3122.29
+972,décembre 2024,159529895,Aichour Aziza,20,3111.98
+972,décembre 2023,159992670,El Harhara Fatima,21,2638.73
+972,janvier 2024,159992670,El Harhara Fatima,21,2682.11
+972,février 2024,159992670,El Harhara Fatima,21,2683.04
+972,mars 2024,159992670,El Harhara Fatima,21,2785.18
+972,avril 2024,159992670,El Harhara Fatima,21,2808.43
+972,mai 2024,159992670,El Harhara Fatima,21,2738.37
+972,juin 2024,159992670,El Harhara Fatima,21,2726.31
+972,juillet 2024,159992670,El Harhara Fatima,21,2677.51
+972,août 2024,159992670,El Harhara Fatima,21,2776.92
+972,septembre 2024,159992670,El Harhara Fatima,21,2717.67
+972,octobre 2024,159992670,El Harhara Fatima,21,2653.96
+972,novembre 2024,159992670,El Harhara Fatima,21,2625.44
+972,décembre 2024,159992670,El Harhara Fatima,21,2623.56
+972,décembre 2023,170051380,Mazrara Chaibia,21,2638.73
+972,janvier 2024,170051380,Mazrara Chaibia,21,2653.43
+972,février 2024,170051380,Mazrara Chaibia,21,2623.23
+972,mars 2024,170051380,Mazrara Chaibia,21,2593.84
+972,avril 2024,170051380,Mazrara Chaibia,21,2615.36
+972,mai 2024,170051380,Mazrara Chaibia,21,2614.12
+972,juin 2024,170051380,Mazrara Chaibia,21,2622.53
+972,juillet 2024,170051380,Mazrara Chaibia,21,2717.03
+972,août 2024,170051380,Mazrara Chaibia,21,2679.6
+972,septembre 2024,170051380,Mazrara Chaibia,21,2717.04
+972,octobre 2024,170051380,Mazrara Chaibia,21,2678.83
+972,novembre 2024,170051380,Mazrara Chaibia,21,2767.96
+972,décembre 2024,170051380,Mazrara Chaibia,21,2741.34
+972,décembre 2023,172625159,Wahbi Abdelalem,26,5360.3
+972,janvier 2024,172625159,Wahbi Abdelalem,26,5621.01
+972,février 2024,172625159,Wahbi Abdelalem,26,5709.06
+972,mars 2024,172625159,Wahbi Abdelalem,26,5862.07
+972,avril 2024,172625159,Wahbi Abdelalem,26,5709.04
+972,mai 2024,172625159,Wahbi Abdelalem,26,5878.82
+972,juin 2024,172625159,Wahbi Abdelalem,26,5916.79
+972,juillet 2024,172625159,Wahbi Abdelalem,26,6126.02
+972,août 2024,172625159,Wahbi Abdelalem,26,5964.63
+972,septembre 2024,172625159,Wahbi Abdelalem,26,5957.83
+972,octobre 2024,172625159,Wahbi Abdelalem,26,5917.09
+972,novembre 2024,172625159,Wahbi Abdelalem,26,5749.09
+972,décembre 2024,172625159,Wahbi Abdelalem,26,5830.4
+972,décembre 2023,175153823,Lachhab Ibtissam,26,3376.8
+972,janvier 2024,175153823,Lachhab Ibtissam,26,3362.87
+972,février 2024,175153823,Lachhab Ibtissam,26,3312.35
+972,mars 2024,175153823,Lachhab Ibtissam,26,3320.2
+972,avril 2024,175153823,Lachhab Ibtissam,26,3449.38
+972,mai 2024,175153823,Lachhab Ibtissam,26,3352.3
+972,juin 2024,175153823,Lachhab Ibtissam,26,3373.99
+972,juillet 2024,175153823,Lachhab Ibtissam,26,3355.19
+972,août 2024,175153823,Lachhab Ibtissam,26,3428.75
+972,septembre 2024,175153823,Lachhab Ibtissam,26,3512.1
+972,octobre 2024,175153823,Lachhab Ibtissam,26,3458.63
+972,novembre 2024,175153823,Lachhab Ibtissam,26,3573.2
+972,décembre 2024,175153823,Lachhab Ibtissam,26,3531.8
+972,décembre 2023,182609247,Ben Cherif Naima,21,2399.65
+972,janvier 2024,182609247,Ben Cherif Naima,21,2497.89
+972,février 2024,182609247,Ben Cherif Naima,21,2544.28
+972,mars 2024,182609247,Ben Cherif Naima,21,2497.26
+972,avril 2024,182609247,Ben Cherif Naima,21,2460.03
+972,mai 2024,182609247,Ben Cherif Naima,21,2454.33
+972,juin 2024,182609247,Ben Cherif Naima,21,2392.71
+972,juillet 2024,182609247,Ben Cherif Naima,21,2420.32
+972,août 2024,182609247,Ben Cherif Naima,21,2458.65
+972,septembre 2024,182609247,Ben Cherif Naima,21,2519.18
+972,octobre 2024,182609247,Ben Cherif Naima,21,2569.92
+972,novembre 2024,182609247,Ben Cherif Naima,21,2516.64
+972,décembre 2024,182609247,Ben Cherif Naima,21,2584.28
+972,décembre 2023,184196883,Ilmane Meriem,10,1256.54
+972,janvier 2024,184196883,Ilmane Meriem,10,1263.97
+972,février 2024,184196883,Ilmane Meriem,10,1290.11
+972,mars 2024,184196883,Ilmane Meriem,10,1312.19
+972,avril 2024,184196883,Ilmane Meriem,10,1319.06
+972,mai 2024,184196883,Ilmane Meriem,10,1372.78
+972,juin 2024,184196883,Ilmane Meriem,10,1390.67
+972,juillet 2024,184196883,Ilmane Meriem,10,1450.7
+972,août 2024,184196883,Ilmane Meriem,10,1440.72
+972,septembre 2024,184196883,Ilmane Meriem,10,1477.65
+972,octobre 2024,184196883,Ilmane Meriem,10,1455.87
+972,novembre 2024,184196883,Ilmane Meriem,10,1414.85
+972,décembre 2024,184196883,Ilmane Meriem,10,1405.62
+972,décembre 2023,184197287,Mellasse Asmaa,17,2136.12
+972,janvier 2024,184197287,Mellasse Asmaa,17,2125.7
+972,février 2024,184197287,Mellasse Asmaa,17,2172.23
+972,mars 2024,184197287,Mellasse Asmaa,17,2206.28
+972,avril 2024,184197287,Mellasse Asmaa,17,2262.16
+972,mai 2024,184197287,Mellasse Asmaa,17,2318.24
+972,juin 2024,184197287,Mellasse Asmaa,17,2299.04
+972,juillet 2024,184197287,Mellasse Asmaa,17,2326.87
+972,août 2024,184197287,Mellasse Asmaa,17,2390.73
+972,septembre 2024,184197287,Mellasse Asmaa,17,2428.06
+972,octobre 2024,184197287,Mellasse Asmaa,17,2355.78
+972,novembre 2024,184197287,Mellasse Asmaa,17,2376.39
+972,décembre 2024,184197287,Mellasse Asmaa,17,2434.8
+972,décembre 2023,184198582,Laissi Salwa,21,2638.73
+972,janvier 2024,184198582,Laissi Salwa,21,2664.7
+972,février 2024,184198582,Laissi Salwa,21,2785.01
+972,mars 2024,184198582,Laissi Salwa,21,2783.24
+972,avril 2024,184198582,Laissi Salwa,21,2804.72
+972,mai 2024,184198582,Laissi Salwa,21,2787.34
+972,juin 2024,184198582,Laissi Salwa,21,2814.76
+972,juillet 2024,184198582,Laissi Salwa,21,2808.1
+972,août 2024,184198582,Laissi Salwa,21,2735.07
+972,septembre 2024,184198582,Laissi Salwa,21,2853.96
+972,octobre 2024,184198582,Laissi Salwa,21,2833.72
+972,novembre 2024,184198582,Laissi Salwa,21,2754.22
+972,décembre 2024,184198582,Laissi Salwa,21,2838.5
+972,décembre 2023,184400052,Ghrar Hayat,21,2878.62
+972,janvier 2024,184400052,Ghrar Hayat,21,2959.32
+972,février 2024,184400052,Ghrar Hayat,21,2998.55
+972,mars 2024,184400052,Ghrar Hayat,21,2909.49
+972,avril 2024,184400052,Ghrar Hayat,21,3045.14
+972,mai 2024,184400052,Ghrar Hayat,21,3026.78
+972,juin 2024,184400052,Ghrar Hayat,21,3010.93
+972,juillet 2024,184400052,Ghrar Hayat,21,2980.66
+972,août 2024,184400052,Ghrar Hayat,21,3076.52
+972,septembre 2024,184400052,Ghrar Hayat,21,3219.46
+972,octobre 2024,184400052,Ghrar Hayat,21,3373.21
+972,novembre 2024,184400052,Ghrar Hayat,21,3523.39
+972,décembre 2024,184400052,Ghrar Hayat,21,3696.76
+972,décembre 2023,187441350,Essardaoui Nadia,20,2627.31
+972,janvier 2024,187441350,Essardaoui Nadia,20,2644.59
+972,février 2024,187441350,Essardaoui Nadia,20,2714.32
+972,mars 2024,187441350,Essardaoui Nadia,20,2814.88
+972,avril 2024,187441350,Essardaoui Nadia,20,2952.8
+972,mai 2024,187441350,Essardaoui Nadia,20,2865.31
+972,juin 2024,187441350,Essardaoui Nadia,20,3003.3
+972,juillet 2024,187441350,Essardaoui Nadia,20,3056.58
+972,août 2024,187441350,Essardaoui Nadia,20,2966.8
+972,septembre 2024,187441350,Essardaoui Nadia,20,2880.55
+972,octobre 2024,187441350,Essardaoui Nadia,20,2995.43
+972,novembre 2024,187441350,Essardaoui Nadia,20,2928.28
+972,décembre 2024,187441350,Essardaoui Nadia,20,2872.89
+972,décembre 2023,187446657,Nassih Hadda,21,2758.67
+972,janvier 2024,187446657,Nassih Hadda,21,2829.91
+972,février 2024,187446657,Nassih Hadda,21,2769.96
+972,mars 2024,187446657,Nassih Hadda,21,2908.14
+972,avril 2024,187446657,Nassih Hadda,21,2918.28
+972,mai 2024,187446657,Nassih Hadda,21,3017.97
+972,juin 2024,187446657,Nassih Hadda,21,2941.49
+972,juillet 2024,187446657,Nassih Hadda,21,3002.2
+972,août 2024,187446657,Nassih Hadda,21,3038.02
+972,septembre 2024,187446657,Nassih Hadda,21,3056.36
+972,octobre 2024,187446657,Nassih Hadda,21,3164.77
+972,novembre 2024,187446657,Nassih Hadda,21,3221.18
+972,décembre 2024,187446657,Nassih Hadda,21,3247.36
+972,décembre 2023,188707157,Saoui Halima,20,2627.31
+972,janvier 2024,188707157,Saoui Halima,20,2724.37
+972,février 2024,188707157,Saoui Halima,20,2700.48
+972,mars 2024,188707157,Saoui Halima,20,2777.18
+972,avril 2024,188707157,Saoui Halima,20,2812.22
+972,mai 2024,188707157,Saoui Halima,20,2854.66
+972,juin 2024,188707157,Saoui Halima,20,2794.51
+972,juillet 2024,188707157,Saoui Halima,20,2724.04
+972,août 2024,188707157,Saoui Halima,20,2646.51
+972,septembre 2024,188707157,Saoui Halima,20,2701.51
+972,octobre 2024,188707157,Saoui Halima,20,2653.03
+972,novembre 2024,188707157,Saoui Halima,20,2687.35
+972,décembre 2024,188707157,Saoui Halima,20,2641.4
+972,décembre 2023,196811239,Kadimi Bahria,20,2513.08
+972,janvier 2024,196811239,Kadimi Bahria,20,2596.96
+972,février 2024,196811239,Kadimi Bahria,20,2667.67
+972,mars 2024,196811239,Kadimi Bahria,20,2756.19
+972,avril 2024,196811239,Kadimi Bahria,20,2860.15
+972,mai 2024,196811239,Kadimi Bahria,20,2826.94
+972,juin 2024,196811239,Kadimi Bahria,20,2959.67
+972,juillet 2024,196811239,Kadimi Bahria,20,2934.33
+972,août 2024,196811239,Kadimi Bahria,20,2953.0
+972,septembre 2024,196811239,Kadimi Bahria,20,2954.67
+972,octobre 2024,196811239,Kadimi Bahria,20,2995.16
+972,novembre 2024,196811239,Kadimi Bahria,20,3070.75
+972,décembre 2024,196811239,Kadimi Bahria,20,3053.58
+972,décembre 2023,197618668,Fanidi Amina,20,2513.08
+972,janvier 2024,197618668,Fanidi Amina,20,2518.77
+972,février 2024,197618668,Fanidi Amina,20,2619.32
+972,mars 2024,197618668,Fanidi Amina,20,2678.93
+972,avril 2024,197618668,Fanidi Amina,20,2791.51
+972,mai 2024,197618668,Fanidi Amina,20,2888.04
+972,juin 2024,197618668,Fanidi Amina,20,2865.98
+972,juillet 2024,197618668,Fanidi Amina,20,2995.46
+972,août 2024,197618668,Fanidi Amina,20,3101.56
+972,septembre 2024,197618668,Fanidi Amina,20,3092.31
+972,octobre 2024,197618668,Fanidi Amina,20,3210.85
+972,novembre 2024,197618668,Fanidi Amina,20,3354.34
+972,décembre 2024,197618668,Fanidi Amina,20,3363.13

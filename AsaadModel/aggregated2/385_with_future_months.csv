@@ -1,0 +1,963 @@
+ID_adherent,month,immatriculationNumber,full_name,nombre_jours,salaire
+385,décembre 2023,102996471,El Gueliy Aicha,21,2565.94
+385,janvier 2024,102996471,El Gueliy Aicha,21,2656.96
+385,février 2024,102996471,El Gueliy Aicha,21,2643.76
+385,mars 2024,102996471,El Gueliy Aicha,21,2704.35
+385,avril 2024,102996471,El Gueliy Aicha,21,2697.8
+385,mai 2024,102996471,El Gueliy Aicha,21,2813.74
+385,juin 2024,102996471,El Gueliy Aicha,21,2766.91
+385,juillet 2024,102996471,El Gueliy Aicha,21,2814.98
+385,août 2024,102996471,El Gueliy Aicha,21,2918.87
+385,septembre 2024,102996471,El Gueliy Aicha,21,3013.86
+385,octobre 2024,102996471,El Gueliy Aicha,21,2952.04
+385,novembre 2024,102996471,El Gueliy Aicha,21,2998.27
+385,décembre 2024,102996471,El Gueliy Aicha,21,3017.02
+385,décembre 2023,104568244,Guessous Yasmina,26,37079.8
+385,janvier 2024,104568244,Guessous Yasmina,26,36823.16
+385,février 2024,104568244,Guessous Yasmina,26,37341.64
+385,mars 2024,104568244,Guessous Yasmina,26,38709.06
+385,avril 2024,104568244,Guessous Yasmina,26,39175.01
+385,mai 2024,104568244,Guessous Yasmina,26,40942.17
+385,juin 2024,104568244,Guessous Yasmina,26,42840.67
+385,juillet 2024,104568244,Guessous Yasmina,26,42187.45
+385,août 2024,104568244,Guessous Yasmina,26,44013.71
+385,septembre 2024,104568244,Guessous Yasmina,26,44190.05
+385,octobre 2024,104568244,Guessous Yasmina,26,46250.39
+385,novembre 2024,104568244,Guessous Yasmina,26,47315.38
+385,décembre 2024,104568244,Guessous Yasmina,26,48160.53
+385,décembre 2023,104887595,Zaairou Malika,17,1975.12
+385,janvier 2024,104887595,Zaairou Malika,17,2027.6
+385,février 2024,104887595,Zaairou Malika,17,2121.98
+385,mars 2024,104887595,Zaairou Malika,17,2077.12
+385,avril 2024,104887595,Zaairou Malika,17,2050.22
+385,mai 2024,104887595,Zaairou Malika,17,2015.03
+385,juin 2024,104887595,Zaairou Malika,17,1982.46
+385,juillet 2024,104887595,Zaairou Malika,17,2027.99
+385,août 2024,104887595,Zaairou Malika,17,2092.52
+385,septembre 2024,104887595,Zaairou Malika,17,2161.37
+385,octobre 2024,104887595,Zaairou Malika,17,2134.44
+385,novembre 2024,104887595,Zaairou Malika,17,2157.86
+385,décembre 2024,104887595,Zaairou Malika,17,2186.41
+385,décembre 2023,106785755,Eddaiyf Nadia,26,4720.13
+385,janvier 2024,106785755,Eddaiyf Nadia,26,4887.99
+385,février 2024,106785755,Eddaiyf Nadia,26,5020.02
+385,mars 2024,106785755,Eddaiyf Nadia,26,4880.86
+385,avril 2024,106785755,Eddaiyf Nadia,26,4825.46
+385,mai 2024,106785755,Eddaiyf Nadia,26,4922.47
+385,juin 2024,106785755,Eddaiyf Nadia,26,4885.19
+385,juillet 2024,106785755,Eddaiyf Nadia,26,4992.95
+385,août 2024,106785755,Eddaiyf Nadia,26,5205.38
+385,septembre 2024,106785755,Eddaiyf Nadia,26,5306.31
+385,octobre 2024,106785755,Eddaiyf Nadia,26,5489.98
+385,novembre 2024,106785755,Eddaiyf Nadia,26,5628.54
+385,décembre 2024,106785755,Eddaiyf Nadia,26,5641.96
+385,décembre 2023,106813358,Etriris Radia,26,4796.26
+385,janvier 2024,106813358,Etriris Radia,26,4857.89
+385,février 2024,106813358,Etriris Radia,26,4835.23
+385,mars 2024,106813358,Etriris Radia,26,4818.14
+385,avril 2024,106813358,Etriris Radia,26,4950.28
+385,mai 2024,106813358,Etriris Radia,26,5040.17
+385,juin 2024,106813358,Etriris Radia,26,5020.25
+385,juillet 2024,106813358,Etriris Radia,26,5123.79
+385,août 2024,106813358,Etriris Radia,26,5351.75
+385,septembre 2024,106813358,Etriris Radia,26,5572.24
+385,octobre 2024,106813358,Etriris Radia,26,5583.42
+385,novembre 2024,106813358,Etriris Radia,26,5443.77
+385,décembre 2024,106813358,Etriris Radia,26,5337.23
+385,décembre 2023,107662150,Boubziza Saida,26,4313.74
+385,janvier 2024,107662150,Boubziza Saida,26,4493.07
+385,février 2024,107662150,Boubziza Saida,26,4526.66
+385,mars 2024,107662150,Boubziza Saida,26,4433.94
+385,avril 2024,107662150,Boubziza Saida,26,4379.35
+385,mai 2024,107662150,Boubziza Saida,26,4572.27
+385,juin 2024,107662150,Boubziza Saida,26,4759.77
+385,juillet 2024,107662150,Boubziza Saida,26,4733.39
+385,août 2024,107662150,Boubziza Saida,26,4922.41
+385,septembre 2024,107662150,Boubziza Saida,26,4784.2
+385,octobre 2024,107662150,Boubziza Saida,26,4818.98
+385,novembre 2024,107662150,Boubziza Saida,26,5018.77
+385,décembre 2024,107662150,Boubziza Saida,26,5029.56
+385,décembre 2023,107757555,El Masror Khadija,26,4061.76
+385,janvier 2024,107757555,El Masror Khadija,26,4110.22
+385,février 2024,107757555,El Masror Khadija,26,4303.84
+385,mars 2024,107757555,El Masror Khadija,26,4267.77
+385,avril 2024,107757555,El Masror Khadija,26,4176.78
+385,mai 2024,107757555,El Masror Khadija,26,4208.41
+385,juin 2024,107757555,El Masror Khadija,26,4109.0
+385,juillet 2024,107757555,El Masror Khadija,26,4270.52
+385,août 2024,107757555,El Masror Khadija,26,4419.15
+385,septembre 2024,107757555,El Masror Khadija,26,4355.35
+385,octobre 2024,107757555,El Masror Khadija,26,4521.07
+385,novembre 2024,107757555,El Masror Khadija,26,4449.55
+385,décembre 2024,107757555,El Masror Khadija,26,4385.41
+385,décembre 2023,107757753,El Kholfy Rkia,26,4257.98
+385,janvier 2024,107757753,El Kholfy Rkia,26,4134.02
+385,février 2024,107757753,El Kholfy Rkia,26,4155.24
+385,mars 2024,107757753,El Kholfy Rkia,26,4033.53
+385,avril 2024,107757753,El Kholfy Rkia,26,4233.71
+385,mai 2024,107757753,El Kholfy Rkia,26,4301.43
+385,juin 2024,107757753,El Kholfy Rkia,26,4274.26
+385,juillet 2024,107757753,El Kholfy Rkia,26,4255.02
+385,août 2024,107757753,El Kholfy Rkia,26,4218.26
+385,septembre 2024,107757753,El Kholfy Rkia,26,4092.08
+385,octobre 2024,107757753,El Kholfy Rkia,26,4217.31
+385,novembre 2024,107757753,El Kholfy Rkia,26,4194.23
+385,décembre 2024,107757753,El Kholfy Rkia,26,4295.15
+385,décembre 2023,108055099,Er Raqqachy Rachid,26,3267.21
+385,janvier 2024,108055099,Er Raqqachy Rachid,26,3271.68
+385,février 2024,108055099,Er Raqqachy Rachid,26,3342.19
+385,mars 2024,108055099,Er Raqqachy Rachid,26,3460.72
+385,avril 2024,108055099,Er Raqqachy Rachid,26,3566.94
+385,mai 2024,108055099,Er Raqqachy Rachid,26,3617.86
+385,juin 2024,108055099,Er Raqqachy Rachid,26,3562.66
+385,juillet 2024,108055099,Er Raqqachy Rachid,26,3709.25
+385,août 2024,108055099,Er Raqqachy Rachid,26,3698.98
+385,septembre 2024,108055099,Er Raqqachy Rachid,26,3729.8
+385,octobre 2024,108055099,Er Raqqachy Rachid,26,3635.29
+385,novembre 2024,108055099,Er Raqqachy Rachid,26,3758.54
+385,décembre 2024,108055099,Er Raqqachy Rachid,26,3884.74
+385,décembre 2023,112266864,El Boualay Fatima,26,4325.54
+385,janvier 2024,112266864,El Boualay Fatima,26,4407.68
+385,février 2024,112266864,El Boualay Fatima,26,4421.06
+385,mars 2024,112266864,El Boualay Fatima,26,4474.6
+385,avril 2024,112266864,El Boualay Fatima,26,4566.9
+385,mai 2024,112266864,El Boualay Fatima,26,4499.1
+385,juin 2024,112266864,El Boualay Fatima,26,4390.58
+385,juillet 2024,112266864,El Boualay Fatima,26,4364.71
+385,août 2024,112266864,El Boualay Fatima,26,4377.36
+385,septembre 2024,112266864,El Boualay Fatima,26,4415.89
+385,octobre 2024,112266864,El Boualay Fatima,26,4571.23
+385,novembre 2024,112266864,El Boualay Fatima,26,4796.25
+385,décembre 2024,112266864,El Boualay Fatima,26,4717.21
+385,décembre 2023,112706688,Essabbar Abdelouahab,26,5428.9
+385,janvier 2024,112706688,Essabbar Abdelouahab,26,5645.65
+385,février 2024,112706688,Essabbar Abdelouahab,26,5848.44
+385,mars 2024,112706688,Essabbar Abdelouahab,26,5704.56
+385,avril 2024,112706688,Essabbar Abdelouahab,26,5814.72
+385,mai 2024,112706688,Essabbar Abdelouahab,26,5696.05
+385,juin 2024,112706688,Essabbar Abdelouahab,26,5920.64
+385,juillet 2024,112706688,Essabbar Abdelouahab,26,5828.66
+385,août 2024,112706688,Essabbar Abdelouahab,26,5760.38
+385,septembre 2024,112706688,Essabbar Abdelouahab,26,5638.62
+385,octobre 2024,112706688,Essabbar Abdelouahab,26,5477.53
+385,novembre 2024,112706688,Essabbar Abdelouahab,26,5744.52
+385,décembre 2024,112706688,Essabbar Abdelouahab,26,5837.19
+385,décembre 2023,112707587,Brimchi Fatima,26,3892.34
+385,janvier 2024,112707587,Brimchi Fatima,26,4025.49
+385,février 2024,112707587,Brimchi Fatima,26,4055.43
+385,mars 2024,112707587,Brimchi Fatima,26,4101.68
+385,avril 2024,112707587,Brimchi Fatima,26,4295.42
+385,mai 2024,112707587,Brimchi Fatima,26,4403.16
+385,juin 2024,112707587,Brimchi Fatima,26,4409.42
+385,juillet 2024,112707587,Brimchi Fatima,26,4579.49
+385,août 2024,112707587,Brimchi Fatima,26,4547.81
+385,septembre 2024,112707587,Brimchi Fatima,26,4430.24
+385,octobre 2024,112707587,Brimchi Fatima,26,4620.03
+385,novembre 2024,112707587,Brimchi Fatima,26,4812.69
+385,décembre 2024,112707587,Brimchi Fatima,26,4810.93
+385,décembre 2023,112707785,Zghary Lobna,6,709.84
+385,janvier 2024,112707785,Zghary Lobna,6,720.16
+385,février 2024,112707785,Zghary Lobna,6,704.83
+385,mars 2024,112707785,Zghary Lobna,6,691.71
+385,avril 2024,112707785,Zghary Lobna,6,703.07
+385,mai 2024,112707785,Zghary Lobna,6,689.54
+385,juin 2024,112707785,Zghary Lobna,6,710.52
+385,juillet 2024,112707785,Zghary Lobna,6,706.72
+385,août 2024,112707785,Zghary Lobna,6,721.95
+385,septembre 2024,112707785,Zghary Lobna,6,749.45
+385,octobre 2024,112707785,Zghary Lobna,6,775.71
+385,novembre 2024,112707785,Zghary Lobna,6,773.47
+385,décembre 2024,112707785,Zghary Lobna,6,766.11
+385,décembre 2023,112710580,El Aamery Kaoutar,0,0.0
+385,janvier 2024,112710580,El Aamery Kaoutar,0,0.0
+385,février 2024,112710580,El Aamery Kaoutar,0,0.0
+385,mars 2024,112710580,El Aamery Kaoutar,0,0.0
+385,avril 2024,112710580,El Aamery Kaoutar,0,0.0
+385,mai 2024,112710580,El Aamery Kaoutar,0,0.0
+385,juin 2024,112710580,El Aamery Kaoutar,0,0.0
+385,juillet 2024,112710580,El Aamery Kaoutar,0,0.0
+385,août 2024,112710580,El Aamery Kaoutar,0,0.0
+385,septembre 2024,112710580,El Aamery Kaoutar,0,0.0
+385,octobre 2024,112710580,El Aamery Kaoutar,0,0.0
+385,novembre 2024,112710580,El Aamery Kaoutar,0,0.0
+385,décembre 2024,112710580,El Aamery Kaoutar,0,0.0
+385,décembre 2023,119068622,Bouayoun Fatiha,14,1611.62
+385,janvier 2024,119068622,Bouayoun Fatiha,14,1652.57
+385,février 2024,119068622,Bouayoun Fatiha,14,1607.79
+385,mars 2024,119068622,Bouayoun Fatiha,14,1680.42
+385,avril 2024,119068622,Bouayoun Fatiha,14,1690.17
+385,mai 2024,119068622,Bouayoun Fatiha,14,1700.35
+385,juin 2024,119068622,Bouayoun Fatiha,14,1668.48
+385,juillet 2024,119068622,Bouayoun Fatiha,14,1646.5
+385,août 2024,119068622,Bouayoun Fatiha,14,1708.29
+385,septembre 2024,119068622,Bouayoun Fatiha,14,1713.68
+385,octobre 2024,119068622,Bouayoun Fatiha,14,1724.47
+385,novembre 2024,119068622,Bouayoun Fatiha,14,1725.55
+385,décembre 2024,119068622,Bouayoun Fatiha,14,1761.95
+385,décembre 2023,119068925,El Alaoui Naima,26,3074.2
+385,janvier 2024,119068925,El Alaoui Naima,26,2982.58
+385,février 2024,119068925,El Alaoui Naima,26,3093.03
+385,mars 2024,119068925,El Alaoui Naima,26,3016.59
+385,avril 2024,119068925,El Alaoui Naima,26,3009.64
+385,mai 2024,119068925,El Alaoui Naima,26,3128.0
+385,juin 2024,119068925,El Alaoui Naima,26,3248.77
+385,juillet 2024,119068925,El Alaoui Naima,26,3294.39
+385,août 2024,119068925,El Alaoui Naima,26,3223.58
+385,septembre 2024,119068925,El Alaoui Naima,26,3175.76
+385,octobre 2024,119068925,El Alaoui Naima,26,3169.19
+385,novembre 2024,119068925,El Alaoui Naima,26,3102.78
+385,décembre 2024,119068925,El Alaoui Naima,26,3211.36
+385,décembre 2023,120439622,Bouguir Atika,25,3087.06
+385,janvier 2024,120439622,Bouguir Atika,25,3218.73
+385,février 2024,120439622,Bouguir Atika,25,3142.91
+385,mars 2024,120439622,Bouguir Atika,25,3091.5
+385,avril 2024,120439622,Bouguir Atika,25,3130.92
+385,mai 2024,120439622,Bouguir Atika,25,3236.77
+385,juin 2024,120439622,Bouguir Atika,25,3162.28
+385,juillet 2024,120439622,Bouguir Atika,25,3228.69
+385,août 2024,120439622,Bouguir Atika,25,3183.71
+385,septembre 2024,120439622,Bouguir Atika,25,3311.3
+385,octobre 2024,120439622,Bouguir Atika,25,3376.05
+385,novembre 2024,120439622,Bouguir Atika,25,3341.09
+385,décembre 2024,120439622,Bouguir Atika,25,3399.15
+385,décembre 2023,126410241,El Moutamanni Nadia,26,5870.67
+385,janvier 2024,126410241,El Moutamanni Nadia,26,6100.77
+385,février 2024,126410241,El Moutamanni Nadia,26,6396.38
+385,mars 2024,126410241,El Moutamanni Nadia,26,6365.01
+385,avril 2024,126410241,El Moutamanni Nadia,26,6335.67
+385,mai 2024,126410241,El Moutamanni Nadia,26,6439.23
+385,juin 2024,126410241,El Moutamanni Nadia,26,6320.65
+385,juillet 2024,126410241,El Moutamanni Nadia,26,6348.71
+385,août 2024,126410241,El Moutamanni Nadia,26,6565.55
+385,septembre 2024,126410241,El Moutamanni Nadia,26,6658.36
+385,octobre 2024,126410241,El Moutamanni Nadia,26,6838.76
+385,novembre 2024,126410241,El Moutamanni Nadia,26,7151.57
+385,décembre 2024,126410241,El Moutamanni Nadia,26,7497.89
+385,décembre 2023,129053741,Abiah Fatna,26,4775.88
+385,janvier 2024,129053741,Abiah Fatna,26,4761.85
+385,février 2024,129053741,Abiah Fatna,26,4959.18
+385,mars 2024,129053741,Abiah Fatna,26,4822.89
+385,avril 2024,129053741,Abiah Fatna,26,4998.1
+385,mai 2024,129053741,Abiah Fatna,26,4892.43
+385,juin 2024,129053741,Abiah Fatna,26,5051.88
+385,juillet 2024,129053741,Abiah Fatna,26,4907.58
+385,août 2024,129053741,Abiah Fatna,26,5121.04
+385,septembre 2024,129053741,Abiah Fatna,26,5311.0
+385,octobre 2024,129053741,Abiah Fatna,26,5403.53
+385,novembre 2024,129053741,Abiah Fatna,26,5436.68
+385,décembre 2024,129053741,Abiah Fatna,26,5335.98
+385,décembre 2023,129053840,Chmila Fatima,26,5086.84
+385,janvier 2024,129053840,Chmila Fatima,26,4947.37
+385,février 2024,129053840,Chmila Fatima,26,4860.78
+385,mars 2024,129053840,Chmila Fatima,26,5015.75
+385,avril 2024,129053840,Chmila Fatima,26,5151.23
+385,mai 2024,129053840,Chmila Fatima,26,5086.34
+385,juin 2024,129053840,Chmila Fatima,26,5197.05
+385,juillet 2024,129053840,Chmila Fatima,26,5140.88
+385,août 2024,129053840,Chmila Fatima,26,5342.41
+385,septembre 2024,129053840,Chmila Fatima,26,5524.87
+385,octobre 2024,129053840,Chmila Fatima,26,5453.81
+385,novembre 2024,129053840,Chmila Fatima,26,5458.78
+385,décembre 2024,129053840,Chmila Fatima,26,5580.44
+385,décembre 2023,129054442,Zarkan Ghita,26,5787.03
+385,janvier 2024,129054442,Zarkan Ghita,26,5947.97
+385,février 2024,129054442,Zarkan Ghita,26,5872.21
+385,mars 2024,129054442,Zarkan Ghita,26,5769.15
+385,avril 2024,129054442,Zarkan Ghita,26,6040.25
+385,mai 2024,129054442,Zarkan Ghita,26,5889.16
+385,juin 2024,129054442,Zarkan Ghita,26,6013.24
+385,juillet 2024,129054442,Zarkan Ghita,26,6150.15
+385,août 2024,129054442,Zarkan Ghita,26,6027.42
+385,septembre 2024,129054442,Zarkan Ghita,26,5960.3
+385,octobre 2024,129054442,Zarkan Ghita,26,5821.42
+385,novembre 2024,129054442,Zarkan Ghita,26,5670.97
+385,décembre 2024,129054442,Zarkan Ghita,26,5644.21
+385,décembre 2023,129054541,Et Terras Yamna,26,4830.57
+385,janvier 2024,129054541,Et Terras Yamna,26,4973.92
+385,février 2024,129054541,Et Terras Yamna,26,5128.91
+385,mars 2024,129054541,Et Terras Yamna,26,5184.01
+385,avril 2024,129054541,Et Terras Yamna,26,5034.77
+385,mai 2024,129054541,Et Terras Yamna,26,5259.29
+385,juin 2024,129054541,Et Terras Yamna,26,5299.98
+385,juillet 2024,129054541,Et Terras Yamna,26,5368.81
+385,août 2024,129054541,Et Terras Yamna,26,5429.44
+385,septembre 2024,129054541,Et Terras Yamna,26,5441.66
+385,octobre 2024,129054541,Et Terras Yamna,26,5621.3
+385,novembre 2024,129054541,Et Terras Yamna,26,5650.9
+385,décembre 2024,129054541,Et Terras Yamna,26,5932.55
+385,décembre 2023,131273712,En Nasiry Tariq,26,6556.99
+385,janvier 2024,131273712,En Nasiry Tariq,26,6624.35
+385,février 2024,131273712,En Nasiry Tariq,26,6426.78
+385,mars 2024,131273712,En Nasiry Tariq,26,6527.51
+385,avril 2024,131273712,En Nasiry Tariq,26,6663.15
+385,mai 2024,131273712,En Nasiry Tariq,26,6550.15
+385,juin 2024,131273712,En Nasiry Tariq,26,6440.84
+385,juillet 2024,131273712,En Nasiry Tariq,26,6735.85
+385,août 2024,131273712,En Nasiry Tariq,26,6678.27
+385,septembre 2024,131273712,En Nasiry Tariq,26,6917.98
+385,octobre 2024,131273712,En Nasiry Tariq,26,6916.03
+385,novembre 2024,131273712,En Nasiry Tariq,26,6956.67
+385,décembre 2024,131273712,En Nasiry Tariq,26,7273.34
+385,décembre 2023,131274132,El Guerary Yassine,26,5220.88
+385,janvier 2024,131274132,El Guerary Yassine,26,5349.55
+385,février 2024,131274132,El Guerary Yassine,26,5616.56
+385,mars 2024,131274132,El Guerary Yassine,26,5831.31
+385,avril 2024,131274132,El Guerary Yassine,26,5994.08
+385,mai 2024,131274132,El Guerary Yassine,26,6236.85
+385,juin 2024,131274132,El Guerary Yassine,26,6497.26
+385,juillet 2024,131274132,El Guerary Yassine,26,6500.46
+385,août 2024,131274132,El Guerary Yassine,26,6389.49
+385,septembre 2024,131274132,El Guerary Yassine,26,6348.28
+385,octobre 2024,131274132,El Guerary Yassine,26,6457.48
+385,novembre 2024,131274132,El Guerary Yassine,26,6385.35
+385,décembre 2024,131274132,El Guerary Yassine,26,6484.88
+385,décembre 2023,133856722,Kiouch Houssna,25,3082.77
+385,janvier 2024,133856722,Kiouch Houssna,25,3117.99
+385,février 2024,133856722,Kiouch Houssna,25,3216.88
+385,mars 2024,133856722,Kiouch Houssna,25,3323.6
+385,avril 2024,133856722,Kiouch Houssna,25,3223.9
+385,mai 2024,133856722,Kiouch Houssna,25,3261.65
+385,juin 2024,133856722,Kiouch Houssna,25,3311.54
+385,juillet 2024,133856722,Kiouch Houssna,25,3268.41
+385,août 2024,133856722,Kiouch Houssna,25,3202.1
+385,septembre 2024,133856722,Kiouch Houssna,25,3247.38
+385,octobre 2024,133856722,Kiouch Houssna,25,3287.85
+385,novembre 2024,133856722,Kiouch Houssna,25,3225.49
+385,décembre 2024,133856722,Kiouch Houssna,25,3379.98
+385,décembre 2023,133946495,El Houari Hakima,26,3807.62
+385,janvier 2024,133946495,El Houari Hakima,26,3851.05
+385,février 2024,133946495,El Houari Hakima,26,3775.7
+385,mars 2024,133946495,El Houari Hakima,26,3910.36
+385,avril 2024,133946495,El Houari Hakima,26,3952.86
+385,mai 2024,133946495,El Houari Hakima,26,4012.35
+385,juin 2024,133946495,El Houari Hakima,26,3915.92
+385,juillet 2024,133946495,El Houari Hakima,26,4058.72
+385,août 2024,133946495,El Houari Hakima,26,3999.26
+385,septembre 2024,133946495,El Houari Hakima,26,3923.94
+385,octobre 2024,133946495,El Houari Hakima,26,3932.9
+385,novembre 2024,133946495,El Houari Hakima,26,4101.57
+385,décembre 2024,133946495,El Houari Hakima,26,4065.62
+385,décembre 2023,134745341,Bairouk Addi,26,34020.37
+385,janvier 2024,134745341,Bairouk Addi,26,33186.61
+385,février 2024,134745341,Bairouk Addi,26,34300.04
+385,mars 2024,134745341,Bairouk Addi,26,33694.24
+385,avril 2024,134745341,Bairouk Addi,26,32871.84
+385,mai 2024,134745341,Bairouk Addi,26,33571.53
+385,juin 2024,134745341,Bairouk Addi,26,33029.93
+385,juillet 2024,134745341,Bairouk Addi,26,32178.38
+385,août 2024,134745341,Bairouk Addi,26,33781.11
+385,septembre 2024,134745341,Bairouk Addi,26,35159.46
+385,octobre 2024,134745341,Bairouk Addi,26,35725.83
+385,novembre 2024,134745341,Bairouk Addi,26,36467.05
+385,décembre 2024,134745341,Bairouk Addi,26,35730.05
+385,décembre 2023,135495742,Bakhout Oumayma,17,1957.97
+385,janvier 2024,135495742,Bakhout Oumayma,17,2029.76
+385,février 2024,135495742,Bakhout Oumayma,17,2101.81
+385,mars 2024,135495742,Bakhout Oumayma,17,2204.15
+385,avril 2024,135495742,Bakhout Oumayma,17,2175.93
+385,mai 2024,135495742,Bakhout Oumayma,17,2274.2
+385,juin 2024,135495742,Bakhout Oumayma,17,2362.78
+385,juillet 2024,135495742,Bakhout Oumayma,17,2465.56
+385,août 2024,135495742,Bakhout Oumayma,17,2435.96
+385,septembre 2024,135495742,Bakhout Oumayma,17,2477.74
+385,octobre 2024,135495742,Bakhout Oumayma,17,2502.03
+385,novembre 2024,135495742,Bakhout Oumayma,17,2439.24
+385,décembre 2024,135495742,Bakhout Oumayma,17,2527.49
+385,décembre 2023,135645673,Fdili Fouzia,26,3642.5
+385,janvier 2024,135645673,Fdili Fouzia,26,3602.9
+385,février 2024,135645673,Fdili Fouzia,26,3755.92
+385,mars 2024,135645673,Fdili Fouzia,26,3778.67
+385,avril 2024,135645673,Fdili Fouzia,26,3816.49
+385,mai 2024,135645673,Fdili Fouzia,26,3720.63
+385,juin 2024,135645673,Fdili Fouzia,26,3646.07
+385,juillet 2024,135645673,Fdili Fouzia,26,3826.9
+385,août 2024,135645673,Fdili Fouzia,26,3738.78
+385,septembre 2024,135645673,Fdili Fouzia,26,3924.17
+385,octobre 2024,135645673,Fdili Fouzia,26,3851.96
+385,novembre 2024,135645673,Fdili Fouzia,26,4039.86
+385,décembre 2024,135645673,Fdili Fouzia,26,4140.07
+385,décembre 2023,136526260,Senhaji El Houboub Rachida,26,4042.46
+385,janvier 2024,136526260,Senhaji El Houboub Rachida,26,4108.29
+385,février 2024,136526260,Senhaji El Houboub Rachida,26,4248.03
+385,mars 2024,136526260,Senhaji El Houboub Rachida,26,4325.62
+385,avril 2024,136526260,Senhaji El Houboub Rachida,26,4307.87
+385,mai 2024,136526260,Senhaji El Houboub Rachida,26,4443.38
+385,juin 2024,136526260,Senhaji El Houboub Rachida,26,4543.33
+385,juillet 2024,136526260,Senhaji El Houboub Rachida,26,4726.73
+385,août 2024,136526260,Senhaji El Houboub Rachida,26,4772.51
+385,septembre 2024,136526260,Senhaji El Houboub Rachida,26,4941.27
+385,octobre 2024,136526260,Senhaji El Houboub Rachida,26,4797.63
+385,novembre 2024,136526260,Senhaji El Houboub Rachida,26,4843.2
+385,décembre 2024,136526260,Senhaji El Houboub Rachida,26,4788.34
+385,décembre 2023,136789138,Lamsiah Karima,9,1064.76
+385,janvier 2024,136789138,Lamsiah Karima,9,1109.45
+385,février 2024,136789138,Lamsiah Karima,9,1113.11
+385,mars 2024,136789138,Lamsiah Karima,9,1137.56
+385,avril 2024,136789138,Lamsiah Karima,9,1174.6
+385,mai 2024,136789138,Lamsiah Karima,9,1212.37
+385,juin 2024,136789138,Lamsiah Karima,9,1187.57
+385,juillet 2024,136789138,Lamsiah Karima,9,1205.93
+385,août 2024,136789138,Lamsiah Karima,9,1264.19
+385,septembre 2024,136789138,Lamsiah Karima,9,1262.2
+385,octobre 2024,136789138,Lamsiah Karima,9,1241.49
+385,novembre 2024,136789138,Lamsiah Karima,9,1296.16
+385,décembre 2024,136789138,Lamsiah Karima,9,1317.25
+385,décembre 2023,138730653,Bellakbir Rkia,8,959.68
+385,janvier 2024,138730653,Bellakbir Rkia,8,988.28
+385,février 2024,138730653,Bellakbir Rkia,8,1018.55
+385,mars 2024,138730653,Bellakbir Rkia,8,1047.64
+385,avril 2024,138730653,Bellakbir Rkia,8,1036.98
+385,mai 2024,138730653,Bellakbir Rkia,8,1015.95
+385,juin 2024,138730653,Bellakbir Rkia,8,1025.93
+385,juillet 2024,138730653,Bellakbir Rkia,8,1010.45
+385,août 2024,138730653,Bellakbir Rkia,8,1033.47
+385,septembre 2024,138730653,Bellakbir Rkia,8,1029.68
+385,octobre 2024,138730653,Bellakbir Rkia,8,1014.6
+385,novembre 2024,138730653,Bellakbir Rkia,8,1041.82
+385,décembre 2024,138730653,Bellakbir Rkia,8,1032.45
+385,décembre 2023,139544917,Kharbach Hadda,2,333.48
+385,janvier 2024,139544917,Kharbach Hadda,2,348.31
+385,février 2024,139544917,Kharbach Hadda,2,363.06
+385,mars 2024,139544917,Kharbach Hadda,2,364.12
+385,avril 2024,139544917,Kharbach Hadda,2,373.93
+385,mai 2024,139544917,Kharbach Hadda,2,388.97
+385,juin 2024,139544917,Kharbach Hadda,2,401.22
+385,juillet 2024,139544917,Kharbach Hadda,2,415.9
+385,août 2024,139544917,Kharbach Hadda,2,423.1
+385,septembre 2024,139544917,Kharbach Hadda,2,430.78
+385,octobre 2024,139544917,Kharbach Hadda,2,442.92
+385,novembre 2024,139544917,Kharbach Hadda,2,449.65
+385,décembre 2024,139544917,Kharbach Hadda,2,447.33
+385,décembre 2023,140809090,Laaroub Assya,26,3339.04
+385,janvier 2024,140809090,Laaroub Assya,26,3267.58
+385,février 2024,140809090,Laaroub Assya,26,3276.51
+385,mars 2024,140809090,Laaroub Assya,26,3273.7
+385,avril 2024,140809090,Laaroub Assya,26,3293.57
+385,mai 2024,140809090,Laaroub Assya,26,3259.02
+385,juin 2024,140809090,Laaroub Assya,26,3205.9
+385,juillet 2024,140809090,Laaroub Assya,26,3229.47
+385,août 2024,140809090,Laaroub Assya,26,3386.7
+385,septembre 2024,140809090,Laaroub Assya,26,3430.41
+385,octobre 2024,140809090,Laaroub Assya,26,3554.38
+385,novembre 2024,140809090,Laaroub Assya,26,3596.91
+385,décembre 2024,140809090,Laaroub Assya,26,3658.67
+385,décembre 2023,140890792,Zaairou Aziza,26,3696.11
+385,janvier 2024,140890792,Zaairou Aziza,26,3619.46
+385,février 2024,140890792,Zaairou Aziza,26,3648.19
+385,mars 2024,140890792,Zaairou Aziza,26,3692.62
+385,avril 2024,140890792,Zaairou Aziza,26,3812.1
+385,mai 2024,140890792,Zaairou Aziza,26,3936.71
+385,juin 2024,140890792,Zaairou Aziza,26,3842.16
+385,juillet 2024,140890792,Zaairou Aziza,26,4008.44
+385,août 2024,140890792,Zaairou Aziza,26,4124.23
+385,septembre 2024,140890792,Zaairou Aziza,26,4215.93
+385,octobre 2024,140890792,Zaairou Aziza,26,4370.72
+385,novembre 2024,140890792,Zaairou Aziza,26,4433.06
+385,décembre 2024,140890792,Zaairou Aziza,26,4610.94
+385,décembre 2023,143328927,Ben Brahim Sbitri Ikram,26,6669.35
+385,janvier 2024,143328927,Ben Brahim Sbitri Ikram,26,6660.76
+385,février 2024,143328927,Ben Brahim Sbitri Ikram,26,6850.35
+385,mars 2024,143328927,Ben Brahim Sbitri Ikram,26,7083.98
+385,avril 2024,143328927,Ben Brahim Sbitri Ikram,26,7378.8
+385,mai 2024,143328927,Ben Brahim Sbitri Ikram,26,7378.8
+385,juin 2024,143328927,Ben Brahim Sbitri Ikram,26,7335.54
+385,juillet 2024,143328927,Ben Brahim Sbitri Ikram,26,7442.09
+385,août 2024,143328927,Ben Brahim Sbitri Ikram,26,7284.18
+385,septembre 2024,143328927,Ben Brahim Sbitri Ikram,26,7068.13
+385,octobre 2024,143328927,Ben Brahim Sbitri Ikram,26,6899.19
+385,novembre 2024,143328927,Ben Brahim Sbitri Ikram,26,6930.87
+385,décembre 2024,143328927,Ben Brahim Sbitri Ikram,26,6734.64
+385,décembre 2023,144981688,Rayes Bouchta,26,3267.21
+385,janvier 2024,144981688,Rayes Bouchta,26,3309.3
+385,février 2024,144981688,Rayes Bouchta,26,3350.56
+385,mars 2024,144981688,Rayes Bouchta,26,3440.53
+385,avril 2024,144981688,Rayes Bouchta,26,3418.49
+385,mai 2024,144981688,Rayes Bouchta,26,3509.05
+385,juin 2024,144981688,Rayes Bouchta,26,3532.72
+385,juillet 2024,144981688,Rayes Bouchta,26,3675.47
+385,août 2024,144981688,Rayes Bouchta,26,3769.9
+385,septembre 2024,144981688,Rayes Bouchta,26,3864.11
+385,octobre 2024,144981688,Rayes Bouchta,26,3953.07
+385,novembre 2024,144981688,Rayes Bouchta,26,4014.37
+385,décembre 2024,144981688,Rayes Bouchta,26,3972.79
+385,décembre 2023,145457844,El Bahy Touria,26,3580.31
+385,janvier 2024,145457844,El Bahy Touria,26,3570.66
+385,février 2024,145457844,El Bahy Touria,26,3538.17
+385,mars 2024,145457844,El Bahy Touria,26,3560.91
+385,avril 2024,145457844,El Bahy Touria,26,3652.61
+385,mai 2024,145457844,El Bahy Touria,26,3825.69
+385,juin 2024,145457844,El Bahy Touria,26,3796.33
+385,juillet 2024,145457844,El Bahy Touria,26,3949.61
+385,août 2024,145457844,El Bahy Touria,26,3839.97
+385,septembre 2024,145457844,El Bahy Touria,26,3759.5
+385,octobre 2024,145457844,El Bahy Touria,26,3802.16
+385,novembre 2024,145457844,El Bahy Touria,26,3838.87
+385,décembre 2024,145457844,El Bahy Touria,26,3961.1
+385,décembre 2023,149464770,Fadili Drissia,26,3512.76
+385,janvier 2024,149464770,Fadili Drissia,26,3450.06
+385,février 2024,149464770,Fadili Drissia,26,3586.08
+385,mars 2024,149464770,Fadili Drissia,26,3601.1
+385,avril 2024,149464770,Fadili Drissia,26,3548.34
+385,mai 2024,149464770,Fadili Drissia,26,3611.59
+385,juin 2024,149464770,Fadili Drissia,26,3570.24
+385,juillet 2024,149464770,Fadili Drissia,26,3628.04
+385,août 2024,149464770,Fadili Drissia,26,3737.87
+385,septembre 2024,149464770,Fadili Drissia,26,3718.51
+385,octobre 2024,149464770,Fadili Drissia,26,3709.88
+385,novembre 2024,149464770,Fadili Drissia,26,3700.43
+385,décembre 2024,149464770,Fadili Drissia,26,3863.34
+385,décembre 2023,155533056,Tariq Fatiha,26,4313.74
+385,janvier 2024,155533056,Tariq Fatiha,26,4332.87
+385,février 2024,155533056,Tariq Fatiha,26,4489.17
+385,mars 2024,155533056,Tariq Fatiha,26,4711.59
+385,avril 2024,155533056,Tariq Fatiha,26,4672.43
+385,mai 2024,155533056,Tariq Fatiha,26,4838.65
+385,juin 2024,155533056,Tariq Fatiha,26,5012.89
+385,juillet 2024,155533056,Tariq Fatiha,26,4954.6
+385,août 2024,155533056,Tariq Fatiha,26,5099.03
+385,septembre 2024,155533056,Tariq Fatiha,26,4957.67
+385,octobre 2024,155533056,Tariq Fatiha,26,4982.02
+385,novembre 2024,155533056,Tariq Fatiha,26,4936.82
+385,décembre 2024,155533056,Tariq Fatiha,26,5038.65
+385,décembre 2023,155533254,Laghrib Drissia,26,3777.61
+385,janvier 2024,155533254,Laghrib Drissia,26,3934.29
+385,février 2024,155533254,Laghrib Drissia,26,3829.76
+385,mars 2024,155533254,Laghrib Drissia,26,3791.71
+385,avril 2024,155533254,Laghrib Drissia,26,3892.3
+385,mai 2024,155533254,Laghrib Drissia,26,4058.09
+385,juin 2024,155533254,Laghrib Drissia,26,3961.55
+385,juillet 2024,155533254,Laghrib Drissia,26,4116.87
+385,août 2024,155533254,Laghrib Drissia,26,4026.75
+385,septembre 2024,155533254,Laghrib Drissia,26,3966.59
+385,octobre 2024,155533254,Laghrib Drissia,26,3851.65
+385,novembre 2024,155533254,Laghrib Drissia,26,3867.19
+385,décembre 2024,155533254,Laghrib Drissia,26,3799.44
+385,décembre 2023,155533353,Cherrabi Halima,26,4294.44
+385,janvier 2024,155533353,Cherrabi Halima,26,4374.11
+385,février 2024,155533353,Cherrabi Halima,26,4306.71
+385,mars 2024,155533353,Cherrabi Halima,26,4518.01
+385,avril 2024,155533353,Cherrabi Halima,26,4473.63
+385,mai 2024,155533353,Cherrabi Halima,26,4677.43
+385,juin 2024,155533353,Cherrabi Halima,26,4776.87
+385,juillet 2024,155533353,Cherrabi Halima,26,4763.92
+385,août 2024,155533353,Cherrabi Halima,26,4916.23
+385,septembre 2024,155533353,Cherrabi Halima,26,4830.12
+385,octobre 2024,155533353,Cherrabi Halima,26,5045.49
+385,novembre 2024,155533353,Cherrabi Halima,26,4973.85
+385,décembre 2024,155533353,Cherrabi Halima,26,4894.41
+385,décembre 2023,155533551,El Youssfi Khadija,26,3974.9
+385,janvier 2024,155533551,El Youssfi Khadija,26,4033.42
+385,février 2024,155533551,El Youssfi Khadija,26,4183.58
+385,mars 2024,155533551,El Youssfi Khadija,26,4277.11
+385,avril 2024,155533551,El Youssfi Khadija,26,4311.96
+385,mai 2024,155533551,El Youssfi Khadija,26,4404.68
+385,juin 2024,155533551,El Youssfi Khadija,26,4393.7
+385,juillet 2024,155533551,El Youssfi Khadija,26,4542.26
+385,août 2024,155533551,El Youssfi Khadija,26,4498.2
+385,septembre 2024,155533551,El Youssfi Khadija,26,4412.7
+385,octobre 2024,155533551,El Youssfi Khadija,26,4340.88
+385,novembre 2024,155533551,El Youssfi Khadija,26,4319.1
+385,décembre 2024,155533551,El Youssfi Khadija,26,4402.46
+385,décembre 2023,155533858,M Harzi Khadija,26,18216.82
+385,janvier 2024,155533858,M Harzi Khadija,26,18606.44
+385,février 2024,155533858,M Harzi Khadija,26,18205.73
+385,mars 2024,155533858,M Harzi Khadija,26,18290.23
+385,avril 2024,155533858,M Harzi Khadija,26,18670.22
+385,mai 2024,155533858,M Harzi Khadija,26,18911.4
+385,juin 2024,155533858,M Harzi Khadija,26,19488.34
+385,juillet 2024,155533858,M Harzi Khadija,26,20194.13
+385,août 2024,155533858,M Harzi Khadija,26,19885.4
+385,septembre 2024,155533858,M Harzi Khadija,26,19656.68
+385,octobre 2024,155533858,M Harzi Khadija,26,19492.17
+385,novembre 2024,155533858,M Harzi Khadija,26,20161.38
+385,décembre 2024,155533858,M Harzi Khadija,26,20382.4
+385,décembre 2023,155666956,El Haddad Bouchra,26,3057.04
+385,janvier 2024,155666956,El Haddad Bouchra,26,3050.98
+385,février 2024,155666956,El Haddad Bouchra,26,2995.76
+385,mars 2024,155666956,El Haddad Bouchra,26,3094.82
+385,avril 2024,155666956,El Haddad Bouchra,26,3048.0
+385,mai 2024,155666956,El Haddad Bouchra,26,3110.45
+385,juin 2024,155666956,El Haddad Bouchra,26,3163.57
+385,juillet 2024,155666956,El Haddad Bouchra,26,3243.8
+385,août 2024,155666956,El Haddad Bouchra,26,3351.79
+385,septembre 2024,155666956,El Haddad Bouchra,26,3425.89
+385,octobre 2024,155666956,El Haddad Bouchra,26,3546.15
+385,novembre 2024,155666956,El Haddad Bouchra,26,3575.07
+385,décembre 2024,155666956,El Haddad Bouchra,26,3481.52
+385,décembre 2023,161009588,El Gaout Fatima,23,2787.9
+385,janvier 2024,161009588,El Gaout Fatima,23,2826.3
+385,février 2024,161009588,El Gaout Fatima,23,2907.95
+385,mars 2024,161009588,El Gaout Fatima,23,3008.24
+385,avril 2024,161009588,El Gaout Fatima,23,3041.43
+385,mai 2024,161009588,El Gaout Fatima,23,3022.03
+385,juin 2024,161009588,El Gaout Fatima,23,3003.38
+385,juillet 2024,161009588,El Gaout Fatima,23,2974.33
+385,août 2024,161009588,El Gaout Fatima,23,3113.98
+385,septembre 2024,161009588,El Gaout Fatima,23,3184.33
+385,octobre 2024,161009588,El Gaout Fatima,23,3172.41
+385,novembre 2024,161009588,El Gaout Fatima,23,3094.25
+385,décembre 2024,161009588,El Gaout Fatima,23,3108.85
+385,décembre 2023,161953328,Meftah Ilham,3,451.43
+385,janvier 2024,161953328,Meftah Ilham,3,470.87
+385,février 2024,161953328,Meftah Ilham,3,462.1
+385,mars 2024,161953328,Meftah Ilham,3,462.05
+385,avril 2024,161953328,Meftah Ilham,3,467.82
+385,mai 2024,161953328,Meftah Ilham,3,464.01
+385,juin 2024,161953328,Meftah Ilham,3,468.24
+385,juillet 2024,161953328,Meftah Ilham,3,486.17
+385,août 2024,161953328,Meftah Ilham,3,477.96
+385,septembre 2024,161953328,Meftah Ilham,3,471.35
+385,octobre 2024,161953328,Meftah Ilham,3,483.66
+385,novembre 2024,161953328,Meftah Ilham,3,501.17
+385,décembre 2024,161953328,Meftah Ilham,3,494.86
+385,décembre 2023,164034513,Kouaz Chaymae,13,1715.63
+385,janvier 2024,164034513,Kouaz Chaymae,13,1768.51
+385,février 2024,164034513,Kouaz Chaymae,13,1834.43
+385,mars 2024,164034513,Kouaz Chaymae,13,1908.41
+385,avril 2024,164034513,Kouaz Chaymae,13,1900.61
+385,mai 2024,164034513,Kouaz Chaymae,13,1846.43
+385,juin 2024,164034513,Kouaz Chaymae,13,1905.2
+385,juillet 2024,164034513,Kouaz Chaymae,13,1997.52
+385,août 2024,164034513,Kouaz Chaymae,13,1950.36
+385,septembre 2024,164034513,Kouaz Chaymae,13,2045.44
+385,octobre 2024,164034513,Kouaz Chaymae,13,2023.72
+385,novembre 2024,164034513,Kouaz Chaymae,13,2079.62
+385,décembre 2024,164034513,Kouaz Chaymae,13,2151.72
+385,décembre 2023,164758794,Rahhali Ahmed,26,38229.41
+385,janvier 2024,164758794,Rahhali Ahmed,26,37097.77
+385,février 2024,164758794,Rahhali Ahmed,26,36671.41
+385,mars 2024,164758794,Rahhali Ahmed,26,36072.26
+385,avril 2024,164758794,Rahhali Ahmed,26,36150.17
+385,mai 2024,164758794,Rahhali Ahmed,26,37138.44
+385,juin 2024,164758794,Rahhali Ahmed,26,36653.71
+385,juillet 2024,164758794,Rahhali Ahmed,26,37385.19
+385,août 2024,164758794,Rahhali Ahmed,26,37475.87
+385,septembre 2024,164758794,Rahhali Ahmed,26,38945.43
+385,octobre 2024,164758794,Rahhali Ahmed,26,40118.37
+385,novembre 2024,164758794,Rahhali Ahmed,26,40743.6
+385,décembre 2024,164758794,Rahhali Ahmed,26,40875.25
+385,décembre 2023,164969060,Flies Ahmed,26,3915.56
+385,janvier 2024,164969060,Flies Ahmed,26,4031.27
+385,février 2024,164969060,Flies Ahmed,26,3996.08
+385,mars 2024,164969060,Flies Ahmed,26,4114.42
+385,avril 2024,164969060,Flies Ahmed,26,4166.48
+385,mai 2024,164969060,Flies Ahmed,26,4222.25
+385,juin 2024,164969060,Flies Ahmed,26,4109.43
+385,juillet 2024,164969060,Flies Ahmed,26,4260.14
+385,août 2024,164969060,Flies Ahmed,26,4289.41
+385,septembre 2024,164969060,Flies Ahmed,26,4250.22
+385,octobre 2024,164969060,Flies Ahmed,26,4419.36
+385,novembre 2024,164969060,Flies Ahmed,26,4404.56
+385,décembre 2024,164969060,Flies Ahmed,26,4412.49
+385,décembre 2023,165344509,Zghary Fatima,17,2023.38
+385,janvier 2024,165344509,Zghary Fatima,17,1997.19
+385,février 2024,165344509,Zghary Fatima,17,2057.91
+385,mars 2024,165344509,Zghary Fatima,17,2120.87
+385,avril 2024,165344509,Zghary Fatima,17,2076.26
+385,mai 2024,165344509,Zghary Fatima,17,2056.35
+385,juin 2024,165344509,Zghary Fatima,17,1999.97
+385,juillet 2024,165344509,Zghary Fatima,17,2025.0
+385,août 2024,165344509,Zghary Fatima,17,2077.76
+385,septembre 2024,165344509,Zghary Fatima,17,2026.82
+385,octobre 2024,165344509,Zghary Fatima,17,2042.73
+385,novembre 2024,165344509,Zghary Fatima,17,2136.78
+385,décembre 2024,165344509,Zghary Fatima,17,2075.94
+385,décembre 2023,169485970,Jamai Hammoumi Abdelali,26,5491.09
+385,janvier 2024,169485970,Jamai Hammoumi Abdelali,26,5537.55
+385,février 2024,169485970,Jamai Hammoumi Abdelali,26,5502.44
+385,mars 2024,169485970,Jamai Hammoumi Abdelali,26,5774.31
+385,avril 2024,169485970,Jamai Hammoumi Abdelali,26,5888.51
+385,mai 2024,169485970,Jamai Hammoumi Abdelali,26,5914.71
+385,juin 2024,169485970,Jamai Hammoumi Abdelali,26,6001.25
+385,juillet 2024,169485970,Jamai Hammoumi Abdelali,26,6035.6
+385,août 2024,169485970,Jamai Hammoumi Abdelali,26,5869.37
+385,septembre 2024,169485970,Jamai Hammoumi Abdelali,26,5847.21
+385,octobre 2024,169485970,Jamai Hammoumi Abdelali,26,5759.94
+385,novembre 2024,169485970,Jamai Hammoumi Abdelali,26,5845.0
+385,décembre 2024,169485970,Jamai Hammoumi Abdelali,26,5910.04
+385,décembre 2023,172639717,Merouane Hafida,26,3497.74
+385,janvier 2024,172639717,Merouane Hafida,26,3669.12
+385,février 2024,172639717,Merouane Hafida,26,3628.23
+385,mars 2024,172639717,Merouane Hafida,26,3640.83
+385,avril 2024,172639717,Merouane Hafida,26,3584.95
+385,mai 2024,172639717,Merouane Hafida,26,3744.47
+385,juin 2024,172639717,Merouane Hafida,26,3635.52
+385,juillet 2024,172639717,Merouane Hafida,26,3553.93
+385,août 2024,172639717,Merouane Hafida,26,3714.77
+385,septembre 2024,172639717,Merouane Hafida,26,3845.0
+385,octobre 2024,172639717,Merouane Hafida,26,3980.06
+385,novembre 2024,172639717,Merouane Hafida,26,4048.17
+385,décembre 2024,172639717,Merouane Hafida,26,4061.81
+385,décembre 2023,172641813,Moukafih Amane,24,2912.28
+385,janvier 2024,172641813,Moukafih Amane,24,2881.27
+385,février 2024,172641813,Moukafih Amane,24,2839.8
+385,mars 2024,172641813,Moukafih Amane,24,2797.87
+385,avril 2024,172641813,Moukafih Amane,24,2866.63
+385,mai 2024,172641813,Moukafih Amane,24,2842.55
+385,juin 2024,172641813,Moukafih Amane,24,2953.82
+385,juillet 2024,172641813,Moukafih Amane,24,2964.52
+385,août 2024,172641813,Moukafih Amane,24,2978.58
+385,septembre 2024,172641813,Moukafih Amane,24,3023.23
+385,octobre 2024,172641813,Moukafih Amane,24,2964.93
+385,novembre 2024,172641813,Moukafih Amane,24,3061.18
+385,décembre 2024,172641813,Moukafih Amane,24,3036.33
+385,décembre 2023,172643110,Gourmaj Halima,25,3095.64
+385,janvier 2024,172643110,Gourmaj Halima,25,3218.68
+385,février 2024,172643110,Gourmaj Halima,25,3280.92
+385,mars 2024,172643110,Gourmaj Halima,25,3196.26
+385,avril 2024,172643110,Gourmaj Halima,25,3163.96
+385,mai 2024,172643110,Gourmaj Halima,25,3168.61
+385,juin 2024,172643110,Gourmaj Halima,25,3195.9
+385,juillet 2024,172643110,Gourmaj Halima,25,3101.91
+385,août 2024,172643110,Gourmaj Halima,25,3208.54
+385,septembre 2024,172643110,Gourmaj Halima,25,3238.79
+385,octobre 2024,172643110,Gourmaj Halima,25,3353.22
+385,novembre 2024,172643110,Gourmaj Halima,25,3344.07
+385,décembre 2024,172643110,Gourmaj Halima,25,3371.73
+385,décembre 2023,172644112,Sousi Fatna,26,3478.44
+385,janvier 2024,172644112,Sousi Fatna,26,3521.73
+385,février 2024,172644112,Sousi Fatna,26,3649.03
+385,mars 2024,172644112,Sousi Fatna,26,3684.24
+385,avril 2024,172644112,Sousi Fatna,26,3613.13
+385,mai 2024,172644112,Sousi Fatna,26,3701.8
+385,juin 2024,172644112,Sousi Fatna,26,3774.87
+385,juillet 2024,172644112,Sousi Fatna,26,3920.09
+385,août 2024,172644112,Sousi Fatna,26,4030.95
+385,septembre 2024,172644112,Sousi Fatna,26,3932.82
+385,octobre 2024,172644112,Sousi Fatna,26,4006.68
+385,novembre 2024,172644112,Sousi Fatna,26,4037.55
+385,décembre 2024,172644112,Sousi Fatna,26,3946.42
+385,décembre 2023,173378591,El Amrani Alaoui Latifa,17,1962.26
+385,janvier 2024,173378591,El Amrani Alaoui Latifa,17,1921.38
+385,février 2024,173378591,El Amrani Alaoui Latifa,17,1864.54
+385,mars 2024,173378591,El Amrani Alaoui Latifa,17,1955.54
+385,avril 2024,173378591,El Amrani Alaoui Latifa,17,1914.29
+385,mai 2024,173378591,El Amrani Alaoui Latifa,17,2001.13
+385,juin 2024,173378591,El Amrani Alaoui Latifa,17,1998.82
+385,juillet 2024,173378591,El Amrani Alaoui Latifa,17,1981.85
+385,août 2024,173378591,El Amrani Alaoui Latifa,17,1951.99
+385,septembre 2024,173378591,El Amrani Alaoui Latifa,17,1973.68
+385,octobre 2024,173378591,El Amrani Alaoui Latifa,17,2032.15
+385,novembre 2024,173378591,El Amrani Alaoui Latifa,17,2104.52
+385,décembre 2024,173378591,El Amrani Alaoui Latifa,17,2183.27
+385,décembre 2023,175231838,Guessous Driss,26,67535.1
+385,janvier 2024,175231838,Guessous Driss,26,66832.08
+385,février 2024,175231838,Guessous Driss,26,65876.37
+385,mars 2024,175231838,Guessous Driss,26,66294.16
+385,avril 2024,175231838,Guessous Driss,26,65712.65
+385,mai 2024,175231838,Guessous Driss,26,67818.93
+385,juin 2024,175231838,Guessous Driss,26,69162.77
+385,juillet 2024,175231838,Guessous Driss,26,69580.51
+385,août 2024,175231838,Guessous Driss,26,68603.51
+385,septembre 2024,175231838,Guessous Driss,26,66886.12
+385,octobre 2024,175231838,Guessous Driss,26,69472.14
+385,novembre 2024,175231838,Guessous Driss,26,67653.87
+385,décembre 2024,175231838,Guessous Driss,26,68311.85
+385,décembre 2023,176006140,Mesouab Hakima,25,2864.03
+385,janvier 2024,176006140,Mesouab Hakima,25,2983.29
+385,février 2024,176006140,Mesouab Hakima,25,3129.47
+385,mars 2024,176006140,Mesouab Hakima,25,3212.75
+385,avril 2024,176006140,Mesouab Hakima,25,3342.28
+385,mai 2024,176006140,Mesouab Hakima,25,3398.25
+385,juin 2024,176006140,Mesouab Hakima,25,3360.72
+385,juillet 2024,176006140,Mesouab Hakima,25,3462.96
+385,août 2024,176006140,Mesouab Hakima,25,3588.6
+385,septembre 2024,176006140,Mesouab Hakima,25,3493.53
+385,octobre 2024,176006140,Mesouab Hakima,25,3447.06
+385,novembre 2024,176006140,Mesouab Hakima,25,3583.6
+385,décembre 2024,176006140,Mesouab Hakima,25,3535.01
+385,décembre 2023,176834467,Dynya Mina,26,4257.98
+385,janvier 2024,176834467,Dynya Mina,26,4391.48
+385,février 2024,176834467,Dynya Mina,26,4605.12
+385,mars 2024,176834467,Dynya Mina,26,4469.42
+385,avril 2024,176834467,Dynya Mina,26,4354.05
+385,mai 2024,176834467,Dynya Mina,26,4322.21
+385,juin 2024,176834467,Dynya Mina,26,4484.18
+385,juillet 2024,176834467,Dynya Mina,26,4501.14
+385,août 2024,176834467,Dynya Mina,26,4676.63
+385,septembre 2024,176834467,Dynya Mina,26,4844.58
+385,octobre 2024,176834467,Dynya Mina,26,4736.24
+385,novembre 2024,176834467,Dynya Mina,26,4689.63
+385,décembre 2024,176834467,Dynya Mina,26,4637.06
+385,décembre 2023,183586671,Hayani Zahid Malika,26,4300.87
+385,janvier 2024,183586671,Hayani Zahid Malika,26,4329.2
+385,février 2024,183586671,Hayani Zahid Malika,26,4385.53
+385,mars 2024,183586671,Hayani Zahid Malika,26,4316.39
+385,avril 2024,183586671,Hayani Zahid Malika,26,4224.96
+385,mai 2024,183586671,Hayani Zahid Malika,26,4236.2
+385,juin 2024,183586671,Hayani Zahid Malika,26,4371.15
+385,juillet 2024,183586671,Hayani Zahid Malika,26,4440.18
+385,août 2024,183586671,Hayani Zahid Malika,26,4483.19
+385,septembre 2024,183586671,Hayani Zahid Malika,26,4667.87
+385,octobre 2024,183586671,Hayani Zahid Malika,26,4859.47
+385,novembre 2024,183586671,Hayani Zahid Malika,26,4749.91
+385,décembre 2024,183586671,Hayani Zahid Malika,26,4822.91
+385,décembre 2023,183586770,Ibn Lahmar Karima,26,3919.14
+385,janvier 2024,183586770,Ibn Lahmar Karima,26,3935.37
+385,février 2024,183586770,Ibn Lahmar Karima,26,3915.74
+385,mars 2024,183586770,Ibn Lahmar Karima,26,3869.57
+385,avril 2024,183586770,Ibn Lahmar Karima,26,4052.05
+385,mai 2024,183586770,Ibn Lahmar Karima,26,4001.72
+385,juin 2024,183586770,Ibn Lahmar Karima,26,4073.11
+385,juillet 2024,183586770,Ibn Lahmar Karima,26,4134.6
+385,août 2024,183586770,Ibn Lahmar Karima,26,4168.58
+385,septembre 2024,183586770,Ibn Lahmar Karima,26,4177.53
+385,octobre 2024,183586770,Ibn Lahmar Karima,26,4318.89
+385,novembre 2024,183586770,Ibn Lahmar Karima,26,4459.92
+385,décembre 2024,183586770,Ibn Lahmar Karima,26,4463.14
+385,décembre 2023,183587679,Zghari Nabila,26,3598.54
+385,janvier 2024,183587679,Zghari Nabila,26,3716.83
+385,février 2024,183587679,Zghari Nabila,26,3652.17
+385,mars 2024,183587679,Zghari Nabila,26,3807.96
+385,avril 2024,183587679,Zghari Nabila,26,3781.72
+385,mai 2024,183587679,Zghari Nabila,26,3729.09
+385,juin 2024,183587679,Zghari Nabila,26,3727.82
+385,juillet 2024,183587679,Zghari Nabila,26,3902.99
+385,août 2024,183587679,Zghari Nabila,26,3872.83
+385,septembre 2024,183587679,Zghari Nabila,26,3912.01
+385,octobre 2024,183587679,Zghari Nabila,26,4054.26
+385,novembre 2024,183587679,Zghari Nabila,26,4105.29
+385,décembre 2024,183587679,Zghari Nabila,26,4266.46
+385,décembre 2023,183610678,Chmanti Rachida,26,4498.17
+385,janvier 2024,183610678,Chmanti Rachida,26,4448.38
+385,février 2024,183610678,Chmanti Rachida,26,4340.45
+385,mars 2024,183610678,Chmanti Rachida,26,4330.96
+385,avril 2024,183610678,Chmanti Rachida,26,4489.68
+385,mai 2024,183610678,Chmanti Rachida,26,4504.95
+385,juin 2024,183610678,Chmanti Rachida,26,4526.92
+385,juillet 2024,183610678,Chmanti Rachida,26,4528.79
+385,août 2024,183610678,Chmanti Rachida,26,4406.27
+385,septembre 2024,183610678,Chmanti Rachida,26,4427.09
+385,octobre 2024,183610678,Chmanti Rachida,26,4638.15
+385,novembre 2024,183610678,Chmanti Rachida,26,4698.69
+385,décembre 2024,183610678,Chmanti Rachida,26,4865.35
+385,décembre 2023,183831528,Hanyn Nezha,4,486.81
+385,janvier 2024,183831528,Hanyn Nezha,4,476.25
+385,février 2024,183831528,Hanyn Nezha,4,485.92
+385,mars 2024,183831528,Hanyn Nezha,4,493.12
+385,avril 2024,183831528,Hanyn Nezha,4,510.47
+385,mai 2024,183831528,Hanyn Nezha,4,514.93
+385,juin 2024,183831528,Hanyn Nezha,4,508.08
+385,juillet 2024,183831528,Hanyn Nezha,4,512.52
+385,août 2024,183831528,Hanyn Nezha,4,511.42
+385,septembre 2024,183831528,Hanyn Nezha,4,519.22
+385,octobre 2024,183831528,Hanyn Nezha,4,515.91
+385,novembre 2024,183831528,Hanyn Nezha,4,529.03
+385,décembre 2024,183831528,Hanyn Nezha,4,538.49
+385,décembre 2023,184529821,El Atfaoui Hakima,26,3082.77
+385,janvier 2024,184529821,El Atfaoui Hakima,26,3153.02
+385,février 2024,184529821,El Atfaoui Hakima,26,3280.91
+385,mars 2024,184529821,El Atfaoui Hakima,26,3186.45
+385,avril 2024,184529821,El Atfaoui Hakima,26,3288.44
+385,mai 2024,184529821,El Atfaoui Hakima,26,3389.93
+385,juin 2024,184529821,El Atfaoui Hakima,26,3537.46
+385,juillet 2024,184529821,El Atfaoui Hakima,26,3674.28
+385,août 2024,184529821,El Atfaoui Hakima,26,3811.84
+385,septembre 2024,184529821,El Atfaoui Hakima,26,3920.13
+385,octobre 2024,184529821,El Atfaoui Hakima,26,3802.96
+385,novembre 2024,184529821,El Atfaoui Hakima,26,3860.96
+385,décembre 2024,184529821,El Atfaoui Hakima,26,3870.27
+385,décembre 2023,184530228,Elatfaoui Fatiha,26,3122.45
+385,janvier 2024,184530228,Elatfaoui Fatiha,26,3076.27
+385,février 2024,184530228,Elatfaoui Fatiha,26,3073.64
+385,mars 2024,184530228,Elatfaoui Fatiha,26,3105.69
+385,avril 2024,184530228,Elatfaoui Fatiha,26,3062.83
+385,mai 2024,184530228,Elatfaoui Fatiha,26,3101.21
+385,juin 2024,184530228,Elatfaoui Fatiha,26,3245.64
+385,juillet 2024,184530228,Elatfaoui Fatiha,26,3202.78
+385,août 2024,184530228,Elatfaoui Fatiha,26,3171.49
+385,septembre 2024,184530228,Elatfaoui Fatiha,26,3101.69
+385,octobre 2024,184530228,Elatfaoui Fatiha,26,3047.73
+385,novembre 2024,184530228,Elatfaoui Fatiha,26,3103.63
+385,décembre 2024,184530228,Elatfaoui Fatiha,26,3155.31
+385,décembre 2023,187927558,El Aamery Rajae,22,2842.58
+385,janvier 2024,187927558,El Aamery Rajae,22,2884.17
+385,février 2024,187927558,El Aamery Rajae,22,3006.3
+385,mars 2024,187927558,El Aamery Rajae,22,3040.88
+385,avril 2024,187927558,El Aamery Rajae,22,3084.84
+385,mai 2024,187927558,El Aamery Rajae,22,3133.14
+385,juin 2024,187927558,El Aamery Rajae,22,3221.96
+385,juillet 2024,187927558,El Aamery Rajae,22,3313.78
+385,août 2024,187927558,El Aamery Rajae,22,3378.52
+385,septembre 2024,187927558,El Aamery Rajae,22,3455.83
+385,octobre 2024,187927558,El Aamery Rajae,22,3368.66
+385,novembre 2024,187927558,El Aamery Rajae,22,3511.48
+385,décembre 2024,187927558,El Aamery Rajae,22,3537.1
+385,décembre 2023,188287761,Meziati Aicha,26,3636.07
+385,janvier 2024,188287761,Meziati Aicha,26,3624.17
+385,février 2024,188287761,Meziati Aicha,26,3631.96
+385,mars 2024,188287761,Meziati Aicha,26,3761.56
+385,avril 2024,188287761,Meziati Aicha,26,3801.11
+385,mai 2024,188287761,Meziati Aicha,26,3714.59
+385,juin 2024,188287761,Meziati Aicha,26,3609.1
+385,juillet 2024,188287761,Meziati Aicha,26,3667.67
+385,août 2024,188287761,Meziati Aicha,26,3623.59
+385,septembre 2024,188287761,Meziati Aicha,26,3525.07
+385,octobre 2024,188287761,Meziati Aicha,26,3431.49
+385,novembre 2024,188287761,Meziati Aicha,26,3532.28
+385,décembre 2024,188287761,Meziati Aicha,26,3668.2
+385,décembre 2023,192698448,Bertoul Maria,15,1782.11
+385,janvier 2024,192698448,Bertoul Maria,15,1800.31
+385,février 2024,192698448,Bertoul Maria,15,1771.88
+385,mars 2024,192698448,Bertoul Maria,15,1841.24
+385,avril 2024,192698448,Bertoul Maria,15,1809.09
+385,mai 2024,192698448,Bertoul Maria,15,1780.32
+385,juin 2024,192698448,Bertoul Maria,15,1866.76
+385,juillet 2024,192698448,Bertoul Maria,15,1841.1
+385,août 2024,192698448,Bertoul Maria,15,1840.59
+385,septembre 2024,192698448,Bertoul Maria,15,1830.32
+385,octobre 2024,192698448,Bertoul Maria,15,1836.44
+385,novembre 2024,192698448,Bertoul Maria,15,1857.3
+385,décembre 2024,192698448,Bertoul Maria,15,1913.97
+385,décembre 2023,196017313,Ettamry Rabia,26,3634.99
+385,janvier 2024,196017313,Ettamry Rabia,26,3581.4
+385,février 2024,196017313,Ettamry Rabia,26,3549.67
+385,mars 2024,196017313,Ettamry Rabia,26,3685.97
+385,avril 2024,196017313,Ettamry Rabia,26,3707.33
+385,mai 2024,196017313,Ettamry Rabia,26,3740.57
+385,juin 2024,196017313,Ettamry Rabia,26,3860.47
+385,juillet 2024,196017313,Ettamry Rabia,26,3746.68
+385,août 2024,196017313,Ettamry Rabia,26,3782.8
+385,septembre 2024,196017313,Ettamry Rabia,26,3905.73
+385,octobre 2024,196017313,Ettamry Rabia,26,4003.31
+385,novembre 2024,196017313,Ettamry Rabia,26,4164.77
+385,décembre 2024,196017313,Ettamry Rabia,26,4352.96
+385,décembre 2023,198183397,Dahhou Rabia,26,3388.37
+385,janvier 2024,198183397,Dahhou Rabia,26,3299.58
+385,février 2024,198183397,Dahhou Rabia,26,3325.86
+385,mars 2024,198183397,Dahhou Rabia,26,3330.68
+385,avril 2024,198183397,Dahhou Rabia,26,3232.73
+385,mai 2024,198183397,Dahhou Rabia,26,3361.05
+385,juin 2024,198183397,Dahhou Rabia,26,3374.0
+385,juillet 2024,198183397,Dahhou Rabia,26,3396.08
+385,août 2024,198183397,Dahhou Rabia,26,3472.15
+385,septembre 2024,198183397,Dahhou Rabia,26,3571.88
+385,octobre 2024,198183397,Dahhou Rabia,26,3685.17
+385,novembre 2024,198183397,Dahhou Rabia,26,3588.57
+385,décembre 2024,198183397,Dahhou Rabia,26,3621.48
+385,décembre 2023,900373527,Ez Zyn Fouzia,6,775.25
+385,janvier 2024,900373527,Ez Zyn Fouzia,6,790.47
+385,février 2024,900373527,Ez Zyn Fouzia,6,794.85
+385,mars 2024,900373527,Ez Zyn Fouzia,6,797.2
+385,avril 2024,900373527,Ez Zyn Fouzia,6,813.28
+385,mai 2024,900373527,Ez Zyn Fouzia,6,811.44
+385,juin 2024,900373527,Ez Zyn Fouzia,6,807.55
+385,juillet 2024,900373527,Ez Zyn Fouzia,6,845.52
+385,août 2024,900373527,Ez Zyn Fouzia,6,839.68
+385,septembre 2024,900373527,Ez Zyn Fouzia,6,861.34
+385,octobre 2024,900373527,Ez Zyn Fouzia,6,875.71
+385,novembre 2024,900373527,Ez Zyn Fouzia,6,854.67
+385,décembre 2024,900373527,Ez Zyn Fouzia,6,891.63
+385,décembre 2023,931467713,Mousahhil Yamna,6,722.71
+385,janvier 2024,931467713,Mousahhil Yamna,6,732.54
+385,février 2024,931467713,Mousahhil Yamna,6,755.31
+385,mars 2024,931467713,Mousahhil Yamna,6,750.57
+385,avril 2024,931467713,Mousahhil Yamna,6,776.97
+385,mai 2024,931467713,Mousahhil Yamna,6,791.9
+385,juin 2024,931467713,Mousahhil Yamna,6,831.08
+385,juillet 2024,931467713,Mousahhil Yamna,6,855.02
+385,août 2024,931467713,Mousahhil Yamna,6,889.87
+385,septembre 2024,931467713,Mousahhil Yamna,6,891.48
+385,octobre 2024,931467713,Mousahhil Yamna,6,908.7
+385,novembre 2024,931467713,Mousahhil Yamna,6,889.72
+385,décembre 2024,931467713,Mousahhil Yamna,6,873.21

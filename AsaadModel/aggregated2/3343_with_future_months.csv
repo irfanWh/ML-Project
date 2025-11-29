@@ -1,0 +1,482 @@
+ID_adherent,month,immatriculationNumber,full_name,nombre_jours,salaire
+3343,décembre 2023,108589647,Karza Ismail,22,2500.0
+3343,janvier 2024,108589647,Karza Ismail,22,2603.49
+3343,février 2024,108589647,Karza Ismail,22,2565.41
+3343,mars 2024,108589647,Karza Ismail,22,2656.29
+3343,avril 2024,108589647,Karza Ismail,22,2657.98
+3343,mai 2024,108589647,Karza Ismail,22,2774.77
+3343,juin 2024,108589647,Karza Ismail,22,2782.52
+3343,juillet 2024,108589647,Karza Ismail,22,2732.97
+3343,août 2024,108589647,Karza Ismail,22,2845.85
+3343,septembre 2024,108589647,Karza Ismail,22,2869.94
+3343,octobre 2024,108589647,Karza Ismail,22,2904.81
+3343,novembre 2024,108589647,Karza Ismail,22,3005.96
+3343,décembre 2024,108589647,Karza Ismail,22,3123.79
+3343,décembre 2023,109536163,Sassi Abdelkarim,26,3105.0
+3343,janvier 2024,109536163,Sassi Abdelkarim,26,3025.74
+3343,février 2024,109536163,Sassi Abdelkarim,26,3033.34
+3343,mars 2024,109536163,Sassi Abdelkarim,26,3059.93
+3343,avril 2024,109536163,Sassi Abdelkarim,26,3136.45
+3343,mai 2024,109536163,Sassi Abdelkarim,26,3214.47
+3343,juin 2024,109536163,Sassi Abdelkarim,26,3310.31
+3343,juillet 2024,109536163,Sassi Abdelkarim,26,3407.54
+3343,août 2024,109536163,Sassi Abdelkarim,26,3509.2
+3343,septembre 2024,109536163,Sassi Abdelkarim,26,3636.46
+3343,octobre 2024,109536163,Sassi Abdelkarim,26,3600.42
+3343,novembre 2024,109536163,Sassi Abdelkarim,26,3590.69
+3343,décembre 2024,109536163,Sassi Abdelkarim,26,3762.1
+3343,décembre 2023,109536361,Amzil Fadma,26,3105.0
+3343,janvier 2024,109536361,Amzil Fadma,26,3098.86
+3343,février 2024,109536361,Amzil Fadma,26,3036.15
+3343,mars 2024,109536361,Amzil Fadma,26,3085.43
+3343,avril 2024,109536361,Amzil Fadma,26,3052.1
+3343,mai 2024,109536361,Amzil Fadma,26,3173.65
+3343,juin 2024,109536361,Amzil Fadma,26,3186.59
+3343,juillet 2024,109536361,Amzil Fadma,26,3231.46
+3343,août 2024,109536361,Amzil Fadma,26,3145.52
+3343,septembre 2024,109536361,Amzil Fadma,26,3283.07
+3343,octobre 2024,109536361,Amzil Fadma,26,3239.88
+3343,novembre 2024,109536361,Amzil Fadma,26,3190.15
+3343,décembre 2024,109536361,Amzil Fadma,26,3315.52
+3343,décembre 2023,111488321,Yaich Lahcen,22,2500.0
+3343,janvier 2024,111488321,Yaich Lahcen,22,2522.46
+3343,février 2024,111488321,Yaich Lahcen,22,2598.2
+3343,mars 2024,111488321,Yaich Lahcen,22,2526.62
+3343,avril 2024,111488321,Yaich Lahcen,22,2482.42
+3343,mai 2024,111488321,Yaich Lahcen,22,2598.08
+3343,juin 2024,111488321,Yaich Lahcen,22,2615.95
+3343,juillet 2024,111488321,Yaich Lahcen,22,2722.54
+3343,août 2024,111488321,Yaich Lahcen,22,2701.69
+3343,septembre 2024,111488321,Yaich Lahcen,22,2689.58
+3343,octobre 2024,111488321,Yaich Lahcen,22,2648.08
+3343,novembre 2024,111488321,Yaich Lahcen,22,2609.46
+3343,décembre 2024,111488321,Yaich Lahcen,22,2542.43
+3343,décembre 2023,111488422,El Ouakare Bouchra,18,2000.0
+3343,janvier 2024,111488422,El Ouakare Bouchra,18,2084.39
+3343,février 2024,111488422,El Ouakare Bouchra,18,2166.86
+3343,mars 2024,111488422,El Ouakare Bouchra,18,2259.77
+3343,avril 2024,111488422,El Ouakare Bouchra,18,2313.46
+3343,mai 2024,111488422,El Ouakare Bouchra,18,2258.3
+3343,juin 2024,111488422,El Ouakare Bouchra,18,2271.1
+3343,juillet 2024,111488422,El Ouakare Bouchra,18,2230.14
+3343,août 2024,111488422,El Ouakare Bouchra,18,2256.19
+3343,septembre 2024,111488422,El Ouakare Bouchra,18,2319.96
+3343,octobre 2024,111488422,El Ouakare Bouchra,18,2318.95
+3343,novembre 2024,111488422,El Ouakare Bouchra,18,2274.04
+3343,décembre 2024,111488422,El Ouakare Bouchra,18,2309.65
+3343,décembre 2023,113705755,El Houcht Khalid,22,2500.0
+3343,janvier 2024,113705755,El Houcht Khalid,22,2620.93
+3343,février 2024,113705755,El Houcht Khalid,22,2624.45
+3343,mars 2024,113705755,El Houcht Khalid,22,2718.63
+3343,avril 2024,113705755,El Houcht Khalid,22,2786.73
+3343,mai 2024,113705755,El Houcht Khalid,22,2877.39
+3343,juin 2024,113705755,El Houcht Khalid,22,3013.4
+3343,juillet 2024,113705755,El Houcht Khalid,22,3018.7
+3343,août 2024,113705755,El Houcht Khalid,22,3111.33
+3343,septembre 2024,113705755,El Houcht Khalid,22,3242.57
+3343,octobre 2024,113705755,El Houcht Khalid,22,3215.17
+3343,novembre 2024,113705755,El Houcht Khalid,22,3370.11
+3343,décembre 2024,113705755,El Houcht Khalid,22,3399.78
+3343,décembre 2023,115413933,Oukhacha Lahcen,26,3240.0
+3343,janvier 2024,115413933,Oukhacha Lahcen,26,3363.57
+3343,février 2024,115413933,Oukhacha Lahcen,26,3291.46
+3343,mars 2024,115413933,Oukhacha Lahcen,26,3300.21
+3343,avril 2024,115413933,Oukhacha Lahcen,26,3256.27
+3343,mai 2024,115413933,Oukhacha Lahcen,26,3241.8
+3343,juin 2024,115413933,Oukhacha Lahcen,26,3341.92
+3343,juillet 2024,115413933,Oukhacha Lahcen,26,3503.22
+3343,août 2024,115413933,Oukhacha Lahcen,26,3405.38
+3343,septembre 2024,115413933,Oukhacha Lahcen,26,3551.2
+3343,octobre 2024,115413933,Oukhacha Lahcen,26,3706.8
+3343,novembre 2024,115413933,Oukhacha Lahcen,26,3661.47
+3343,décembre 2024,115413933,Oukhacha Lahcen,26,3696.05
+3343,décembre 2023,116957523,Kermadai Abdelghafour,22,2500.0
+3343,janvier 2024,116957523,Kermadai Abdelghafour,22,2442.27
+3343,février 2024,116957523,Kermadai Abdelghafour,22,2437.26
+3343,mars 2024,116957523,Kermadai Abdelghafour,22,2478.13
+3343,avril 2024,116957523,Kermadai Abdelghafour,22,2428.59
+3343,mai 2024,116957523,Kermadai Abdelghafour,22,2491.25
+3343,juin 2024,116957523,Kermadai Abdelghafour,22,2442.86
+3343,juillet 2024,116957523,Kermadai Abdelghafour,22,2390.27
+3343,août 2024,116957523,Kermadai Abdelghafour,22,2410.55
+3343,septembre 2024,116957523,Kermadai Abdelghafour,22,2457.55
+3343,octobre 2024,116957523,Kermadai Abdelghafour,22,2403.21
+3343,novembre 2024,116957523,Kermadai Abdelghafour,22,2506.76
+3343,décembre 2024,116957523,Kermadai Abdelghafour,22,2576.53
+3343,décembre 2023,116957624,Yaich Hamza,22,2500.0
+3343,janvier 2024,116957624,Yaich Hamza,22,2524.81
+3343,février 2024,116957624,Yaich Hamza,22,2588.95
+3343,mars 2024,116957624,Yaich Hamza,22,2702.15
+3343,avril 2024,116957624,Yaich Hamza,22,2717.62
+3343,mai 2024,116957624,Yaich Hamza,22,2841.43
+3343,juin 2024,116957624,Yaich Hamza,22,2786.8
+3343,juillet 2024,116957624,Yaich Hamza,22,2833.12
+3343,août 2024,116957624,Yaich Hamza,22,2954.25
+3343,septembre 2024,116957624,Yaich Hamza,22,2883.42
+3343,octobre 2024,116957624,Yaich Hamza,22,2837.47
+3343,novembre 2024,116957624,Yaich Hamza,22,2760.83
+3343,décembre 2024,116957624,Yaich Hamza,22,2833.57
+3343,décembre 2023,118706632,Bafdil Naima,26,3240.0
+3343,janvier 2024,118706632,Bafdil Naima,26,3298.43
+3343,février 2024,118706632,Bafdil Naima,26,3365.52
+3343,mars 2024,118706632,Bafdil Naima,26,3406.36
+3343,avril 2024,118706632,Bafdil Naima,26,3386.62
+3343,mai 2024,118706632,Bafdil Naima,26,3337.17
+3343,juin 2024,118706632,Bafdil Naima,26,3390.31
+3343,juillet 2024,118706632,Bafdil Naima,26,3315.16
+3343,août 2024,118706632,Bafdil Naima,26,3441.66
+3343,septembre 2024,118706632,Bafdil Naima,26,3606.78
+3343,octobre 2024,118706632,Bafdil Naima,26,3641.95
+3343,novembre 2024,118706632,Bafdil Naima,26,3672.7
+3343,décembre 2024,118706632,Bafdil Naima,26,3611.54
+3343,décembre 2023,118707630,El Fatmi Hamid,26,3240.0
+3343,janvier 2024,118707630,El Fatmi Hamid,26,3181.27
+3343,février 2024,118707630,El Fatmi Hamid,26,3309.3
+3343,mars 2024,118707630,El Fatmi Hamid,26,3461.25
+3343,avril 2024,118707630,El Fatmi Hamid,26,3466.57
+3343,mai 2024,118707630,El Fatmi Hamid,26,3616.84
+3343,juin 2024,118707630,El Fatmi Hamid,26,3549.64
+3343,juillet 2024,118707630,El Fatmi Hamid,26,3617.36
+3343,août 2024,118707630,El Fatmi Hamid,26,3593.26
+3343,septembre 2024,118707630,El Fatmi Hamid,26,3575.74
+3343,octobre 2024,118707630,El Fatmi Hamid,26,3610.43
+3343,novembre 2024,118707630,El Fatmi Hamid,26,3782.47
+3343,décembre 2024,118707630,El Fatmi Hamid,26,3905.02
+3343,décembre 2023,118707739,Akchbab Fatima,26,3240.0
+3343,janvier 2024,118707739,Akchbab Fatima,26,3335.22
+3343,février 2024,118707739,Akchbab Fatima,26,3285.16
+3343,mars 2024,118707739,Akchbab Fatima,26,3359.19
+3343,avril 2024,118707739,Akchbab Fatima,26,3468.35
+3343,mai 2024,118707739,Akchbab Fatima,26,3375.77
+3343,juin 2024,118707739,Akchbab Fatima,26,3384.15
+3343,juillet 2024,118707739,Akchbab Fatima,26,3482.65
+3343,août 2024,118707739,Akchbab Fatima,26,3639.48
+3343,septembre 2024,118707739,Akchbab Fatima,26,3787.08
+3343,octobre 2024,118707739,Akchbab Fatima,26,3821.86
+3343,novembre 2024,118707739,Akchbab Fatima,26,3931.12
+3343,décembre 2024,118707739,Akchbab Fatima,26,3852.76
+3343,décembre 2023,118707937,Saboun Lahcen,26,3240.0
+3343,janvier 2024,118707937,Saboun Lahcen,26,3255.67
+3343,février 2024,118707937,Saboun Lahcen,26,3417.4
+3343,mars 2024,118707937,Saboun Lahcen,26,3564.52
+3343,avril 2024,118707937,Saboun Lahcen,26,3654.48
+3343,mai 2024,118707937,Saboun Lahcen,26,3645.7
+3343,juin 2024,118707937,Saboun Lahcen,26,3672.3
+3343,juillet 2024,118707937,Saboun Lahcen,26,3562.41
+3343,août 2024,118707937,Saboun Lahcen,26,3577.67
+3343,septembre 2024,118707937,Saboun Lahcen,26,3576.41
+3343,octobre 2024,118707937,Saboun Lahcen,26,3611.31
+3343,novembre 2024,118707937,Saboun Lahcen,26,3644.08
+3343,décembre 2024,118707937,Saboun Lahcen,26,3743.59
+3343,décembre 2023,118708430,El Hatimi Siham,26,3240.0
+3343,janvier 2024,118708430,El Hatimi Siham,26,3348.42
+3343,février 2024,118708430,El Hatimi Siham,26,3465.72
+3343,mars 2024,118708430,El Hatimi Siham,26,3579.23
+3343,avril 2024,118708430,El Hatimi Siham,26,3623.47
+3343,mai 2024,118708430,El Hatimi Siham,26,3771.38
+3343,juin 2024,118708430,El Hatimi Siham,26,3755.01
+3343,juillet 2024,118708430,El Hatimi Siham,26,3848.18
+3343,août 2024,118708430,El Hatimi Siham,26,3971.31
+3343,septembre 2024,118708430,El Hatimi Siham,26,3906.89
+3343,octobre 2024,118708430,El Hatimi Siham,26,3832.95
+3343,novembre 2024,118708430,El Hatimi Siham,26,3989.86
+3343,décembre 2024,118708430,El Hatimi Siham,26,4049.94
+3343,décembre 2023,118708539,Ajkhoukh Mohamed,26,3240.0
+3343,janvier 2024,118708539,Ajkhoukh Mohamed,26,3309.16
+3343,février 2024,118708539,Ajkhoukh Mohamed,26,3257.98
+3343,mars 2024,118708539,Ajkhoukh Mohamed,26,3284.83
+3343,avril 2024,118708539,Ajkhoukh Mohamed,26,3433.19
+3343,mai 2024,118708539,Ajkhoukh Mohamed,26,3528.92
+3343,juin 2024,118708539,Ajkhoukh Mohamed,26,3554.69
+3343,juillet 2024,118708539,Ajkhoukh Mohamed,26,3637.37
+3343,août 2024,118708539,Ajkhoukh Mohamed,26,3565.8
+3343,septembre 2024,118708539,Ajkhoukh Mohamed,26,3602.82
+3343,octobre 2024,118708539,Ajkhoukh Mohamed,26,3737.39
+3343,novembre 2024,118708539,Ajkhoukh Mohamed,26,3797.01
+3343,décembre 2024,118708539,Ajkhoukh Mohamed,26,3702.59
+3343,décembre 2023,118709230,Ait Ouhanni Abdelilah,26,3240.0
+3343,janvier 2024,118709230,Ait Ouhanni Abdelilah,26,3200.64
+3343,février 2024,118709230,Ait Ouhanni Abdelilah,26,3310.39
+3343,mars 2024,118709230,Ait Ouhanni Abdelilah,26,3409.09
+3343,avril 2024,118709230,Ait Ouhanni Abdelilah,26,3473.15
+3343,mai 2024,118709230,Ait Ouhanni Abdelilah,26,3381.46
+3343,juin 2024,118709230,Ait Ouhanni Abdelilah,26,3407.71
+3343,juillet 2024,118709230,Ait Ouhanni Abdelilah,26,3535.39
+3343,août 2024,118709230,Ait Ouhanni Abdelilah,26,3472.78
+3343,septembre 2024,118709230,Ait Ouhanni Abdelilah,26,3445.67
+3343,octobre 2024,118709230,Ait Ouhanni Abdelilah,26,3461.11
+3343,novembre 2024,118709230,Ait Ouhanni Abdelilah,26,3507.81
+3343,décembre 2024,118709230,Ait Ouhanni Abdelilah,26,3427.27
+3343,décembre 2023,118710633,Oukhtour Lahcen,26,3375.0
+3343,janvier 2024,118710633,Oukhtour Lahcen,26,3333.34
+3343,février 2024,118710633,Oukhtour Lahcen,26,3243.56
+3343,mars 2024,118710633,Oukhtour Lahcen,26,3226.71
+3343,avril 2024,118710633,Oukhtour Lahcen,26,3240.19
+3343,mai 2024,118710633,Oukhtour Lahcen,26,3189.64
+3343,juin 2024,118710633,Oukhtour Lahcen,26,3243.78
+3343,juillet 2024,118710633,Oukhtour Lahcen,26,3265.65
+3343,août 2024,118710633,Oukhtour Lahcen,26,3219.74
+3343,septembre 2024,118710633,Oukhtour Lahcen,26,3269.3
+3343,octobre 2024,118710633,Oukhtour Lahcen,26,3317.83
+3343,novembre 2024,118710633,Oukhtour Lahcen,26,3342.89
+3343,décembre 2024,118710633,Oukhtour Lahcen,26,3503.6
+3343,décembre 2023,118728230,Amghar Fatima,26,3240.0
+3343,janvier 2024,118728230,Amghar Fatima,26,3324.47
+3343,février 2024,118728230,Amghar Fatima,26,3308.43
+3343,mars 2024,118728230,Amghar Fatima,26,3252.83
+3343,avril 2024,118728230,Amghar Fatima,26,3341.76
+3343,mai 2024,118728230,Amghar Fatima,26,3277.18
+3343,juin 2024,118728230,Amghar Fatima,26,3415.45
+3343,juillet 2024,118728230,Amghar Fatima,26,3477.89
+3343,août 2024,118728230,Amghar Fatima,26,3489.47
+3343,septembre 2024,118728230,Amghar Fatima,26,3444.24
+3343,octobre 2024,118728230,Amghar Fatima,26,3350.73
+3343,novembre 2024,118728230,Amghar Fatima,26,3413.02
+3343,décembre 2024,118728230,Amghar Fatima,26,3480.26
+3343,décembre 2023,118728735,Boussekkine Khaira,26,3240.0
+3343,janvier 2024,118728735,Boussekkine Khaira,26,3153.79
+3343,février 2024,118728735,Boussekkine Khaira,26,3161.41
+3343,mars 2024,118728735,Boussekkine Khaira,26,3110.36
+3343,avril 2024,118728735,Boussekkine Khaira,26,3093.9
+3343,mai 2024,118728735,Boussekkine Khaira,26,3107.67
+3343,juin 2024,118728735,Boussekkine Khaira,26,3165.43
+3343,juillet 2024,118728735,Boussekkine Khaira,26,3229.4
+3343,août 2024,118728735,Boussekkine Khaira,26,3249.88
+3343,septembre 2024,118728735,Boussekkine Khaira,26,3236.02
+3343,octobre 2024,118728735,Boussekkine Khaira,26,3306.58
+3343,novembre 2024,118728735,Boussekkine Khaira,26,3254.26
+3343,décembre 2024,118728735,Boussekkine Khaira,26,3224.97
+3343,décembre 2023,118728933,Fal Hlima,26,3240.0
+3343,janvier 2024,118728933,Fal Hlima,26,3249.94
+3343,février 2024,118728933,Fal Hlima,26,3269.43
+3343,mars 2024,118728933,Fal Hlima,26,3290.04
+3343,avril 2024,118728933,Fal Hlima,26,3258.94
+3343,mai 2024,118728933,Fal Hlima,26,3172.44
+3343,juin 2024,118728933,Fal Hlima,26,3323.12
+3343,juillet 2024,118728933,Fal Hlima,26,3229.31
+3343,août 2024,118728933,Fal Hlima,26,3140.47
+3343,septembre 2024,118728933,Fal Hlima,26,3115.84
+3343,octobre 2024,118728933,Fal Hlima,26,3105.19
+3343,novembre 2024,118728933,Fal Hlima,26,3094.1
+3343,décembre 2024,118728933,Fal Hlima,26,3093.15
+3343,décembre 2023,118729238,Kentaoui Aicha,26,3240.0
+3343,janvier 2024,118729238,Kentaoui Aicha,26,3161.49
+3343,février 2024,118729238,Kentaoui Aicha,26,3270.41
+3343,mars 2024,118729238,Kentaoui Aicha,26,3308.65
+3343,avril 2024,118729238,Kentaoui Aicha,26,3467.42
+3343,mai 2024,118729238,Kentaoui Aicha,26,3392.89
+3343,juin 2024,118729238,Kentaoui Aicha,26,3440.76
+3343,juillet 2024,118729238,Kentaoui Aicha,26,3493.15
+3343,août 2024,118729238,Kentaoui Aicha,26,3483.25
+3343,septembre 2024,118729238,Kentaoui Aicha,26,3413.79
+3343,octobre 2024,118729238,Kentaoui Aicha,26,3452.08
+3343,novembre 2024,118729238,Kentaoui Aicha,26,3502.29
+3343,décembre 2024,118729238,Kentaoui Aicha,26,3522.93
+3343,décembre 2023,122590948,Moutawakkil Hassan,26,3240.0
+3343,janvier 2024,122590948,Moutawakkil Hassan,26,3306.99
+3343,février 2024,122590948,Moutawakkil Hassan,26,3296.06
+3343,mars 2024,122590948,Moutawakkil Hassan,26,3256.15
+3343,avril 2024,122590948,Moutawakkil Hassan,26,3256.13
+3343,mai 2024,122590948,Moutawakkil Hassan,26,3367.82
+3343,juin 2024,122590948,Moutawakkil Hassan,26,3335.68
+3343,juillet 2024,122590948,Moutawakkil Hassan,26,3345.63
+3343,août 2024,122590948,Moutawakkil Hassan,26,3438.76
+3343,septembre 2024,122590948,Moutawakkil Hassan,26,3527.17
+3343,octobre 2024,122590948,Moutawakkil Hassan,26,3487.63
+3343,novembre 2024,122590948,Moutawakkil Hassan,26,3478.52
+3343,décembre 2024,122590948,Moutawakkil Hassan,26,3412.85
+3343,décembre 2023,130009030,Imane Abdelhak,26,3240.0
+3343,janvier 2024,130009030,Imane Abdelhak,26,3362.28
+3343,février 2024,130009030,Imane Abdelhak,26,3344.14
+3343,mars 2024,130009030,Imane Abdelhak,26,3310.62
+3343,avril 2024,130009030,Imane Abdelhak,26,3258.71
+3343,mai 2024,130009030,Imane Abdelhak,26,3321.54
+3343,juin 2024,130009030,Imane Abdelhak,26,3297.99
+3343,juillet 2024,130009030,Imane Abdelhak,26,3258.02
+3343,août 2024,130009030,Imane Abdelhak,26,3375.58
+3343,septembre 2024,130009030,Imane Abdelhak,26,3295.3
+3343,octobre 2024,130009030,Imane Abdelhak,26,3310.21
+3343,novembre 2024,130009030,Imane Abdelhak,26,3398.82
+3343,décembre 2024,130009030,Imane Abdelhak,26,3417.19
+3343,décembre 2023,130708536,Eddabou Meryem,18,2000.0
+3343,janvier 2024,130708536,Eddabou Meryem,18,2021.49
+3343,février 2024,130708536,Eddabou Meryem,18,2010.49
+3343,mars 2024,130708536,Eddabou Meryem,18,2102.4
+3343,avril 2024,130708536,Eddabou Meryem,18,2090.72
+3343,mai 2024,130708536,Eddabou Meryem,18,2179.27
+3343,juin 2024,130708536,Eddabou Meryem,18,2238.17
+3343,juillet 2024,130708536,Eddabou Meryem,18,2254.34
+3343,août 2024,130708536,Eddabou Meryem,18,2286.5
+3343,septembre 2024,130708536,Eddabou Meryem,18,2392.64
+3343,octobre 2024,130708536,Eddabou Meryem,18,2479.91
+3343,novembre 2024,130708536,Eddabou Meryem,18,2406.24
+3343,décembre 2024,130708536,Eddabou Meryem,18,2363.96
+3343,décembre 2023,143072032,Moussaif Youssef,26,3567.0
+3343,janvier 2024,143072032,Moussaif Youssef,26,3565.23
+3343,février 2024,143072032,Moussaif Youssef,26,3692.24
+3343,mars 2024,143072032,Moussaif Youssef,26,3765.87
+3343,avril 2024,143072032,Moussaif Youssef,26,3842.93
+3343,mai 2024,143072032,Moussaif Youssef,26,4033.49
+3343,juin 2024,143072032,Moussaif Youssef,26,4165.39
+3343,juillet 2024,143072032,Moussaif Youssef,26,4096.48
+3343,août 2024,143072032,Moussaif Youssef,26,4265.79
+3343,septembre 2024,143072032,Moussaif Youssef,26,4289.2
+3343,octobre 2024,143072032,Moussaif Youssef,26,4398.06
+3343,novembre 2024,143072032,Moussaif Youssef,26,4388.88
+3343,décembre 2024,143072032,Moussaif Youssef,26,4360.71
+3343,décembre 2023,157041859,Yaiche Abdellatif,26,3500.0
+3343,janvier 2024,157041859,Yaiche Abdellatif,26,3444.15
+3343,février 2024,157041859,Yaiche Abdellatif,26,3451.34
+3343,mars 2024,157041859,Yaiche Abdellatif,26,3408.94
+3343,avril 2024,157041859,Yaiche Abdellatif,26,3356.42
+3343,mai 2024,157041859,Yaiche Abdellatif,26,3363.2
+3343,juin 2024,157041859,Yaiche Abdellatif,26,3417.23
+3343,juillet 2024,157041859,Yaiche Abdellatif,26,3394.79
+3343,août 2024,157041859,Yaiche Abdellatif,26,3308.42
+3343,septembre 2024,157041859,Yaiche Abdellatif,26,3281.23
+3343,octobre 2024,157041859,Yaiche Abdellatif,26,3351.36
+3343,novembre 2024,157041859,Yaiche Abdellatif,26,3268.01
+3343,décembre 2024,157041859,Yaiche Abdellatif,26,3306.61
+3343,décembre 2023,159901440,Farouki Nawal,18,2000.0
+3343,janvier 2024,159901440,Farouki Nawal,18,1957.55
+3343,février 2024,159901440,Farouki Nawal,18,2021.55
+3343,mars 2024,159901440,Farouki Nawal,18,1974.68
+3343,avril 2024,159901440,Farouki Nawal,18,1938.95
+3343,mai 2024,159901440,Farouki Nawal,18,1921.47
+3343,juin 2024,159901440,Farouki Nawal,18,1990.14
+3343,juillet 2024,159901440,Farouki Nawal,18,2062.64
+3343,août 2024,159901440,Farouki Nawal,18,2096.98
+3343,septembre 2024,159901440,Farouki Nawal,18,2170.9
+3343,octobre 2024,159901440,Farouki Nawal,18,2177.03
+3343,novembre 2024,159901440,Farouki Nawal,18,2181.37
+3343,décembre 2024,159901440,Farouki Nawal,18,2258.5
+3343,décembre 2023,160322593,Nouguisse Mustapha,22,2500.0
+3343,janvier 2024,160322593,Nouguisse Mustapha,22,2563.77
+3343,février 2024,160322593,Nouguisse Mustapha,22,2616.91
+3343,mars 2024,160322593,Nouguisse Mustapha,22,2584.14
+3343,avril 2024,160322593,Nouguisse Mustapha,22,2587.49
+3343,mai 2024,160322593,Nouguisse Mustapha,22,2515.14
+3343,juin 2024,160322593,Nouguisse Mustapha,22,2531.27
+3343,juillet 2024,160322593,Nouguisse Mustapha,22,2638.27
+3343,août 2024,160322593,Nouguisse Mustapha,22,2722.48
+3343,septembre 2024,160322593,Nouguisse Mustapha,22,2673.04
+3343,octobre 2024,160322593,Nouguisse Mustapha,22,2741.81
+3343,novembre 2024,160322593,Nouguisse Mustapha,22,2769.99
+3343,décembre 2024,160322593,Nouguisse Mustapha,22,2757.91
+3343,décembre 2023,161354339,Ait Brahim Yaakoub Malika,26,3240.0
+3343,janvier 2024,161354339,Ait Brahim Yaakoub Malika,26,3239.73
+3343,février 2024,161354339,Ait Brahim Yaakoub Malika,26,3362.64
+3343,mars 2024,161354339,Ait Brahim Yaakoub Malika,26,3484.69
+3343,avril 2024,161354339,Ait Brahim Yaakoub Malika,26,3512.57
+3343,mai 2024,161354339,Ait Brahim Yaakoub Malika,26,3553.51
+3343,juin 2024,161354339,Ait Brahim Yaakoub Malika,26,3704.9
+3343,juillet 2024,161354339,Ait Brahim Yaakoub Malika,26,3879.43
+3343,août 2024,161354339,Ait Brahim Yaakoub Malika,26,4018.76
+3343,septembre 2024,161354339,Ait Brahim Yaakoub Malika,26,3997.73
+3343,octobre 2024,161354339,Ait Brahim Yaakoub Malika,26,4188.61
+3343,novembre 2024,161354339,Ait Brahim Yaakoub Malika,26,4158.1
+3343,décembre 2024,161354339,Ait Brahim Yaakoub Malika,26,4248.26
+3343,décembre 2023,164262084,Bafdil Abdelkader,26,2970.0
+3343,janvier 2024,164262084,Bafdil Abdelkader,26,3063.2
+3343,février 2024,164262084,Bafdil Abdelkader,26,3184.8
+3343,mars 2024,164262084,Bafdil Abdelkader,26,3208.5
+3343,avril 2024,164262084,Bafdil Abdelkader,26,3258.07
+3343,mai 2024,164262084,Bafdil Abdelkader,26,3397.9
+3343,juin 2024,164262084,Bafdil Abdelkader,26,3477.36
+3343,juillet 2024,164262084,Bafdil Abdelkader,26,3375.01
+3343,août 2024,164262084,Bafdil Abdelkader,26,3350.38
+3343,septembre 2024,164262084,Bafdil Abdelkader,26,3355.04
+3343,octobre 2024,164262084,Bafdil Abdelkader,26,3263.67
+3343,novembre 2024,164262084,Bafdil Abdelkader,26,3267.39
+3343,décembre 2024,164262084,Bafdil Abdelkader,26,3277.57
+3343,décembre 2023,181498216,Laaraj Ahmed,26,3240.0
+3343,janvier 2024,181498216,Laaraj Ahmed,26,3386.62
+3343,février 2024,181498216,Laaraj Ahmed,26,3442.29
+3343,mars 2024,181498216,Laaraj Ahmed,26,3518.87
+3343,avril 2024,181498216,Laaraj Ahmed,26,3648.6
+3343,mai 2024,181498216,Laaraj Ahmed,26,3727.75
+3343,juin 2024,181498216,Laaraj Ahmed,26,3806.23
+3343,juillet 2024,181498216,Laaraj Ahmed,26,3903.28
+3343,août 2024,181498216,Laaraj Ahmed,26,4083.27
+3343,septembre 2024,181498216,Laaraj Ahmed,26,3976.75
+3343,octobre 2024,181498216,Laaraj Ahmed,26,3893.7
+3343,novembre 2024,181498216,Laaraj Ahmed,26,3903.08
+3343,décembre 2024,181498216,Laaraj Ahmed,26,3969.85
+3343,décembre 2023,187200006,Ouserhatou Naima,18,2000.0
+3343,janvier 2024,187200006,Ouserhatou Naima,18,1981.54
+3343,février 2024,187200006,Ouserhatou Naima,18,1973.53
+3343,mars 2024,187200006,Ouserhatou Naima,18,1999.1
+3343,avril 2024,187200006,Ouserhatou Naima,18,2048.67
+3343,mai 2024,187200006,Ouserhatou Naima,18,2022.75
+3343,juin 2024,187200006,Ouserhatou Naima,18,2052.0
+3343,juillet 2024,187200006,Ouserhatou Naima,18,2072.06
+3343,août 2024,187200006,Ouserhatou Naima,18,2021.35
+3343,septembre 2024,187200006,Ouserhatou Naima,18,1963.68
+3343,octobre 2024,187200006,Ouserhatou Naima,18,1958.8
+3343,novembre 2024,187200006,Ouserhatou Naima,18,1922.79
+3343,décembre 2024,187200006,Ouserhatou Naima,18,1999.31
+3343,décembre 2023,188405826,El Marbouh Abdedaim,26,3240.0
+3343,janvier 2024,188405826,El Marbouh Abdedaim,26,3340.67
+3343,février 2024,188405826,El Marbouh Abdedaim,26,3457.37
+3343,mars 2024,188405826,El Marbouh Abdedaim,26,3616.25
+3343,avril 2024,188405826,El Marbouh Abdedaim,26,3593.18
+3343,mai 2024,188405826,El Marbouh Abdedaim,26,3674.9
+3343,juin 2024,188405826,El Marbouh Abdedaim,26,3670.64
+3343,juillet 2024,188405826,El Marbouh Abdedaim,26,3580.21
+3343,août 2024,188405826,El Marbouh Abdedaim,26,3503.83
+3343,septembre 2024,188405826,El Marbouh Abdedaim,26,3549.59
+3343,octobre 2024,188405826,El Marbouh Abdedaim,26,3553.07
+3343,novembre 2024,188405826,El Marbouh Abdedaim,26,3708.15
+3343,décembre 2024,188405826,El Marbouh Abdedaim,26,3635.97
+3343,décembre 2023,196595026,Ait Aissa Omar,26,3500.0
+3343,janvier 2024,196595026,Ait Aissa Omar,26,3590.03
+3343,février 2024,196595026,Ait Aissa Omar,26,3649.85
+3343,mars 2024,196595026,Ait Aissa Omar,26,3642.82
+3343,avril 2024,196595026,Ait Aissa Omar,26,3812.75
+3343,mai 2024,196595026,Ait Aissa Omar,26,3720.44
+3343,juin 2024,196595026,Ait Aissa Omar,26,3640.78
+3343,juillet 2024,196595026,Ait Aissa Omar,26,3531.9
+3343,août 2024,196595026,Ait Aissa Omar,26,3482.33
+3343,septembre 2024,196595026,Ait Aissa Omar,26,3458.89
+3343,octobre 2024,196595026,Ait Aissa Omar,26,3574.9
+3343,novembre 2024,196595026,Ait Aissa Omar,26,3539.83
+3343,décembre 2024,196595026,Ait Aissa Omar,26,3532.64
+3343,décembre 2023,197513123,Si Abbou Abdellah,26,3240.0
+3343,janvier 2024,197513123,Si Abbou Abdellah,26,3228.17
+3343,février 2024,197513123,Si Abbou Abdellah,26,3294.91
+3343,mars 2024,197513123,Si Abbou Abdellah,26,3306.85
+3343,avril 2024,197513123,Si Abbou Abdellah,26,3219.79
+3343,mai 2024,197513123,Si Abbou Abdellah,26,3291.89
+3343,juin 2024,197513123,Si Abbou Abdellah,26,3397.62
+3343,juillet 2024,197513123,Si Abbou Abdellah,26,3335.26
+3343,août 2024,197513123,Si Abbou Abdellah,26,3278.08
+3343,septembre 2024,197513123,Si Abbou Abdellah,26,3337.33
+3343,octobre 2024,197513123,Si Abbou Abdellah,26,3442.01
+3343,novembre 2024,197513123,Si Abbou Abdellah,26,3510.65
+3343,décembre 2024,197513123,Si Abbou Abdellah,26,3614.43
+3343,décembre 2023,198639522,Kabir Mohamed,26,3240.0
+3343,janvier 2024,198639522,Kabir Mohamed,26,3369.65
+3343,février 2024,198639522,Kabir Mohamed,26,3400.17
+3343,mars 2024,198639522,Kabir Mohamed,26,3364.85
+3343,avril 2024,198639522,Kabir Mohamed,26,3288.3
+3343,mai 2024,198639522,Kabir Mohamed,26,3245.35
+3343,juin 2024,198639522,Kabir Mohamed,26,3165.08
+3343,juillet 2024,198639522,Kabir Mohamed,26,3259.39
+3343,août 2024,198639522,Kabir Mohamed,26,3334.26
+3343,septembre 2024,198639522,Kabir Mohamed,26,3390.82
+3343,octobre 2024,198639522,Kabir Mohamed,26,3304.93
+3343,novembre 2024,198639522,Kabir Mohamed,26,3219.48
+3343,décembre 2024,198639522,Kabir Mohamed,26,3146.56
+3343,décembre 2023,198967030,Khoumani El Mokhtar,22,2500.0
+3343,janvier 2024,198967030,Khoumani El Mokhtar,22,2503.09
+3343,février 2024,198967030,Khoumani El Mokhtar,22,2562.09
+3343,mars 2024,198967030,Khoumani El Mokhtar,22,2684.68
+3343,avril 2024,198967030,Khoumani El Mokhtar,22,2681.9
+3343,mai 2024,198967030,Khoumani El Mokhtar,22,2715.57
+3343,juin 2024,198967030,Khoumani El Mokhtar,22,2835.2
+3343,juillet 2024,198967030,Khoumani El Mokhtar,22,2754.11
+3343,août 2024,198967030,Khoumani El Mokhtar,22,2714.85
+3343,septembre 2024,198967030,Khoumani El Mokhtar,22,2647.59
+3343,octobre 2024,198967030,Khoumani El Mokhtar,22,2583.84
+3343,novembre 2024,198967030,Khoumani El Mokhtar,22,2571.58
+3343,décembre 2024,198967030,Khoumani El Mokhtar,22,2505.43

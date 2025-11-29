@@ -1,0 +1,885 @@
+ID_adherent,month,immatriculationNumber,full_name,nombre_jours,salaire
+6021,décembre 2023,102050186,Allouchi Amir,26,6063.73
+6021,janvier 2024,102050186,Allouchi Amir,26,6070.76
+6021,février 2024,102050186,Allouchi Amir,26,6370.93
+6021,mars 2024,102050186,Allouchi Amir,26,6186.17
+6021,avril 2024,102050186,Allouchi Amir,26,6445.62
+6021,mai 2024,102050186,Allouchi Amir,26,6295.41
+6021,juin 2024,102050186,Allouchi Amir,26,6510.34
+6021,juillet 2024,102050186,Allouchi Amir,26,6631.26
+6021,août 2024,102050186,Allouchi Amir,26,6669.37
+6021,septembre 2024,102050186,Allouchi Amir,26,6603.1
+6021,octobre 2024,102050186,Allouchi Amir,26,6651.34
+6021,novembre 2024,102050186,Allouchi Amir,26,6485.15
+6021,décembre 2024,102050186,Allouchi Amir,26,6383.67
+6021,décembre 2023,102050285,Ait El Benna Abderrahman,26,3434.53
+6021,janvier 2024,102050285,Ait El Benna Abderrahman,26,3581.45
+6021,février 2024,102050285,Ait El Benna Abderrahman,26,3479.42
+6021,mars 2024,102050285,Ait El Benna Abderrahman,26,3644.34
+6021,avril 2024,102050285,Ait El Benna Abderrahman,26,3545.51
+6021,mai 2024,102050285,Ait El Benna Abderrahman,26,3474.07
+6021,juin 2024,102050285,Ait El Benna Abderrahman,26,3545.4
+6021,juillet 2024,102050285,Ait El Benna Abderrahman,26,3582.73
+6021,août 2024,102050285,Ait El Benna Abderrahman,26,3655.26
+6021,septembre 2024,102050285,Ait El Benna Abderrahman,26,3728.88
+6021,octobre 2024,102050285,Ait El Benna Abderrahman,26,3800.43
+6021,novembre 2024,102050285,Ait El Benna Abderrahman,26,3883.58
+6021,décembre 2024,102050285,Ait El Benna Abderrahman,26,3980.7
+6021,décembre 2023,102050384,El Baddad Brahim,26,3434.53
+6021,janvier 2024,102050384,El Baddad Brahim,26,3419.52
+6021,février 2024,102050384,El Baddad Brahim,26,3484.33
+6021,mars 2024,102050384,El Baddad Brahim,26,3626.31
+6021,avril 2024,102050384,El Baddad Brahim,26,3796.82
+6021,mai 2024,102050384,El Baddad Brahim,26,3845.72
+6021,juin 2024,102050384,El Baddad Brahim,26,3922.36
+6021,juillet 2024,102050384,El Baddad Brahim,26,3909.09
+6021,août 2024,102050384,El Baddad Brahim,26,3983.58
+6021,septembre 2024,102050384,El Baddad Brahim,26,4118.16
+6021,octobre 2024,102050384,El Baddad Brahim,26,4197.79
+6021,novembre 2024,102050384,El Baddad Brahim,26,4309.6
+6021,décembre 2024,102050384,El Baddad Brahim,26,4518.13
+6021,décembre 2023,104112843,Tazi Mhamed,26,51750.01
+6021,janvier 2024,104112843,Tazi Mhamed,26,53363.03
+6021,février 2024,104112843,Tazi Mhamed,26,55402.98
+6021,mars 2024,104112843,Tazi Mhamed,26,55358.41
+6021,avril 2024,104112843,Tazi Mhamed,26,55182.21
+6021,mai 2024,104112843,Tazi Mhamed,26,54255.4
+6021,juin 2024,104112843,Tazi Mhamed,26,55177.32
+6021,juillet 2024,104112843,Tazi Mhamed,26,56733.81
+6021,août 2024,104112843,Tazi Mhamed,26,55420.15
+6021,septembre 2024,104112843,Tazi Mhamed,26,54243.8
+6021,octobre 2024,104112843,Tazi Mhamed,26,53493.69
+6021,novembre 2024,104112843,Tazi Mhamed,26,54386.15
+6021,décembre 2024,104112843,Tazi Mhamed,26,53401.9
+6021,décembre 2023,106423316,Benzerraouia Hamza,26,3118.66
+6021,janvier 2024,106423316,Benzerraouia Hamza,26,3222.98
+6021,février 2024,106423316,Benzerraouia Hamza,26,3377.02
+6021,mars 2024,106423316,Benzerraouia Hamza,26,3435.77
+6021,avril 2024,106423316,Benzerraouia Hamza,26,3566.16
+6021,mai 2024,106423316,Benzerraouia Hamza,26,3459.25
+6021,juin 2024,106423316,Benzerraouia Hamza,26,3582.53
+6021,juillet 2024,106423316,Benzerraouia Hamza,26,3680.67
+6021,août 2024,106423316,Benzerraouia Hamza,26,3719.19
+6021,septembre 2024,106423316,Benzerraouia Hamza,26,3673.97
+6021,octobre 2024,106423316,Benzerraouia Hamza,26,3700.69
+6021,novembre 2024,106423316,Benzerraouia Hamza,26,3825.83
+6021,décembre 2024,106423316,Benzerraouia Hamza,26,3727.71
+6021,décembre 2023,107510581,Ait Abderrahman Abderrahim,26,10124.64
+6021,janvier 2024,107510581,Ait Abderrahman Abderrahim,26,9889.71
+6021,février 2024,107510581,Ait Abderrahman Abderrahim,26,10377.53
+6021,mars 2024,107510581,Ait Abderrahman Abderrahim,26,10508.04
+6021,avril 2024,107510581,Ait Abderrahman Abderrahim,26,11006.49
+6021,mai 2024,107510581,Ait Abderrahman Abderrahim,26,11461.4
+6021,juin 2024,107510581,Ait Abderrahman Abderrahim,26,11737.99
+6021,juillet 2024,107510581,Ait Abderrahman Abderrahim,26,11802.76
+6021,août 2024,107510581,Ait Abderrahman Abderrahim,26,12174.97
+6021,septembre 2024,107510581,Ait Abderrahman Abderrahim,26,12662.3
+6021,octobre 2024,107510581,Ait Abderrahman Abderrahim,26,13084.68
+6021,novembre 2024,107510581,Ait Abderrahman Abderrahim,26,13281.99
+6021,décembre 2024,107510581,Ait Abderrahman Abderrahim,26,13852.66
+6021,décembre 2023,110608150,Al Aouny Mariem,26,2970.05
+6021,janvier 2024,110608150,Al Aouny Mariem,26,3053.16
+6021,février 2024,110608150,Al Aouny Mariem,26,3076.36
+6021,mars 2024,110608150,Al Aouny Mariem,26,3093.12
+6021,avril 2024,110608150,Al Aouny Mariem,26,3002.81
+6021,mai 2024,110608150,Al Aouny Mariem,26,3074.69
+6021,juin 2024,110608150,Al Aouny Mariem,26,3155.25
+6021,juillet 2024,110608150,Al Aouny Mariem,26,3125.17
+6021,août 2024,110608150,Al Aouny Mariem,26,3245.93
+6021,septembre 2024,110608150,Al Aouny Mariem,26,3364.74
+6021,octobre 2024,110608150,Al Aouny Mariem,26,3431.39
+6021,novembre 2024,110608150,Al Aouny Mariem,26,3486.24
+6021,décembre 2024,110608150,Al Aouny Mariem,26,3656.59
+6021,décembre 2023,112035590,Atyaout Ibtissam,26,3664.36
+6021,janvier 2024,112035590,Atyaout Ibtissam,26,3625.0
+6021,février 2024,112035590,Atyaout Ibtissam,26,3716.79
+6021,mars 2024,112035590,Atyaout Ibtissam,26,3864.19
+6021,avril 2024,112035590,Atyaout Ibtissam,26,3943.85
+6021,mai 2024,112035590,Atyaout Ibtissam,26,3856.47
+6021,juin 2024,112035590,Atyaout Ibtissam,26,3760.69
+6021,juillet 2024,112035590,Atyaout Ibtissam,26,3947.63
+6021,août 2024,112035590,Atyaout Ibtissam,26,3935.85
+6021,septembre 2024,112035590,Atyaout Ibtissam,26,3918.61
+6021,octobre 2024,112035590,Atyaout Ibtissam,26,3812.61
+6021,novembre 2024,112035590,Atyaout Ibtissam,26,3732.5
+6021,décembre 2024,112035590,Atyaout Ibtissam,26,3655.41
+6021,décembre 2023,112035897,Chadid Hassan,26,3324.04
+6021,janvier 2024,112035897,Chadid Hassan,26,3489.8
+6021,février 2024,112035897,Chadid Hassan,26,3595.54
+6021,mars 2024,112035897,Chadid Hassan,26,3588.76
+6021,avril 2024,112035897,Chadid Hassan,26,3683.49
+6021,mai 2024,112035897,Chadid Hassan,26,3798.29
+6021,juin 2024,112035897,Chadid Hassan,26,3928.28
+6021,juillet 2024,112035897,Chadid Hassan,26,3941.21
+6021,août 2024,112035897,Chadid Hassan,26,4045.51
+6021,septembre 2024,112035897,Chadid Hassan,26,4019.55
+6021,octobre 2024,112035897,Chadid Hassan,26,3983.66
+6021,novembre 2024,112035897,Chadid Hassan,26,3995.01
+6021,décembre 2024,112035897,Chadid Hassan,26,4017.78
+6021,décembre 2023,112047199,Belfassi Laila,26,3379.12
+6021,janvier 2024,112047199,Belfassi Laila,26,3446.72
+6021,février 2024,112047199,Belfassi Laila,26,3506.1
+6021,mars 2024,112047199,Belfassi Laila,26,3408.51
+6021,avril 2024,112047199,Belfassi Laila,26,3565.16
+6021,mai 2024,112047199,Belfassi Laila,26,3672.77
+6021,juin 2024,112047199,Belfassi Laila,26,3603.87
+6021,juillet 2024,112047199,Belfassi Laila,26,3738.6
+6021,août 2024,112047199,Belfassi Laila,26,3898.1
+6021,septembre 2024,112047199,Belfassi Laila,26,3865.36
+6021,octobre 2024,112047199,Belfassi Laila,26,3777.95
+6021,novembre 2024,112047199,Belfassi Laila,26,3912.36
+6021,décembre 2024,112047199,Belfassi Laila,26,4034.89
+6021,décembre 2023,112103892,Ben Salah Abdessadek,26,3323.73
+6021,janvier 2024,112103892,Ben Salah Abdessadek,26,3340.59
+6021,février 2024,112103892,Ben Salah Abdessadek,26,3292.38
+6021,mars 2024,112103892,Ben Salah Abdessadek,26,3294.45
+6021,avril 2024,112103892,Ben Salah Abdessadek,26,3209.02
+6021,mai 2024,112103892,Ben Salah Abdessadek,26,3189.43
+6021,juin 2024,112103892,Ben Salah Abdessadek,26,3214.88
+6021,juillet 2024,112103892,Ben Salah Abdessadek,26,3214.83
+6021,août 2024,112103892,Ben Salah Abdessadek,26,3221.17
+6021,septembre 2024,112103892,Ben Salah Abdessadek,26,3208.63
+6021,octobre 2024,112103892,Ben Salah Abdessadek,26,3143.44
+6021,novembre 2024,112103892,Ben Salah Abdessadek,26,3068.94
+6021,décembre 2024,112103892,Ben Salah Abdessadek,26,2999.29
+6021,décembre 2023,112408599,El Basraoui El Mostapha,26,3431.27
+6021,janvier 2024,112408599,El Basraoui El Mostapha,26,3451.0
+6021,février 2024,112408599,El Basraoui El Mostapha,26,3367.29
+6021,mars 2024,112408599,El Basraoui El Mostapha,26,3502.53
+6021,avril 2024,112408599,El Basraoui El Mostapha,26,3530.81
+6021,mai 2024,112408599,El Basraoui El Mostapha,26,3658.2
+6021,juin 2024,112408599,El Basraoui El Mostapha,26,3648.18
+6021,juillet 2024,112408599,El Basraoui El Mostapha,26,3601.61
+6021,août 2024,112408599,El Basraoui El Mostapha,26,3524.04
+6021,septembre 2024,112408599,El Basraoui El Mostapha,26,3614.52
+6021,octobre 2024,112408599,El Basraoui El Mostapha,26,3572.43
+6021,novembre 2024,112408599,El Basraoui El Mostapha,26,3578.54
+6021,décembre 2024,112408599,El Basraoui El Mostapha,26,3658.92
+6021,décembre 2023,112662864,Bougasse Rachid,26,11596.8
+6021,janvier 2024,112662864,Bougasse Rachid,26,11695.45
+6021,février 2024,112662864,Bougasse Rachid,26,11757.33
+6021,mars 2024,112662864,Bougasse Rachid,26,12015.16
+6021,avril 2024,112662864,Bougasse Rachid,26,12354.87
+6021,mai 2024,112662864,Bougasse Rachid,26,12318.14
+6021,juin 2024,112662864,Bougasse Rachid,26,12150.92
+6021,juillet 2024,112662864,Bougasse Rachid,26,12100.95
+6021,août 2024,112662864,Bougasse Rachid,26,12089.65
+6021,septembre 2024,112662864,Bougasse Rachid,26,12169.71
+6021,octobre 2024,112662864,Bougasse Rachid,26,12164.57
+6021,novembre 2024,112662864,Bougasse Rachid,26,11831.11
+6021,décembre 2024,112662864,Bougasse Rachid,26,12394.47
+6021,décembre 2023,113129342,Kounjab Mohamed,26,3431.27
+6021,janvier 2024,113129342,Kounjab Mohamed,26,3469.8
+6021,février 2024,113129342,Kounjab Mohamed,26,3488.15
+6021,mars 2024,113129342,Kounjab Mohamed,26,3650.58
+6021,avril 2024,113129342,Kounjab Mohamed,26,3569.64
+6021,mai 2024,113129342,Kounjab Mohamed,26,3682.61
+6021,juin 2024,113129342,Kounjab Mohamed,26,3849.1
+6021,juillet 2024,113129342,Kounjab Mohamed,26,3839.09
+6021,août 2024,113129342,Kounjab Mohamed,26,3926.57
+6021,septembre 2024,113129342,Kounjab Mohamed,26,3905.16
+6021,octobre 2024,113129342,Kounjab Mohamed,26,4071.37
+6021,novembre 2024,113129342,Kounjab Mohamed,26,4070.03
+6021,décembre 2024,113129342,Kounjab Mohamed,26,4087.49
+6021,décembre 2023,115952154,Kannach Mohamed,26,2970.05
+6021,janvier 2024,115952154,Kannach Mohamed,26,3059.29
+6021,février 2024,115952154,Kannach Mohamed,26,3147.78
+6021,mars 2024,115952154,Kannach Mohamed,26,3185.92
+6021,avril 2024,115952154,Kannach Mohamed,26,3125.35
+6021,mai 2024,115952154,Kannach Mohamed,26,3072.38
+6021,juin 2024,115952154,Kannach Mohamed,26,3096.87
+6021,juillet 2024,115952154,Kannach Mohamed,26,3196.38
+6021,août 2024,115952154,Kannach Mohamed,26,3297.33
+6021,septembre 2024,115952154,Kannach Mohamed,26,3366.58
+6021,octobre 2024,115952154,Kannach Mohamed,26,3340.46
+6021,novembre 2024,115952154,Kannach Mohamed,26,3404.81
+6021,décembre 2024,115952154,Kannach Mohamed,26,3511.4
+6021,décembre 2023,116868971,Aboukir Brahim,26,7412.25
+6021,janvier 2024,116868971,Aboukir Brahim,26,7233.29
+6021,février 2024,116868971,Aboukir Brahim,26,7432.92
+6021,mars 2024,116868971,Aboukir Brahim,26,7551.86
+6021,avril 2024,116868971,Aboukir Brahim,26,7458.68
+6021,mai 2024,116868971,Aboukir Brahim,26,7664.43
+6021,juin 2024,116868971,Aboukir Brahim,26,7551.83
+6021,juillet 2024,116868971,Aboukir Brahim,26,7394.77
+6021,août 2024,116868971,Aboukir Brahim,26,7447.33
+6021,septembre 2024,116868971,Aboukir Brahim,26,7492.03
+6021,octobre 2024,116868971,Aboukir Brahim,26,7668.26
+6021,novembre 2024,116868971,Aboukir Brahim,26,7881.5
+6021,décembre 2024,116868971,Aboukir Brahim,26,7712.13
+6021,décembre 2023,120136497,Ouaziz Laila,26,3270.43
+6021,janvier 2024,120136497,Ouaziz Laila,26,3280.27
+6021,février 2024,120136497,Ouaziz Laila,26,3282.28
+6021,mars 2024,120136497,Ouaziz Laila,26,3363.98
+6021,avril 2024,120136497,Ouaziz Laila,26,3512.99
+6021,mai 2024,120136497,Ouaziz Laila,26,3674.1
+6021,juin 2024,120136497,Ouaziz Laila,26,3832.77
+6021,juillet 2024,120136497,Ouaziz Laila,26,3820.95
+6021,août 2024,120136497,Ouaziz Laila,26,3756.35
+6021,septembre 2024,120136497,Ouaziz Laila,26,3701.45
+6021,octobre 2024,120136497,Ouaziz Laila,26,3611.9
+6021,novembre 2024,120136497,Ouaziz Laila,26,3583.23
+6021,décembre 2024,120136497,Ouaziz Laila,26,3495.22
+6021,décembre 2023,120359172,El Alami Soufiane,26,8342.7
+6021,janvier 2024,120359172,El Alami Soufiane,26,8520.44
+6021,février 2024,120359172,El Alami Soufiane,26,8724.69
+6021,mars 2024,120359172,El Alami Soufiane,26,8884.89
+6021,avril 2024,120359172,El Alami Soufiane,26,9174.83
+6021,mai 2024,120359172,El Alami Soufiane,26,9228.29
+6021,juin 2024,120359172,El Alami Soufiane,26,9453.86
+6021,juillet 2024,120359172,El Alami Soufiane,26,9739.91
+6021,août 2024,120359172,El Alami Soufiane,26,9610.88
+6021,septembre 2024,120359172,El Alami Soufiane,26,9907.4
+6021,octobre 2024,120359172,El Alami Soufiane,26,9810.59
+6021,novembre 2024,120359172,El Alami Soufiane,26,9838.55
+6021,décembre 2024,120359172,El Alami Soufiane,26,9903.18
+6021,décembre 2023,122648870,Omsbiat Abdelkrim,26,3267.16
+6021,janvier 2024,122648870,Omsbiat Abdelkrim,26,3349.4
+6021,février 2024,122648870,Omsbiat Abdelkrim,26,3252.71
+6021,mars 2024,122648870,Omsbiat Abdelkrim,26,3172.02
+6021,avril 2024,122648870,Omsbiat Abdelkrim,26,3279.4
+6021,mai 2024,122648870,Omsbiat Abdelkrim,26,3365.88
+6021,juin 2024,122648870,Omsbiat Abdelkrim,26,3409.69
+6021,juillet 2024,122648870,Omsbiat Abdelkrim,26,3354.41
+6021,août 2024,122648870,Omsbiat Abdelkrim,26,3396.78
+6021,septembre 2024,122648870,Omsbiat Abdelkrim,26,3391.13
+6021,octobre 2024,122648870,Omsbiat Abdelkrim,26,3423.11
+6021,novembre 2024,122648870,Omsbiat Abdelkrim,26,3501.42
+6021,décembre 2024,122648870,Omsbiat Abdelkrim,26,3441.09
+6021,décembre 2023,125425499,El Bouzidi Khadija,26,3434.53
+6021,janvier 2024,125425499,El Bouzidi Khadija,26,3356.31
+6021,février 2024,125425499,El Bouzidi Khadija,26,3278.92
+6021,mars 2024,125425499,El Bouzidi Khadija,26,3218.43
+6021,avril 2024,125425499,El Bouzidi Khadija,26,3284.02
+6021,mai 2024,125425499,El Bouzidi Khadija,26,3355.22
+6021,juin 2024,125425499,El Bouzidi Khadija,26,3401.28
+6021,juillet 2024,125425499,El Bouzidi Khadija,26,3501.55
+6021,août 2024,125425499,El Bouzidi Khadija,26,3653.02
+6021,septembre 2024,125425499,El Bouzidi Khadija,26,3764.26
+6021,octobre 2024,125425499,El Bouzidi Khadija,26,3849.93
+6021,novembre 2024,125425499,El Bouzidi Khadija,26,3949.85
+6021,décembre 2024,125425499,El Bouzidi Khadija,26,3867.39
+6021,décembre 2023,128258475,Benkirane Houda,26,12341.8
+6021,janvier 2024,128258475,Benkirane Houda,26,12003.64
+6021,février 2024,128258475,Benkirane Houda,26,12259.05
+6021,mars 2024,128258475,Benkirane Houda,26,12056.92
+6021,avril 2024,128258475,Benkirane Houda,26,12182.92
+6021,mai 2024,128258475,Benkirane Houda,26,12510.28
+6021,juin 2024,128258475,Benkirane Houda,26,12382.83
+6021,juillet 2024,128258475,Benkirane Houda,26,12498.01
+6021,août 2024,128258475,Benkirane Houda,26,12269.38
+6021,septembre 2024,128258475,Benkirane Houda,26,12784.94
+6021,octobre 2024,128258475,Benkirane Houda,26,12914.37
+6021,novembre 2024,128258475,Benkirane Houda,26,13073.74
+6021,décembre 2024,128258475,Benkirane Houda,26,12815.57
+6021,décembre 2023,130495709,Abali Tarik,26,7852.54
+6021,janvier 2024,130495709,Abali Tarik,26,8203.34
+6021,février 2024,130495709,Abali Tarik,26,8505.67
+6021,mars 2024,130495709,Abali Tarik,26,8695.47
+6021,avril 2024,130495709,Abali Tarik,26,8449.96
+6021,mai 2024,130495709,Abali Tarik,26,8699.81
+6021,juin 2024,130495709,Abali Tarik,26,8732.08
+6021,juillet 2024,130495709,Abali Tarik,26,8838.47
+6021,août 2024,130495709,Abali Tarik,26,8640.22
+6021,septembre 2024,130495709,Abali Tarik,26,9056.89
+6021,octobre 2024,130495709,Abali Tarik,26,9060.64
+6021,novembre 2024,130495709,Abali Tarik,26,9034.48
+6021,décembre 2024,130495709,Abali Tarik,26,9008.67
+6021,décembre 2023,133157274,Siham Noura,26,4865.8
+6021,janvier 2024,133157274,Siham Noura,26,5046.28
+6021,février 2024,133157274,Siham Noura,26,5276.04
+6021,mars 2024,133157274,Siham Noura,26,5257.25
+6021,avril 2024,133157274,Siham Noura,26,5474.92
+6021,mai 2024,133157274,Siham Noura,26,5636.47
+6021,juin 2024,133157274,Siham Noura,26,5482.19
+6021,juillet 2024,133157274,Siham Noura,26,5434.54
+6021,août 2024,133157274,Siham Noura,26,5634.15
+6021,septembre 2024,133157274,Siham Noura,26,5909.02
+6021,octobre 2024,133157274,Siham Noura,26,5976.37
+6021,novembre 2024,133157274,Siham Noura,26,6060.82
+6021,décembre 2024,133157274,Siham Noura,26,5886.83
+6021,décembre 2023,133602838,Kounjab Mourad,26,2970.15
+6021,janvier 2024,133602838,Kounjab Mourad,26,3044.0
+6021,février 2024,133602838,Kounjab Mourad,26,3120.51
+6021,mars 2024,133602838,Kounjab Mourad,26,3176.97
+6021,avril 2024,133602838,Kounjab Mourad,26,3178.8
+6021,mai 2024,133602838,Kounjab Mourad,26,3149.87
+6021,juin 2024,133602838,Kounjab Mourad,26,3268.04
+6021,juillet 2024,133602838,Kounjab Mourad,26,3240.91
+6021,août 2024,133602838,Kounjab Mourad,26,3154.26
+6021,septembre 2024,133602838,Kounjab Mourad,26,3159.46
+6021,octobre 2024,133602838,Kounjab Mourad,26,3315.81
+6021,novembre 2024,133602838,Kounjab Mourad,26,3455.94
+6021,décembre 2024,133602838,Kounjab Mourad,26,3484.63
+6021,décembre 2023,134883589,Tazi Khadija,26,41262.52
+6021,janvier 2024,134883589,Tazi Khadija,26,43308.06
+6021,février 2024,134883589,Tazi Khadija,26,42058.47
+6021,mars 2024,134883589,Tazi Khadija,26,40905.82
+6021,avril 2024,134883589,Tazi Khadija,26,41697.66
+6021,mai 2024,134883589,Tazi Khadija,26,41516.05
+6021,juin 2024,134883589,Tazi Khadija,26,42108.84
+6021,juillet 2024,134883589,Tazi Khadija,26,42606.09
+6021,août 2024,134883589,Tazi Khadija,26,41756.41
+6021,septembre 2024,134883589,Tazi Khadija,26,43318.22
+6021,octobre 2024,134883589,Tazi Khadija,26,42405.55
+6021,novembre 2024,134883589,Tazi Khadija,26,41400.4
+6021,décembre 2024,134883589,Tazi Khadija,26,42462.59
+6021,décembre 2023,134887789,Sbai Mustapha,26,3590.65
+6021,janvier 2024,134887789,Sbai Mustapha,26,3737.85
+6021,février 2024,134887789,Sbai Mustapha,26,3691.76
+6021,mars 2024,134887789,Sbai Mustapha,26,3615.38
+6021,avril 2024,134887789,Sbai Mustapha,26,3695.17
+6021,mai 2024,134887789,Sbai Mustapha,26,3725.86
+6021,juin 2024,134887789,Sbai Mustapha,26,3855.13
+6021,juillet 2024,134887789,Sbai Mustapha,26,3946.53
+6021,août 2024,134887789,Sbai Mustapha,26,3968.81
+6021,septembre 2024,134887789,Sbai Mustapha,26,3885.18
+6021,octobre 2024,134887789,Sbai Mustapha,26,3881.27
+6021,novembre 2024,134887789,Sbai Mustapha,26,4037.68
+6021,décembre 2024,134887789,Sbai Mustapha,26,3918.09
+6021,décembre 2023,135855342,Kiass Yassine,26,2970.15
+6021,janvier 2024,135855342,Kiass Yassine,26,3015.4
+6021,février 2024,135855342,Kiass Yassine,26,2985.54
+6021,mars 2024,135855342,Kiass Yassine,26,3079.06
+6021,avril 2024,135855342,Kiass Yassine,26,3022.52
+6021,mai 2024,135855342,Kiass Yassine,26,3169.11
+6021,juin 2024,135855342,Kiass Yassine,26,3247.56
+6021,juillet 2024,135855342,Kiass Yassine,26,3403.55
+6021,août 2024,135855342,Kiass Yassine,26,3359.21
+6021,septembre 2024,135855342,Kiass Yassine,26,3357.84
+6021,octobre 2024,135855342,Kiass Yassine,26,3369.44
+6021,novembre 2024,135855342,Kiass Yassine,26,3310.04
+6021,décembre 2024,135855342,Kiass Yassine,26,3231.0
+6021,décembre 2023,137691864,Dahnani Mostafa,26,3656.1
+6021,janvier 2024,137691864,Dahnani Mostafa,26,3814.75
+6021,février 2024,137691864,Dahnani Mostafa,26,3743.84
+6021,mars 2024,137691864,Dahnani Mostafa,26,3853.03
+6021,avril 2024,137691864,Dahnani Mostafa,26,3980.77
+6021,mai 2024,137691864,Dahnani Mostafa,26,4055.42
+6021,juin 2024,137691864,Dahnani Mostafa,26,3978.55
+6021,juillet 2024,137691864,Dahnani Mostafa,26,4053.58
+6021,août 2024,137691864,Dahnani Mostafa,26,4120.34
+6021,septembre 2024,137691864,Dahnani Mostafa,26,4023.98
+6021,octobre 2024,137691864,Dahnani Mostafa,26,4078.48
+6021,novembre 2024,137691864,Dahnani Mostafa,26,4143.56
+6021,décembre 2024,137691864,Dahnani Mostafa,26,4045.47
+6021,décembre 2023,139532462,Tazi Siham,26,13077.14
+6021,janvier 2024,139532462,Tazi Siham,26,12702.1
+6021,février 2024,139532462,Tazi Siham,26,13271.0
+6021,mars 2024,139532462,Tazi Siham,26,13022.32
+6021,avril 2024,139532462,Tazi Siham,26,13636.47
+6021,mai 2024,139532462,Tazi Siham,26,14303.78
+6021,juin 2024,139532462,Tazi Siham,26,14866.74
+6021,juillet 2024,139532462,Tazi Siham,26,14446.64
+6021,août 2024,139532462,Tazi Siham,26,14292.45
+6021,septembre 2024,139532462,Tazi Siham,26,14811.1
+6021,octobre 2024,139532462,Tazi Siham,26,15225.56
+6021,novembre 2024,139532462,Tazi Siham,26,15545.26
+6021,décembre 2024,139532462,Tazi Siham,26,15404.29
+6021,décembre 2023,141254260,Tagnames Lahcen,26,3267.16
+6021,janvier 2024,141254260,Tagnames Lahcen,26,3351.9
+6021,février 2024,141254260,Tagnames Lahcen,26,3257.07
+6021,mars 2024,141254260,Tagnames Lahcen,26,3310.0
+6021,avril 2024,141254260,Tagnames Lahcen,26,3408.56
+6021,mai 2024,141254260,Tagnames Lahcen,26,3508.45
+6021,juin 2024,141254260,Tagnames Lahcen,26,3533.61
+6021,juillet 2024,141254260,Tagnames Lahcen,26,3634.7
+6021,août 2024,141254260,Tagnames Lahcen,26,3534.14
+6021,septembre 2024,141254260,Tagnames Lahcen,26,3651.58
+6021,octobre 2024,141254260,Tagnames Lahcen,26,3574.82
+6021,novembre 2024,141254260,Tagnames Lahcen,26,3620.58
+6021,décembre 2024,141254260,Tagnames Lahcen,26,3581.85
+6021,décembre 2023,142376675,Sarmadi Jaouad,26,4945.66
+6021,janvier 2024,142376675,Sarmadi Jaouad,26,5032.19
+6021,février 2024,142376675,Sarmadi Jaouad,26,5120.34
+6021,mars 2024,142376675,Sarmadi Jaouad,26,5313.54
+6021,avril 2024,142376675,Sarmadi Jaouad,26,5223.83
+6021,mai 2024,142376675,Sarmadi Jaouad,26,5371.27
+6021,juin 2024,142376675,Sarmadi Jaouad,26,5508.59
+6021,juillet 2024,142376675,Sarmadi Jaouad,26,5533.72
+6021,août 2024,142376675,Sarmadi Jaouad,26,5631.95
+6021,septembre 2024,142376675,Sarmadi Jaouad,26,5891.34
+6021,octobre 2024,142376675,Sarmadi Jaouad,26,5968.31
+6021,novembre 2024,142376675,Sarmadi Jaouad,26,5864.89
+6021,décembre 2024,142376675,Sarmadi Jaouad,26,5760.87
+6021,décembre 2023,145771649,Famili Mimoune,26,2970.15
+6021,janvier 2024,145771649,Famili Mimoune,26,2921.93
+6021,février 2024,145771649,Famili Mimoune,26,2923.6
+6021,mars 2024,145771649,Famili Mimoune,26,2903.85
+6021,avril 2024,145771649,Famili Mimoune,26,2951.45
+6021,mai 2024,145771649,Famili Mimoune,26,3076.74
+6021,juin 2024,145771649,Famili Mimoune,26,3185.4
+6021,juillet 2024,145771649,Famili Mimoune,26,3274.71
+6021,août 2024,145771649,Famili Mimoune,26,3310.4
+6021,septembre 2024,145771649,Famili Mimoune,26,3362.78
+6021,octobre 2024,145771649,Famili Mimoune,26,3471.29
+6021,novembre 2024,145771649,Famili Mimoune,26,3573.32
+6021,décembre 2024,145771649,Famili Mimoune,26,3487.55
+6021,décembre 2023,145774847,Badar Mohamed,26,2970.15
+6021,janvier 2024,145774847,Badar Mohamed,26,2995.02
+6021,février 2024,145774847,Badar Mohamed,26,3065.03
+6021,mars 2024,145774847,Badar Mohamed,26,3115.57
+6021,avril 2024,145774847,Badar Mohamed,26,3239.55
+6021,mai 2024,145774847,Badar Mohamed,26,3182.2
+6021,juin 2024,145774847,Badar Mohamed,26,3223.92
+6021,juillet 2024,145774847,Badar Mohamed,26,3156.5
+6021,août 2024,145774847,Badar Mohamed,26,3293.26
+6021,septembre 2024,145774847,Badar Mohamed,26,3239.71
+6021,octobre 2024,145774847,Badar Mohamed,26,3164.05
+6021,novembre 2024,145774847,Badar Mohamed,26,3199.62
+6021,décembre 2024,145774847,Badar Mohamed,26,3163.19
+6021,décembre 2023,147595460,El Aouny Mohamed,26,3118.66
+6021,janvier 2024,147595460,El Aouny Mohamed,26,3226.24
+6021,février 2024,147595460,El Aouny Mohamed,26,3299.52
+6021,mars 2024,147595460,El Aouny Mohamed,26,3284.37
+6021,avril 2024,147595460,El Aouny Mohamed,26,3286.05
+6021,mai 2024,147595460,El Aouny Mohamed,26,3447.06
+6021,juin 2024,147595460,El Aouny Mohamed,26,3452.12
+6021,juillet 2024,147595460,El Aouny Mohamed,26,3468.14
+6021,août 2024,147595460,El Aouny Mohamed,26,3622.13
+6021,septembre 2024,147595460,El Aouny Mohamed,26,3628.98
+6021,octobre 2024,147595460,El Aouny Mohamed,26,3764.39
+6021,novembre 2024,147595460,El Aouny Mohamed,26,3786.17
+6021,décembre 2024,147595460,El Aouny Mohamed,26,3906.56
+6021,décembre 2023,149464449,El Yahyaoui Mohamed,26,3377.65
+6021,janvier 2024,149464449,El Yahyaoui Mohamed,26,3519.15
+6021,février 2024,149464449,El Yahyaoui Mohamed,26,3458.96
+6021,mars 2024,149464449,El Yahyaoui Mohamed,26,3481.3
+6021,avril 2024,149464449,El Yahyaoui Mohamed,26,3559.45
+6021,mai 2024,149464449,El Yahyaoui Mohamed,26,3604.9
+6021,juin 2024,149464449,El Yahyaoui Mohamed,26,3654.29
+6021,juillet 2024,149464449,El Yahyaoui Mohamed,26,3744.74
+6021,août 2024,149464449,El Yahyaoui Mohamed,26,3884.79
+6021,septembre 2024,149464449,El Yahyaoui Mohamed,26,4072.39
+6021,octobre 2024,149464449,El Yahyaoui Mohamed,26,4132.19
+6021,novembre 2024,149464449,El Yahyaoui Mohamed,26,4286.05
+6021,décembre 2024,149464449,El Yahyaoui Mohamed,26,4280.77
+6021,décembre 2023,149477145,Bouabed Mohamed,26,2971.05
+6021,janvier 2024,149477145,Bouabed Mohamed,26,3106.71
+6021,février 2024,149477145,Bouabed Mohamed,26,3102.95
+6021,mars 2024,149477145,Bouabed Mohamed,26,3251.0
+6021,avril 2024,149477145,Bouabed Mohamed,26,3319.41
+6021,mai 2024,149477145,Bouabed Mohamed,26,3439.48
+6021,juin 2024,149477145,Bouabed Mohamed,26,3606.89
+6021,juillet 2024,149477145,Bouabed Mohamed,26,3602.02
+6021,août 2024,149477145,Bouabed Mohamed,26,3715.44
+6021,septembre 2024,149477145,Bouabed Mohamed,26,3884.3
+6021,octobre 2024,149477145,Bouabed Mohamed,26,3823.35
+6021,novembre 2024,149477145,Bouabed Mohamed,26,3927.29
+6021,décembre 2024,149477145,Bouabed Mohamed,26,4120.58
+6021,décembre 2023,152515130,Bendraou Abderrahmane,26,3267.16
+6021,janvier 2024,152515130,Bendraou Abderrahmane,26,3358.43
+6021,février 2024,152515130,Bendraou Abderrahmane,26,3519.44
+6021,mars 2024,152515130,Bendraou Abderrahmane,26,3474.81
+6021,avril 2024,152515130,Bendraou Abderrahmane,26,3632.51
+6021,mai 2024,152515130,Bendraou Abderrahmane,26,3804.58
+6021,juin 2024,152515130,Bendraou Abderrahmane,26,3952.73
+6021,juillet 2024,152515130,Bendraou Abderrahmane,26,3839.2
+6021,août 2024,152515130,Bendraou Abderrahmane,26,3854.04
+6021,septembre 2024,152515130,Bendraou Abderrahmane,26,3755.89
+6021,octobre 2024,152515130,Bendraou Abderrahmane,26,3715.36
+6021,novembre 2024,152515130,Bendraou Abderrahmane,26,3679.02
+6021,décembre 2024,152515130,Bendraou Abderrahmane,26,3618.89
+6021,décembre 2023,155084687,Chadid Mohamed,26,3270.43
+6021,janvier 2024,155084687,Chadid Mohamed,26,3302.63
+6021,février 2024,155084687,Chadid Mohamed,26,3260.7
+6021,mars 2024,155084687,Chadid Mohamed,26,3222.06
+6021,avril 2024,155084687,Chadid Mohamed,26,3200.46
+6021,mai 2024,155084687,Chadid Mohamed,26,3257.8
+6021,juin 2024,155084687,Chadid Mohamed,26,3259.82
+6021,juillet 2024,155084687,Chadid Mohamed,26,3243.82
+6021,août 2024,155084687,Chadid Mohamed,26,3399.76
+6021,septembre 2024,155084687,Chadid Mohamed,26,3551.71
+6021,octobre 2024,155084687,Chadid Mohamed,26,3607.56
+6021,novembre 2024,155084687,Chadid Mohamed,26,3669.53
+6021,décembre 2024,155084687,Chadid Mohamed,26,3674.21
+6021,décembre 2023,157698684,Ramos Daen Rutchell,26,6051.73
+6021,janvier 2024,157698684,Ramos Daen Rutchell,26,6277.57
+6021,février 2024,157698684,Ramos Daen Rutchell,26,6214.62
+6021,mars 2024,157698684,Ramos Daen Rutchell,26,6329.41
+6021,avril 2024,157698684,Ramos Daen Rutchell,26,6335.45
+6021,mai 2024,157698684,Ramos Daen Rutchell,26,6327.78
+6021,juin 2024,157698684,Ramos Daen Rutchell,26,6348.06
+6021,juillet 2024,157698684,Ramos Daen Rutchell,26,6639.51
+6021,août 2024,157698684,Ramos Daen Rutchell,26,6459.47
+6021,septembre 2024,157698684,Ramos Daen Rutchell,26,6653.48
+6021,octobre 2024,157698684,Ramos Daen Rutchell,26,6763.45
+6021,novembre 2024,157698684,Ramos Daen Rutchell,26,6932.79
+6021,décembre 2024,157698684,Ramos Daen Rutchell,26,7115.06
+6021,décembre 2023,157939219,El Kouri Elhoussaine,26,3432.86
+6021,janvier 2024,157939219,El Kouri Elhoussaine,26,3552.9
+6021,février 2024,157939219,El Kouri Elhoussaine,26,3509.97
+6021,mars 2024,157939219,El Kouri Elhoussaine,26,3603.35
+6021,avril 2024,157939219,El Kouri Elhoussaine,26,3779.65
+6021,mai 2024,157939219,El Kouri Elhoussaine,26,3728.12
+6021,juin 2024,157939219,El Kouri Elhoussaine,26,3892.86
+6021,juillet 2024,157939219,El Kouri Elhoussaine,26,3823.3
+6021,août 2024,157939219,El Kouri Elhoussaine,26,3786.12
+6021,septembre 2024,157939219,El Kouri Elhoussaine,26,3973.41
+6021,octobre 2024,157939219,El Kouri Elhoussaine,26,4103.98
+6021,novembre 2024,157939219,El Kouri Elhoussaine,26,4219.45
+6021,décembre 2024,157939219,El Kouri Elhoussaine,26,4187.89
+6021,décembre 2023,159403859,Boukenbouche Taoufik,26,7351.74
+6021,janvier 2024,159403859,Boukenbouche Taoufik,26,7595.59
+6021,février 2024,159403859,Boukenbouche Taoufik,26,7766.8
+6021,mars 2024,159403859,Boukenbouche Taoufik,26,8074.76
+6021,avril 2024,159403859,Boukenbouche Taoufik,26,8233.78
+6021,mai 2024,159403859,Boukenbouche Taoufik,26,8233.98
+6021,juin 2024,159403859,Boukenbouche Taoufik,26,8362.86
+6021,juillet 2024,159403859,Boukenbouche Taoufik,26,8693.84
+6021,août 2024,159403859,Boukenbouche Taoufik,26,8483.94
+6021,septembre 2024,159403859,Boukenbouche Taoufik,26,8321.71
+6021,octobre 2024,159403859,Boukenbouche Taoufik,26,8268.65
+6021,novembre 2024,159403859,Boukenbouche Taoufik,26,8354.56
+6021,décembre 2024,159403859,Boukenbouche Taoufik,26,8693.38
+6021,décembre 2023,159911908,El Garh Said,26,3267.16
+6021,janvier 2024,159911908,El Garh Said,26,3204.49
+6021,février 2024,159911908,El Garh Said,26,3193.41
+6021,mars 2024,159911908,El Garh Said,26,3117.11
+6021,avril 2024,159911908,El Garh Said,26,3272.59
+6021,mai 2024,159911908,El Garh Said,26,3294.37
+6021,juin 2024,159911908,El Garh Said,26,3440.83
+6021,juillet 2024,159911908,El Garh Said,26,3510.04
+6021,août 2024,159911908,El Garh Said,26,3624.05
+6021,septembre 2024,159911908,El Garh Said,26,3660.89
+6021,octobre 2024,159911908,El Garh Said,26,3784.59
+6021,novembre 2024,159911908,El Garh Said,26,3730.82
+6021,décembre 2024,159911908,El Garh Said,26,3908.99
+6021,décembre 2023,164125977,Lachhal Abdeljabbar,26,3434.53
+6021,janvier 2024,164125977,Lachhal Abdeljabbar,26,3579.22
+6021,février 2024,164125977,Lachhal Abdeljabbar,26,3519.84
+6021,mars 2024,164125977,Lachhal Abdeljabbar,26,3615.33
+6021,avril 2024,164125977,Lachhal Abdeljabbar,26,3763.41
+6021,mai 2024,164125977,Lachhal Abdeljabbar,26,3847.39
+6021,juin 2024,164125977,Lachhal Abdeljabbar,26,3858.75
+6021,juillet 2024,164125977,Lachhal Abdeljabbar,26,3949.43
+6021,août 2024,164125977,Lachhal Abdeljabbar,26,4103.11
+6021,septembre 2024,164125977,Lachhal Abdeljabbar,26,4067.2
+6021,octobre 2024,164125977,Lachhal Abdeljabbar,26,4209.99
+6021,novembre 2024,164125977,Lachhal Abdeljabbar,26,4093.47
+6021,décembre 2024,164125977,Lachhal Abdeljabbar,26,4214.17
+6021,décembre 2023,164407763,El Haloui Abderrazak,26,3267.16
+6021,janvier 2024,164407763,El Haloui Abderrazak,26,3286.29
+6021,février 2024,164407763,El Haloui Abderrazak,26,3213.18
+6021,mars 2024,164407763,El Haloui Abderrazak,26,3344.33
+6021,avril 2024,164407763,El Haloui Abderrazak,26,3276.63
+6021,mai 2024,164407763,El Haloui Abderrazak,26,3390.93
+6021,juin 2024,164407763,El Haloui Abderrazak,26,3456.89
+6021,juillet 2024,164407763,El Haloui Abderrazak,26,3395.24
+6021,août 2024,164407763,El Haloui Abderrazak,26,3368.51
+6021,septembre 2024,164407763,El Haloui Abderrazak,26,3438.72
+6021,octobre 2024,164407763,El Haloui Abderrazak,26,3411.27
+6021,novembre 2024,164407763,El Haloui Abderrazak,26,3448.42
+6021,décembre 2024,164407763,El Haloui Abderrazak,26,3544.35
+6021,décembre 2023,165009576,Amadid Hayat,26,3434.53
+6021,janvier 2024,165009576,Amadid Hayat,26,3490.95
+6021,février 2024,165009576,Amadid Hayat,26,3411.23
+6021,mars 2024,165009576,Amadid Hayat,26,3510.61
+6021,avril 2024,165009576,Amadid Hayat,26,3425.91
+6021,mai 2024,165009576,Amadid Hayat,26,3434.3
+6021,juin 2024,165009576,Amadid Hayat,26,3539.23
+6021,juillet 2024,165009576,Amadid Hayat,26,3684.68
+6021,août 2024,165009576,Amadid Hayat,26,3627.5
+6021,septembre 2024,165009576,Amadid Hayat,26,3595.36
+6021,octobre 2024,165009576,Amadid Hayat,26,3548.05
+6021,novembre 2024,165009576,Amadid Hayat,26,3446.81
+6021,décembre 2024,165009576,Amadid Hayat,26,3371.97
+6021,décembre 2023,170508159,Ait Yassine Mohamed,26,3434.53
+6021,janvier 2024,170508159,Ait Yassine Mohamed,26,3376.29
+6021,février 2024,170508159,Ait Yassine Mohamed,26,3496.94
+6021,mars 2024,170508159,Ait Yassine Mohamed,26,3651.17
+6021,avril 2024,170508159,Ait Yassine Mohamed,26,3804.27
+6021,mai 2024,170508159,Ait Yassine Mohamed,26,3936.63
+6021,juin 2024,170508159,Ait Yassine Mohamed,26,3841.79
+6021,juillet 2024,170508159,Ait Yassine Mohamed,26,4014.84
+6021,août 2024,170508159,Ait Yassine Mohamed,26,4103.12
+6021,septembre 2024,170508159,Ait Yassine Mohamed,26,4133.01
+6021,octobre 2024,170508159,Ait Yassine Mohamed,26,4310.64
+6021,novembre 2024,170508159,Ait Yassine Mohamed,26,4378.75
+6021,décembre 2024,170508159,Ait Yassine Mohamed,26,4560.4
+6021,décembre 2023,173329216,Mountassir Said,26,2976.75
+6021,janvier 2024,173329216,Mountassir Said,26,2896.15
+6021,février 2024,173329216,Mountassir Said,26,3004.78
+6021,mars 2024,173329216,Mountassir Said,26,3035.72
+6021,avril 2024,173329216,Mountassir Said,26,3013.05
+6021,mai 2024,173329216,Mountassir Said,26,3052.31
+6021,juin 2024,173329216,Mountassir Said,26,3138.06
+6021,juillet 2024,173329216,Mountassir Said,26,3227.77
+6021,août 2024,173329216,Mountassir Said,26,3148.71
+6021,septembre 2024,173329216,Mountassir Said,26,3070.72
+6021,octobre 2024,173329216,Mountassir Said,26,3109.09
+6021,novembre 2024,173329216,Mountassir Said,26,3083.61
+6021,décembre 2024,173329216,Mountassir Said,26,3135.4
+6021,décembre 2023,175090817,Atyaout Nouhaila,26,3002.36
+6021,janvier 2024,175090817,Atyaout Nouhaila,26,3133.14
+6021,février 2024,175090817,Atyaout Nouhaila,26,3263.91
+6021,mars 2024,175090817,Atyaout Nouhaila,26,3382.99
+6021,avril 2024,175090817,Atyaout Nouhaila,26,3334.02
+6021,mai 2024,175090817,Atyaout Nouhaila,26,3388.35
+6021,juin 2024,175090817,Atyaout Nouhaila,26,3345.8
+6021,juillet 2024,175090817,Atyaout Nouhaila,26,3475.3
+6021,août 2024,175090817,Atyaout Nouhaila,26,3583.51
+6021,septembre 2024,175090817,Atyaout Nouhaila,26,3502.4
+6021,octobre 2024,175090817,Atyaout Nouhaila,26,3619.74
+6021,novembre 2024,175090817,Atyaout Nouhaila,26,3699.93
+6021,décembre 2024,175090817,Atyaout Nouhaila,26,3728.64
+6021,décembre 2023,178419818,Kayat Bouchra,26,3377.65
+6021,janvier 2024,178419818,Kayat Bouchra,26,3443.41
+6021,février 2024,178419818,Kayat Bouchra,26,3459.87
+6021,mars 2024,178419818,Kayat Bouchra,26,3565.44
+6021,avril 2024,178419818,Kayat Bouchra,26,3703.81
+6021,mai 2024,178419818,Kayat Bouchra,26,3825.46
+6021,juin 2024,178419818,Kayat Bouchra,26,3986.03
+6021,juillet 2024,178419818,Kayat Bouchra,26,4057.06
+6021,août 2024,178419818,Kayat Bouchra,26,4187.68
+6021,septembre 2024,178419818,Kayat Bouchra,26,4149.5
+6021,octobre 2024,178419818,Kayat Bouchra,26,4126.48
+6021,novembre 2024,178419818,Kayat Bouchra,26,4040.35
+6021,décembre 2024,178419818,Kayat Bouchra,26,4186.05
+6021,décembre 2023,178645627,Moustaghni Sanaa,26,2976.75
+6021,janvier 2024,178645627,Moustaghni Sanaa,26,3017.49
+6021,février 2024,178645627,Moustaghni Sanaa,26,3147.2
+6021,mars 2024,178645627,Moustaghni Sanaa,26,3192.01
+6021,avril 2024,178645627,Moustaghni Sanaa,26,3319.55
+6021,mai 2024,178645627,Moustaghni Sanaa,26,3419.51
+6021,juin 2024,178645627,Moustaghni Sanaa,26,3443.6
+6021,juillet 2024,178645627,Moustaghni Sanaa,26,3596.17
+6021,août 2024,178645627,Moustaghni Sanaa,26,3725.85
+6021,septembre 2024,178645627,Moustaghni Sanaa,26,3659.05
+6021,octobre 2024,178645627,Moustaghni Sanaa,26,3704.77
+6021,novembre 2024,178645627,Moustaghni Sanaa,26,3719.12
+6021,décembre 2024,178645627,Moustaghni Sanaa,26,3639.18
+6021,décembre 2023,179184885,El Mahfoudy Hanane,26,3489.92
+6021,janvier 2024,179184885,El Mahfoudy Hanane,26,3415.45
+6021,février 2024,179184885,El Mahfoudy Hanane,26,3567.22
+6021,mars 2024,179184885,El Mahfoudy Hanane,26,3493.42
+6021,avril 2024,179184885,El Mahfoudy Hanane,26,3586.91
+6021,mai 2024,179184885,El Mahfoudy Hanane,26,3595.26
+6021,juin 2024,179184885,El Mahfoudy Hanane,26,3574.58
+6021,juillet 2024,179184885,El Mahfoudy Hanane,26,3583.58
+6021,août 2024,179184885,El Mahfoudy Hanane,26,3546.65
+6021,septembre 2024,179184885,El Mahfoudy Hanane,26,3464.83
+6021,octobre 2024,179184885,El Mahfoudy Hanane,26,3425.9
+6021,novembre 2024,179184885,El Mahfoudy Hanane,26,3535.75
+6021,décembre 2024,179184885,El Mahfoudy Hanane,26,3686.3
+6021,décembre 2023,179230167,Abdelhay Abdelkerim,26,8851.87
+6021,janvier 2024,179230167,Abdelhay Abdelkerim,26,9117.54
+6021,février 2024,179230167,Abdelhay Abdelkerim,26,9455.35
+6021,mars 2024,179230167,Abdelhay Abdelkerim,26,9893.6
+6021,avril 2024,179230167,Abdelhay Abdelkerim,26,9816.36
+6021,mai 2024,179230167,Abdelhay Abdelkerim,26,9745.27
+6021,juin 2024,179230167,Abdelhay Abdelkerim,26,9804.96
+6021,juillet 2024,179230167,Abdelhay Abdelkerim,26,9947.52
+6021,août 2024,179230167,Abdelhay Abdelkerim,26,10264.93
+6021,septembre 2024,179230167,Abdelhay Abdelkerim,26,10545.78
+6021,octobre 2024,179230167,Abdelhay Abdelkerim,26,10943.25
+6021,novembre 2024,179230167,Abdelhay Abdelkerim,26,10731.52
+6021,décembre 2024,179230167,Abdelhay Abdelkerim,26,10794.94
+6021,décembre 2023,179230266,Laalahmi Abdelaziz,26,3656.1
+6021,janvier 2024,179230266,Laalahmi Abdelaziz,26,3618.1
+6021,février 2024,179230266,Laalahmi Abdelaziz,26,3540.65
+6021,mars 2024,179230266,Laalahmi Abdelaziz,26,3471.75
+6021,avril 2024,179230266,Laalahmi Abdelaziz,26,3395.0
+6021,mai 2024,179230266,Laalahmi Abdelaziz,26,3340.64
+6021,juin 2024,179230266,Laalahmi Abdelaziz,26,3320.25
+6021,juillet 2024,179230266,Laalahmi Abdelaziz,26,3460.56
+6021,août 2024,179230266,Laalahmi Abdelaziz,26,3379.88
+6021,septembre 2024,179230266,Laalahmi Abdelaziz,26,3330.72
+6021,octobre 2024,179230266,Laalahmi Abdelaziz,26,3249.95
+6021,novembre 2024,179230266,Laalahmi Abdelaziz,26,3307.23
+6021,décembre 2024,179230266,Laalahmi Abdelaziz,26,3366.85
+6021,décembre 2023,179626952,Majid Mohamed,26,3656.1
+6021,janvier 2024,179626952,Majid Mohamed,26,3551.38
+6021,février 2024,179626952,Majid Mohamed,26,3686.81
+6021,mars 2024,179626952,Majid Mohamed,26,3820.1
+6021,avril 2024,179626952,Majid Mohamed,26,3968.12
+6021,mai 2024,179626952,Majid Mohamed,26,4073.16
+6021,juin 2024,179626952,Majid Mohamed,26,3972.0
+6021,juillet 2024,179626952,Majid Mohamed,26,3873.44
+6021,août 2024,179626952,Majid Mohamed,26,4031.75
+6021,septembre 2024,179626952,Majid Mohamed,26,3987.46
+6021,octobre 2024,179626952,Majid Mohamed,26,4141.9
+6021,novembre 2024,179626952,Majid Mohamed,26,4150.34
+6021,décembre 2024,179626952,Majid Mohamed,26,4037.35
+6021,décembre 2023,184750192,Ezzidaoui Khalid,26,3216.81
+6021,janvier 2024,184750192,Ezzidaoui Khalid,26,3280.07
+6021,février 2024,184750192,Ezzidaoui Khalid,26,3323.62
+6021,mars 2024,184750192,Ezzidaoui Khalid,26,3463.63
+6021,avril 2024,184750192,Ezzidaoui Khalid,26,3571.43
+6021,mai 2024,184750192,Ezzidaoui Khalid,26,3745.04
+6021,juin 2024,184750192,Ezzidaoui Khalid,26,3861.75
+6021,juillet 2024,184750192,Ezzidaoui Khalid,26,3926.92
+6021,août 2024,184750192,Ezzidaoui Khalid,26,3888.8
+6021,septembre 2024,184750192,Ezzidaoui Khalid,26,3844.03
+6021,octobre 2024,184750192,Ezzidaoui Khalid,26,3906.22
+6021,novembre 2024,184750192,Ezzidaoui Khalid,26,4021.47
+6021,décembre 2024,184750192,Ezzidaoui Khalid,26,3994.65
+6021,décembre 2023,185633645,Bhita Mohamed,26,2970.15
+6021,janvier 2024,185633645,Bhita Mohamed,26,2975.14
+6021,février 2024,185633645,Bhita Mohamed,26,3060.86
+6021,mars 2024,185633645,Bhita Mohamed,26,3190.07
+6021,avril 2024,185633645,Bhita Mohamed,26,3254.14
+6021,mai 2024,185633645,Bhita Mohamed,26,3279.03
+6021,juin 2024,185633645,Bhita Mohamed,26,3250.22
+6021,juillet 2024,185633645,Bhita Mohamed,26,3187.39
+6021,août 2024,185633645,Bhita Mohamed,26,3213.35
+6021,septembre 2024,185633645,Bhita Mohamed,26,3305.66
+6021,octobre 2024,185633645,Bhita Mohamed,26,3434.58
+6021,novembre 2024,185633645,Bhita Mohamed,26,3442.16
+6021,décembre 2024,185633645,Bhita Mohamed,26,3507.56
+6021,décembre 2023,185634041,El Massaoudi Mohamed,26,2970.15
+6021,janvier 2024,185634041,El Massaoudi Mohamed,26,3011.43
+6021,février 2024,185634041,El Massaoudi Mohamed,26,2983.14
+6021,mars 2024,185634041,El Massaoudi Mohamed,26,3050.76
+6021,avril 2024,185634041,El Massaoudi Mohamed,26,3089.36
+6021,mai 2024,185634041,El Massaoudi Mohamed,26,3001.83
+6021,juin 2024,185634041,El Massaoudi Mohamed,26,3083.91
+6021,juillet 2024,185634041,El Massaoudi Mohamed,26,2995.89
+6021,août 2024,185634041,El Massaoudi Mohamed,26,3033.16
+6021,septembre 2024,185634041,El Massaoudi Mohamed,26,3144.21
+6021,octobre 2024,185634041,El Massaoudi Mohamed,26,3287.01
+6021,novembre 2024,185634041,El Massaoudi Mohamed,26,3366.13
+6021,décembre 2024,185634041,El Massaoudi Mohamed,26,3325.23
+6021,décembre 2023,186883769,Ben Moussi Abdelaziz,26,3324.04
+6021,janvier 2024,186883769,Ben Moussi Abdelaziz,26,3411.44
+6021,février 2024,186883769,Ben Moussi Abdelaziz,26,3368.29
+6021,mars 2024,186883769,Ben Moussi Abdelaziz,26,3526.13
+6021,avril 2024,186883769,Ben Moussi Abdelaziz,26,3673.41
+6021,mai 2024,186883769,Ben Moussi Abdelaziz,26,3823.42
+6021,juin 2024,186883769,Ben Moussi Abdelaziz,26,3872.76
+6021,juillet 2024,186883769,Ben Moussi Abdelaziz,26,3906.63
+6021,août 2024,186883769,Ben Moussi Abdelaziz,26,3914.89
+6021,septembre 2024,186883769,Ben Moussi Abdelaziz,26,3830.14
+6021,octobre 2024,186883769,Ben Moussi Abdelaziz,26,4010.57
+6021,novembre 2024,186883769,Ben Moussi Abdelaziz,26,3907.07
+6021,décembre 2024,186883769,Ben Moussi Abdelaziz,26,4092.36
+6021,décembre 2023,187014074,Zouil Abdeljalil,26,3118.66
+6021,janvier 2024,187014074,Zouil Abdeljalil,26,3154.96
+6021,février 2024,187014074,Zouil Abdeljalil,26,3130.51
+6021,mars 2024,187014074,Zouil Abdeljalil,26,3082.41
+6021,avril 2024,187014074,Zouil Abdeljalil,26,3055.62
+6021,mai 2024,187014074,Zouil Abdeljalil,26,3048.3
+6021,juin 2024,187014074,Zouil Abdeljalil,26,3091.41
+6021,juillet 2024,187014074,Zouil Abdeljalil,26,3118.92
+6021,août 2024,187014074,Zouil Abdeljalil,26,3158.41
+6021,septembre 2024,187014074,Zouil Abdeljalil,26,3064.96
+6021,octobre 2024,187014074,Zouil Abdeljalil,26,3061.07
+6021,novembre 2024,187014074,Zouil Abdeljalil,26,3002.44
+6021,décembre 2024,187014074,Zouil Abdeljalil,26,3146.17
+6021,décembre 2023,191667439,Baakrim Mohamed Abdelfetah,26,16059.56
+6021,janvier 2024,191667439,Baakrim Mohamed Abdelfetah,26,16540.69
+6021,février 2024,191667439,Baakrim Mohamed Abdelfetah,26,17183.12
+6021,mars 2024,191667439,Baakrim Mohamed Abdelfetah,26,17233.15
+6021,avril 2024,191667439,Baakrim Mohamed Abdelfetah,26,17153.6
+6021,mai 2024,191667439,Baakrim Mohamed Abdelfetah,26,17588.32
+6021,juin 2024,191667439,Baakrim Mohamed Abdelfetah,26,17748.12
+6021,juillet 2024,191667439,Baakrim Mohamed Abdelfetah,26,17642.97
+6021,août 2024,191667439,Baakrim Mohamed Abdelfetah,26,17445.55
+6021,septembre 2024,191667439,Baakrim Mohamed Abdelfetah,26,17566.36
+6021,octobre 2024,191667439,Baakrim Mohamed Abdelfetah,26,18091.55
+6021,novembre 2024,191667439,Baakrim Mohamed Abdelfetah,26,17677.77
+6021,décembre 2024,191667439,Baakrim Mohamed Abdelfetah,26,18126.64
+6021,décembre 2023,191899496,Benmoussi Redouane,26,3270.42
+6021,janvier 2024,191899496,Benmoussi Redouane,26,3384.31
+6021,février 2024,191899496,Benmoussi Redouane,26,3531.93
+6021,mars 2024,191899496,Benmoussi Redouane,26,3691.97
+6021,avril 2024,191899496,Benmoussi Redouane,26,3660.13
+6021,mai 2024,191899496,Benmoussi Redouane,26,3594.9
+6021,juin 2024,191899496,Benmoussi Redouane,26,3748.66
+6021,juillet 2024,191899496,Benmoussi Redouane,26,3845.39
+6021,août 2024,191899496,Benmoussi Redouane,26,3828.88
+6021,septembre 2024,191899496,Benmoussi Redouane,26,3875.19
+6021,octobre 2024,191899496,Benmoussi Redouane,26,3979.77
+6021,novembre 2024,191899496,Benmoussi Redouane,26,4144.69
+6021,décembre 2024,191899496,Benmoussi Redouane,26,4269.71
+6021,décembre 2023,191943491,Binmimoune Laila,26,3267.16
+6021,janvier 2024,191943491,Binmimoune Laila,26,3215.65
+6021,février 2024,191943491,Binmimoune Laila,26,3146.42
+6021,mars 2024,191943491,Binmimoune Laila,26,3076.59
+6021,avril 2024,191943491,Binmimoune Laila,26,3118.98
+6021,mai 2024,191943491,Binmimoune Laila,26,3167.17
+6021,juin 2024,191943491,Binmimoune Laila,26,3241.46
+6021,juillet 2024,191943491,Binmimoune Laila,26,3174.95
+6021,août 2024,191943491,Binmimoune Laila,26,3324.13
+6021,septembre 2024,191943491,Binmimoune Laila,26,3409.69
+6021,octobre 2024,191943491,Binmimoune Laila,26,3422.86
+6021,novembre 2024,191943491,Binmimoune Laila,26,3384.21
+6021,décembre 2024,191943491,Binmimoune Laila,26,3450.29
+6021,décembre 2023,193349008,Abounasr Zakariae,26,3118.66
+6021,janvier 2024,193349008,Abounasr Zakariae,26,3169.96
+6021,février 2024,193349008,Abounasr Zakariae,26,3105.27
+6021,mars 2024,193349008,Abounasr Zakariae,26,3204.54
+6021,avril 2024,193349008,Abounasr Zakariae,26,3284.77
+6021,mai 2024,193349008,Abounasr Zakariae,26,3322.96
+6021,juin 2024,193349008,Abounasr Zakariae,26,3387.7
+6021,juillet 2024,193349008,Abounasr Zakariae,26,3296.27
+6021,août 2024,193349008,Abounasr Zakariae,26,3262.56
+6021,septembre 2024,193349008,Abounasr Zakariae,26,3202.26
+6021,octobre 2024,193349008,Abounasr Zakariae,26,3142.05
+6021,novembre 2024,193349008,Abounasr Zakariae,26,3210.37
+6021,décembre 2024,193349008,Abounasr Zakariae,26,3319.81
+6021,décembre 2023,195000420,Moussafir Khalid,26,2970.15
+6021,janvier 2024,195000420,Moussafir Khalid,26,2893.66
+6021,février 2024,195000420,Moussafir Khalid,26,2892.08
+6021,mars 2024,195000420,Moussafir Khalid,26,2972.79
+6021,avril 2024,195000420,Moussafir Khalid,26,2934.65
+6021,mai 2024,195000420,Moussafir Khalid,26,2877.91
+6021,juin 2024,195000420,Moussafir Khalid,26,2873.69
+6021,juillet 2024,195000420,Moussafir Khalid,26,2907.14
+6021,août 2024,195000420,Moussafir Khalid,26,2924.23
+6021,septembre 2024,195000420,Moussafir Khalid,26,2933.06
+6021,octobre 2024,195000420,Moussafir Khalid,26,2884.52
+6021,novembre 2024,195000420,Moussafir Khalid,26,2983.55
+6021,décembre 2024,195000420,Moussafir Khalid,26,3126.79
+6021,décembre 2023,195117068,Aboutahir Ahmed,24,3152.93
+6021,janvier 2024,195117068,Aboutahir Ahmed,24,3293.17
+6021,février 2024,195117068,Aboutahir Ahmed,24,3446.93
+6021,mars 2024,195117068,Aboutahir Ahmed,24,3433.85
+6021,avril 2024,195117068,Aboutahir Ahmed,24,3478.64
+6021,mai 2024,195117068,Aboutahir Ahmed,24,3376.58
+6021,juin 2024,195117068,Aboutahir Ahmed,24,3284.64
+6021,juillet 2024,195117068,Aboutahir Ahmed,24,3342.09
+6021,août 2024,195117068,Aboutahir Ahmed,24,3476.58
+6021,septembre 2024,195117068,Aboutahir Ahmed,24,3605.7
+6021,octobre 2024,195117068,Aboutahir Ahmed,24,3596.35
+6021,novembre 2024,195117068,Aboutahir Ahmed,24,3690.79
+6021,décembre 2024,195117068,Aboutahir Ahmed,24,3842.93
+6021,décembre 2023,195904556,El Yacouti Hicham,26,3377.66
+6021,janvier 2024,195904556,El Yacouti Hicham,26,3423.0
+6021,février 2024,195904556,El Yacouti Hicham,26,3581.74
+6021,mars 2024,195904556,El Yacouti Hicham,26,3682.72
+6021,avril 2024,195904556,El Yacouti Hicham,26,3798.97
+6021,mai 2024,195904556,El Yacouti Hicham,26,3708.45
+6021,juin 2024,195904556,El Yacouti Hicham,26,3651.06
+6021,juillet 2024,195904556,El Yacouti Hicham,26,3659.61
+6021,août 2024,195904556,El Yacouti Hicham,26,3656.82
+6021,septembre 2024,195904556,El Yacouti Hicham,26,3699.13
+6021,octobre 2024,195904556,El Yacouti Hicham,26,3798.88
+6021,novembre 2024,195904556,El Yacouti Hicham,26,3837.26
+6021,décembre 2024,195904556,El Yacouti Hicham,26,3846.69
+6021,décembre 2023,197151849,El Mansouri Badr,26,2971.05
+6021,janvier 2024,197151849,El Mansouri Badr,26,3028.47
+6021,février 2024,197151849,El Mansouri Badr,26,3131.11
+6021,mars 2024,197151849,El Mansouri Badr,26,3199.56
+6021,avril 2024,197151849,El Mansouri Badr,26,3204.53
+6021,mai 2024,197151849,El Mansouri Badr,26,3120.77
+6021,juin 2024,197151849,El Mansouri Badr,26,3138.57
+6021,juillet 2024,197151849,El Mansouri Badr,26,3169.55
+6021,août 2024,197151849,El Mansouri Badr,26,3202.26
+6021,septembre 2024,197151849,El Mansouri Badr,26,3150.42
+6021,octobre 2024,197151849,El Mansouri Badr,26,3137.5
+6021,novembre 2024,197151849,El Mansouri Badr,26,3075.29
+6021,décembre 2024,197151849,El Mansouri Badr,26,3078.29
+6021,décembre 2023,198183462,Ardone Youssef,26,38924.57
+6021,janvier 2024,198183462,Ardone Youssef,26,40312.79
+6021,février 2024,198183462,Ardone Youssef,26,40502.85
+6021,mars 2024,198183462,Ardone Youssef,26,40160.34
+6021,avril 2024,198183462,Ardone Youssef,26,40591.52
+6021,mai 2024,198183462,Ardone Youssef,26,39664.92
+6021,juin 2024,198183462,Ardone Youssef,26,41620.48
+6021,juillet 2024,198183462,Ardone Youssef,26,42009.15
+6021,août 2024,198183462,Ardone Youssef,26,41873.46
+6021,septembre 2024,198183462,Ardone Youssef,26,42780.78
+6021,octobre 2024,198183462,Ardone Youssef,26,42960.35
+6021,novembre 2024,198183462,Ardone Youssef,26,43919.35
+6021,décembre 2024,198183462,Ardone Youssef,26,42617.63

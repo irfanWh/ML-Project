@@ -1,0 +1,677 @@
+ID_adherent,month,immatriculationNumber,full_name,nombre_jours,salaire
+3772,décembre 2023,100519275,Toug Abderrahim,26,4312.04
+3772,janvier 2024,100519275,Toug Abderrahim,26,4307.7
+3772,février 2024,100519275,Toug Abderrahim,26,4335.64
+3772,mars 2024,100519275,Toug Abderrahim,26,4430.59
+3772,avril 2024,100519275,Toug Abderrahim,26,4529.84
+3772,mai 2024,100519275,Toug Abderrahim,26,4601.3
+3772,juin 2024,100519275,Toug Abderrahim,26,4799.51
+3772,juillet 2024,100519275,Toug Abderrahim,26,4698.12
+3772,août 2024,100519275,Toug Abderrahim,26,4907.77
+3772,septembre 2024,100519275,Toug Abderrahim,26,5097.69
+3772,octobre 2024,100519275,Toug Abderrahim,26,5123.13
+3772,novembre 2024,100519275,Toug Abderrahim,26,5098.6
+3772,décembre 2024,100519275,Toug Abderrahim,26,5333.51
+3772,décembre 2023,109193062,Behri Abdelmounaim,26,3951.59
+3772,janvier 2024,109193062,Behri Abdelmounaim,26,4078.43
+3772,février 2024,109193062,Behri Abdelmounaim,26,4168.1
+3772,mars 2024,109193062,Behri Abdelmounaim,26,4159.98
+3772,avril 2024,109193062,Behri Abdelmounaim,26,4095.72
+3772,mai 2024,109193062,Behri Abdelmounaim,26,4105.33
+3772,juin 2024,109193062,Behri Abdelmounaim,26,4174.53
+3772,juillet 2024,109193062,Behri Abdelmounaim,26,4113.46
+3772,août 2024,109193062,Behri Abdelmounaim,26,4165.75
+3772,septembre 2024,109193062,Behri Abdelmounaim,26,4126.16
+3772,octobre 2024,109193062,Behri Abdelmounaim,26,4059.42
+3772,novembre 2024,109193062,Behri Abdelmounaim,26,4243.59
+3772,décembre 2024,109193062,Behri Abdelmounaim,26,4443.93
+3772,décembre 2023,111650852,Aounani Abderrazek,26,3897.67
+3772,janvier 2024,111650852,Aounani Abderrazek,26,3828.76
+3772,février 2024,111650852,Aounani Abderrazek,26,4018.42
+3772,mars 2024,111650852,Aounani Abderrazek,26,3949.28
+3772,avril 2024,111650852,Aounani Abderrazek,26,3938.15
+3772,mai 2024,111650852,Aounani Abderrazek,26,4133.06
+3772,juin 2024,111650852,Aounani Abderrazek,26,4057.81
+3772,juillet 2024,111650852,Aounani Abderrazek,26,4003.33
+3772,août 2024,111650852,Aounani Abderrazek,26,4140.52
+3772,septembre 2024,111650852,Aounani Abderrazek,26,4042.78
+3772,octobre 2024,111650852,Aounani Abderrazek,26,4126.76
+3772,novembre 2024,111650852,Aounani Abderrazek,26,4236.27
+3772,décembre 2024,111650852,Aounani Abderrazek,26,4236.11
+3772,décembre 2023,112602456,Mahouat Ayoub,0,0.0
+3772,janvier 2024,112602456,Mahouat Ayoub,0,0.0
+3772,février 2024,112602456,Mahouat Ayoub,0,0.0
+3772,mars 2024,112602456,Mahouat Ayoub,0,0.0
+3772,avril 2024,112602456,Mahouat Ayoub,0,0.0
+3772,mai 2024,112602456,Mahouat Ayoub,0,0.0
+3772,juin 2024,112602456,Mahouat Ayoub,0,0.0
+3772,juillet 2024,112602456,Mahouat Ayoub,0,0.0
+3772,août 2024,112602456,Mahouat Ayoub,0,0.0
+3772,septembre 2024,112602456,Mahouat Ayoub,0,0.0
+3772,octobre 2024,112602456,Mahouat Ayoub,0,0.0
+3772,novembre 2024,112602456,Mahouat Ayoub,0,0.0
+3772,décembre 2024,112602456,Mahouat Ayoub,0,0.0
+3772,décembre 2023,116652267,Haj Mahi Zahira,23,3447.94
+3772,janvier 2024,116652267,Haj Mahi Zahira,23,3505.66
+3772,février 2024,116652267,Haj Mahi Zahira,23,3439.5
+3772,mars 2024,116652267,Haj Mahi Zahira,23,3460.6
+3772,avril 2024,116652267,Haj Mahi Zahira,23,3547.08
+3772,mai 2024,116652267,Haj Mahi Zahira,23,3447.42
+3772,juin 2024,116652267,Haj Mahi Zahira,23,3594.89
+3772,juillet 2024,116652267,Haj Mahi Zahira,23,3650.05
+3772,août 2024,116652267,Haj Mahi Zahira,23,3721.17
+3772,septembre 2024,116652267,Haj Mahi Zahira,23,3843.34
+3772,octobre 2024,116652267,Haj Mahi Zahira,23,3841.03
+3772,novembre 2024,116652267,Haj Mahi Zahira,23,3785.82
+3772,décembre 2024,116652267,Haj Mahi Zahira,23,3968.95
+3772,décembre 2023,120802700,El Gholf El Mustapha,26,3805.52
+3772,janvier 2024,120802700,El Gholf El Mustapha,26,3723.19
+3772,février 2024,120802700,El Gholf El Mustapha,26,3870.63
+3772,mars 2024,120802700,El Gholf El Mustapha,26,3918.13
+3772,avril 2024,120802700,El Gholf El Mustapha,26,3956.61
+3772,mai 2024,120802700,El Gholf El Mustapha,26,4055.61
+3772,juin 2024,120802700,El Gholf El Mustapha,26,4097.67
+3772,juillet 2024,120802700,El Gholf El Mustapha,26,4253.85
+3772,août 2024,120802700,El Gholf El Mustapha,26,4159.98
+3772,septembre 2024,120802700,El Gholf El Mustapha,26,4053.11
+3772,octobre 2024,120802700,El Gholf El Mustapha,26,4152.27
+3772,novembre 2024,120802700,El Gholf El Mustapha,26,4104.81
+3772,décembre 2024,120802700,El Gholf El Mustapha,26,4202.08
+3772,décembre 2023,122667177,Abouali Abderrahim,26,3897.67
+3772,janvier 2024,122667177,Abouali Abderrahim,26,3869.77
+3772,février 2024,122667177,Abouali Abderrahim,26,4013.88
+3772,mars 2024,122667177,Abouali Abderrahim,26,4184.45
+3772,avril 2024,122667177,Abouali Abderrahim,26,4166.29
+3772,mai 2024,122667177,Abouali Abderrahim,26,4310.03
+3772,juin 2024,122667177,Abouali Abderrahim,26,4380.73
+3772,juillet 2024,122667177,Abouali Abderrahim,26,4313.83
+3772,août 2024,122667177,Abouali Abderrahim,26,4467.52
+3772,septembre 2024,122667177,Abouali Abderrahim,26,4449.42
+3772,octobre 2024,122667177,Abouali Abderrahim,26,4641.74
+3772,novembre 2024,122667177,Abouali Abderrahim,26,4585.6
+3772,décembre 2024,122667177,Abouali Abderrahim,26,4606.28
+3772,décembre 2023,123204176,El Jaouhary Latifa,26,3749.16
+3772,janvier 2024,123204176,El Jaouhary Latifa,26,3909.15
+3772,février 2024,123204176,El Jaouhary Latifa,26,3890.39
+3772,mars 2024,123204176,El Jaouhary Latifa,26,3905.74
+3772,avril 2024,123204176,El Jaouhary Latifa,26,3986.94
+3772,mai 2024,123204176,El Jaouhary Latifa,26,4037.73
+3772,juin 2024,123204176,El Jaouhary Latifa,26,3969.4
+3772,juillet 2024,123204176,El Jaouhary Latifa,26,3875.13
+3772,août 2024,123204176,El Jaouhary Latifa,26,4011.64
+3772,septembre 2024,123204176,El Jaouhary Latifa,26,4087.28
+3772,octobre 2024,123204176,El Jaouhary Latifa,26,3971.08
+3772,novembre 2024,123204176,El Jaouhary Latifa,26,3886.57
+3772,décembre 2024,123204176,El Jaouhary Latifa,26,3891.03
+3772,décembre 2023,130124531,Belghiti Mbarka,26,4097.67
+3772,janvier 2024,130124531,Belghiti Mbarka,26,4111.26
+3772,février 2024,130124531,Belghiti Mbarka,26,4211.53
+3772,mars 2024,130124531,Belghiti Mbarka,26,4336.09
+3772,avril 2024,130124531,Belghiti Mbarka,26,4449.27
+3772,mai 2024,130124531,Belghiti Mbarka,26,4469.63
+3772,juin 2024,130124531,Belghiti Mbarka,26,4494.5
+3772,juillet 2024,130124531,Belghiti Mbarka,26,4640.0
+3772,août 2024,130124531,Belghiti Mbarka,26,4729.71
+3772,septembre 2024,130124531,Belghiti Mbarka,26,4684.75
+3772,octobre 2024,130124531,Belghiti Mbarka,26,4777.25
+3772,novembre 2024,130124531,Belghiti Mbarka,26,4839.07
+3772,décembre 2024,130124531,Belghiti Mbarka,26,4964.69
+3772,décembre 2023,130190006,Kemkhou Ouafa,26,4642.72
+3772,janvier 2024,130190006,Kemkhou Ouafa,26,4596.15
+3772,février 2024,130190006,Kemkhou Ouafa,26,4592.74
+3772,mars 2024,130190006,Kemkhou Ouafa,26,4666.49
+3772,avril 2024,130190006,Kemkhou Ouafa,26,4643.47
+3772,mai 2024,130190006,Kemkhou Ouafa,26,4760.08
+3772,juin 2024,130190006,Kemkhou Ouafa,26,4957.72
+3772,juillet 2024,130190006,Kemkhou Ouafa,26,5032.68
+3772,août 2024,130190006,Kemkhou Ouafa,26,5091.89
+3772,septembre 2024,130190006,Kemkhou Ouafa,26,4987.08
+3772,octobre 2024,130190006,Kemkhou Ouafa,26,5090.84
+3772,novembre 2024,130190006,Kemkhou Ouafa,26,5302.0
+3772,décembre 2024,130190006,Kemkhou Ouafa,26,5415.9
+3772,décembre 2023,134199936,El Mansouri Mohamed,26,4162.04
+3772,janvier 2024,134199936,El Mansouri Mohamed,26,4200.35
+3772,février 2024,134199936,El Mansouri Mohamed,26,4389.9
+3772,mars 2024,134199936,El Mansouri Mohamed,26,4422.95
+3772,avril 2024,134199936,El Mansouri Mohamed,26,4502.57
+3772,mai 2024,134199936,El Mansouri Mohamed,26,4449.68
+3772,juin 2024,134199936,El Mansouri Mohamed,26,4580.79
+3772,juillet 2024,134199936,El Mansouri Mohamed,26,4474.42
+3772,août 2024,134199936,El Mansouri Mohamed,26,4395.97
+3772,septembre 2024,134199936,El Mansouri Mohamed,26,4547.6
+3772,octobre 2024,134199936,El Mansouri Mohamed,26,4458.96
+3772,novembre 2024,134199936,El Mansouri Mohamed,26,4595.47
+3772,décembre 2024,134199936,El Mansouri Mohamed,26,4731.06
+3772,décembre 2023,134812364,El Ouadi Btissam,26,3749.16
+3772,janvier 2024,134812364,El Ouadi Btissam,26,3794.32
+3772,février 2024,134812364,El Ouadi Btissam,26,3943.83
+3772,mars 2024,134812364,El Ouadi Btissam,26,3983.44
+3772,avril 2024,134812364,El Ouadi Btissam,26,3988.75
+3772,mai 2024,134812364,El Ouadi Btissam,26,4148.23
+3772,juin 2024,134812364,El Ouadi Btissam,26,4284.19
+3772,juillet 2024,134812364,El Ouadi Btissam,26,4482.19
+3772,août 2024,134812364,El Ouadi Btissam,26,4425.42
+3772,septembre 2024,134812364,El Ouadi Btissam,26,4442.26
+3772,octobre 2024,134812364,El Ouadi Btissam,26,4619.3
+3772,novembre 2024,134812364,El Ouadi Btissam,26,4829.3
+3772,décembre 2024,134812364,El Ouadi Btissam,26,4717.23
+3772,décembre 2023,140618970,Ouchene Badr,26,4059.2
+3772,janvier 2024,140618970,Ouchene Badr,26,3956.99
+3772,février 2024,140618970,Ouchene Badr,26,4137.8
+3772,mars 2024,140618970,Ouchene Badr,26,4110.86
+3772,avril 2024,140618970,Ouchene Badr,26,4188.05
+3772,mai 2024,140618970,Ouchene Badr,26,4257.27
+3772,juin 2024,140618970,Ouchene Badr,26,4274.03
+3772,juillet 2024,140618970,Ouchene Badr,26,4268.41
+3772,août 2024,140618970,Ouchene Badr,26,4186.9
+3772,septembre 2024,140618970,Ouchene Badr,26,4370.73
+3772,octobre 2024,140618970,Ouchene Badr,26,4380.81
+3772,novembre 2024,140618970,Ouchene Badr,26,4530.29
+3772,décembre 2024,140618970,Ouchene Badr,26,4554.36
+3772,décembre 2023,141237563,Toaia Rachida,26,4622.04
+3772,janvier 2024,141237563,Toaia Rachida,26,4500.48
+3772,février 2024,141237563,Toaia Rachida,26,4580.12
+3772,mars 2024,141237563,Toaia Rachida,26,4444.91
+3772,avril 2024,141237563,Toaia Rachida,26,4651.13
+3772,mai 2024,141237563,Toaia Rachida,26,4684.77
+3772,juin 2024,141237563,Toaia Rachida,26,4547.55
+3772,juillet 2024,141237563,Toaia Rachida,26,4473.82
+3772,août 2024,141237563,Toaia Rachida,26,4581.73
+3772,septembre 2024,141237563,Toaia Rachida,26,4738.6
+3772,octobre 2024,141237563,Toaia Rachida,26,4864.95
+3772,novembre 2024,141237563,Toaia Rachida,26,4981.34
+3772,décembre 2024,141237563,Toaia Rachida,26,5047.72
+3772,décembre 2023,141238264,El Idrissi Maghraoui Moulay Taieb,26,4820.6
+3772,janvier 2024,141238264,El Idrissi Maghraoui Moulay Taieb,26,5004.3
+3772,février 2024,141238264,El Idrissi Maghraoui Moulay Taieb,26,4859.14
+3772,mars 2024,141238264,El Idrissi Maghraoui Moulay Taieb,26,5013.41
+3772,avril 2024,141238264,El Idrissi Maghraoui Moulay Taieb,26,4879.89
+3772,mai 2024,141238264,El Idrissi Maghraoui Moulay Taieb,26,4897.91
+3772,juin 2024,141238264,El Idrissi Maghraoui Moulay Taieb,26,5083.65
+3772,juillet 2024,141238264,El Idrissi Maghraoui Moulay Taieb,26,4975.06
+3772,août 2024,141238264,El Idrissi Maghraoui Moulay Taieb,26,5101.77
+3772,septembre 2024,141238264,El Idrissi Maghraoui Moulay Taieb,26,5063.1
+3772,octobre 2024,141238264,El Idrissi Maghraoui Moulay Taieb,26,5188.46
+3772,novembre 2024,141238264,El Idrissi Maghraoui Moulay Taieb,26,5063.07
+3772,décembre 2024,141238264,El Idrissi Maghraoui Moulay Taieb,26,5121.43
+3772,décembre 2023,141239064,El Mesmoudi My Rachid,26,7867.29
+3772,janvier 2024,141239064,El Mesmoudi My Rachid,26,7758.7
+3772,février 2024,141239064,El Mesmoudi My Rachid,26,7554.22
+3772,mars 2024,141239064,El Mesmoudi My Rachid,26,7329.82
+3772,avril 2024,141239064,El Mesmoudi My Rachid,26,7373.12
+3772,mai 2024,141239064,El Mesmoudi My Rachid,26,7196.0
+3772,juin 2024,141239064,El Mesmoudi My Rachid,26,7397.51
+3772,juillet 2024,141239064,El Mesmoudi My Rachid,26,7454.04
+3772,août 2024,141239064,El Mesmoudi My Rachid,26,7814.21
+3772,septembre 2024,141239064,El Mesmoudi My Rachid,26,7888.32
+3772,octobre 2024,141239064,El Mesmoudi My Rachid,26,7939.44
+3772,novembre 2024,141239064,El Mesmoudi My Rachid,26,7777.25
+3772,décembre 2024,141239064,El Mesmoudi My Rachid,26,7773.38
+3772,décembre 2023,147304762,Manhar My Ahmed,26,3495.97
+3772,janvier 2024,147304762,Manhar My Ahmed,26,3543.62
+3772,février 2024,147304762,Manhar My Ahmed,26,3449.16
+3772,mars 2024,147304762,Manhar My Ahmed,26,3488.04
+3772,avril 2024,147304762,Manhar My Ahmed,26,3534.14
+3772,mai 2024,147304762,Manhar My Ahmed,26,3623.37
+3772,juin 2024,147304762,Manhar My Ahmed,26,3546.84
+3772,juillet 2024,147304762,Manhar My Ahmed,26,3678.48
+3772,août 2024,147304762,Manhar My Ahmed,26,3688.31
+3772,septembre 2024,147304762,Manhar My Ahmed,26,3720.02
+3772,octobre 2024,147304762,Manhar My Ahmed,26,3823.8
+3772,novembre 2024,147304762,Manhar My Ahmed,26,3775.28
+3772,décembre 2024,147304762,Manhar My Ahmed,26,3671.44
+3772,décembre 2023,150995938,Lakhouadra Abderrahim,26,3897.67
+3772,janvier 2024,150995938,Lakhouadra Abderrahim,26,4059.3
+3772,février 2024,150995938,Lakhouadra Abderrahim,26,4014.99
+3772,mars 2024,150995938,Lakhouadra Abderrahim,26,4020.53
+3772,avril 2024,150995938,Lakhouadra Abderrahim,26,4174.28
+3772,mai 2024,150995938,Lakhouadra Abderrahim,26,4335.86
+3772,juin 2024,150995938,Lakhouadra Abderrahim,26,4333.56
+3772,juillet 2024,150995938,Lakhouadra Abderrahim,26,4487.71
+3772,août 2024,150995938,Lakhouadra Abderrahim,26,4704.13
+3772,septembre 2024,150995938,Lakhouadra Abderrahim,26,4579.33
+3772,octobre 2024,150995938,Lakhouadra Abderrahim,26,4726.95
+3772,novembre 2024,150995938,Lakhouadra Abderrahim,26,4862.89
+3772,décembre 2024,150995938,Lakhouadra Abderrahim,26,5037.94
+3772,décembre 2023,152621108,Madnaoui Loubna,26,4888.14
+3772,janvier 2024,152621108,Madnaoui Loubna,26,5024.68
+3772,février 2024,152621108,Madnaoui Loubna,26,4970.06
+3772,mars 2024,152621108,Madnaoui Loubna,26,5209.86
+3772,avril 2024,152621108,Madnaoui Loubna,26,5221.82
+3772,mai 2024,152621108,Madnaoui Loubna,26,5454.81
+3772,juin 2024,152621108,Madnaoui Loubna,26,5308.22
+3772,juillet 2024,152621108,Madnaoui Loubna,26,5513.44
+3772,août 2024,152621108,Madnaoui Loubna,26,5783.07
+3772,septembre 2024,152621108,Madnaoui Loubna,26,5860.03
+3772,octobre 2024,152621108,Madnaoui Loubna,26,5958.06
+3772,novembre 2024,152621108,Madnaoui Loubna,26,5876.8
+3772,décembre 2024,152621108,Madnaoui Loubna,26,6075.9
+3772,décembre 2023,155056553,Missa Mohamed Akram,26,3974.59
+3772,janvier 2024,155056553,Missa Mohamed Akram,26,3917.32
+3772,février 2024,155056553,Missa Mohamed Akram,26,3929.0
+3772,mars 2024,155056553,Missa Mohamed Akram,26,3977.35
+3772,avril 2024,155056553,Missa Mohamed Akram,26,3891.27
+3772,mai 2024,155056553,Missa Mohamed Akram,26,3809.88
+3772,juin 2024,155056553,Missa Mohamed Akram,26,3786.62
+3772,juillet 2024,155056553,Missa Mohamed Akram,26,3877.33
+3772,août 2024,155056553,Missa Mohamed Akram,26,3956.89
+3772,septembre 2024,155056553,Missa Mohamed Akram,26,4014.92
+3772,octobre 2024,155056553,Missa Mohamed Akram,26,4161.75
+3772,novembre 2024,155056553,Missa Mohamed Akram,26,4088.11
+3772,décembre 2024,155056553,Missa Mohamed Akram,26,4058.76
+3772,décembre 2023,155157179,Sabik Abdelouafi,26,3749.16
+3772,janvier 2024,155157179,Sabik Abdelouafi,26,3721.77
+3772,février 2024,155157179,Sabik Abdelouafi,26,3882.06
+3772,mars 2024,155157179,Sabik Abdelouafi,26,3976.69
+3772,avril 2024,155157179,Sabik Abdelouafi,26,4068.12
+3772,mai 2024,155157179,Sabik Abdelouafi,26,4073.8
+3772,juin 2024,155157179,Sabik Abdelouafi,26,4162.92
+3772,juillet 2024,155157179,Sabik Abdelouafi,26,4217.51
+3772,août 2024,155157179,Sabik Abdelouafi,26,4371.41
+3772,septembre 2024,155157179,Sabik Abdelouafi,26,4272.81
+3772,octobre 2024,155157179,Sabik Abdelouafi,26,4390.02
+3772,novembre 2024,155157179,Sabik Abdelouafi,26,4458.82
+3772,décembre 2024,155157179,Sabik Abdelouafi,26,4533.6
+3772,décembre 2023,157972567,Malhoune Moulay El Kebir,26,3897.67
+3772,janvier 2024,157972567,Malhoune Moulay El Kebir,26,3809.38
+3772,février 2024,157972567,Malhoune Moulay El Kebir,26,3968.62
+3772,mars 2024,157972567,Malhoune Moulay El Kebir,26,3956.06
+3772,avril 2024,157972567,Malhoune Moulay El Kebir,26,4115.57
+3772,mai 2024,157972567,Malhoune Moulay El Kebir,26,4104.1
+3772,juin 2024,157972567,Malhoune Moulay El Kebir,26,4109.11
+3772,juillet 2024,157972567,Malhoune Moulay El Kebir,26,4019.25
+3772,août 2024,157972567,Malhoune Moulay El Kebir,26,4097.54
+3772,septembre 2024,157972567,Malhoune Moulay El Kebir,26,4214.2
+3772,octobre 2024,157972567,Malhoune Moulay El Kebir,26,4395.06
+3772,novembre 2024,157972567,Malhoune Moulay El Kebir,26,4585.93
+3772,décembre 2024,157972567,Malhoune Moulay El Kebir,26,4775.54
+3772,décembre 2023,157973268,Latif Bahia,26,4047.04
+3772,janvier 2024,157973268,Latif Bahia,26,4051.1
+3772,février 2024,157973268,Latif Bahia,26,4065.9
+3772,mars 2024,157973268,Latif Bahia,26,4037.42
+3772,avril 2024,157973268,Latif Bahia,26,3922.99
+3772,mai 2024,157973268,Latif Bahia,26,3861.99
+3772,juin 2024,157973268,Latif Bahia,26,3917.47
+3772,juillet 2024,157973268,Latif Bahia,26,3963.4
+3772,août 2024,157973268,Latif Bahia,26,3983.38
+3772,septembre 2024,157973268,Latif Bahia,26,4070.15
+3772,octobre 2024,157973268,Latif Bahia,26,4046.56
+3772,novembre 2024,157973268,Latif Bahia,26,4151.44
+3772,décembre 2024,157973268,Latif Bahia,26,4099.35
+3772,décembre 2023,165123988,Zahim Hamid,26,3749.16
+3772,janvier 2024,165123988,Zahim Hamid,26,3743.56
+3772,février 2024,165123988,Zahim Hamid,26,3845.5
+3772,mars 2024,165123988,Zahim Hamid,26,3939.92
+3772,avril 2024,165123988,Zahim Hamid,26,3824.23
+3772,mai 2024,165123988,Zahim Hamid,26,3781.33
+3772,juin 2024,165123988,Zahim Hamid,26,3772.04
+3772,juillet 2024,165123988,Zahim Hamid,26,3935.65
+3772,août 2024,165123988,Zahim Hamid,26,3989.01
+3772,septembre 2024,165123988,Zahim Hamid,26,4099.25
+3772,octobre 2024,165123988,Zahim Hamid,26,4235.57
+3772,novembre 2024,165123988,Zahim Hamid,26,4340.24
+3772,décembre 2024,165123988,Zahim Hamid,26,4466.62
+3772,décembre 2023,166097869,Louzali Fatiha,26,3897.67
+3772,janvier 2024,166097869,Louzali Fatiha,26,3942.53
+3772,février 2024,166097869,Louzali Fatiha,26,3845.7
+3772,mars 2024,166097869,Louzali Fatiha,26,3854.77
+3772,avril 2024,166097869,Louzali Fatiha,26,3946.06
+3772,mai 2024,166097869,Louzali Fatiha,26,4001.79
+3772,juin 2024,166097869,Louzali Fatiha,26,3912.62
+3772,juillet 2024,166097869,Louzali Fatiha,26,3945.49
+3772,août 2024,166097869,Louzali Fatiha,26,3851.24
+3772,septembre 2024,166097869,Louzali Fatiha,26,3896.7
+3772,octobre 2024,166097869,Louzali Fatiha,26,3970.37
+3772,novembre 2024,166097869,Louzali Fatiha,26,3876.82
+3772,décembre 2024,166097869,Louzali Fatiha,26,3830.93
+3772,décembre 2023,166098164,Idrissi Moulay Youssef,26,3897.67
+3772,janvier 2024,166098164,Idrissi Moulay Youssef,26,3885.31
+3772,février 2024,166098164,Idrissi Moulay Youssef,26,3934.34
+3772,mars 2024,166098164,Idrissi Moulay Youssef,26,3820.86
+3772,avril 2024,166098164,Idrissi Moulay Youssef,26,3819.98
+3772,mai 2024,166098164,Idrissi Moulay Youssef,26,3771.27
+3772,juin 2024,166098164,Idrissi Moulay Youssef,26,3898.61
+3772,juillet 2024,166098164,Idrissi Moulay Youssef,26,3857.11
+3772,août 2024,166098164,Idrissi Moulay Youssef,26,3931.39
+3772,septembre 2024,166098164,Idrissi Moulay Youssef,26,4034.25
+3772,octobre 2024,166098164,Idrissi Moulay Youssef,26,4163.51
+3772,novembre 2024,166098164,Idrissi Moulay Youssef,26,4369.73
+3772,décembre 2024,166098164,Idrissi Moulay Youssef,26,4276.03
+3772,décembre 2023,166113160,Souaid Abdelmoula,26,3897.67
+3772,janvier 2024,166113160,Souaid Abdelmoula,26,3863.68
+3772,février 2024,166113160,Souaid Abdelmoula,26,3759.16
+3772,mars 2024,166113160,Souaid Abdelmoula,26,3830.89
+3772,avril 2024,166113160,Souaid Abdelmoula,26,3885.31
+3772,mai 2024,166113160,Souaid Abdelmoula,26,3857.52
+3772,juin 2024,166113160,Souaid Abdelmoula,26,4027.88
+3772,juillet 2024,166113160,Souaid Abdelmoula,26,4201.41
+3772,août 2024,166113160,Souaid Abdelmoula,26,4379.7
+3772,septembre 2024,166113160,Souaid Abdelmoula,26,4580.8
+3772,octobre 2024,166113160,Souaid Abdelmoula,26,4672.09
+3772,novembre 2024,166113160,Souaid Abdelmoula,26,4730.97
+3772,décembre 2024,166113160,Souaid Abdelmoula,26,4701.93
+3772,décembre 2023,166141161,Zitoune Mohamed,26,15125.5
+3772,janvier 2024,166141161,Zitoune Mohamed,26,15194.39
+3772,février 2024,166141161,Zitoune Mohamed,26,15529.9
+3772,mars 2024,166141161,Zitoune Mohamed,26,15320.78
+3772,avril 2024,166141161,Zitoune Mohamed,26,15133.35
+3772,mai 2024,166141161,Zitoune Mohamed,26,15726.41
+3772,juin 2024,166141161,Zitoune Mohamed,26,16188.16
+3772,juillet 2024,166141161,Zitoune Mohamed,26,16509.64
+3772,août 2024,166141161,Zitoune Mohamed,26,17012.42
+3772,septembre 2024,166141161,Zitoune Mohamed,26,17090.51
+3772,octobre 2024,166141161,Zitoune Mohamed,26,17050.23
+3772,novembre 2024,166141161,Zitoune Mohamed,26,17566.49
+3772,décembre 2024,166141161,Zitoune Mohamed,26,18051.04
+3772,décembre 2023,167458979,Biquich Fatiha,26,3749.16
+3772,janvier 2024,167458979,Biquich Fatiha,26,3780.34
+3772,février 2024,167458979,Biquich Fatiha,26,3691.76
+3772,mars 2024,167458979,Biquich Fatiha,26,3652.19
+3772,avril 2024,167458979,Biquich Fatiha,26,3827.38
+3772,mai 2024,167458979,Biquich Fatiha,26,3862.39
+3772,juin 2024,167458979,Biquich Fatiha,26,3930.15
+3772,juillet 2024,167458979,Biquich Fatiha,26,3877.96
+3772,août 2024,167458979,Biquich Fatiha,26,4004.06
+3772,septembre 2024,167458979,Biquich Fatiha,26,4123.59
+3772,octobre 2024,167458979,Biquich Fatiha,26,4091.72
+3772,novembre 2024,167458979,Biquich Fatiha,26,4204.43
+3772,décembre 2024,167458979,Biquich Fatiha,26,4355.79
+3772,décembre 2023,171213830,Benayad Radouane,26,3897.67
+3772,janvier 2024,171213830,Benayad Radouane,26,3967.12
+3772,février 2024,171213830,Benayad Radouane,26,4153.61
+3772,mars 2024,171213830,Benayad Radouane,26,4056.98
+3772,avril 2024,171213830,Benayad Radouane,26,4011.6
+3772,mai 2024,171213830,Benayad Radouane,26,4061.54
+3772,juin 2024,171213830,Benayad Radouane,26,4122.52
+3772,juillet 2024,171213830,Benayad Radouane,26,4230.81
+3772,août 2024,171213830,Benayad Radouane,26,4423.97
+3772,septembre 2024,171213830,Benayad Radouane,26,4302.57
+3772,octobre 2024,171213830,Benayad Radouane,26,4263.78
+3772,novembre 2024,171213830,Benayad Radouane,26,4475.03
+3772,décembre 2024,171213830,Benayad Radouane,26,4541.43
+3772,décembre 2023,171255139,Ouazzari Aziz,26,3897.67
+3772,janvier 2024,171255139,Ouazzari Aziz,26,3847.86
+3772,février 2024,171255139,Ouazzari Aziz,26,3811.14
+3772,mars 2024,171255139,Ouazzari Aziz,26,3744.29
+3772,avril 2024,171255139,Ouazzari Aziz,26,3826.73
+3772,mai 2024,171255139,Ouazzari Aziz,26,3714.21
+3772,juin 2024,171255139,Ouazzari Aziz,26,3772.16
+3772,juillet 2024,171255139,Ouazzari Aziz,26,3817.47
+3772,août 2024,171255139,Ouazzari Aziz,26,3887.06
+3772,septembre 2024,171255139,Ouazzari Aziz,26,3897.18
+3772,octobre 2024,171255139,Ouazzari Aziz,26,3915.04
+3772,novembre 2024,171255139,Ouazzari Aziz,26,4076.77
+3772,décembre 2024,171255139,Ouazzari Aziz,26,4150.6
+3772,décembre 2023,175072133,Raquid Mokhtar,26,3897.67
+3772,janvier 2024,175072133,Raquid Mokhtar,26,3924.35
+3772,février 2024,175072133,Raquid Mokhtar,26,3883.88
+3772,mars 2024,175072133,Raquid Mokhtar,26,3944.09
+3772,avril 2024,175072133,Raquid Mokhtar,26,3961.11
+3772,mai 2024,175072133,Raquid Mokhtar,26,3898.09
+3772,juin 2024,175072133,Raquid Mokhtar,26,4088.39
+3772,juillet 2024,175072133,Raquid Mokhtar,26,4011.85
+3772,août 2024,175072133,Raquid Mokhtar,26,4117.91
+3772,septembre 2024,175072133,Raquid Mokhtar,26,4001.61
+3772,octobre 2024,175072133,Raquid Mokhtar,26,4078.58
+3772,novembre 2024,175072133,Raquid Mokhtar,26,4008.35
+3772,décembre 2024,175072133,Raquid Mokhtar,26,4153.53
+3772,décembre 2023,175332272,Benour Ghizlane,26,9800.2
+3772,janvier 2024,175332272,Benour Ghizlane,26,9520.9
+3772,février 2024,175332272,Benour Ghizlane,26,9440.01
+3772,mars 2024,175332272,Benour Ghizlane,26,9724.84
+3772,avril 2024,175332272,Benour Ghizlane,26,9798.06
+3772,mai 2024,175332272,Benour Ghizlane,26,9972.7
+3772,juin 2024,175332272,Benour Ghizlane,26,10140.72
+3772,juillet 2024,175332272,Benour Ghizlane,26,10230.08
+3772,août 2024,175332272,Benour Ghizlane,26,10588.9
+3772,septembre 2024,175332272,Benour Ghizlane,26,11028.61
+3772,octobre 2024,175332272,Benour Ghizlane,26,11198.7
+3772,novembre 2024,175332272,Benour Ghizlane,26,10897.97
+3772,décembre 2024,175332272,Benour Ghizlane,26,11055.99
+3772,décembre 2023,175332579,Lyazil Fatima,26,3897.67
+3772,janvier 2024,175332579,Lyazil Fatima,26,3970.02
+3772,février 2024,175332579,Lyazil Fatima,26,3952.05
+3772,mars 2024,175332579,Lyazil Fatima,26,4118.0
+3772,avril 2024,175332579,Lyazil Fatima,26,4274.99
+3772,mai 2024,175332579,Lyazil Fatima,26,4431.25
+3772,juin 2024,175332579,Lyazil Fatima,26,4474.51
+3772,juillet 2024,175332579,Lyazil Fatima,26,4580.62
+3772,août 2024,175332579,Lyazil Fatima,26,4578.68
+3772,septembre 2024,175332579,Lyazil Fatima,26,4644.67
+3772,octobre 2024,175332579,Lyazil Fatima,26,4832.81
+3772,novembre 2024,175332579,Lyazil Fatima,26,5010.08
+3772,décembre 2024,175332579,Lyazil Fatima,26,5030.85
+3772,décembre 2023,183237643,Ouakimi Hamza,26,3482.04
+3772,janvier 2024,183237643,Ouakimi Hamza,26,3602.18
+3772,février 2024,183237643,Ouakimi Hamza,26,3577.46
+3772,mars 2024,183237643,Ouakimi Hamza,26,3612.95
+3772,avril 2024,183237643,Ouakimi Hamza,26,3572.47
+3772,mai 2024,183237643,Ouakimi Hamza,26,3557.76
+3772,juin 2024,183237643,Ouakimi Hamza,26,3681.98
+3772,juillet 2024,183237643,Ouakimi Hamza,26,3826.09
+3772,août 2024,183237643,Ouakimi Hamza,26,3791.07
+3772,septembre 2024,183237643,Ouakimi Hamza,26,3689.89
+3772,octobre 2024,183237643,Ouakimi Hamza,26,3580.37
+3772,novembre 2024,183237643,Ouakimi Hamza,26,3621.21
+3772,décembre 2024,183237643,Ouakimi Hamza,26,3558.38
+3772,décembre 2023,184015059,Rebib Saadia,26,3932.04
+3772,janvier 2024,184015059,Rebib Saadia,26,3983.58
+3772,février 2024,184015059,Rebib Saadia,26,4097.13
+3772,mars 2024,184015059,Rebib Saadia,26,4198.87
+3772,avril 2024,184015059,Rebib Saadia,26,4394.92
+3772,mai 2024,184015059,Rebib Saadia,26,4334.68
+3772,juin 2024,184015059,Rebib Saadia,26,4436.21
+3772,juillet 2024,184015059,Rebib Saadia,26,4361.68
+3772,août 2024,184015059,Rebib Saadia,26,4241.92
+3772,septembre 2024,184015059,Rebib Saadia,26,4251.58
+3772,octobre 2024,184015059,Rebib Saadia,26,4286.32
+3772,novembre 2024,184015059,Rebib Saadia,26,4320.4
+3772,décembre 2024,184015059,Rebib Saadia,26,4388.48
+3772,décembre 2023,184057663,Chtouk Amine,16,2490.48
+3772,janvier 2024,184057663,Chtouk Amine,16,2538.33
+3772,février 2024,184057663,Chtouk Amine,16,2618.76
+3772,mars 2024,184057663,Chtouk Amine,16,2741.39
+3772,avril 2024,184057663,Chtouk Amine,16,2745.58
+3772,mai 2024,184057663,Chtouk Amine,16,2784.64
+3772,juin 2024,184057663,Chtouk Amine,16,2793.99
+3772,juillet 2024,184057663,Chtouk Amine,16,2749.98
+3772,août 2024,184057663,Chtouk Amine,16,2805.57
+3772,septembre 2024,184057663,Chtouk Amine,16,2842.13
+3772,octobre 2024,184057663,Chtouk Amine,16,2924.17
+3772,novembre 2024,184057663,Chtouk Amine,16,3021.75
+3772,décembre 2024,184057663,Chtouk Amine,16,3128.84
+3772,décembre 2023,184103961,Amrou Ahmed,26,4507.42
+3772,janvier 2024,184103961,Amrou Ahmed,26,4426.59
+3772,février 2024,184103961,Amrou Ahmed,26,4487.04
+3772,mars 2024,184103961,Amrou Ahmed,26,4585.14
+3772,avril 2024,184103961,Amrou Ahmed,26,4726.77
+3772,mai 2024,184103961,Amrou Ahmed,26,4890.03
+3772,juin 2024,184103961,Amrou Ahmed,26,4920.84
+3772,juillet 2024,184103961,Amrou Ahmed,26,5111.97
+3772,août 2024,184103961,Amrou Ahmed,26,5299.63
+3772,septembre 2024,184103961,Amrou Ahmed,26,5348.97
+3772,octobre 2024,184103961,Amrou Ahmed,26,5555.03
+3772,novembre 2024,184103961,Amrou Ahmed,26,5625.83
+3772,décembre 2024,184103961,Amrou Ahmed,26,5657.56
+3772,décembre 2023,184634263,Benshab Abdelouafi,0,0.0
+3772,janvier 2024,184634263,Benshab Abdelouafi,0,0.0
+3772,février 2024,184634263,Benshab Abdelouafi,0,0.0
+3772,mars 2024,184634263,Benshab Abdelouafi,0,0.0
+3772,avril 2024,184634263,Benshab Abdelouafi,0,0.0
+3772,mai 2024,184634263,Benshab Abdelouafi,0,0.0
+3772,juin 2024,184634263,Benshab Abdelouafi,0,0.0
+3772,juillet 2024,184634263,Benshab Abdelouafi,0,0.0
+3772,août 2024,184634263,Benshab Abdelouafi,0,0.0
+3772,septembre 2024,184634263,Benshab Abdelouafi,0,0.0
+3772,octobre 2024,184634263,Benshab Abdelouafi,0,0.0
+3772,novembre 2024,184634263,Benshab Abdelouafi,0,0.0
+3772,décembre 2024,184634263,Benshab Abdelouafi,0,0.0
+3772,décembre 2023,187407667,Boulahyaoui Abdellah,26,3897.67
+3772,janvier 2024,187407667,Boulahyaoui Abdellah,26,3990.56
+3772,février 2024,187407667,Boulahyaoui Abdellah,26,3917.23
+3772,mars 2024,187407667,Boulahyaoui Abdellah,26,3877.81
+3772,avril 2024,187407667,Boulahyaoui Abdellah,26,3894.52
+3772,mai 2024,187407667,Boulahyaoui Abdellah,26,3915.05
+3772,juin 2024,187407667,Boulahyaoui Abdellah,26,3803.56
+3772,juillet 2024,187407667,Boulahyaoui Abdellah,26,3924.64
+3772,août 2024,187407667,Boulahyaoui Abdellah,26,3910.03
+3772,septembre 2024,187407667,Boulahyaoui Abdellah,26,3891.81
+3772,octobre 2024,187407667,Boulahyaoui Abdellah,26,3993.6
+3772,novembre 2024,187407667,Boulahyaoui Abdellah,26,4154.36
+3772,décembre 2024,187407667,Boulahyaoui Abdellah,26,4102.0
+3772,décembre 2023,190165963,Ajbali Jamal,26,5658.93
+3772,janvier 2024,190165963,Ajbali Jamal,26,5547.13
+3772,février 2024,190165963,Ajbali Jamal,26,5691.69
+3772,mars 2024,190165963,Ajbali Jamal,26,5543.14
+3772,avril 2024,190165963,Ajbali Jamal,26,5430.81
+3772,mai 2024,190165963,Ajbali Jamal,26,5627.33
+3772,juin 2024,190165963,Ajbali Jamal,26,5481.62
+3772,juillet 2024,190165963,Ajbali Jamal,26,5539.68
+3772,août 2024,190165963,Ajbali Jamal,26,5728.82
+3772,septembre 2024,190165963,Ajbali Jamal,26,5898.06
+3772,octobre 2024,190165963,Ajbali Jamal,26,5925.17
+3772,novembre 2024,190165963,Ajbali Jamal,26,6073.38
+3772,décembre 2024,190165963,Ajbali Jamal,26,6326.52
+3772,décembre 2023,192233065,Benchakri Yassine,26,31418.59
+3772,janvier 2024,192233065,Benchakri Yassine,26,32611.72
+3772,février 2024,192233065,Benchakri Yassine,26,33276.94
+3772,mars 2024,192233065,Benchakri Yassine,26,34079.25
+3772,avril 2024,192233065,Benchakri Yassine,26,33783.39
+3772,mai 2024,192233065,Benchakri Yassine,26,32983.19
+3772,juin 2024,192233065,Benchakri Yassine,26,32874.88
+3772,juillet 2024,192233065,Benchakri Yassine,26,33074.49
+3772,août 2024,192233065,Benchakri Yassine,26,33808.64
+3772,septembre 2024,192233065,Benchakri Yassine,26,33184.22
+3772,octobre 2024,192233065,Benchakri Yassine,26,33780.54
+3772,novembre 2024,192233065,Benchakri Yassine,26,33234.66
+3772,décembre 2024,192233065,Benchakri Yassine,26,33935.14
+3772,décembre 2023,192807860,Amezlane Salaheddine,26,5701.14
+3772,janvier 2024,192807860,Amezlane Salaheddine,26,5554.49
+3772,février 2024,192807860,Amezlane Salaheddine,26,5604.28
+3772,mars 2024,192807860,Amezlane Salaheddine,26,5441.62
+3772,avril 2024,192807860,Amezlane Salaheddine,26,5282.39
+3772,mai 2024,192807860,Amezlane Salaheddine,26,5379.13
+3772,juin 2024,192807860,Amezlane Salaheddine,26,5579.34
+3772,juillet 2024,192807860,Amezlane Salaheddine,26,5564.62
+3772,août 2024,192807860,Amezlane Salaheddine,26,5762.38
+3772,septembre 2024,192807860,Amezlane Salaheddine,26,5803.79
+3772,octobre 2024,192807860,Amezlane Salaheddine,26,5938.0
+3772,novembre 2024,192807860,Amezlane Salaheddine,26,5964.18
+3772,décembre 2024,192807860,Amezlane Salaheddine,26,6082.5
+3772,décembre 2023,192953853,Ennamra Mohamed,26,3941.47
+3772,janvier 2024,192953853,Ennamra Mohamed,26,3994.08
+3772,février 2024,192953853,Ennamra Mohamed,26,3908.15
+3772,mars 2024,192953853,Ennamra Mohamed,26,3841.17
+3772,avril 2024,192953853,Ennamra Mohamed,26,3793.84
+3772,mai 2024,192953853,Ennamra Mohamed,26,3911.38
+3772,juin 2024,192953853,Ennamra Mohamed,26,3840.6
+3772,juillet 2024,192953853,Ennamra Mohamed,26,3752.96
+3772,août 2024,192953853,Ennamra Mohamed,26,3731.5
+3772,septembre 2024,192953853,Ennamra Mohamed,26,3800.34
+3772,octobre 2024,192953853,Ennamra Mohamed,26,3725.11
+3772,novembre 2024,192953853,Ennamra Mohamed,26,3815.75
+3772,décembre 2024,192953853,Ennamra Mohamed,26,3830.66
+3772,décembre 2023,193204239,Chakrani Abdelaali,26,7576.48
+3772,janvier 2024,193204239,Chakrani Abdelaali,26,7490.15
+3772,février 2024,193204239,Chakrani Abdelaali,26,7317.99
+3772,mars 2024,193204239,Chakrani Abdelaali,26,7606.35
+3772,avril 2024,193204239,Chakrani Abdelaali,26,7388.68
+3772,mai 2024,193204239,Chakrani Abdelaali,26,7245.95
+3772,juin 2024,193204239,Chakrani Abdelaali,26,7368.67
+3772,juillet 2024,193204239,Chakrani Abdelaali,26,7369.78
+3772,août 2024,193204239,Chakrani Abdelaali,26,7579.55
+3772,septembre 2024,193204239,Chakrani Abdelaali,26,7719.72
+3772,octobre 2024,193204239,Chakrani Abdelaali,26,7665.69
+3772,novembre 2024,193204239,Chakrani Abdelaali,26,7617.55
+3772,décembre 2024,193204239,Chakrani Abdelaali,26,7909.88
+3772,décembre 2023,194084276,Darouich Hajiba,25,3615.01
+3772,janvier 2024,194084276,Darouich Hajiba,25,3673.73
+3772,février 2024,194084276,Darouich Hajiba,25,3751.86
+3772,mars 2024,194084276,Darouich Hajiba,25,3907.5
+3772,avril 2024,194084276,Darouich Hajiba,25,3829.89
+3772,mai 2024,194084276,Darouich Hajiba,25,3951.78
+3772,juin 2024,194084276,Darouich Hajiba,25,4072.79
+3772,juillet 2024,194084276,Darouich Hajiba,25,3984.01
+3772,août 2024,194084276,Darouich Hajiba,25,4068.05
+3772,septembre 2024,194084276,Darouich Hajiba,25,4103.68
+3772,octobre 2024,194084276,Darouich Hajiba,25,4197.4
+3772,novembre 2024,194084276,Darouich Hajiba,25,4071.75
+3772,décembre 2024,194084276,Darouich Hajiba,25,4032.52
+3772,décembre 2023,194084375,Hajji Lakhal Mustapha,26,3951.52
+3772,janvier 2024,194084375,Hajji Lakhal Mustapha,26,3885.13
+3772,février 2024,194084375,Hajji Lakhal Mustapha,26,3814.76
+3772,mars 2024,194084375,Hajji Lakhal Mustapha,26,3860.01
+3772,avril 2024,194084375,Hajji Lakhal Mustapha,26,3753.43
+3772,mai 2024,194084375,Hajji Lakhal Mustapha,26,3903.62
+3772,juin 2024,194084375,Hajji Lakhal Mustapha,26,4079.57
+3772,juillet 2024,194084375,Hajji Lakhal Mustapha,26,4240.79
+3772,août 2024,194084375,Hajji Lakhal Mustapha,26,4253.62
+3772,septembre 2024,194084375,Hajji Lakhal Mustapha,26,4436.17
+3772,octobre 2024,194084375,Hajji Lakhal Mustapha,26,4380.88
+3772,novembre 2024,194084375,Hajji Lakhal Mustapha,26,4304.16
+3772,décembre 2024,194084375,Hajji Lakhal Mustapha,26,4181.01
+3772,décembre 2023,194084672,Bamhaoudi Abdelhakim,26,3897.67
+3772,janvier 2024,194084672,Bamhaoudi Abdelhakim,26,3973.05
+3772,février 2024,194084672,Bamhaoudi Abdelhakim,26,4049.35
+3772,mars 2024,194084672,Bamhaoudi Abdelhakim,26,3929.4
+3772,avril 2024,194084672,Bamhaoudi Abdelhakim,26,4066.52
+3772,mai 2024,194084672,Bamhaoudi Abdelhakim,26,3971.8
+3772,juin 2024,194084672,Bamhaoudi Abdelhakim,26,4094.73
+3772,juillet 2024,194084672,Bamhaoudi Abdelhakim,26,4004.11
+3772,août 2024,194084672,Bamhaoudi Abdelhakim,26,4050.36
+3772,septembre 2024,194084672,Bamhaoudi Abdelhakim,26,4094.68
+3772,octobre 2024,194084672,Bamhaoudi Abdelhakim,26,4060.66
+3772,novembre 2024,194084672,Bamhaoudi Abdelhakim,26,4003.89
+3772,décembre 2024,194084672,Bamhaoudi Abdelhakim,26,4037.97
+3772,décembre 2023,195860055,El Mazouigh Brahim,26,5772.72
+3772,janvier 2024,195860055,El Mazouigh Brahim,26,5666.34
+3772,février 2024,195860055,El Mazouigh Brahim,26,5750.68
+3772,mars 2024,195860055,El Mazouigh Brahim,26,5620.38
+3772,avril 2024,195860055,El Mazouigh Brahim,26,5554.73
+3772,mai 2024,195860055,El Mazouigh Brahim,26,5817.42
+3772,juin 2024,195860055,El Mazouigh Brahim,26,6040.56
+3772,juillet 2024,195860055,El Mazouigh Brahim,26,5947.11
+3772,août 2024,195860055,El Mazouigh Brahim,26,6016.29
+3772,septembre 2024,195860055,El Mazouigh Brahim,26,6047.41
+3772,octobre 2024,195860055,El Mazouigh Brahim,26,6187.32
+3772,novembre 2024,195860055,El Mazouigh Brahim,26,6031.83
+3772,décembre 2024,195860055,El Mazouigh Brahim,26,6285.92
+3772,décembre 2023,195909572,Stioui Salim,26,3897.67
+3772,janvier 2024,195909572,Stioui Salim,26,4066.24
+3772,février 2024,195909572,Stioui Salim,26,4053.67
+3772,mars 2024,195909572,Stioui Salim,26,3972.64
+3772,avril 2024,195909572,Stioui Salim,26,4139.71
+3772,mai 2024,195909572,Stioui Salim,26,4287.02
+3772,juin 2024,195909572,Stioui Salim,26,4261.2
+3772,juillet 2024,195909572,Stioui Salim,26,4294.44
+3772,août 2024,195909572,Stioui Salim,26,4356.68
+3772,septembre 2024,195909572,Stioui Salim,26,4464.74
+3772,octobre 2024,195909572,Stioui Salim,26,4384.61
+3772,novembre 2024,195909572,Stioui Salim,26,4513.53
+3772,décembre 2024,195909572,Stioui Salim,26,4733.24
+3772,décembre 2023,197714432,Bibi Zahira,26,4097.67
+3772,janvier 2024,197714432,Bibi Zahira,26,4106.82
+3772,février 2024,197714432,Bibi Zahira,26,4129.91
+3772,mars 2024,197714432,Bibi Zahira,26,4163.79
+3772,avril 2024,197714432,Bibi Zahira,26,4266.19
+3772,mai 2024,197714432,Bibi Zahira,26,4402.75
+3772,juin 2024,197714432,Bibi Zahira,26,4298.77
+3772,juillet 2024,197714432,Bibi Zahira,26,4435.35
+3772,août 2024,197714432,Bibi Zahira,26,4609.32
+3772,septembre 2024,197714432,Bibi Zahira,26,4751.17
+3772,octobre 2024,197714432,Bibi Zahira,26,4727.62
+3772,novembre 2024,197714432,Bibi Zahira,26,4939.62
+3772,décembre 2024,197714432,Bibi Zahira,26,5144.12
+3772,décembre 2023,198918968,El Anaami Nadia,26,3749.16
+3772,janvier 2024,198918968,El Anaami Nadia,26,3659.42
+3772,février 2024,198918968,El Anaami Nadia,26,3619.91
+3772,mars 2024,198918968,El Anaami Nadia,26,3583.52
+3772,avril 2024,198918968,El Anaami Nadia,26,3547.45
+3772,mai 2024,198918968,El Anaami Nadia,26,3591.82
+3772,juin 2024,198918968,El Anaami Nadia,26,3679.74
+3772,juillet 2024,198918968,El Anaami Nadia,26,3633.94
+3772,août 2024,198918968,El Anaami Nadia,26,3631.48
+3772,septembre 2024,198918968,El Anaami Nadia,26,3658.91
+3772,octobre 2024,198918968,El Anaami Nadia,26,3635.97
+3772,novembre 2024,198918968,El Anaami Nadia,26,3757.47
+3772,décembre 2024,198918968,El Anaami Nadia,26,3770.43

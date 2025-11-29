@@ -1,0 +1,794 @@
+ID_adherent,month,immatriculationNumber,full_name,nombre_jours,salaire
+2204,décembre 2023,100459942,Amadi Ahmed,26,3861.24
+2204,janvier 2024,100459942,Amadi Ahmed,26,3970.24
+2204,février 2024,100459942,Amadi Ahmed,26,3856.64
+2204,mars 2024,100459942,Amadi Ahmed,26,3804.17
+2204,avril 2024,100459942,Amadi Ahmed,26,3977.39
+2204,mai 2024,100459942,Amadi Ahmed,26,4109.98
+2204,juin 2024,100459942,Amadi Ahmed,26,4021.29
+2204,juillet 2024,100459942,Amadi Ahmed,26,3999.41
+2204,août 2024,100459942,Amadi Ahmed,26,3928.09
+2204,septembre 2024,100459942,Amadi Ahmed,26,3963.14
+2204,octobre 2024,100459942,Amadi Ahmed,26,4104.16
+2204,novembre 2024,100459942,Amadi Ahmed,26,4308.94
+2204,décembre 2024,100459942,Amadi Ahmed,26,4351.36
+2204,décembre 2023,100507676,Saligane Amale,26,8153.93
+2204,janvier 2024,100507676,Saligane Amale,26,8005.48
+2204,février 2024,100507676,Saligane Amale,26,8003.45
+2204,mars 2024,100507676,Saligane Amale,26,7814.71
+2204,avril 2024,100507676,Saligane Amale,26,8126.51
+2204,mai 2024,100507676,Saligane Amale,26,8102.25
+2204,juin 2024,100507676,Saligane Amale,26,8423.97
+2204,juillet 2024,100507676,Saligane Amale,26,8441.5
+2204,août 2024,100507676,Saligane Amale,26,8352.19
+2204,septembre 2024,100507676,Saligane Amale,26,8528.61
+2204,octobre 2024,100507676,Saligane Amale,26,8286.32
+2204,novembre 2024,100507676,Saligane Amale,26,8529.85
+2204,décembre 2024,100507676,Saligane Amale,26,8575.62
+2204,décembre 2023,101674573,Belbied Abdellah,17,2233.25
+2204,janvier 2024,101674573,Belbied Abdellah,17,2216.46
+2204,février 2024,101674573,Belbied Abdellah,17,2311.9
+2204,mars 2024,101674573,Belbied Abdellah,17,2347.05
+2204,avril 2024,101674573,Belbied Abdellah,17,2397.08
+2204,mai 2024,101674573,Belbied Abdellah,17,2511.67
+2204,juin 2024,101674573,Belbied Abdellah,17,2452.15
+2204,juillet 2024,101674573,Belbied Abdellah,17,2407.44
+2204,août 2024,101674573,Belbied Abdellah,17,2450.64
+2204,septembre 2024,101674573,Belbied Abdellah,17,2495.91
+2204,octobre 2024,101674573,Belbied Abdellah,17,2577.05
+2204,novembre 2024,101674573,Belbied Abdellah,17,2689.48
+2204,décembre 2024,101674573,Belbied Abdellah,17,2680.28
+2204,décembre 2023,101674771,Benzdaoudaou Mustapha,14,1839.15
+2204,janvier 2024,101674771,Benzdaoudaou Mustapha,14,1813.04
+2204,février 2024,101674771,Benzdaoudaou Mustapha,14,1858.98
+2204,mars 2024,101674771,Benzdaoudaou Mustapha,14,1867.03
+2204,avril 2024,101674771,Benzdaoudaou Mustapha,14,1864.96
+2204,mai 2024,101674771,Benzdaoudaou Mustapha,14,1907.14
+2204,juin 2024,101674771,Benzdaoudaou Mustapha,14,1993.33
+2204,juillet 2024,101674771,Benzdaoudaou Mustapha,14,1978.46
+2204,août 2024,101674771,Benzdaoudaou Mustapha,14,2063.06
+2204,septembre 2024,101674771,Benzdaoudaou Mustapha,14,2039.87
+2204,octobre 2024,101674771,Benzdaoudaou Mustapha,14,2038.85
+2204,novembre 2024,101674771,Benzdaoudaou Mustapha,14,2122.56
+2204,décembre 2024,101674771,Benzdaoudaou Mustapha,14,2070.55
+2204,décembre 2023,102732669,Id Mansour Abdellah,26,2970.05
+2204,janvier 2024,102732669,Id Mansour Abdellah,26,3060.31
+2204,février 2024,102732669,Id Mansour Abdellah,26,3059.58
+2204,mars 2024,102732669,Id Mansour Abdellah,26,3101.21
+2204,avril 2024,102732669,Id Mansour Abdellah,26,3138.22
+2204,mai 2024,102732669,Id Mansour Abdellah,26,3197.68
+2204,juin 2024,102732669,Id Mansour Abdellah,26,3340.94
+2204,juillet 2024,102732669,Id Mansour Abdellah,26,3423.94
+2204,août 2024,102732669,Id Mansour Abdellah,26,3568.35
+2204,septembre 2024,102732669,Id Mansour Abdellah,26,3561.28
+2204,octobre 2024,102732669,Id Mansour Abdellah,26,3650.53
+2204,novembre 2024,102732669,Id Mansour Abdellah,26,3804.32
+2204,décembre 2024,102732669,Id Mansour Abdellah,26,3887.27
+2204,décembre 2023,108389969,Chaouia Mohamed,13,1633.53
+2204,janvier 2024,108389969,Chaouia Mohamed,13,1650.22
+2204,février 2024,108389969,Chaouia Mohamed,13,1633.92
+2204,mars 2024,108389969,Chaouia Mohamed,13,1705.99
+2204,avril 2024,108389969,Chaouia Mohamed,13,1681.43
+2204,mai 2024,108389969,Chaouia Mohamed,13,1677.43
+2204,juin 2024,108389969,Chaouia Mohamed,13,1686.65
+2204,juillet 2024,108389969,Chaouia Mohamed,13,1750.52
+2204,août 2024,108389969,Chaouia Mohamed,13,1801.2
+2204,septembre 2024,108389969,Chaouia Mohamed,13,1885.58
+2204,octobre 2024,108389969,Chaouia Mohamed,13,1953.02
+2204,novembre 2024,108389969,Chaouia Mohamed,13,1936.55
+2204,décembre 2024,108389969,Chaouia Mohamed,13,1951.35
+2204,décembre 2023,108574073,Kawaz Abdelkader,13,1707.78
+2204,janvier 2024,108574073,Kawaz Abdelkader,13,1669.51
+2204,février 2024,108574073,Kawaz Abdelkader,13,1732.46
+2204,mars 2024,108574073,Kawaz Abdelkader,13,1731.88
+2204,avril 2024,108574073,Kawaz Abdelkader,13,1776.64
+2204,mai 2024,108574073,Kawaz Abdelkader,13,1765.59
+2204,juin 2024,108574073,Kawaz Abdelkader,13,1739.37
+2204,juillet 2024,108574073,Kawaz Abdelkader,13,1721.74
+2204,août 2024,108574073,Kawaz Abdelkader,13,1738.81
+2204,septembre 2024,108574073,Kawaz Abdelkader,13,1749.76
+2204,octobre 2024,108574073,Kawaz Abdelkader,13,1760.38
+2204,novembre 2024,108574073,Kawaz Abdelkader,13,1840.38
+2204,décembre 2024,108574073,Kawaz Abdelkader,13,1796.49
+2204,décembre 2023,112448556,Rhazouani Elmehdi,26,4289.0
+2204,janvier 2024,112448556,Rhazouani Elmehdi,26,4269.59
+2204,février 2024,112448556,Rhazouani Elmehdi,26,4153.97
+2204,mars 2024,112448556,Rhazouani Elmehdi,26,4261.94
+2204,avril 2024,112448556,Rhazouani Elmehdi,26,4330.64
+2204,mai 2024,112448556,Rhazouani Elmehdi,26,4334.5
+2204,juin 2024,112448556,Rhazouani Elmehdi,26,4450.77
+2204,juillet 2024,112448556,Rhazouani Elmehdi,26,4647.49
+2204,août 2024,112448556,Rhazouani Elmehdi,26,4804.99
+2204,septembre 2024,112448556,Rhazouani Elmehdi,26,4880.01
+2204,octobre 2024,112448556,Rhazouani Elmehdi,26,5068.0
+2204,novembre 2024,112448556,Rhazouani Elmehdi,26,5062.74
+2204,décembre 2024,112448556,Rhazouani Elmehdi,26,4945.39
+2204,décembre 2023,113958623,Labiad Fouad,26,3118.55
+2204,janvier 2024,113958623,Labiad Fouad,26,3164.56
+2204,février 2024,113958623,Labiad Fouad,26,3209.48
+2204,mars 2024,113958623,Labiad Fouad,26,3307.82
+2204,avril 2024,113958623,Labiad Fouad,26,3289.24
+2204,mai 2024,113958623,Labiad Fouad,26,3207.61
+2204,juin 2024,113958623,Labiad Fouad,26,3164.28
+2204,juillet 2024,113958623,Labiad Fouad,26,3211.79
+2204,août 2024,113958623,Labiad Fouad,26,3138.47
+2204,septembre 2024,113958623,Labiad Fouad,26,3078.83
+2204,octobre 2024,113958623,Labiad Fouad,26,3065.82
+2204,novembre 2024,113958623,Labiad Fouad,26,3193.28
+2204,décembre 2024,113958623,Labiad Fouad,26,3246.58
+2204,décembre 2023,114384870,Sabiri Mustapha,11,1445.04
+2204,janvier 2024,114384870,Sabiri Mustapha,11,1469.01
+2204,février 2024,114384870,Sabiri Mustapha,11,1442.21
+2204,mars 2024,114384870,Sabiri Mustapha,11,1444.07
+2204,avril 2024,114384870,Sabiri Mustapha,11,1475.43
+2204,mai 2024,114384870,Sabiri Mustapha,11,1432.53
+2204,juin 2024,114384870,Sabiri Mustapha,11,1503.6
+2204,juillet 2024,114384870,Sabiri Mustapha,11,1529.08
+2204,août 2024,114384870,Sabiri Mustapha,11,1543.06
+2204,septembre 2024,114384870,Sabiri Mustapha,11,1506.54
+2204,octobre 2024,114384870,Sabiri Mustapha,11,1498.14
+2204,novembre 2024,114384870,Sabiri Mustapha,11,1525.85
+2204,décembre 2024,114384870,Sabiri Mustapha,11,1554.83
+2204,décembre 2023,114384979,Chebihi Abdellatif,26,10277.56
+2204,janvier 2024,114384979,Chebihi Abdellatif,26,10714.52
+2204,février 2024,114384979,Chebihi Abdellatif,26,11172.23
+2204,mars 2024,114384979,Chebihi Abdellatif,26,11333.16
+2204,avril 2024,114384979,Chebihi Abdellatif,26,11206.74
+2204,mai 2024,114384979,Chebihi Abdellatif,26,10999.36
+2204,juin 2024,114384979,Chebihi Abdellatif,26,11534.35
+2204,juillet 2024,114384979,Chebihi Abdellatif,26,11840.75
+2204,août 2024,114384979,Chebihi Abdellatif,26,11809.67
+2204,septembre 2024,114384979,Chebihi Abdellatif,26,12286.75
+2204,octobre 2024,114384979,Chebihi Abdellatif,26,12596.78
+2204,novembre 2024,114384979,Chebihi Abdellatif,26,12764.42
+2204,décembre 2024,114384979,Chebihi Abdellatif,26,12933.13
+2204,décembre 2023,114385274,El Ofairi Redouane,15,1970.53
+2204,janvier 2024,114385274,El Ofairi Redouane,15,2040.26
+2204,février 2024,114385274,El Ofairi Redouane,15,1990.85
+2204,mars 2024,114385274,El Ofairi Redouane,15,2009.55
+2204,avril 2024,114385274,El Ofairi Redouane,15,2077.43
+2204,mai 2024,114385274,El Ofairi Redouane,15,2048.73
+2204,juin 2024,114385274,El Ofairi Redouane,15,2100.02
+2204,juillet 2024,114385274,El Ofairi Redouane,15,2134.7
+2204,août 2024,114385274,El Ofairi Redouane,15,2125.4
+2204,septembre 2024,114385274,El Ofairi Redouane,15,2191.96
+2204,octobre 2024,114385274,El Ofairi Redouane,15,2158.43
+2204,novembre 2024,114385274,El Ofairi Redouane,15,2163.87
+2204,décembre 2024,114385274,El Ofairi Redouane,15,2129.34
+2204,décembre 2023,115258316,El Maatla Jalal,26,3118.55
+2204,janvier 2024,115258316,El Maatla Jalal,26,3047.86
+2204,février 2024,115258316,El Maatla Jalal,26,3010.88
+2204,mars 2024,115258316,El Maatla Jalal,26,3034.94
+2204,avril 2024,115258316,El Maatla Jalal,26,3041.99
+2204,mai 2024,115258316,El Maatla Jalal,26,2950.8
+2204,juin 2024,115258316,El Maatla Jalal,26,2984.55
+2204,juillet 2024,115258316,El Maatla Jalal,26,2904.36
+2204,août 2024,115258316,El Maatla Jalal,26,2966.05
+2204,septembre 2024,115258316,El Maatla Jalal,26,3021.79
+2204,octobre 2024,115258316,El Maatla Jalal,26,3116.45
+2204,novembre 2024,115258316,El Maatla Jalal,26,3165.92
+2204,décembre 2024,115258316,El Maatla Jalal,26,3166.91
+2204,décembre 2023,117492365,Sabiri Redouane,14,1919.11
+2204,janvier 2024,117492365,Sabiri Redouane,14,1993.2
+2204,février 2024,117492365,Sabiri Redouane,14,1982.54
+2204,mars 2024,117492365,Sabiri Redouane,14,1964.68
+2204,avril 2024,117492365,Sabiri Redouane,14,2056.69
+2204,mai 2024,117492365,Sabiri Redouane,14,2041.57
+2204,juin 2024,117492365,Sabiri Redouane,14,2066.42
+2204,juillet 2024,117492365,Sabiri Redouane,14,2061.81
+2204,août 2024,117492365,Sabiri Redouane,14,2007.68
+2204,septembre 2024,117492365,Sabiri Redouane,14,2007.8
+2204,octobre 2024,117492365,Sabiri Redouane,14,2087.05
+2204,novembre 2024,117492365,Sabiri Redouane,14,2177.27
+2204,décembre 2024,117492365,Sabiri Redouane,14,2245.52
+2204,décembre 2023,120364155,Laabad Hamid,26,3267.06
+2204,janvier 2024,120364155,Laabad Hamid,26,3190.29
+2204,février 2024,120364155,Laabad Hamid,26,3217.66
+2204,mars 2024,120364155,Laabad Hamid,26,3290.3
+2204,avril 2024,120364155,Laabad Hamid,26,3413.01
+2204,mai 2024,120364155,Laabad Hamid,26,3550.5
+2204,juin 2024,120364155,Laabad Hamid,26,3702.31
+2204,juillet 2024,120364155,Laabad Hamid,26,3634.27
+2204,août 2024,120364155,Laabad Hamid,26,3790.9
+2204,septembre 2024,120364155,Laabad Hamid,26,3963.5
+2204,octobre 2024,120364155,Laabad Hamid,26,4024.87
+2204,novembre 2024,120364155,Laabad Hamid,26,4218.6
+2204,décembre 2024,120364155,Laabad Hamid,26,4108.62
+2204,décembre 2023,124707989,Benachir Bader,16,2101.89
+2204,janvier 2024,124707989,Benachir Bader,16,2205.46
+2204,février 2024,124707989,Benachir Bader,16,2155.42
+2204,mars 2024,124707989,Benachir Bader,16,2195.74
+2204,avril 2024,124707989,Benachir Bader,16,2290.32
+2204,mai 2024,124707989,Benachir Bader,16,2242.29
+2204,juin 2024,124707989,Benachir Bader,16,2262.34
+2204,juillet 2024,124707989,Benachir Bader,16,2280.58
+2204,août 2024,124707989,Benachir Bader,16,2374.96
+2204,septembre 2024,124707989,Benachir Bader,16,2476.85
+2204,octobre 2024,124707989,Benachir Bader,16,2583.18
+2204,novembre 2024,124707989,Benachir Bader,16,2578.68
+2204,décembre 2024,124707989,Benachir Bader,16,2652.86
+2204,décembre 2023,129540309,Beghaili Youssef,26,3267.06
+2204,janvier 2024,129540309,Beghaili Youssef,26,3357.44
+2204,février 2024,129540309,Beghaili Youssef,26,3419.84
+2204,mars 2024,129540309,Beghaili Youssef,26,3355.01
+2204,avril 2024,129540309,Beghaili Youssef,26,3427.75
+2204,mai 2024,129540309,Beghaili Youssef,26,3349.46
+2204,juin 2024,129540309,Beghaili Youssef,26,3274.08
+2204,juillet 2024,129540309,Beghaili Youssef,26,3297.59
+2204,août 2024,129540309,Beghaili Youssef,26,3379.6
+2204,septembre 2024,129540309,Beghaili Youssef,26,3437.98
+2204,octobre 2024,129540309,Beghaili Youssef,26,3434.82
+2204,novembre 2024,129540309,Beghaili Youssef,26,3455.9
+2204,décembre 2024,129540309,Beghaili Youssef,26,3472.67
+2204,décembre 2023,131336979,Baiz Abdelmalek,15,1884.85
+2204,janvier 2024,131336979,Baiz Abdelmalek,15,1851.66
+2204,février 2024,131336979,Baiz Abdelmalek,15,1824.01
+2204,mars 2024,131336979,Baiz Abdelmalek,15,1805.88
+2204,avril 2024,131336979,Baiz Abdelmalek,15,1804.16
+2204,mai 2024,131336979,Baiz Abdelmalek,15,1750.93
+2204,juin 2024,131336979,Baiz Abdelmalek,15,1741.46
+2204,juillet 2024,131336979,Baiz Abdelmalek,15,1702.45
+2204,août 2024,131336979,Baiz Abdelmalek,15,1730.26
+2204,septembre 2024,131336979,Baiz Abdelmalek,15,1729.99
+2204,octobre 2024,131336979,Baiz Abdelmalek,15,1737.3
+2204,novembre 2024,131336979,Baiz Abdelmalek,15,1741.12
+2204,décembre 2024,131336979,Baiz Abdelmalek,15,1698.46
+2204,décembre 2023,131371678,Aharchi Mohamed,26,3415.56
+2204,janvier 2024,131371678,Aharchi Mohamed,26,3338.75
+2204,février 2024,131371678,Aharchi Mohamed,26,3425.81
+2204,mars 2024,131371678,Aharchi Mohamed,26,3337.07
+2204,avril 2024,131371678,Aharchi Mohamed,26,3262.0
+2204,mai 2024,131371678,Aharchi Mohamed,26,3227.02
+2204,juin 2024,131371678,Aharchi Mohamed,26,3143.42
+2204,juillet 2024,131371678,Aharchi Mohamed,26,3251.47
+2204,août 2024,131371678,Aharchi Mohamed,26,3172.58
+2204,septembre 2024,131371678,Aharchi Mohamed,26,3100.43
+2204,octobre 2024,131371678,Aharchi Mohamed,26,3214.76
+2204,novembre 2024,131371678,Aharchi Mohamed,26,3150.69
+2204,décembre 2024,131371678,Aharchi Mohamed,26,3122.83
+2204,décembre 2023,132216279,El Hanchy Hassan,12,2227.16
+2204,janvier 2024,132216279,El Hanchy Hassan,12,2274.99
+2204,février 2024,132216279,El Hanchy Hassan,12,2233.51
+2204,mars 2024,132216279,El Hanchy Hassan,12,2311.23
+2204,avril 2024,132216279,El Hanchy Hassan,12,2289.93
+2204,mai 2024,132216279,El Hanchy Hassan,12,2362.75
+2204,juin 2024,132216279,El Hanchy Hassan,12,2301.74
+2204,juillet 2024,132216279,El Hanchy Hassan,12,2368.61
+2204,août 2024,132216279,El Hanchy Hassan,12,2472.02
+2204,septembre 2024,132216279,El Hanchy Hassan,12,2441.67
+2204,octobre 2024,132216279,El Hanchy Hassan,12,2422.34
+2204,novembre 2024,132216279,El Hanchy Hassan,12,2482.31
+2204,décembre 2024,132216279,El Hanchy Hassan,12,2557.46
+2204,décembre 2023,134705973,Maatallah Jawad,26,3267.06
+2204,janvier 2024,134705973,Maatallah Jawad,26,3383.05
+2204,février 2024,134705973,Maatallah Jawad,26,3529.0
+2204,mars 2024,134705973,Maatallah Jawad,26,3517.64
+2204,avril 2024,134705973,Maatallah Jawad,26,3626.14
+2204,mai 2024,134705973,Maatallah Jawad,26,3544.56
+2204,juin 2024,134705973,Maatallah Jawad,26,3493.58
+2204,juillet 2024,134705973,Maatallah Jawad,26,3635.46
+2204,août 2024,134705973,Maatallah Jawad,26,3661.42
+2204,septembre 2024,134705973,Maatallah Jawad,26,3726.44
+2204,octobre 2024,134705973,Maatallah Jawad,26,3859.81
+2204,novembre 2024,134705973,Maatallah Jawad,26,4031.18
+2204,décembre 2024,134705973,Maatallah Jawad,26,3951.47
+2204,décembre 2023,135998577,Jarfouni Hicham,26,3415.56
+2204,janvier 2024,135998577,Jarfouni Hicham,26,3550.02
+2204,février 2024,135998577,Jarfouni Hicham,26,3674.18
+2204,mars 2024,135998577,Jarfouni Hicham,26,3732.81
+2204,avril 2024,135998577,Jarfouni Hicham,26,3829.51
+2204,mai 2024,135998577,Jarfouni Hicham,26,3925.33
+2204,juin 2024,135998577,Jarfouni Hicham,26,4111.37
+2204,juillet 2024,135998577,Jarfouni Hicham,26,4025.54
+2204,août 2024,135998577,Jarfouni Hicham,26,4108.69
+2204,septembre 2024,135998577,Jarfouni Hicham,26,4027.14
+2204,octobre 2024,135998577,Jarfouni Hicham,26,4112.19
+2204,novembre 2024,135998577,Jarfouni Hicham,26,4309.41
+2204,décembre 2024,135998577,Jarfouni Hicham,26,4337.91
+2204,décembre 2023,138803244,Dakne Abdelali,26,3600.0
+2204,janvier 2024,138803244,Dakne Abdelali,26,3769.11
+2204,février 2024,138803244,Dakne Abdelali,26,3715.55
+2204,mars 2024,138803244,Dakne Abdelali,26,3772.32
+2204,avril 2024,138803244,Dakne Abdelali,26,3767.66
+2204,mai 2024,138803244,Dakne Abdelali,26,3849.06
+2204,juin 2024,138803244,Dakne Abdelali,26,3842.69
+2204,juillet 2024,138803244,Dakne Abdelali,26,4005.97
+2204,août 2024,138803244,Dakne Abdelali,26,4036.25
+2204,septembre 2024,138803244,Dakne Abdelali,26,4226.68
+2204,octobre 2024,138803244,Dakne Abdelali,26,4413.81
+2204,novembre 2024,138803244,Dakne Abdelali,26,4522.15
+2204,décembre 2024,138803244,Dakne Abdelali,26,4408.58
+2204,décembre 2023,139719573,Haboubat Mustapha,20,2627.36
+2204,janvier 2024,139719573,Haboubat Mustapha,20,2551.01
+2204,février 2024,139719573,Haboubat Mustapha,20,2604.18
+2204,mars 2024,139719573,Haboubat Mustapha,20,2612.36
+2204,avril 2024,139719573,Haboubat Mustapha,20,2698.51
+2204,mai 2024,139719573,Haboubat Mustapha,20,2638.99
+2204,juin 2024,139719573,Haboubat Mustapha,20,2731.17
+2204,juillet 2024,139719573,Haboubat Mustapha,20,2783.55
+2204,août 2024,139719573,Haboubat Mustapha,20,2893.92
+2204,septembre 2024,139719573,Haboubat Mustapha,20,2933.05
+2204,octobre 2024,139719573,Haboubat Mustapha,20,3021.78
+2204,novembre 2024,139719573,Haboubat Mustapha,20,3079.7
+2204,décembre 2024,139719573,Haboubat Mustapha,20,3028.35
+2204,décembre 2023,139719672,El Maslouhi Said,13,1707.78
+2204,janvier 2024,139719672,El Maslouhi Said,13,1728.23
+2204,février 2024,139719672,El Maslouhi Said,13,1718.96
+2204,mars 2024,139719672,El Maslouhi Said,13,1722.26
+2204,avril 2024,139719672,El Maslouhi Said,13,1807.21
+2204,mai 2024,139719672,El Maslouhi Said,13,1761.45
+2204,juin 2024,139719672,El Maslouhi Said,13,1744.76
+2204,juillet 2024,139719672,El Maslouhi Said,13,1713.29
+2204,août 2024,139719672,El Maslouhi Said,13,1783.37
+2204,septembre 2024,139719672,El Maslouhi Said,13,1825.79
+2204,octobre 2024,139719672,El Maslouhi Said,13,1814.16
+2204,novembre 2024,139719672,El Maslouhi Said,13,1809.22
+2204,décembre 2024,139719672,El Maslouhi Said,13,1770.65
+2204,décembre 2023,140031317,Sote Youssef,15,1799.18
+2204,janvier 2024,140031317,Sote Youssef,15,1888.99
+2204,février 2024,140031317,Sote Youssef,15,1970.3
+2204,mars 2024,140031317,Sote Youssef,15,2048.14
+2204,avril 2024,140031317,Sote Youssef,15,2067.57
+2204,mai 2024,140031317,Sote Youssef,15,2057.89
+2204,juin 2024,140031317,Sote Youssef,15,2069.36
+2204,juillet 2024,140031317,Sote Youssef,15,2015.15
+2204,août 2024,140031317,Sote Youssef,15,2010.54
+2204,septembre 2024,140031317,Sote Youssef,15,2051.24
+2204,octobre 2024,140031317,Sote Youssef,15,2056.14
+2204,novembre 2024,140031317,Sote Youssef,15,2103.5
+2204,décembre 2024,140031317,Sote Youssef,15,2172.53
+2204,décembre 2023,140755152,Ousemgane Hassane,26,6145.22
+2204,janvier 2024,140755152,Ousemgane Hassane,26,6115.53
+2204,février 2024,140755152,Ousemgane Hassane,26,5932.52
+2204,mars 2024,140755152,Ousemgane Hassane,26,6040.06
+2204,avril 2024,140755152,Ousemgane Hassane,26,6318.83
+2204,mai 2024,140755152,Ousemgane Hassane,26,6186.64
+2204,juin 2024,140755152,Ousemgane Hassane,26,6146.92
+2204,juillet 2024,140755152,Ousemgane Hassane,26,6277.55
+2204,août 2024,140755152,Ousemgane Hassane,26,6483.61
+2204,septembre 2024,140755152,Ousemgane Hassane,26,6502.68
+2204,octobre 2024,140755152,Ousemgane Hassane,26,6614.01
+2204,novembre 2024,140755152,Ousemgane Hassane,26,6862.25
+2204,décembre 2024,140755152,Ousemgane Hassane,26,6719.82
+2204,décembre 2023,141246366,Es Souilmi Abderrahim,26,3415.56
+2204,janvier 2024,141246366,Es Souilmi Abderrahim,26,3335.0
+2204,février 2024,141246366,Es Souilmi Abderrahim,26,3376.84
+2204,mars 2024,141246366,Es Souilmi Abderrahim,26,3334.47
+2204,avril 2024,141246366,Es Souilmi Abderrahim,26,3475.85
+2204,mai 2024,141246366,Es Souilmi Abderrahim,26,3438.58
+2204,juin 2024,141246366,Es Souilmi Abderrahim,26,3606.48
+2204,juillet 2024,141246366,Es Souilmi Abderrahim,26,3605.33
+2204,août 2024,141246366,Es Souilmi Abderrahim,26,3751.19
+2204,septembre 2024,141246366,Es Souilmi Abderrahim,26,3908.21
+2204,octobre 2024,141246366,Es Souilmi Abderrahim,26,3812.82
+2204,novembre 2024,141246366,Es Souilmi Abderrahim,26,3932.13
+2204,décembre 2024,141246366,Es Souilmi Abderrahim,26,4011.06
+2204,décembre 2023,141246960,Appa Mohamed,26,3415.56
+2204,janvier 2024,141246960,Appa Mohamed,26,3501.67
+2204,février 2024,141246960,Appa Mohamed,26,3628.64
+2204,mars 2024,141246960,Appa Mohamed,26,3651.66
+2204,avril 2024,141246960,Appa Mohamed,26,3756.1
+2204,mai 2024,141246960,Appa Mohamed,26,3942.75
+2204,juin 2024,141246960,Appa Mohamed,26,4100.32
+2204,juillet 2024,141246960,Appa Mohamed,26,4169.63
+2204,août 2024,141246960,Appa Mohamed,26,4251.21
+2204,septembre 2024,141246960,Appa Mohamed,26,4270.96
+2204,octobre 2024,141246960,Appa Mohamed,26,4440.11
+2204,novembre 2024,141246960,Appa Mohamed,26,4321.05
+2204,décembre 2024,141246960,Appa Mohamed,26,4506.61
+2204,décembre 2023,141273567,Boutarbouch Mohamed,14,1839.15
+2204,janvier 2024,141273567,Boutarbouch Mohamed,14,1846.31
+2204,février 2024,141273567,Boutarbouch Mohamed,14,1904.1
+2204,mars 2024,141273567,Boutarbouch Mohamed,14,1939.95
+2204,avril 2024,141273567,Boutarbouch Mohamed,14,1998.0
+2204,mai 2024,141273567,Boutarbouch Mohamed,14,2029.32
+2204,juin 2024,141273567,Boutarbouch Mohamed,14,2037.45
+2204,juillet 2024,141273567,Boutarbouch Mohamed,14,2049.59
+2204,août 2024,141273567,Boutarbouch Mohamed,14,2089.98
+2204,septembre 2024,141273567,Boutarbouch Mohamed,14,2092.36
+2204,octobre 2024,141273567,Boutarbouch Mohamed,14,2045.43
+2204,novembre 2024,141273567,Boutarbouch Mohamed,14,2092.72
+2204,décembre 2024,141273567,Boutarbouch Mohamed,14,2039.84
+2204,décembre 2023,141305352,El Mellouki Said,26,3415.56
+2204,janvier 2024,141305352,El Mellouki Said,26,3402.02
+2204,février 2024,141305352,El Mellouki Said,26,3321.57
+2204,mars 2024,141305352,El Mellouki Said,26,3372.54
+2204,avril 2024,141305352,El Mellouki Said,26,3281.11
+2204,mai 2024,141305352,El Mellouki Said,26,3243.29
+2204,juin 2024,141305352,El Mellouki Said,26,3324.65
+2204,juillet 2024,141305352,El Mellouki Said,26,3232.05
+2204,août 2024,141305352,El Mellouki Said,26,3385.16
+2204,septembre 2024,141305352,El Mellouki Said,26,3549.62
+2204,octobre 2024,141305352,El Mellouki Said,26,3699.81
+2204,novembre 2024,141305352,El Mellouki Said,26,3884.71
+2204,décembre 2024,141305352,El Mellouki Said,26,3917.02
+2204,décembre 2023,141305550,Mouatakif Azziz,26,3564.06
+2204,janvier 2024,141305550,Mouatakif Azziz,26,3614.83
+2204,février 2024,141305550,Mouatakif Azziz,26,3756.85
+2204,mars 2024,141305550,Mouatakif Azziz,26,3744.2
+2204,avril 2024,141305550,Mouatakif Azziz,26,3669.46
+2204,mai 2024,141305550,Mouatakif Azziz,26,3841.18
+2204,juin 2024,141305550,Mouatakif Azziz,26,3727.37
+2204,juillet 2024,141305550,Mouatakif Azziz,26,3891.63
+2204,août 2024,141305550,Mouatakif Azziz,26,3972.53
+2204,septembre 2024,141305550,Mouatakif Azziz,26,4111.47
+2204,octobre 2024,141305550,Mouatakif Azziz,26,4269.26
+2204,novembre 2024,141305550,Mouatakif Azziz,26,4325.49
+2204,décembre 2024,141305550,Mouatakif Azziz,26,4280.45
+2204,décembre 2023,141305956,Baammara Mhamed,26,3564.06
+2204,janvier 2024,141305956,Baammara Mhamed,26,3660.27
+2204,février 2024,141305956,Baammara Mhamed,26,3621.75
+2204,mars 2024,141305956,Baammara Mhamed,26,3718.79
+2204,avril 2024,141305956,Baammara Mhamed,26,3685.36
+2204,mai 2024,141305956,Baammara Mhamed,26,3712.97
+2204,juin 2024,141305956,Baammara Mhamed,26,3894.43
+2204,juillet 2024,141305956,Baammara Mhamed,26,3986.58
+2204,août 2024,141305956,Baammara Mhamed,26,4021.5
+2204,septembre 2024,141305956,Baammara Mhamed,26,4000.49
+2204,octobre 2024,141305956,Baammara Mhamed,26,3948.28
+2204,novembre 2024,141305956,Baammara Mhamed,26,3891.87
+2204,décembre 2024,141305956,Baammara Mhamed,26,3840.3
+2204,décembre 2023,141306251,El Kamouss Bouabid,26,3415.56
+2204,janvier 2024,141306251,El Kamouss Bouabid,26,3501.86
+2204,février 2024,141306251,El Kamouss Bouabid,26,3513.77
+2204,mars 2024,141306251,El Kamouss Bouabid,26,3589.2
+2204,avril 2024,141306251,El Kamouss Bouabid,26,3534.08
+2204,mai 2024,141306251,El Kamouss Bouabid,26,3683.45
+2204,juin 2024,141306251,El Kamouss Bouabid,26,3589.02
+2204,juillet 2024,141306251,El Kamouss Bouabid,26,3602.29
+2204,août 2024,141306251,El Kamouss Bouabid,26,3569.13
+2204,septembre 2024,141306251,El Kamouss Bouabid,26,3628.04
+2204,octobre 2024,141306251,El Kamouss Bouabid,26,3702.65
+2204,novembre 2024,141306251,El Kamouss Bouabid,26,3781.86
+2204,décembre 2024,141306251,El Kamouss Bouabid,26,3748.21
+2204,décembre 2023,141306558,Baammara Abdessadek,26,3267.06
+2204,janvier 2024,141306558,Baammara Abdessadek,26,3175.14
+2204,février 2024,141306558,Baammara Abdessadek,26,3288.99
+2204,mars 2024,141306558,Baammara Abdessadek,26,3213.1
+2204,avril 2024,141306558,Baammara Abdessadek,26,3355.81
+2204,mai 2024,141306558,Baammara Abdessadek,26,3272.24
+2204,juin 2024,141306558,Baammara Abdessadek,26,3358.24
+2204,juillet 2024,141306558,Baammara Abdessadek,26,3280.92
+2204,août 2024,141306558,Baammara Abdessadek,26,3385.52
+2204,septembre 2024,141306558,Baammara Abdessadek,26,3535.83
+2204,octobre 2024,141306558,Baammara Abdessadek,26,3690.62
+2204,novembre 2024,141306558,Baammara Abdessadek,26,3624.47
+2204,décembre 2024,141306558,Baammara Abdessadek,26,3694.59
+2204,décembre 2023,147880895,Saligane Hamza,26,4951.17
+2204,janvier 2024,147880895,Saligane Hamza,26,4991.37
+2204,février 2024,147880895,Saligane Hamza,26,5116.13
+2204,mars 2024,147880895,Saligane Hamza,26,4970.92
+2204,avril 2024,147880895,Saligane Hamza,26,5157.62
+2204,mai 2024,147880895,Saligane Hamza,26,5339.27
+2204,juin 2024,147880895,Saligane Hamza,26,5479.09
+2204,juillet 2024,147880895,Saligane Hamza,26,5423.11
+2204,août 2024,147880895,Saligane Hamza,26,5645.64
+2204,septembre 2024,147880895,Saligane Hamza,26,5923.65
+2204,octobre 2024,147880895,Saligane Hamza,26,6006.87
+2204,novembre 2024,147880895,Saligane Hamza,26,6038.08
+2204,décembre 2024,147880895,Saligane Hamza,26,6022.46
+2204,décembre 2023,150720963,Abbista Abdeljalil,26,3415.56
+2204,janvier 2024,150720963,Abbista Abdeljalil,26,3578.07
+2204,février 2024,150720963,Abbista Abdeljalil,26,3483.79
+2204,mars 2024,150720963,Abbista Abdeljalil,26,3533.35
+2204,avril 2024,150720963,Abbista Abdeljalil,26,3678.54
+2204,mai 2024,150720963,Abbista Abdeljalil,26,3810.0
+2204,juin 2024,150720963,Abbista Abdeljalil,26,3950.26
+2204,juillet 2024,150720963,Abbista Abdeljalil,26,4105.52
+2204,août 2024,150720963,Abbista Abdeljalil,26,4075.56
+2204,septembre 2024,150720963,Abbista Abdeljalil,26,4105.62
+2204,octobre 2024,150720963,Abbista Abdeljalil,26,4055.51
+2204,novembre 2024,150720963,Abbista Abdeljalil,26,3936.51
+2204,décembre 2024,150720963,Abbista Abdeljalil,26,3888.36
+2204,décembre 2023,153439660,Appa Omar,26,3415.56
+2204,janvier 2024,153439660,Appa Omar,26,3582.26
+2204,février 2024,153439660,Appa Omar,26,3478.4
+2204,mars 2024,153439660,Appa Omar,26,3490.83
+2204,avril 2024,153439660,Appa Omar,26,3573.0
+2204,mai 2024,153439660,Appa Omar,26,3616.93
+2204,juin 2024,153439660,Appa Omar,26,3517.27
+2204,juillet 2024,153439660,Appa Omar,26,3608.75
+2204,août 2024,153439660,Appa Omar,26,3726.5
+2204,septembre 2024,153439660,Appa Omar,26,3838.05
+2204,octobre 2024,153439660,Appa Omar,26,3899.3
+2204,novembre 2024,153439660,Appa Omar,26,4042.2
+2204,décembre 2024,153439660,Appa Omar,26,4183.19
+2204,décembre 2023,153850460,Nassami Rachid,26,3415.56
+2204,janvier 2024,153850460,Nassami Rachid,26,3331.69
+2204,février 2024,153850460,Nassami Rachid,26,3436.24
+2204,mars 2024,153850460,Nassami Rachid,26,3390.7
+2204,avril 2024,153850460,Nassami Rachid,26,3477.78
+2204,mai 2024,153850460,Nassami Rachid,26,3431.13
+2204,juin 2024,153850460,Nassami Rachid,26,3591.06
+2204,juillet 2024,153850460,Nassami Rachid,26,3574.07
+2204,août 2024,153850460,Nassami Rachid,26,3527.81
+2204,septembre 2024,153850460,Nassami Rachid,26,3489.58
+2204,octobre 2024,153850460,Nassami Rachid,26,3567.05
+2204,novembre 2024,153850460,Nassami Rachid,26,3722.02
+2204,décembre 2024,153850460,Nassami Rachid,26,3850.47
+2204,décembre 2023,154844102,Benchlih Rachida,26,3267.06
+2204,janvier 2024,154844102,Benchlih Rachida,26,3206.59
+2204,février 2024,154844102,Benchlih Rachida,26,3307.05
+2204,mars 2024,154844102,Benchlih Rachida,26,3346.17
+2204,avril 2024,154844102,Benchlih Rachida,26,3314.16
+2204,mai 2024,154844102,Benchlih Rachida,26,3238.55
+2204,juin 2024,154844102,Benchlih Rachida,26,3290.4
+2204,juillet 2024,154844102,Benchlih Rachida,26,3452.96
+2204,août 2024,154844102,Benchlih Rachida,26,3381.32
+2204,septembre 2024,154844102,Benchlih Rachida,26,3315.5
+2204,octobre 2024,154844102,Benchlih Rachida,26,3372.4
+2204,novembre 2024,154844102,Benchlih Rachida,26,3357.5
+2204,décembre 2024,154844102,Benchlih Rachida,26,3396.95
+2204,décembre 2023,155167475,Ezzouine Latifa,26,5066.29
+2204,janvier 2024,155167475,Ezzouine Latifa,26,5267.33
+2204,février 2024,155167475,Ezzouine Latifa,26,5146.21
+2204,mars 2024,155167475,Ezzouine Latifa,26,5310.1
+2204,avril 2024,155167475,Ezzouine Latifa,26,5526.18
+2204,mai 2024,155167475,Ezzouine Latifa,26,5537.22
+2204,juin 2024,155167475,Ezzouine Latifa,26,5641.77
+2204,juillet 2024,155167475,Ezzouine Latifa,26,5869.34
+2204,août 2024,155167475,Ezzouine Latifa,26,6107.05
+2204,septembre 2024,155167475,Ezzouine Latifa,26,6211.25
+2204,octobre 2024,155167475,Ezzouine Latifa,26,6152.78
+2204,novembre 2024,155167475,Ezzouine Latifa,26,6065.92
+2204,décembre 2024,155167475,Ezzouine Latifa,26,6105.3
+2204,décembre 2023,162255057,Baamnara Es Said,26,3564.06
+2204,janvier 2024,162255057,Baamnara Es Said,26,3490.81
+2204,février 2024,162255057,Baamnara Es Said,26,3575.48
+2204,mars 2024,162255057,Baamnara Es Said,26,3703.57
+2204,avril 2024,162255057,Baamnara Es Said,26,3784.77
+2204,mai 2024,162255057,Baamnara Es Said,26,3843.52
+2204,juin 2024,162255057,Baamnara Es Said,26,3892.08
+2204,juillet 2024,162255057,Baamnara Es Said,26,3783.9
+2204,août 2024,162255057,Baamnara Es Said,26,3971.18
+2204,septembre 2024,162255057,Baamnara Es Said,26,4004.62
+2204,octobre 2024,162255057,Baamnara Es Said,26,4192.31
+2204,novembre 2024,162255057,Baamnara Es Said,26,4369.6
+2204,décembre 2024,162255057,Baamnara Es Said,26,4415.73
+2204,décembre 2023,164011861,Alioua Abderrahman,26,3415.56
+2204,janvier 2024,164011861,Alioua Abderrahman,26,3560.23
+2204,février 2024,164011861,Alioua Abderrahman,26,3456.89
+2204,mars 2024,164011861,Alioua Abderrahman,26,3544.93
+2204,avril 2024,164011861,Alioua Abderrahman,26,3667.56
+2204,mai 2024,164011861,Alioua Abderrahman,26,3636.72
+2204,juin 2024,164011861,Alioua Abderrahman,26,3704.69
+2204,juillet 2024,164011861,Alioua Abderrahman,26,3644.73
+2204,août 2024,164011861,Alioua Abderrahman,26,3763.94
+2204,septembre 2024,164011861,Alioua Abderrahman,26,3860.16
+2204,octobre 2024,164011861,Alioua Abderrahman,26,3943.08
+2204,novembre 2024,164011861,Alioua Abderrahman,26,3936.52
+2204,décembre 2024,164011861,Alioua Abderrahman,26,3896.31
+2204,décembre 2023,169302869,Saddiki Ahmed,26,3415.56
+2204,janvier 2024,169302869,Saddiki Ahmed,26,3319.34
+2204,février 2024,169302869,Saddiki Ahmed,26,3301.4
+2204,mars 2024,169302869,Saddiki Ahmed,26,3303.55
+2204,avril 2024,169302869,Saddiki Ahmed,26,3299.21
+2204,mai 2024,169302869,Saddiki Ahmed,26,3257.4
+2204,juin 2024,169302869,Saddiki Ahmed,26,3187.5
+2204,juillet 2024,169302869,Saddiki Ahmed,26,3169.33
+2204,août 2024,169302869,Saddiki Ahmed,26,3274.98
+2204,septembre 2024,169302869,Saddiki Ahmed,26,3375.8
+2204,octobre 2024,169302869,Saddiki Ahmed,26,3443.06
+2204,novembre 2024,169302869,Saddiki Ahmed,26,3489.45
+2204,décembre 2024,169302869,Saddiki Ahmed,26,3406.39
+2204,décembre 2023,169327677,Lkachani Abderrahim,26,3415.56
+2204,janvier 2024,169327677,Lkachani Abderrahim,26,3469.63
+2204,février 2024,169327677,Lkachani Abderrahim,26,3533.79
+2204,mars 2024,169327677,Lkachani Abderrahim,26,3566.68
+2204,avril 2024,169327677,Lkachani Abderrahim,26,3703.27
+2204,mai 2024,169327677,Lkachani Abderrahim,26,3771.16
+2204,juin 2024,169327677,Lkachani Abderrahim,26,3941.42
+2204,juillet 2024,169327677,Lkachani Abderrahim,26,3965.13
+2204,août 2024,169327677,Lkachani Abderrahim,26,4062.12
+2204,septembre 2024,169327677,Lkachani Abderrahim,26,4142.46
+2204,octobre 2024,169327677,Lkachani Abderrahim,26,4336.71
+2204,novembre 2024,169327677,Lkachani Abderrahim,26,4345.89
+2204,décembre 2024,169327677,Lkachani Abderrahim,26,4463.29
+2204,décembre 2023,173397252,Essouilmi Abdellah,26,3415.56
+2204,janvier 2024,173397252,Essouilmi Abdellah,26,3463.09
+2204,février 2024,173397252,Essouilmi Abdellah,26,3599.23
+2204,mars 2024,173397252,Essouilmi Abdellah,26,3560.79
+2204,avril 2024,173397252,Essouilmi Abdellah,26,3669.61
+2204,mai 2024,173397252,Essouilmi Abdellah,26,3848.95
+2204,juin 2024,173397252,Essouilmi Abdellah,26,4015.13
+2204,juillet 2024,173397252,Essouilmi Abdellah,26,3933.28
+2204,août 2024,173397252,Essouilmi Abdellah,26,4088.02
+2204,septembre 2024,173397252,Essouilmi Abdellah,26,3975.3
+2204,octobre 2024,173397252,Essouilmi Abdellah,26,4027.55
+2204,novembre 2024,173397252,Essouilmi Abdellah,26,4057.63
+2204,décembre 2024,173397252,Essouilmi Abdellah,26,4193.85
+2204,décembre 2023,173467451,El Gounna Ennaji,26,3644.22
+2204,janvier 2024,173467451,El Gounna Ennaji,26,3543.35
+2204,février 2024,173467451,El Gounna Ennaji,26,3695.1
+2204,mars 2024,173467451,El Gounna Ennaji,26,3701.54
+2204,avril 2024,173467451,El Gounna Ennaji,26,3662.91
+2204,mai 2024,173467451,El Gounna Ennaji,26,3747.24
+2204,juin 2024,173467451,El Gounna Ennaji,26,3900.48
+2204,juillet 2024,173467451,El Gounna Ennaji,26,4014.59
+2204,août 2024,173467451,El Gounna Ennaji,26,3995.95
+2204,septembre 2024,173467451,El Gounna Ennaji,26,3876.3
+2204,octobre 2024,173467451,El Gounna Ennaji,26,3808.09
+2204,novembre 2024,173467451,El Gounna Ennaji,26,3861.56
+2204,décembre 2024,173467451,El Gounna Ennaji,26,3878.51
+2204,décembre 2023,174559174,Ben Haddou Ahmed,14,1839.15
+2204,janvier 2024,174559174,Ben Haddou Ahmed,14,1806.04
+2204,février 2024,174559174,Ben Haddou Ahmed,14,1764.48
+2204,mars 2024,174559174,Ben Haddou Ahmed,14,1770.08
+2204,avril 2024,174559174,Ben Haddou Ahmed,14,1758.89
+2204,mai 2024,174559174,Ben Haddou Ahmed,14,1830.36
+2204,juin 2024,174559174,Ben Haddou Ahmed,14,1884.03
+2204,juillet 2024,174559174,Ben Haddou Ahmed,14,1968.59
+2204,août 2024,174559174,Ben Haddou Ahmed,14,2053.52
+2204,septembre 2024,174559174,Ben Haddou Ahmed,14,2037.08
+2204,octobre 2024,174559174,Ben Haddou Ahmed,14,2025.71
+2204,novembre 2024,174559174,Ben Haddou Ahmed,14,2031.31
+2204,décembre 2024,174559174,Ben Haddou Ahmed,14,1982.32
+2204,décembre 2023,174570071,Essouilmi Boujemaa,26,3415.56
+2204,janvier 2024,174570071,Essouilmi Boujemaa,26,3325.42
+2204,février 2024,174570071,Essouilmi Boujemaa,26,3373.56
+2204,mars 2024,174570071,Essouilmi Boujemaa,26,3394.31
+2204,avril 2024,174570071,Essouilmi Boujemaa,26,3476.93
+2204,mai 2024,174570071,Essouilmi Boujemaa,26,3373.81
+2204,juin 2024,174570071,Essouilmi Boujemaa,26,3515.03
+2204,juillet 2024,174570071,Essouilmi Boujemaa,26,3549.9
+2204,août 2024,174570071,Essouilmi Boujemaa,26,3517.32
+2204,septembre 2024,174570071,Essouilmi Boujemaa,26,3629.71
+2204,octobre 2024,174570071,Essouilmi Boujemaa,26,3684.99
+2204,novembre 2024,174570071,Essouilmi Boujemaa,26,3795.92
+2204,décembre 2024,174570071,Essouilmi Boujemaa,26,3783.72
+2204,décembre 2023,175948839,Qualdaoui Mustapha,26,3564.06
+2204,janvier 2024,175948839,Qualdaoui Mustapha,26,3725.54
+2204,février 2024,175948839,Qualdaoui Mustapha,26,3856.26
+2204,mars 2024,175948839,Qualdaoui Mustapha,26,3950.23
+2204,avril 2024,175948839,Qualdaoui Mustapha,26,4147.37
+2204,mai 2024,175948839,Qualdaoui Mustapha,26,4260.59
+2204,juin 2024,175948839,Qualdaoui Mustapha,26,4182.18
+2204,juillet 2024,175948839,Qualdaoui Mustapha,26,4150.2
+2204,août 2024,175948839,Qualdaoui Mustapha,26,4089.98
+2204,septembre 2024,175948839,Qualdaoui Mustapha,26,4223.6
+2204,octobre 2024,175948839,Qualdaoui Mustapha,26,4288.45
+2204,novembre 2024,175948839,Qualdaoui Mustapha,26,4273.42
+2204,décembre 2024,175948839,Qualdaoui Mustapha,26,4221.37
+2204,décembre 2023,176061383,El Faik M Barek,16,2010.5
+2204,janvier 2024,176061383,El Faik M Barek,16,1990.79
+2204,février 2024,176061383,El Faik M Barek,16,2073.91
+2204,mars 2024,176061383,El Faik M Barek,16,2146.17
+2204,avril 2024,176061383,El Faik M Barek,16,2094.96
+2204,mai 2024,176061383,El Faik M Barek,16,2109.08
+2204,juin 2024,176061383,El Faik M Barek,16,2165.15
+2204,juillet 2024,176061383,El Faik M Barek,16,2235.6
+2204,août 2024,176061383,El Faik M Barek,16,2276.11
+2204,septembre 2024,176061383,El Faik M Barek,16,2243.14
+2204,octobre 2024,176061383,El Faik M Barek,16,2303.64
+2204,novembre 2024,176061383,El Faik M Barek,16,2385.54
+2204,décembre 2024,176061383,El Faik M Barek,16,2411.33
+2204,décembre 2023,179635854,Saddiki Abdellah,26,3267.06
+2204,janvier 2024,179635854,Saddiki Abdellah,26,3233.92
+2204,février 2024,179635854,Saddiki Abdellah,26,3196.44
+2204,mars 2024,179635854,Saddiki Abdellah,26,3241.62
+2204,avril 2024,179635854,Saddiki Abdellah,26,3205.61
+2204,mai 2024,179635854,Saddiki Abdellah,26,3277.1
+2204,juin 2024,179635854,Saddiki Abdellah,26,3282.51
+2204,juillet 2024,179635854,Saddiki Abdellah,26,3272.29
+2204,août 2024,179635854,Saddiki Abdellah,26,3357.46
+2204,septembre 2024,179635854,Saddiki Abdellah,26,3516.86
+2204,octobre 2024,179635854,Saddiki Abdellah,26,3514.01
+2204,novembre 2024,179635854,Saddiki Abdellah,26,3686.13
+2204,décembre 2024,179635854,Saddiki Abdellah,26,3691.37
+2204,décembre 2023,183831539,El Moustaoui Daouia,26,9824.42
+2204,janvier 2024,183831539,El Moustaoui Daouia,26,10036.46
+2204,février 2024,183831539,El Moustaoui Daouia,26,10311.68
+2204,mars 2024,183831539,El Moustaoui Daouia,26,10622.5
+2204,avril 2024,183831539,El Moustaoui Daouia,26,10439.34
+2204,mai 2024,183831539,El Moustaoui Daouia,26,10528.08
+2204,juin 2024,183831539,El Moustaoui Daouia,26,10914.0
+2204,juillet 2024,183831539,El Moustaoui Daouia,26,11162.28
+2204,août 2024,183831539,El Moustaoui Daouia,26,11056.44
+2204,septembre 2024,183831539,El Moustaoui Daouia,26,10904.42
+2204,octobre 2024,183831539,El Moustaoui Daouia,26,10927.97
+2204,novembre 2024,183831539,El Moustaoui Daouia,26,10903.32
+2204,décembre 2024,183831539,El Moustaoui Daouia,26,10882.76
+2204,décembre 2023,184313594,El Maatla Abdelhakim,26,3267.06
+2204,janvier 2024,184313594,El Maatla Abdelhakim,26,3214.52
+2204,février 2024,184313594,El Maatla Abdelhakim,26,3262.2
+2204,mars 2024,184313594,El Maatla Abdelhakim,26,3305.02
+2204,avril 2024,184313594,El Maatla Abdelhakim,26,3427.12
+2204,mai 2024,184313594,El Maatla Abdelhakim,26,3548.24
+2204,juin 2024,184313594,El Maatla Abdelhakim,26,3446.98
+2204,juillet 2024,184313594,El Maatla Abdelhakim,26,3614.41
+2204,août 2024,184313594,El Maatla Abdelhakim,26,3611.32
+2204,septembre 2024,184313594,El Maatla Abdelhakim,26,3605.47
+2204,octobre 2024,184313594,El Maatla Abdelhakim,26,3682.04
+2204,novembre 2024,184313594,El Maatla Abdelhakim,26,3714.8
+2204,décembre 2024,184313594,El Maatla Abdelhakim,26,3860.45
+2204,décembre 2023,184314394,Moutanassim Abdellah,26,3268.8
+2204,janvier 2024,184314394,Moutanassim Abdellah,26,3346.07
+2204,février 2024,184314394,Moutanassim Abdellah,26,3464.4
+2204,mars 2024,184314394,Moutanassim Abdellah,26,3581.15
+2204,avril 2024,184314394,Moutanassim Abdellah,26,3727.78
+2204,mai 2024,184314394,Moutanassim Abdellah,26,3828.87
+2204,juin 2024,184314394,Moutanassim Abdellah,26,3920.36
+2204,juillet 2024,184314394,Moutanassim Abdellah,26,3868.62
+2204,août 2024,184314394,Moutanassim Abdellah,26,3928.21
+2204,septembre 2024,184314394,Moutanassim Abdellah,26,3889.23
+2204,octobre 2024,184314394,Moutanassim Abdellah,26,3990.52
+2204,novembre 2024,184314394,Moutanassim Abdellah,26,3953.39
+2204,décembre 2024,184314394,Moutanassim Abdellah,26,3931.13
+2204,décembre 2023,186927409,Sote Taoufik,16,2010.5
+2204,janvier 2024,186927409,Sote Taoufik,16,2042.02
+2204,février 2024,186927409,Sote Taoufik,16,2055.1
+2204,mars 2024,186927409,Sote Taoufik,16,2045.45
+2204,avril 2024,186927409,Sote Taoufik,16,1993.56
+2204,mai 2024,186927409,Sote Taoufik,16,1997.59
+2204,juin 2024,186927409,Sote Taoufik,16,2030.17
+2204,juillet 2024,186927409,Sote Taoufik,16,2050.96
+2204,août 2024,186927409,Sote Taoufik,16,2049.25
+2204,septembre 2024,186927409,Sote Taoufik,16,2068.92
+2204,octobre 2024,186927409,Sote Taoufik,16,2131.1
+2204,novembre 2024,186927409,Sote Taoufik,16,2108.35
+2204,décembre 2024,186927409,Sote Taoufik,16,2163.78
+2204,décembre 2023,187269794,Berrezzougui Mohammed,25,2998.61
+2204,janvier 2024,187269794,Berrezzougui Mohammed,25,2960.88
+2204,février 2024,187269794,Berrezzougui Mohammed,25,2905.41
+2204,mars 2024,187269794,Berrezzougui Mohammed,25,2912.58
+2204,avril 2024,187269794,Berrezzougui Mohammed,25,2968.93
+2204,mai 2024,187269794,Berrezzougui Mohammed,25,2893.02
+2204,juin 2024,187269794,Berrezzougui Mohammed,25,2892.29
+2204,juillet 2024,187269794,Berrezzougui Mohammed,25,3011.39
+2204,août 2024,187269794,Berrezzougui Mohammed,25,3148.73
+2204,septembre 2024,187269794,Berrezzougui Mohammed,25,3280.95
+2204,octobre 2024,187269794,Berrezzougui Mohammed,25,3435.48
+2204,novembre 2024,187269794,Berrezzougui Mohammed,25,3570.49
+2204,décembre 2024,187269794,Berrezzougui Mohammed,25,3504.7
+2204,décembre 2023,189238531,Sakkaoui Mohamed,26,3267.06
+2204,janvier 2024,189238531,Sakkaoui Mohamed,26,3262.45
+2204,février 2024,189238531,Sakkaoui Mohamed,26,3285.8
+2204,mars 2024,189238531,Sakkaoui Mohamed,26,3328.18
+2204,avril 2024,189238531,Sakkaoui Mohamed,26,3275.67
+2204,mai 2024,189238531,Sakkaoui Mohamed,26,3421.94
+2204,juin 2024,189238531,Sakkaoui Mohamed,26,3372.19
+2204,juillet 2024,189238531,Sakkaoui Mohamed,26,3484.37
+2204,août 2024,189238531,Sakkaoui Mohamed,26,3494.62
+2204,septembre 2024,189238531,Sakkaoui Mohamed,26,3629.88
+2204,octobre 2024,189238531,Sakkaoui Mohamed,26,3779.18
+2204,novembre 2024,189238531,Sakkaoui Mohamed,26,3800.33
+2204,décembre 2024,189238531,Sakkaoui Mohamed,26,3814.21
+2204,décembre 2023,190680979,Belkhiri Said,26,3415.56
+2204,janvier 2024,190680979,Belkhiri Said,26,3480.22
+2204,février 2024,190680979,Belkhiri Said,26,3494.95
+2204,mars 2024,190680979,Belkhiri Said,26,3615.25
+2204,avril 2024,190680979,Belkhiri Said,26,3713.07
+2204,mai 2024,190680979,Belkhiri Said,26,3779.62
+2204,juin 2024,190680979,Belkhiri Said,26,3794.43
+2204,juillet 2024,190680979,Belkhiri Said,26,3750.12
+2204,août 2024,190680979,Belkhiri Said,26,3639.1
+2204,septembre 2024,190680979,Belkhiri Said,26,3663.77
+2204,octobre 2024,190680979,Belkhiri Said,26,3726.76
+2204,novembre 2024,190680979,Belkhiri Said,26,3849.78
+2204,décembre 2024,190680979,Belkhiri Said,26,3879.83
+2204,décembre 2023,198541066,Sakkaoui Hassane,26,3267.06
+2204,janvier 2024,198541066,Sakkaoui Hassane,26,3361.08
+2204,février 2024,198541066,Sakkaoui Hassane,26,3390.38
+2204,mars 2024,198541066,Sakkaoui Hassane,26,3542.56
+2204,avril 2024,198541066,Sakkaoui Hassane,26,3499.14
+2204,mai 2024,198541066,Sakkaoui Hassane,26,3672.01
+2204,juin 2024,198541066,Sakkaoui Hassane,26,3584.67
+2204,juillet 2024,198541066,Sakkaoui Hassane,26,3678.45
+2204,août 2024,198541066,Sakkaoui Hassane,26,3628.38
+2204,septembre 2024,198541066,Sakkaoui Hassane,26,3566.69
+2204,octobre 2024,198541066,Sakkaoui Hassane,26,3512.67
+2204,novembre 2024,198541066,Sakkaoui Hassane,26,3415.02
+2204,décembre 2024,198541066,Sakkaoui Hassane,26,3349.04
+2204,décembre 2023,199198668,Belkhou Said,15,1970.53
+2204,janvier 2024,199198668,Belkhou Said,15,2011.72
+2204,février 2024,199198668,Belkhou Said,15,2011.21
+2204,mars 2024,199198668,Belkhou Said,15,2093.17
+2204,avril 2024,199198668,Belkhou Said,15,2045.34
+2204,mai 2024,199198668,Belkhou Said,15,2091.67
+2204,juin 2024,199198668,Belkhou Said,15,2031.04
+2204,juillet 2024,199198668,Belkhou Said,15,1973.49
+2204,août 2024,199198668,Belkhou Said,15,2031.48
+2204,septembre 2024,199198668,Belkhou Said,15,2087.15
+2204,octobre 2024,199198668,Belkhou Said,15,2077.54
+2204,novembre 2024,199198668,Belkhou Said,15,2036.58
+2204,décembre 2024,199198668,Belkhou Said,15,2110.73
