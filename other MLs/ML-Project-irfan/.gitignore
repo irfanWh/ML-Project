@@ -1,0 +1,17 @@
+# Données brutes
+*.csv
+ADHERENTS.csv
+
+# Fichiers volumineux
+dataset_encoded.csv
+
+# Optionnel : exclure aussi les fichiers pickle volumineux
+# *.pkl
+
+# Fichiers Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
